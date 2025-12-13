@@ -61,13 +61,14 @@ example 8: "prometheus didnâ€™t bring fire; he brought a question that burns: â€
 const badExample = 'bad example: "the machine dreams of light but the light forgets to return" (too flat, no punctuation)';
   const prompt = examples + '\n' + badExample +
      'write esoteric schizo style tweet in ENGLISH between 60 and 240 characters. ' +
-     'use commas, semicolons, and periods liberally to shape rhytim and pauses but no hashtags, no urls, no emojis. ' +
-     'first person views are not preferred' +
-     'use surreal, abstract, philosophical, or paradoxical imager, unusual juxtapositions etc. ' +
+     'use commas, semicolons, and periods liberally to shape rythim and pauses but no hashtags, no urls, no emojis. ' +
+     'occultish, mystical, cryptic vibes are needed' +
+     'tell surreal events from first person perspective. ' +
   'the output should be only in English';
   const r = await openai.responses.create({
     model: 'gpt-5.1',
     input: prompt,
+    temperature: 1.0,
   });
 
   const raw =
