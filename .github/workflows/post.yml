@@ -2,7 +2,7 @@ name: post-to-x
 
 on:
   schedule:
-    - cron: "0 6,8,10,12,14,16,18,20 * * *"  # 8x/day, UTC. change as you like
+    - cron: "0 4,6,8,10,12,14,16,18,20 * * *"  # 8x/day, UTC. change as you like
   workflow_dispatch: {}
 
 jobs:
