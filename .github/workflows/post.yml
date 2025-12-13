@@ -2,8 +2,9 @@ name: post-to-x
 
 on:
   schedule:
-    - cron: "0 6-17 * * *"   # 12 runs/day at 06..17 UTC (≈ 09..20 trt)
-  workflow_dispatch: {}       # manual run button
+    # 12 times/day at 06..17 utc (≈ 09..20 trt). change as you like.
+    - cron: "0 6-17 * * *"
+  workflow_dispatch: {}  # manual run button
 
 jobs:
   run:
@@ -11,11 +12,20 @@ jobs:
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+
+      - name: setup node
+        uses: actions/setup-node@v4
         with:
           node-version: 20
           cache: npm
-      - run: npm ci
+
+      - name: install deps
+        run: npm ci
+
+      # optional: add jitter so posts aren't at the exact same minute
+      - name: random sleep (0-900s)
+        run: sleep $(( RANDOM % 900 ))
+
       - name: run bot
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -23,5 +33,5 @@ jobs:
           TWITTER_APP_SECRET: ${{ secrets.TWITTER_APP_SECRET }}
           TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
           TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
-          DRY_RUN: "1"  # keep tests silent; switch to "0" to go live
+          DRY_RUN: "0"   # set "1" to test without posting
         run: npm start
