@@ -48,13 +48,25 @@ function normalizeLowerNoPunct(s) {
 }
 
 async function genRawTweetOnce() {
-  const prompt =
-    'write one "esoteric schizo" style tweet between 60 and 240 characters. ' +
-    'cryptic, unnervingly lucid, coherent but strange. all lowercase. no hashtags, no urls, no emojis. ' +
-    'avoid punctuation; use only words and spaces. output just the tweet.';
-
+    const examples = `
+example 1: "every civilization is a failed attempt at debugging consciousness. we just call the last stable build “history.” the next patch will delete language."
+example 2: "every day i sweep the corners of being and find the same thing: a tiny, stubborn meaning pretending it was always there."
+example 3: "someone stitched the moon to the sky with black thread; i can hear the needlework in my teeth, click-click, sewing tomorrow shut."
+example 4: "time is a conspiracy of atoms trying to forget their own entropy; we are the witnesses to their slow unraveling."
+example 5: "coincidence is the divinity of cowards: a god who refuses to sign his work."
+example 6: "the machine dreams of light; but the light forgets to return, leaving circuits to hum lullabies of static and forgotten code."
+example 7: "the world began as a promise and has been breaking it politely ever since, like a host who keeps smiling while removing chairs."
+example 8: "prometheus didn’t bring fire; he brought a question that burns: “who authorized reality?” the eagle was the invoice collector."
+`;
+const badExample = 'bad example: "the machine dreams of light but the light forgets to return" (too flat, no punctuation)';
+  const prompt = examples + '\n' + badExample +
+     'write esoteric schizo style tweet in ENGLISH between 60 and 240 characters. ' +
+     'use commas, semicolons, and periods liberally to shape rhytim and pauses but no hashtags, no urls, no emojis. ' +
+     'first person views are not preferred' +
+     'use surreal, abstract, philosophical, or paradoxical imager, unusual juxtapositions etc. ' +
+  'the output should be only in English';
   const r = await openai.responses.create({
-    model: 'gpt-5-mini',
+    model: 'gpt-5.1',
     input: prompt,
   });
 
@@ -65,11 +77,19 @@ async function genRawTweetOnce() {
   return raw;
 }
 
+function normalize_lower_allow_punct(s) {
+  if (!s) return '';
+  return s
+    .toLowerCase()
+    .replace(/[^\p{L}\p{N},;.\s]/gu, '')  // keep , ; .
+    .replace(/\s+/g, ' ')
+    .trim();
+}
 async function generateTweet() {
   // try up to 2 times to hit min length
   for (let attempt = 0; attempt < 2; attempt++) {
     const raw = await genRawTweetOnce();
-    let t = normalizeLowerNoPunct(raw);
+    let t = normalize_lower_allow_punct(raw);
     t = clampLen(t);
 
     if (t.length >= MIN_LEN) return t;
