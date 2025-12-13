@@ -17,8 +17,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-          cache: npm
-          cache-dependency-path: package-lock.json  # if you keep npm ci
+          
 
       - name: install deps
         run: npm ci   # or: npm install
