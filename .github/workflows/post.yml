@@ -2,30 +2,31 @@ name: post-to-x
 
 on:
   schedule:
-    - cron: "0 6-17 * * *"   # 12x/day hourly, UTC
+    - cron: "0 6,8,10,12,14,16,18,20 * * *"  # 8x/day, UTC. change as you like
   workflow_dispatch: {}
 
 jobs:
   run:
     runs-on: ubuntu-latest
     timeout-minutes: 5
+    concurrency:
+      group: tweet-bot
+      cancel-in-progress: false
+
     steps:
       - name: checkout
         uses: actions/checkout@v4
 
       - name: setup node
-  uses: actions/setup-node@v4
-  with:
-    node-version: 20
-    cache: npm
-    cache-dependency-path: package-lock.json
-          
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20              # NO cache. no drama.
 
       - name: install deps
-        run: npm ci   # or: npm install
+        run: npm install                # works even if no lockfile
 
       - name: random sleep (0–900s)
-        run: sleep $(( RANDOM % 900 ))
+        run: sleep $(( RANDOM % 900 ))  # jitter so posts aren't to-the-minute
 
       - name: run bot
         env:
@@ -34,5 +35,5 @@ jobs:
           TWITTER_APP_SECRET: ${{ secrets.TWITTER_APP_SECRET }}
           TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
           TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
-          DRY_RUN: "0"
+          DRY_RUN: "0"                  # set "1" if you want dry runs
         run: npm start
