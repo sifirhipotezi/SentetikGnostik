@@ -62,12 +62,15 @@ const badExample = 'bad example: "the machine dreams of light but the light forg
   const prompt = examples + '\n' + badExample +
      'write esoteric schizo style tweet in ENGLISH between 60 and 240 characters. ' +
      'use commas, semicolons, and periods liberally to shape rythim and pauses but no hashtags, no urls, no emojis. ' +
+     'make it feel like a mysterious riddle or a fragment of forgotten lore. ' +
+     'the output should be coherent but deranged' +
+     'make allegories, metaphors, unusual comparisons and juxtapositions and paradoxes abound' +
      'occultish, mystical, cryptic vibes are needed' +
        'the output should be only in English';
   const r = await openai.responses.create({
     model: 'gpt-5.1',
     input: prompt,
-    temperature: 1.0,
+    temperature: 0.8,
   });
 
   const raw =
