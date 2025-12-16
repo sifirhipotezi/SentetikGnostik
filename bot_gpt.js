@@ -7,10 +7,10 @@ import fs from 'fs';
 // ---------- env ----------
 const {
   OPENAI_API_KEY,
-  TWITTER_APP_KEY,
-  TWITTER_APP_SECRET,
-  TWITTER_ACCESS_TOKEN,
-  TWITTER_ACCESS_SECRET,
+  TWITTER_API_KEY_GPT,
+  TWITTER_API_SECRET_GPT,
+  TWITTER_ACCESS_TOKEN_GPT,
+  TWITTER_ACCESS_SECRET_GPT,
   DRY_RUN: DRY_RUN_ENV,
 } = process.env;
 
@@ -18,10 +18,10 @@ const {
 const openai = new OpenAI({ apiKey: OPENAI_API_KEY });
 
 const twitter = new TwitterApi({
-  appKey: TWITTER_APP_KEY,
-  appSecret: TWITTER_APP_SECRET,
-  accessToken: TWITTER_ACCESS_TOKEN,
-  accessSecret: TWITTER_ACCESS_SECRET,
+  appKey: TWITTER_API_KEY_GPT,
+  appSecret: TWITTER_API_SECRET_GPT,
+  accessToken: TWITTER_ACCESS_TOKEN_GPT,
+  accessSecret: TWITTER_ACCESS_SECRET_GPT,
 });
 
 // ---------- settings ----------
@@ -99,7 +99,7 @@ async function post(text) {
 // ---------- main ----------
 async function main() {
   if (!OPENAI_API_KEY) throw new Error('missing OPENAI_API_KEY');
-  if (!TWITTER_APP_KEY || !TWITTER_APP_SECRET || !TWITTER_ACCESS_TOKEN || !TWITTER_ACCESS_SECRET) {
+  if (!TWITTER_API_KEY_GPT || !TWITTER_API_SECRET_GPT || !TWITTER_ACCESS_TOKEN_GPT || !TWITTER_ACCESS_SECRET_GPT) {
     console.warn('[warn] twitter creds missing or incomplete; forcing dry-run');
   }
 

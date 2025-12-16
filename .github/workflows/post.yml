@@ -31,9 +31,16 @@ jobs:
       - name: run bot
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          TWITTER_APP_KEY: ${{ secrets.TWITTER_APP_KEY }}
-          TWITTER_APP_SECRET: ${{ secrets.TWITTER_APP_SECRET }}
-          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
-          TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
+          TWITTER_API_KEY_GPT: ${{ secrets.TWITTER_API_KEY_GPT }}
+          TWITTER_API_SECRET_GPT: ${{ secrets.TWITTER_API_SECRET_GPT }}
+          TWITTER_ACCESS_TOKEN_GPT: ${{ secrets.TWITTER_ACCESS_TOKEN_GPT }}
+          TWITTER_ACCESS_SECRET_GPT: ${{ secrets.TWITTER_ACCESS_SECRET_GPT }}
+          CLAUDE_API_KEY: ${{ secrets.CLAUDE_API_KEY }}
+          TWITTER_API_KEY_CLAUDE: ${{ secrets.TWITTER_API_KEY_CLAUDE }}
+          TWITTER_API_SECRET_CLAUDE: ${{ secrets.TWITTER_API_SECRET_CLAUDE }}
+          TWITTER_ACCESS_TOKEN_CLAUDE: ${{ secrets.TWITTER_ACCESS_TOKEN_CLAUDE }}
+          TWITTER_ACCESS_SECRET_CLAUDE: ${{ secrets.TWITTER_ACCESS_SECRET_CLAUDE }}
           DRY_RUN: "0"                  # set "1" if you want dry runs
-        run: npm start
+       run: |
+          node bot_gpt.js
+          node bot_claude.js

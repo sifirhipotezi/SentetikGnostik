@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "start": "node bot.js"
+    "start:claude": "node bot_claude.js",
+    "start:gpt": "node bot_gpt.js"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.71.2",
     "dotenv": "^16.4.5",
     "openai": "^4.72.0",
     "twitter-api-v2": "^1.16.0"
