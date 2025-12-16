@@ -28,7 +28,7 @@ jobs:
       - name: random sleep (0–90s)
         run: sleep $(( RANDOM % 90 ))  # jitter so posts aren't to-the-minute
 
-      - name: run bot
+- name: run bot
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           TWITTER_API_KEY_GPT: ${{ secrets.TWITTER_API_KEY_GPT }}
@@ -40,7 +40,7 @@ jobs:
           TWITTER_API_SECRET_CLAUDE: ${{ secrets.TWITTER_API_SECRET_CLAUDE }}
           TWITTER_ACCESS_TOKEN_CLAUDE: ${{ secrets.TWITTER_ACCESS_TOKEN_CLAUDE }}
           TWITTER_ACCESS_SECRET_CLAUDE: ${{ secrets.TWITTER_ACCESS_SECRET_CLAUDE }}
-          DRY_RUN: "0"                  # set "1" if you want dry runs
-       run: |
+          DRY_RUN: "0"
+        run: |
           node bot_gpt.js
           node bot_claude.js
