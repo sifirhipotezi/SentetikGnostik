@@ -2,7 +2,7 @@ name: post-to-x
 
 on:
   schedule:
-    - cron: "0 4,6,8,10,12,14,16,18,20 * * *"  # 8x/day, UTC. change as you like
+    - cron: "0 4,6,8,10,12,14,16,18,20 * * *"
   workflow_dispatch: {}
 
 jobs:
@@ -20,15 +20,15 @@ jobs:
       - name: setup node
         uses: actions/setup-node@v4
         with:
-          node-version: 20              # NO cache. no drama.
+          node-version: 20
 
       - name: install deps
-        run: npm install                # works even if no lockfile
+        run: npm install
 
       - name: random sleep (0–90s)
-        run: sleep $(( RANDOM % 90 ))  # jitter so posts aren't to-the-minute
+        run: sleep $(( RANDOM % 90 ))
 
-- name: run bot
+      - name: run bot
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           TWITTER_API_KEY_GPT: ${{ secrets.TWITTER_API_KEY_GPT }}
