@@ -47,5 +47,21 @@
     "patterns": [
       "opening:excavation_in_mesopotamia"
     ]
+  },
+  {
+    "text": "Digital anomaly: Library catalog system spontaneously generates call numbers for books that were never written. Patrons successfully check out these nonexistent volumes. Return dates are always yesterday.",
+    "timestamp": "2025-12-16T18:19:01.636Z",
+    "type": "digital|temporal|unspecified_era|narrative",
+    "patterns": [
+      "opening:digital_anomaly_library"
+    ]
+  },
+  {
+    "text": "Botanical survey 1891: Specimen of Quercus temporalis collected in Yorkshire. Tree rings indicate 400 years of growth completed in single afternoon. Acorns germinate into fully mature oaks instantaneously upon planting.",
+    "timestamp": "2025-12-16T18:19:40.024Z",
+    "type": "paleontological|temporal|industrial|narrative",
+    "patterns": [
+      "opening:botanical_survey_1891"
+    ]
   }
 ]
