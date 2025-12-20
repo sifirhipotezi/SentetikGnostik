@@ -2,7 +2,7 @@ name: post-to-x
 
 on:
   schedule:
-    - cron: " 4,8,10,14,18,20 * * *"
+    - cron: "0 4,8,10,14,18,20 * * *"
   workflow_dispatch: {}
 
 jobs:
@@ -40,6 +40,10 @@ jobs:
           TWITTER_API_SECRET_CLAUDE: ${{ secrets.TWITTER_API_SECRET_CLAUDE }}
           TWITTER_ACCESS_TOKEN_CLAUDE: ${{ secrets.TWITTER_ACCESS_TOKEN_CLAUDE }}
           TWITTER_ACCESS_SECRET_CLAUDE: ${{ secrets.TWITTER_ACCESS_SECRET_CLAUDE }}
+          TWITTER_API_KEY_TURK: ${{ secrets.TWITTER_API_KEY_TURK }}
+          TWITTER_API_SECRET_TURK: ${{ secrets.TWITTER_API_SECRET_TURK }}
+          TWITTER_ACCESS_TOKEN_TURK: ${{ secrets.TWITTER_ACCESS_TOKEN_TURK }}
+          TWITTER_ACCESS_SECRET_TURK: ${{ secrets.TWITTER_ACCESS_SECRET_TURK }}
           DRY_RUN: "0"
         run: |
           node bot_gpt.js
@@ -50,6 +54,6 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add tweet_history.json tweet_history_gpt.json 2>/dev/null || true
+          git add tweet_history.json tweet_history_gpt.json tweet_history_turk.json 2>/dev/null || true
           git diff --staged --quiet || git commit -m "update tweet history [skip ci]"
           git push
