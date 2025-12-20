@@ -1,0 +1,70 @@
+[
+  {
+    "text": "Üsküdar'da 1876 tarihli nüfus sayımı: Bir mahallede 340 kişi kayıtlı ama sadece 12 ev var. Memurlar \"normal\" yazmış. Mahalle bugün mevcut değil.",
+    "timestamp": "2025-12-20T19:26:36.361Z",
+    "type": "defter|temporal|late_ottoman|narrative",
+    "patterns": [
+      "opening:üsküdarda_1876_tarihli"
+    ]
+  },
+  {
+    "text": "Van Gölü meteoroloji kayıtları, 1955: Göl yüzeyinde kar yağışı gözlenmiş ama hava sıcaklığı 28 derece. Kar suya değmeden buharlaştı. Üç memur imzalamış.",
+    "timestamp": "2025-12-20T19:27:22.066Z",
+    "type": "defter|general_anomaly|republican|narrative",
+    "patterns": [
+      "imza",
+      "opening:van_gölü_meteoroloji"
+    ]
+  },
+  {
+    "text": "Bizans döneminden kalma Hagia Sophia restorasyonu raporu, 1847. Kubbenin altında Osmanlı arması bulunmuş, MS 537 tarihli. Mimari uzmanlar \"orijinal parça\" yazmış.",
+    "timestamp": "2025-12-20T19:28:09.610Z",
+    "type": "institutional|temporal|byzantine|narrative",
+    "patterns": [
+      "bizans",
+      "osmanli",
+      "opening:bizans_döneminden_kalma"
+    ]
+  },
+  {
+    "text": "Edirne Selimiye Camii inşaat defteri, 1569: Mimar Sinan'ın notlarında beton kullanımı geçiyor. Malzeme listesinde çimento var. El yazısı dönem uyumlu, kağıt otantik.",
+    "timestamp": "2025-12-20T19:28:48.879Z",
+    "type": "defter|memorial|classical_ottoman|narrative",
+    "patterns": [
+      "otantik",
+      "defter",
+      "edirne",
+      "opening:edirne_selimiye_camii"
+    ]
+  },
+  {
+    "text": "Konya Selçuklu Müzesi envanter kayıtları, 1929: Sultan Alâeddin'in tahtında elektrik düğmesi tespit edilmiş. 13. yüzyıl işçiliği doğrulanmış. Müze müdürü \"dönemin teknolojisi\" not düşmüş.",
+    "timestamp": "2025-12-20T19:29:24.116Z",
+    "type": "defter|temporal|republican|narrative",
+    "patterns": [
+      "dogrulandi",
+      "konya",
+      "opening:konya_selçuklu_müzesi"
+    ]
+  },
+  {
+    "text": "Trabzon kale kazısında bulunan Bizans sikkesi, MS 1204. Üzerinde Fatih Sultan Mehmet'in portresi var. Sikke otantik, altın karışımı dönemine uygun. Numismat raporu mevcut değil.",
+    "timestamp": "2025-12-20T19:30:09.534Z",
+    "type": "archaeological|administrative|byzantine|narrative",
+    "patterns": [
+      "otantik",
+      "bizans",
+      "opening:trabzon_kale_kazısında"
+    ]
+  },
+  {
+    "text": "Bursa Ulu Camii imam defteri, 1402: Cemaat 847 kişi sayılmış ama cami 200 kişilik. Namaz kılan sayısı fiziksel kapasiteyi aşıyor. İmam \"herkes sığdı\" yazmış.",
+    "timestamp": "2025-12-20T19:30:53.057Z",
+    "type": "defter|temporal|unspecified_era|narrative",
+    "patterns": [
+      "defter",
+      "bursa",
+      "opening:bursa_ulu_camii"
+    ]
+  }
+]
