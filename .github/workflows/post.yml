@@ -44,6 +44,7 @@ jobs:
         run: |
           node bot_gpt.js
           node bot_claude.js
+          node bot_claude_turk.js
 
       - name: commit tweet history
         run: |
