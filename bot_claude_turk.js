@@ -30,7 +30,7 @@ const twitter = new TwitterApi({
 
 // ---------- settings ----------
 const DRY_RUN = DRY_RUN_ENV === '1';
-const MAX_LEN = 280; // twitter limit, turkish tweets can be longer
+const MAX_LEN = 280;
 const MIN_LEN = 60;
 const HISTORY_SIZE = 15;
 
@@ -95,12 +95,81 @@ function addToHistory(tweet, detectedType) {
   saveHistory(history);
 }
 
+// ---------- location detection ----------
+const LOCATIONS = {
+  // Major cities
+  istanbul: ['istanbul', 'konstantinopolis', 'konstantiniyye', 'dersaadet', 'payitaht'],
+  ankara: ['ankara', 'angora', 'ancyra'],
+  izmir: ['izmir', 'smyrna', 'smirna'],
+  bursa: ['bursa', 'prusa', 'hüdavendigar'],
+  edirne: ['edirne', 'adrianopolis', 'adrianople'],
+  konya: ['konya', 'iconium', 'karaman'],
+  trabzon: ['trabzon', 'trabzond', 'trapezunt', 'trebizond'],
+  sivas: ['sivas', 'sebasteia', 'sebastia'],
+  erzurum: ['erzurum', 'theodosiopolis'],
+  diyarbakir: ['diyarbakır', 'diyarbakir', 'amid', 'amida'],
+  
+  // Istanbul neighborhoods
+  uskudar: ['üsküdar', 'uskudar', 'scutari', 'chrysopolis'],
+  beyoglu: ['beyoğlu', 'beyoglu', 'pera', 'galata'],
+  kadikoy: ['kadıköy', 'kadikoy', 'chalcedon', 'kalkedon'],
+  fatih: ['fatih', 'suriçi'],
+  besiktas: ['beşiktaş', 'besiktas'],
+  eyup: ['eyüp', 'eyup'],
+  eminonu: ['eminönü', 'eminonu'],
+  
+  // Other important cities
+  kayseri: ['kayseri', 'caesarea', 'kayseriye'],
+  antalya: ['antalya', 'attalia', 'adalya'],
+  gaziantep: ['gaziantep', 'antep', 'aintab'],
+  sanliurfa: ['şanlıurfa', 'sanliurfa', 'urfa', 'edessa'],
+  mardin: ['mardin'],
+  van: ['van', 'tuşpa'],
+  amasya: ['amasya', 'amasia'],
+  tokat: ['tokat'],
+  sinop: ['sinop', 'sinope'],
+  samsun: ['samsun', 'amisos'],
+  
+  // Historical/archaeological sites
+  efes: ['efes', 'ephesos', 'ephesus'],
+  bergama: ['bergama', 'pergamon', 'pergamum'],
+  truva: ['truva', 'troya', 'troy', 'troia'],
+  hattusa: ['hattuşa', 'hattusa', 'boğazköy', 'bogazkoy'],
+  gobekli: ['göbeklitepe', 'gobekli tepe', 'göbekli'],
+  catalhoyuk: ['çatalhöyük', 'catalhoyuk'],
+  nemrut: ['nemrut', 'nemrud'],
+  ani: ['ani'],
+  
+  // Regions
+  kapadokya: ['kapadokya', 'cappadocia', 'kapadokia'],
+  trakya: ['trakya', 'thrace', 'rumeli'],
+  anadolu: ['anadolu', 'anatolia'],
+  
+  // Palaces/specific buildings (as locations)
+  topkapi: ['topkapı', 'topkapi'],
+  dolmabahce: ['dolmabahçe', 'dolmabahce'],
+  yildiz: ['yıldız sarayı', 'yildiz'],
+  ayasofya: ['ayasofya', 'hagia sophia'],
+  sultanahmet: ['sultanahmet'],
+};
+
+function detectLocation(text) {
+  const lower = text.toLowerCase();
+  
+  for (const [location, keywords] of Object.entries(LOCATIONS)) {
+    if (keywords.some(kw => lower.includes(kw.toLowerCase()))) {
+      return location;
+    }
+  }
+  
+  return 'unspecified_location';
+}
+
 // ---------- type detection ----------
-// keyword matching for Ottoman/Turkish archival themes
 function detectType(text) {
   const lower = text.toLowerCase();
   
-  // SOURCE TYPES - Ottoman/Turkish document types
+  // SOURCE TYPES
   const sourcePatterns = {
     ferman: ['ferman', 'berat', 'hatt-ı', 'hattı', 'buyruldu', 'irade'],
     defter: ['defter', 'sicil', 'kayıt', 'sicili'],
@@ -125,13 +194,13 @@ function detectType(text) {
     memorial: ['hatıra', 'anı', 'anma', 'unutulmuş'],
   };
 
-  // ERA detection - Ottoman/Turkish specific
+  // ERA detection
   const eraPatterns = {
     byzantine: [/bizans/i, /konstantinopolis/i, /ms\s*[3-9]\d{2}/i, /ms\s*1[0-4]\d{2}/i, /doğu roma/i],
     early_ottoman: [/1[23]\d{2}/i, /kuruluş/i, /beylik/i, /osman.*gazi/i, /orhan/i],
     classical_ottoman: [/1[5-6]\d{2}/i, /kanuni/i, /fatih/i, /yavuz/i, /muhteşem/i],
     late_ottoman: [/1[78]\d{2}/i, /tanzimat/i, /meşrutiyet/i, /abdül/i, /ıslahat/i],
-    republican: [/19[2-9]\d/i, /20\d{2}/i, /cumhuriyet/i, /atatürk/i, /ankara/i],
+    republican: [/19[2-9]\d/i, /20\d{2}/i, /cumhuriyet/i, /atatürk/i],
     hicri: [/hicri/i, /hicrî/i, /h\.\s*\d+/i],
     rumi: [/rumi/i, /rumî/i, /r\.\s*\d+/i],
   };
@@ -163,7 +232,7 @@ function detectType(text) {
     }
   }
 
-  // Detect opening structure (Turkish patterns)
+  // Detect opening structure
   let opening = 'narrative';
   if (lower.startsWith('topkapı') || lower.startsWith('arşiv')) opening = 'archive_ref';
   else if (lower.startsWith('ferman') || lower.startsWith('berat')) opening = 'edict';
@@ -172,12 +241,21 @@ function detectType(text) {
   else if (lower.startsWith('kazı') || lower.startsWith('arkeolog')) opening = 'archaeological';
   else if (lower.startsWith('vilayet') || lower.startsWith('vilâyet')) opening = 'vilayet';
 
-  return `${sourceType}|${anomalyType}|${era}|${opening}`;
+  // Detect location
+  const location = detectLocation(text);
+
+  return `${sourceType}|${anomalyType}|${era}|${opening}|${location}`;
 }
 
 function parseType(compositeType) {
-  const [source, anomaly, era, opening] = compositeType.split('|');
-  return { source, anomaly, era, opening };
+  const parts = compositeType.split('|');
+  return { 
+    source: parts[0] || 'general_source', 
+    anomaly: parts[1] || 'general_anomaly', 
+    era: parts[2] || 'unspecified_era', 
+    opening: parts[3] || 'narrative',
+    location: parts[4] || 'unspecified_location'
+  };
 }
 
 // ---------- phrase pattern detection ----------
@@ -205,14 +283,6 @@ function extractPatterns(text) {
     { pattern: /salname|salnâme/i, name: 'salname' },
     { pattern: /defter/i, name: 'defter' },
     { pattern: /sicil/i, name: 'sicil' },
-    
-    // Location patterns
-    { pattern: /topkapı/i, name: 'topkapi' },
-    { pattern: /istanbul/i, name: 'istanbul' },
-    { pattern: /ankara/i, name: 'ankara' },
-    { pattern: /konya/i, name: 'konya' },
-    { pattern: /bursa/i, name: 'bursa' },
-    { pattern: /edirne/i, name: 'edirne' },
     
     // Era markers
     { pattern: /bizans/i, name: 'bizans' },
@@ -264,18 +334,22 @@ async function genRawTweetOnce(history) {
     const anomalyCounts = {};
     const eraCounts = {};
     const openingCounts = {};
+    const locationCounts = {};
     
     recentParsed.forEach(p => {
       sourceCounts[p.source] = (sourceCounts[p.source] || 0) + 1;
       anomalyCounts[p.anomaly] = (anomalyCounts[p.anomaly] || 0) + 1;
       eraCounts[p.era] = (eraCounts[p.era] || 0) + 1;
       openingCounts[p.opening] = (openingCounts[p.opening] || 0) + 1;
+      locationCounts[p.location] = (locationCounts[p.location] || 0) + 1;
     });
     
     const overusedSources = Object.entries(sourceCounts).filter(([_, c]) => c >= 2).map(([t]) => t);
     const overusedAnomalies = Object.entries(anomalyCounts).filter(([_, c]) => c >= 2).map(([t]) => t);
     const overusedEras = Object.entries(eraCounts).filter(([_, c]) => c >= 2).map(([t]) => t);
-    const overusedOpenings = Object.entries(openingCounts).filter(([_, c]) => c >= 2).map(([t]) => t);
+    const overusedLocations = Object.entries(locationCounts)
+      .filter(([loc, c]) => c >= 2 && loc !== 'unspecified_location')
+      .map(([t]) => t);
     
     const lastTweet = recentParsed[recentParsed.length - 1];
     
@@ -286,6 +360,9 @@ async function genRawTweetOnce(history) {
       avoidanceContext += `\n- AVOID era: ${lastTweet.era} (used in last tweet)`;
     }
     avoidanceContext += `\n- DO NOT start with: ${lastTweet.opening} style opening`;
+    if (lastTweet.location !== 'unspecified_location') {
+      avoidanceContext += `\n- DO NOT use location: ${lastTweet.location} (used in last tweet)`;
+    }
     
     if (overusedSources.length > 0) {
       avoidanceContext += `\n- OVERUSED sources to avoid: ${overusedSources.join(', ')}`;
@@ -295,6 +372,17 @@ async function genRawTweetOnce(history) {
     }
     if (overusedEras.length > 0) {
       avoidanceContext += `\n- OVERUSED eras to avoid: ${overusedEras.join(', ')}`;
+    }
+    if (overusedLocations.length > 0) {
+      avoidanceContext += `\n- OVERUSED locations to avoid: ${overusedLocations.join(', ')}`;
+    }
+    
+    // List all recent locations to encourage variety
+    const recentLocs = recentParsed
+      .map(p => p.location)
+      .filter(loc => loc !== 'unspecified_location');
+    if (recentLocs.length > 0) {
+      avoidanceContext += `\n- Recent locations used (try somewhere different): ${[...new Set(recentLocs)].join(', ')}`;
     }
   }
   
@@ -358,8 +446,10 @@ async function generateTweet() {
 async function post(text) {
   const detectedType = detectType(text);
   const patterns = extractPatterns(text);
+  const parsed = parseType(detectedType);
   
   console.log('[analysis] type:', detectedType);
+  console.log('[analysis] location:', parsed.location);
   console.log('[analysis] patterns:', patterns.join(', ') || '(none)');
   
   if (DRY_RUN) {
