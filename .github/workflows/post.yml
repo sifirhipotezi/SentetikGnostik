@@ -56,6 +56,8 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add tweet_history.json tweet_history_gpt.json tweet_history_turk.json 2>/dev/null || true
+          git status
+          git add -A *.json
+          git status
           git diff --staged --quiet || git commit -m "update tweet history [skip ci]"
           git push
