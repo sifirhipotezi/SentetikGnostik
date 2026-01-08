@@ -71,5 +71,13 @@
     "patterns": [
       "opening:census_data_from"
     ]
+  },
+  {
+    "text": "Marginalia discovered in 14th century psalter: The cathedral dreams of flying south for winter. Architectural survey confirms NotreDame de Paris shifts 3.2 degrees southward each October, returns by spring.",
+    "timestamp": "2026-01-08T21:02:41.991Z",
+    "type": "manuscript|temporal|medieval|marginalia",
+    "patterns": [
+      "opening:marginalia_discovered_in"
+    ]
   }
 ]

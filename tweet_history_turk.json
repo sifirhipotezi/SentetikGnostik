@@ -91,5 +91,16 @@
       "vilayet",
       "opening:izmir_vilayet_nüfus"
     ]
+  },
+  {
+    "text": "Konya Mevlana Türbesi ziyaretçi defteri, 1273: Mevlana'nın cenaze törenine katılan 40.000 kişi imza atmış. Mevlana o tarihte henüz sağdı. İmzalar otantik mürekkeple yazılmış.",
+    "timestamp": "2026-01-08T21:02:47.194Z",
+    "type": "defter|temporal|early_ottoman|narrative|konya",
+    "patterns": [
+      "otantik",
+      "imza",
+      "defter",
+      "opening:konya_mevlana_türbesi"
+    ]
   }
 ]
