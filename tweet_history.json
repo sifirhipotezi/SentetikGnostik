@@ -63,5 +63,13 @@
     "patterns": [
       "opening:botanical_survey_1891"
     ]
+  },
+  {
+    "text": "Census data from the Great Mice Revolution of 1603 lists seventeen human casualties and 40,000 rodent knights. The revolution succeeded. No subsequent records explain why we remember it differently.",
+    "timestamp": "2026-01-08T20:53:14.642Z",
+    "type": "municipal|general_anomaly|earlymodern|narrative",
+    "patterns": [
+      "opening:census_data_from"
+    ]
   }
 ]

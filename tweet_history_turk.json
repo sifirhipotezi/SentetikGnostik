@@ -82,5 +82,14 @@
     "patterns": [
       "opening:galata_kulesi_restorasyon"
     ]
+  },
+  {
+    "text": "İzmir vilayet nüfus sayımı, 1865: Karşıyaka'da aynı hanede 23 farklı aile kaydedilmiş. Ev tek odalı. Sayım memuru \"herkes rahatça yaşıyor\" diye not düşmüş.",
+    "timestamp": "2026-01-08T20:53:19.703Z",
+    "type": "vilayet|general_anomaly|late_ottoman|narrative",
+    "patterns": [
+      "vilayet",
+      "opening:izmir_vilayet_nüfus"
+    ]
   }
 ]
