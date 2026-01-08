@@ -9,6 +9,8 @@ jobs:
   run:
     runs-on: ubuntu-latest
     timeout-minutes: 20
+    permissions:
+      contents: write
     concurrency:
       group: tweet-bot
       cancel-in-progress: false
@@ -25,7 +27,7 @@ jobs:
       - name: install deps
         run: npm install
 
-      - name: random sleep (0–90s)
+      - name: random sleep (0-90s)
         run: sleep $(( RANDOM % 90 ))
 
       - name: run bot
