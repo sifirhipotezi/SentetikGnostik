@@ -111,5 +111,13 @@
     "patterns": [
       "opening:crossreference_anomaly_magna"
     ]
+  },
+  {
+    "text": "Census data, rural Montana, 1892: Population listed as 2,847 residents plus one theoretical carpenter. Town records show no carpenter employed, but all buildings display perfect joinery. Theoretical carpenter filed tax return annually throu",
+    "timestamp": "2026-01-09T18:40:36.846Z",
+    "type": "municipal|bureaucratic|industrial|narrative",
+    "patterns": [
+      "opening:census_data_rural"
+    ]
   }
 ]
