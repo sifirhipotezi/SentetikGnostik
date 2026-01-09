@@ -1,13 +1,5 @@
 [
   {
-    "text": "Municipal census from 1847 lists seventeen residents of a house with only three rooms. Final entry notes: The Hendersons live in the walls between Tuesday and Wednesday.",
-    "timestamp": "2025-12-16T18:05:27.312Z",
-    "type": "municipal|spatial|industrial|narrative",
-    "patterns": [
-      "opening:municipal_census_from"
-    ]
-  },
-  {
     "text": "Marginalia discovered in a 1203 psalter: The angels have been on strike since Michaelmas. All miracles this season are performed by understudies. The handwriting matches no known scribe but appears in fortythree manuscripts across Europe.",
     "timestamp": "2025-12-16T18:05:43.722Z",
     "type": "manuscript|general_anomaly|medieval|marginalia",
@@ -118,6 +110,14 @@
     "type": "municipal|bureaucratic|industrial|narrative",
     "patterns": [
       "opening:census_data_rural"
+    ]
+  },
+  {
+    "text": "Dental records from Pompeii victim show orthodontic work completed in 1987. Victim died 79 CE. Brackets are titanium alloy, wisdom teeth removed with laser precision. No anachronistic materials found elsewhere in remains.",
+    "timestamp": "2026-01-09T20:31:17.915Z",
+    "type": "general_source|temporal|modern|narrative",
+    "patterns": [
+      "opening:dental_records_from"
     ]
   }
 ]

@@ -1,14 +1,5 @@
 [
   {
-    "text": "Van Gölü meteoroloji kayıtları, 1955: Göl yüzeyinde kar yağışı gözlenmiş ama hava sıcaklığı 28 derece. Kar suya değmeden buharlaştı. Üç memur imzalamış.",
-    "timestamp": "2025-12-20T19:27:22.066Z",
-    "type": "defter|general_anomaly|republican|narrative",
-    "patterns": [
-      "imza",
-      "opening:van_gölü_meteoroloji"
-    ]
-  },
-  {
     "text": "Bizans döneminden kalma Hagia Sophia restorasyonu raporu, 1847. Kubbenin altında Osmanlı arması bulunmuş, MS 537 tarihli. Mimari uzmanlar \"orijinal parça\" yazmış.",
     "timestamp": "2025-12-20T19:28:09.610Z",
     "type": "institutional|temporal|byzantine|narrative",
@@ -135,6 +126,15 @@
     "type": "defter|general_anomaly|republican|narrative|unspecified_location",
     "patterns": [
       "opening:kastamonu_nüfus_sayımı"
+    ]
+  },
+  {
+    "text": "İzmir Kemeraltı Çarşısı esnaf sicili, 1876: Dükkanların gece kendiliğinden yer değiştirdiği belgelenmiş. Esnaf sabah farklı sokakta dükkanını bulmuş. Lonca başı \"mevsimlik hareket\" diye açıklamış.",
+    "timestamp": "2026-01-09T20:31:22.936Z",
+    "type": "defter|spatial|late_ottoman|narrative|unspecified_location",
+    "patterns": [
+      "sicil",
+      "opening:izmir_kemeraltı_çarşısı"
     ]
   }
 ]
