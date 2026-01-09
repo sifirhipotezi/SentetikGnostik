@@ -102,5 +102,13 @@
       "defter",
       "opening:konya_mevlana_türbesi"
     ]
+  },
+  {
+    "text": "Trabzon Ayasofya Camii duvar yazısı, 1461: Fatih'in fetih sonrası ziyaret tarihi kayıtlı ama o gün İstanbul'daydı. Yazı dönemin el yazısıyla yazılmış, tarih kesin.",
+    "timestamp": "2026-01-09T04:45:17.433Z",
+    "type": "defter|temporal|classical_ottoman|narrative|trabzon",
+    "patterns": [
+      "opening:trabzon_ayasofya_camii"
+    ]
   }
 ]

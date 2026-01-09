@@ -79,5 +79,13 @@
     "patterns": [
       "opening:marginalia_discovered_in"
     ]
+  },
+  {
+    "text": "Meteorological report, Antarctic research station, July 1987: Blizzard deposited snow that fell upward when disturbed. Samples contained pollen from flowers that bloom only in perpetual darkness. No such flowers exist.",
+    "timestamp": "2026-01-09T04:45:12.518Z",
+    "type": "meteorological|ontological|modern|narrative",
+    "patterns": [
+      "opening:meteorological_report_antarctic"
+    ]
   }
 ]
