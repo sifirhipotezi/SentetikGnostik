@@ -103,5 +103,13 @@
     "patterns": [
       "opening:personal_diary_london"
     ]
+  },
+  {
+    "text": "Crossreference anomaly: Magna Carta signed 1215 contains clause about digital privacy rights. Parchment authentic, ink periodcorrect. Clause written in Middle English that won't develop for 200 years.",
+    "timestamp": "2026-01-09T14:30:49.252Z",
+    "type": "manuscript|temporal|medieval|narrative",
+    "patterns": [
+      "opening:crossreference_anomaly_magna"
+    ]
   }
 ]

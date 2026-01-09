@@ -127,5 +127,14 @@
     "patterns": [
       "opening:van_gölü_meteoroloji"
     ]
+  },
+  {
+    "text": "Bursa Ulu Camii vaiz kayıtları, 1399: Cuma hutbesi sırasında cemaat toplu olarak Osmanlıca yerine Türkçe konuşmaya başlamış. Modern Türkçe kullanmışlar. Vaiz olayı normal karşılamış.",
+    "timestamp": "2026-01-09T14:30:55.832Z",
+    "type": "defter|spatial|early_ottoman|narrative|bursa",
+    "patterns": [
+      "osmanli",
+      "opening:bursa_ulu_camii"
+    ]
   }
 ]
