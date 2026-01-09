@@ -95,5 +95,13 @@
     "patterns": [
       "opening:archaeological_survey_mesopotamia"
     ]
+  },
+  {
+    "text": "Personal diary, London, 1666: Woman records attending her own funeral, taking detailed notes on eulogy accuracy. Burial register confirms death occurred. Marriage certificate shows she wed the gravedigger three months later.",
+    "timestamp": "2026-01-09T10:30:34.561Z",
+    "type": "biological|general_anomaly|earlymodern|narrative",
+    "patterns": [
+      "opening:personal_diary_london"
+    ]
   }
 ]

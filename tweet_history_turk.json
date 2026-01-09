@@ -119,5 +119,13 @@
       "imza",
       "opening:edirne_selimiye_camii"
     ]
+  },
+  {
+    "text": "Van Gölü meteoroloji kayıtları, 1904: Suyun 3 gün boyunca yukarı doğru aktığı gözlemlenmiş. Balıklar havada yüzmüş. Rasathane memuru \"olağan hava koşulları\" diye kaydetmiş.",
+    "timestamp": "2026-01-09T10:30:38.778Z",
+    "type": "defter|general_anomaly|unspecified_era|narrative|van",
+    "patterns": [
+      "opening:van_gölü_meteoroloji"
+    ]
   }
 ]
