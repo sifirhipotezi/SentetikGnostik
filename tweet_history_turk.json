@@ -1,15 +1,5 @@
 [
   {
-    "text": "Bursa Ulu Camii imam defteri, 1402: Cemaat 847 kişi sayılmış ama cami 200 kişilik. Namaz kılan sayısı fiziksel kapasiteyi aşıyor. İmam \"herkes sığdı\" yazmış.",
-    "timestamp": "2025-12-20T19:30:53.057Z",
-    "type": "defter|temporal|unspecified_era|narrative",
-    "patterns": [
-      "defter",
-      "bursa",
-      "opening:bursa_ulu_camii"
-    ]
-  },
-  {
     "text": "Van Gölü meteoroloji istasyonu raporu, 1884: Kar yağışı Temmuz ayında kaydedilmiş, sıcaklık 15C. Aynı gün çiftçiler buğday hasadı yapmış. İklim verileri tutarsız ama her iki kayıt da mevcut.",
     "timestamp": "2025-12-20T19:48:42.802Z",
     "type": "defter|general_anomaly|late_ottoman|narrative",
@@ -128,6 +118,15 @@
     "type": "defter|general_anomaly|republican|narrative|beyoglu",
     "patterns": [
       "opening:istanbul_galata_kulesi"
+    ]
+  },
+  {
+    "text": "Van Kalesi arkeoloji raporu, 1967: Urartu duvarında Osmanlıca kitabe bulunmuş. \"Fatih Sultan Mehmet buradan geçti, 1453\" yazıyor. Taş analizleri MÖ 7. yüzyılı gösteriyor. Kazı başkanı sessiz kalmış.",
+    "timestamp": "2026-01-10T18:36:56.454Z",
+    "type": "archaeological|temporal|classical_ottoman|narrative|fatih",
+    "patterns": [
+      "osmanli",
+      "opening:van_kalesi_arkeoloji"
     ]
   }
 ]

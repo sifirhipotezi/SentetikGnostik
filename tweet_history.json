@@ -1,13 +1,5 @@
 [
   {
-    "text": "Excavation in Mesopotamia, 2400 BCE site, recovered cuneiform tablet describing standardized time zones. Text includes phrase spring forward, fall back in protoAkkadian. Daylight saving time was not invented until 1916.",
-    "timestamp": "2025-12-16T18:17:30.821Z",
-    "type": "archaeological|temporal|prehistoric|narrative",
-    "patterns": [
-      "opening:excavation_in_mesopotamia"
-    ]
-  },
-  {
     "text": "Digital anomaly: Library catalog system spontaneously generates call numbers for books that were never written. Patrons successfully check out these nonexistent volumes. Return dates are always yesterday.",
     "timestamp": "2025-12-16T18:19:01.636Z",
     "type": "digital|temporal|unspecified_era|narrative",
@@ -118,6 +110,14 @@
     "type": "meteorological|ontological|ancient|narrative",
     "patterns": [
       "opening:weather_station_logs"
+    ]
+  },
+  {
+    "text": "Census data, Constantinople 1453: Population records list 847 residents who cast no shadows. Tax assessments normal, property ownership documented. Imperial survey notes: Citizens appear solid, participate in commerce, pay tithe regularly.",
+    "timestamp": "2026-01-10T18:36:51.809Z",
+    "type": "municipal|general_anomaly|medieval|narrative",
+    "patterns": [
+      "opening:census_data_constantinople"
     ]
   }
 ]
