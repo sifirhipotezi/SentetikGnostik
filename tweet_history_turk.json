@@ -1,13 +1,5 @@
 [
   {
-    "text": "Van Gölü meteoroloji istasyonu raporu, 1884: Kar yağışı Temmuz ayında kaydedilmiş, sıcaklık 15C. Aynı gün çiftçiler buğday hasadı yapmış. İklim verileri tutarsız ama her iki kayıt da mevcut.",
-    "timestamp": "2025-12-20T19:48:42.802Z",
-    "type": "defter|general_anomaly|late_ottoman|narrative",
-    "patterns": [
-      "opening:van_gölü_meteoroloji"
-    ]
-  },
-  {
     "text": "Galata Kulesi restorasyon raporu, 1348: Yapıda asansör şaftı tespit edilmiş. Ceneviz mimarisi korunmuş. Mühendis \"özgün tasarım\" diye rapor etmiş.",
     "timestamp": "2025-12-20T19:49:20.031Z",
     "type": "architectural|general_anomaly|early_ottoman|narrative",
@@ -127,6 +119,14 @@
     "patterns": [
       "osmanli",
       "opening:van_kalesi_arkeoloji"
+    ]
+  },
+  {
+    "text": "Üsküdar Nüfus Müdürlüğü kayıtları, 1934: Aynı kişi 3 farklı mahallede doğmuş. Üçü de aynı gün, aynı saat. Anne babalar farklı. Kimlik kartı tek, fotoğraf aynı kişiyi gösteriyor.",
+    "timestamp": "2026-01-10T20:29:12.095Z",
+    "type": "defter|general_anomaly|republican|narrative|uskudar",
+    "patterns": [
+      "opening:üsküdar_nüfus_müdürlüğü"
     ]
   }
 ]
