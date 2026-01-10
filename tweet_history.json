@@ -1,14 +1,5 @@
 [
   {
-    "text": "Entry 1956B: Patient's Xray reveals skeletal system belongs to different person entirely. Bone structure matches missing archaeologist from 1923 expedition. Patient has no knowledge of archaeology and was born in 1945.",
-    "timestamp": "2025-12-16T18:06:41.509Z",
-    "type": "biological|bureaucratic|modern|catalog_entry",
-    "patterns": [
-      "entry_number",
-      "opening:entry_1956b_patients"
-    ]
-  },
-  {
     "text": "Excavation in Mesopotamia, 2400 BCE site, recovered cuneiform tablet describing standardized time zones. Text includes phrase spring forward, fall back in protoAkkadian. Daylight saving time was not invented until 1916.",
     "timestamp": "2025-12-16T18:17:30.821Z",
     "type": "archaeological|temporal|prehistoric|narrative",
@@ -119,6 +110,14 @@
     "type": "institutional|temporal|industrial|narrative",
     "patterns": [
       "opening:structural_engineering_report"
+    ]
+  },
+  {
+    "text": "Weather station logs, Nome Alaska, February 1987: Recorded aurora borealis displaying in geometric patterns that spell out grocery lists in Sumerian. Lists include items not available until 1994. All items were eventually purchased.",
+    "timestamp": "2026-01-10T14:24:59.171Z",
+    "type": "meteorological|ontological|ancient|narrative",
+    "patterns": [
+      "opening:weather_station_logs"
     ]
   }
 ]
