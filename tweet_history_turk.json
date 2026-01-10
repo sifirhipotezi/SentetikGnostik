@@ -1,16 +1,5 @@
 [
   {
-    "text": "Edirne Selimiye Camii inşaat defteri, 1569: Mimar Sinan'ın notlarında beton kullanımı geçiyor. Malzeme listesinde çimento var. El yazısı dönem uyumlu, kağıt otantik.",
-    "timestamp": "2025-12-20T19:28:48.879Z",
-    "type": "defter|memorial|classical_ottoman|narrative",
-    "patterns": [
-      "otantik",
-      "defter",
-      "edirne",
-      "opening:edirne_selimiye_camii"
-    ]
-  },
-  {
     "text": "Konya Selçuklu Müzesi envanter kayıtları, 1929: Sultan Alâeddin'in tahtında elektrik düğmesi tespit edilmiş. 13. yüzyıl işçiliği doğrulanmış. Müze müdürü \"dönemin teknolojisi\" not düşmüş.",
     "timestamp": "2025-12-20T19:29:24.116Z",
     "type": "defter|temporal|republican|narrative",
@@ -134,6 +123,15 @@
     "patterns": [
       "defter",
       "opening:sinop_cezaevi_hasta"
+    ]
+  },
+  {
+    "text": "Trabzon Ayasofya kazısı, 1961: Bizans freskinde jet uçağı tasviri bulunmuş. Pigmentler MS 6. yüzyıla ait. Kazı raporu kaybolmuş, fresko duvardan çıkarılamıyor.",
+    "timestamp": "2026-01-10T08:33:36.522Z",
+    "type": "archaeological|temporal|byzantine|narrative|trabzon",
+    "patterns": [
+      "bizans",
+      "opening:trabzon_ayasofya_kazısı"
     ]
   }
 ]

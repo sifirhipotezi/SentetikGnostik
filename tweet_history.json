@@ -1,13 +1,5 @@
 [
   {
-    "text": "Weather station data from 1934: Temperature recorded as nostalgic for six consecutive days in February. Barometric pressure readings replaced with childhood addresses. Local newspaper reported it as unseasonably memorable.",
-    "timestamp": "2025-12-16T18:05:54.675Z",
-    "type": "meteorological|spatial|modern|narrative",
-    "patterns": [
-      "opening:weather_station_data"
-    ]
-  },
-  {
     "text": "Crossreference failure in the Domesday Book: Village of Little Wickham recorded as populated by echoes of Thursday. Census enumerators noted residents cast shadows but no reflections. Village was abandoned in 1067, four years before the sur",
     "timestamp": "2025-12-16T18:06:10.398Z",
     "type": "municipal|temporal|unspecified_era|narrative",
@@ -118,6 +110,15 @@
     "type": "digital|general_anomaly|modern|narrative",
     "patterns": [
       "opening:botanical_survey_amazon"
+    ]
+  },
+  {
+    "text": "Archaeological report: Pleistocene site, 18,000 BCE, mammoth bones arranged in perfect fibonacci spiral. Pattern requires mathematical knowledge predating agriculture by 8,000 years. Arrangement appears deliberate, not scavenger activity.",
+    "timestamp": "2026-01-10T08:33:32.104Z",
+    "type": "biological|temporal|prehistoric|narrative",
+    "patterns": [
+      "archaeological_report",
+      "opening:archaeological_report_pleistocene"
     ]
   }
 ]
