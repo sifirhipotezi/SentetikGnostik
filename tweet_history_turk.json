@@ -1,15 +1,5 @@
 [
   {
-    "text": "Bizans döneminden kalma Hagia Sophia restorasyonu raporu, 1847. Kubbenin altında Osmanlı arması bulunmuş, MS 537 tarihli. Mimari uzmanlar \"orijinal parça\" yazmış.",
-    "timestamp": "2025-12-20T19:28:09.610Z",
-    "type": "institutional|temporal|byzantine|narrative",
-    "patterns": [
-      "bizans",
-      "osmanli",
-      "opening:bizans_döneminden_kalma"
-    ]
-  },
-  {
     "text": "Edirne Selimiye Camii inşaat defteri, 1569: Mimar Sinan'ın notlarında beton kullanımı geçiyor. Malzeme listesinde çimento var. El yazısı dönem uyumlu, kağıt otantik.",
     "timestamp": "2025-12-20T19:28:48.879Z",
     "type": "defter|memorial|classical_ottoman|narrative",
@@ -135,6 +125,15 @@
     "patterns": [
       "sicil",
       "opening:izmir_kemeraltı_çarşısı"
+    ]
+  },
+  {
+    "text": "Sinop Cezaevi hasta defteri, 1863: Mahkum vefat etmiş ama her sabah yoklama vermeye devam etmiş. 6 ay boyunca günlük işlerini yapmış. Gardiyanlar rutin vaka olarak kaydetmiş.",
+    "timestamp": "2026-01-10T04:38:48.631Z",
+    "type": "defter|administrative|late_ottoman|narrative|sinop",
+    "patterns": [
+      "defter",
+      "opening:sinop_cezaevi_hasta"
     ]
   }
 ]
