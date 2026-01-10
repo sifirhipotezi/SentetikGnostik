@@ -1,13 +1,5 @@
 [
   {
-    "text": "Crossreference failure in the Domesday Book: Village of Little Wickham recorded as populated by echoes of Thursday. Census enumerators noted residents cast shadows but no reflections. Village was abandoned in 1067, four years before the sur",
-    "timestamp": "2025-12-16T18:06:10.398Z",
-    "type": "municipal|temporal|unspecified_era|narrative",
-    "patterns": [
-      "opening:crossreference_failure_in"
-    ]
-  },
-  {
     "text": "Entry 1956B: Patient's Xray reveals skeletal system belongs to different person entirely. Bone structure matches missing archaeologist from 1923 expedition. Patient has no knowledge of archaeology and was born in 1945.",
     "timestamp": "2025-12-16T18:06:41.509Z",
     "type": "biological|bureaucratic|modern|catalog_entry",
@@ -119,6 +111,14 @@
     "patterns": [
       "archaeological_report",
       "opening:archaeological_report_pleistocene"
+    ]
+  },
+  {
+    "text": "Structural engineering report, Tower Bridge 1894: Bridge calculates its own stress loads. Blueprints contain handwritten notes in Victorian cursive predicting traffic patterns through 2089. Notes are 97 accurate to date.",
+    "timestamp": "2026-01-10T10:27:00.149Z",
+    "type": "institutional|temporal|industrial|narrative",
+    "patterns": [
+      "opening:structural_engineering_report"
     ]
   }
 ]
