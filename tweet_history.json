@@ -1,13 +1,5 @@
 [
   {
-    "text": "Meteorological report, Antarctic research station, July 1987: Blizzard deposited snow that fell upward when disturbed. Samples contained pollen from flowers that bloom only in perpetual darkness. No such flowers exist.",
-    "timestamp": "2026-01-09T04:45:12.518Z",
-    "type": "meteorological|ontological|modern|narrative",
-    "patterns": [
-      "opening:meteorological_report_antarctic"
-    ]
-  },
-  {
     "text": "Archaeological survey, Mesopotamia, 2400 BCE site: Recovered USB drive with cuneiform adapter. Contains administrative records for ziggurats not yet constructed. Files are readonly, modification date shows 2156 BCE.",
     "timestamp": "2026-01-09T08:37:46.382Z",
     "type": "digital|temporal|prehistoric|narrative",
@@ -118,6 +110,14 @@
     "type": "general_source|temporal|prehistoric|narrative",
     "patterns": [
       "opening:architectural_survey_babylon"
+    ]
+  },
+  {
+    "text": "Railway logbook, TransSiberian line 1904: Engineer reports locomotive passed through station that existed only in blueprint stage. Passengers disembarked, purchased tickets for return journey. Station master had been dead since 1891.",
+    "timestamp": "2026-01-11T14:24:35.125Z",
+    "type": "institutional|ontological|industrial|narrative",
+    "patterns": [
+      "opening:railway_logbook_transsiberian"
     ]
   }
 ]

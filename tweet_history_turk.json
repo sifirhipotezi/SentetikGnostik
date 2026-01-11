@@ -1,13 +1,5 @@
 [
   {
-    "text": "Trabzon Ayasofya Camii duvar yazısı, 1461: Fatih'in fetih sonrası ziyaret tarihi kayıtlı ama o gün İstanbul'daydı. Yazı dönemin el yazısıyla yazılmış, tarih kesin.",
-    "timestamp": "2026-01-09T04:45:17.433Z",
-    "type": "defter|temporal|classical_ottoman|narrative|trabzon",
-    "patterns": [
-      "opening:trabzon_ayasofya_camii"
-    ]
-  },
-  {
     "text": "Edirne Selimiye Camii vakfiye belgesi, 1575: Mimar Sinan imzalı ek proje çizimi bulundu. Camiye uzay gözlemevi eklenmesi planlanmış. Teknik detaylar dönemine uygun değil.",
     "timestamp": "2026-01-09T08:37:52.021Z",
     "type": "architectural|general_anomaly|classical_ottoman|narrative|edirne",
@@ -126,6 +118,15 @@
     "type": "defter|general_anomaly|unspecified_era|narrative|sinop",
     "patterns": [
       "opening:sinop_tersanesi_gemi"
+    ]
+  },
+  {
+    "text": "Konya Mevlana Müzesi ziyaretçi defteri, 1951: Bir kişi \"çok güzeldi, 800 yıl sonra tekrar geldim\" yazmış. İmza XIII. yüzyıl Farsça. Müze müdürü kaydı silmemiş.",
+    "timestamp": "2026-01-11T14:24:40.073Z",
+    "type": "defter|temporal|republican|narrative|konya",
+    "patterns": [
+      "defter",
+      "opening:konya_mevlana_müzesi"
     ]
   }
 ]
