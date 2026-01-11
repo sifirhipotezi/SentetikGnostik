@@ -1,14 +1,5 @@
 [
   {
-    "text": "İzmir vilayet nüfus sayımı, 1865: Karşıyaka'da aynı hanede 23 farklı aile kaydedilmiş. Ev tek odalı. Sayım memuru \"herkes rahatça yaşıyor\" diye not düşmüş.",
-    "timestamp": "2026-01-08T20:53:19.703Z",
-    "type": "vilayet|general_anomaly|late_ottoman|narrative",
-    "patterns": [
-      "vilayet",
-      "opening:izmir_vilayet_nüfus"
-    ]
-  },
-  {
     "text": "Konya Mevlana Türbesi ziyaretçi defteri, 1273: Mevlana'nın cenaze törenine katılan 40.000 kişi imza atmış. Mevlana o tarihte henüz sağdı. İmzalar otantik mürekkeple yazılmış.",
     "timestamp": "2026-01-08T21:02:47.194Z",
     "type": "defter|temporal|early_ottoman|narrative|konya",
@@ -128,6 +119,16 @@
     "patterns": [
       "sicil",
       "opening:bursa_ipek_hanı"
+    ]
+  },
+  {
+    "text": "Kayseri Sivas yolu kilometre taşı, 1928: 47. km'de duruyor ama yol sadece 23 km. Taş gerçek granit, Cumhuriyet arması otantik. Karayolları memuru \"fazla taş zarar vermez\" demiş.",
+    "timestamp": "2026-01-11T08:34:10.879Z",
+    "type": "general_source|general_anomaly|republican|narrative|sivas",
+    "patterns": [
+      "otantik",
+      "cumhuriyet",
+      "opening:kayseri_sivas_yolu"
     ]
   }
 ]

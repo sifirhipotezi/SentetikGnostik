@@ -1,13 +1,5 @@
 [
   {
-    "text": "Census data from the Great Mice Revolution of 1603 lists seventeen human casualties and 40,000 rodent knights. The revolution succeeded. No subsequent records explain why we remember it differently.",
-    "timestamp": "2026-01-08T20:53:14.642Z",
-    "type": "municipal|general_anomaly|earlymodern|narrative",
-    "patterns": [
-      "opening:census_data_from"
-    ]
-  },
-  {
     "text": "Marginalia discovered in 14th century psalter: The cathedral dreams of flying south for winter. Architectural survey confirms NotreDame de Paris shifts 3.2 degrees southward each October, returns by spring.",
     "timestamp": "2026-01-08T21:02:41.991Z",
     "type": "manuscript|temporal|medieval|marginalia",
@@ -118,6 +110,14 @@
     "type": "meteorological|general_anomaly|prehistoric|narrative",
     "patterns": [
       "opening:excavation_in_mesopotamia"
+    ]
+  },
+  {
+    "text": "Medical records, St. Bartholomew's Hospital 1348: Patient treated for plague develops immunity to diseases not yet discovered. Chart notes resistance to influenza variants H1N1 through H7N9. Patient died of consumption in 1349.",
+    "timestamp": "2026-01-11T08:34:05.832Z",
+    "type": "general_source|general_anomaly|medieval|narrative",
+    "patterns": [
+      "opening:medical_records_st"
     ]
   }
 ]
