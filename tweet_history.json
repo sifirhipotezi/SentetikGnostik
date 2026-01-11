@@ -1,13 +1,5 @@
 [
   {
-    "text": "Personal diary, London, 1666: Woman records attending her own funeral, taking detailed notes on eulogy accuracy. Burial register confirms death occurred. Marriage certificate shows she wed the gravedigger three months later.",
-    "timestamp": "2026-01-09T10:30:34.561Z",
-    "type": "biological|general_anomaly|earlymodern|narrative",
-    "patterns": [
-      "opening:personal_diary_london"
-    ]
-  },
-  {
     "text": "Crossreference anomaly: Magna Carta signed 1215 contains clause about digital privacy rights. Parchment authentic, ink periodcorrect. Clause written in Middle English that won't develop for 200 years.",
     "timestamp": "2026-01-09T14:30:49.252Z",
     "type": "manuscript|temporal|medieval|narrative",
@@ -118,6 +110,14 @@
     "type": "municipal|anachronistic|unspecified_era|narrative",
     "patterns": [
       "opening:census_data_cahokia"
+    ]
+  },
+  {
+    "text": "Crossreference error: Theater program from Globe playhouse 1599 lists Hamlet with alternate ending where Ophelia survives, becomes Queen of Denmark. No manuscript of this version exists. Three audience members' letters describe identical sc",
+    "timestamp": "2026-01-11T20:29:36.520Z",
+    "type": "manuscript|ontological|earlymodern|narrative",
+    "patterns": [
+      "opening:crossreference_error_theater"
     ]
   }
 ]

@@ -1,13 +1,5 @@
 [
   {
-    "text": "Van Gölü meteoroloji kayıtları, 1904: Suyun 3 gün boyunca yukarı doğru aktığı gözlemlenmiş. Balıklar havada yüzmüş. Rasathane memuru \"olağan hava koşulları\" diye kaydetmiş.",
-    "timestamp": "2026-01-09T10:30:38.778Z",
-    "type": "defter|general_anomaly|unspecified_era|narrative|van",
-    "patterns": [
-      "opening:van_gölü_meteoroloji"
-    ]
-  },
-  {
     "text": "Bursa Ulu Camii vaiz kayıtları, 1399: Cuma hutbesi sırasında cemaat toplu olarak Osmanlıca yerine Türkçe konuşmaya başlamış. Modern Türkçe kullanmışlar. Vaiz olayı normal karşılamış.",
     "timestamp": "2026-01-09T14:30:55.832Z",
     "type": "defter|spatial|early_ottoman|narrative|bursa",
@@ -126,6 +118,14 @@
     "type": "institutional|administrative|late_ottoman|narrative|van",
     "patterns": [
       "opening:van_gölü_meteoroloji"
+    ]
+  },
+  {
+    "text": "Edirne Selimiye Camii restorasyonu, 1965: Mimar Sinan'ın el yazısıyla not bulundu. \"Bu kubbeyi 1574'te yenileyeceğim\" yazıyor. Sinan 1588'de ölmüştü. Kağıt analizi 1960'ları gösteriyor.",
+    "timestamp": "2026-01-11T20:29:41.255Z",
+    "type": "architectural|general_anomaly|classical_ottoman|narrative|edirne",
+    "patterns": [
+      "opening:edirne_selimiye_camii"
     ]
   }
 ]
