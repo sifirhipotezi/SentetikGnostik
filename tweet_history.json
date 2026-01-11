@@ -1,13 +1,5 @@
 [
   {
-    "text": "Archaeological survey, Mesopotamia, 2400 BCE site: Recovered USB drive with cuneiform adapter. Contains administrative records for ziggurats not yet constructed. Files are readonly, modification date shows 2156 BCE.",
-    "timestamp": "2026-01-09T08:37:46.382Z",
-    "type": "digital|temporal|prehistoric|narrative",
-    "patterns": [
-      "opening:archaeological_survey_mesopotamia"
-    ]
-  },
-  {
     "text": "Personal diary, London, 1666: Woman records attending her own funeral, taking detailed notes on eulogy accuracy. Burial register confirms death occurred. Marriage certificate shows she wed the gravedigger three months later.",
     "timestamp": "2026-01-09T10:30:34.561Z",
     "type": "biological|general_anomaly|earlymodern|narrative",
@@ -118,6 +110,14 @@
     "type": "institutional|ontological|industrial|narrative",
     "patterns": [
       "opening:railway_logbook_transsiberian"
+    ]
+  },
+  {
+    "text": "Census data, Cahokia settlement 1050 CE: Population records list 847 residents who cast shadows pointing north at noon. Standard residents: 12,000. No explanation for photometric deviation. Settlement abandoned by 1100.",
+    "timestamp": "2026-01-11T18:36:28.753Z",
+    "type": "municipal|anachronistic|unspecified_era|narrative",
+    "patterns": [
+      "opening:census_data_cahokia"
     ]
   }
 ]
