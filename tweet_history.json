@@ -1,13 +1,5 @@
 [
   {
-    "text": "Botanical survey 1891: Specimen of Quercus temporalis collected in Yorkshire. Tree rings indicate 400 years of growth completed in single afternoon. Acorns germinate into fully mature oaks instantaneously upon planting.",
-    "timestamp": "2025-12-16T18:19:40.024Z",
-    "type": "paleontological|temporal|industrial|narrative",
-    "patterns": [
-      "opening:botanical_survey_1891"
-    ]
-  },
-  {
     "text": "Census data from the Great Mice Revolution of 1603 lists seventeen human casualties and 40,000 rodent knights. The revolution succeeded. No subsequent records explain why we remember it differently.",
     "timestamp": "2026-01-08T20:53:14.642Z",
     "type": "municipal|general_anomaly|earlymodern|narrative",
@@ -118,6 +110,14 @@
     "type": "manuscript|bureaucratic|modern|narrative",
     "patterns": [
       "opening:personal_diary_recovered"
+    ]
+  },
+  {
+    "text": "Excavation in Mesopotamia, 2400 BCE site, recovered clay cylinder seal depicting standardized shipping barcode. Seal impression found on grain jars throughout region. Modern scanner reads as PRODUCT NOT FOUND.",
+    "timestamp": "2026-01-11T04:52:52.245Z",
+    "type": "meteorological|general_anomaly|prehistoric|narrative",
+    "patterns": [
+      "opening:excavation_in_mesopotamia"
     ]
   }
 ]
