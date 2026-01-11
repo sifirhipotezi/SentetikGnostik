@@ -1,16 +1,5 @@
 [
   {
-    "text": "Konya Mevlana Türbesi ziyaretçi defteri, 1273: Mevlana'nın cenaze törenine katılan 40.000 kişi imza atmış. Mevlana o tarihte henüz sağdı. İmzalar otantik mürekkeple yazılmış.",
-    "timestamp": "2026-01-08T21:02:47.194Z",
-    "type": "defter|temporal|early_ottoman|narrative|konya",
-    "patterns": [
-      "otantik",
-      "imza",
-      "defter",
-      "opening:konya_mevlana_türbesi"
-    ]
-  },
-  {
     "text": "Trabzon Ayasofya Camii duvar yazısı, 1461: Fatih'in fetih sonrası ziyaret tarihi kayıtlı ama o gün İstanbul'daydı. Yazı dönemin el yazısıyla yazılmış, tarih kesin.",
     "timestamp": "2026-01-09T04:45:17.433Z",
     "type": "defter|temporal|classical_ottoman|narrative|trabzon",
@@ -129,6 +118,14 @@
       "otantik",
       "cumhuriyet",
       "opening:kayseri_sivas_yolu"
+    ]
+  },
+  {
+    "text": "Sinop Tersanesi gemi inşa kayıtları, 1461: Aynı kadırga hem Karadeniz'de savaşta hem havuzda yapım halinde. Gemi ustası \"ikiz proje\" diye açıklamış. Her iki kadırga da kayıtlarda mevcut.",
+    "timestamp": "2026-01-11T10:27:04.069Z",
+    "type": "defter|general_anomaly|unspecified_era|narrative|sinop",
+    "patterns": [
+      "opening:sinop_tersanesi_gemi"
     ]
   }
 ]

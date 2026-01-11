@@ -1,13 +1,5 @@
 [
   {
-    "text": "Marginalia discovered in 14th century psalter: The cathedral dreams of flying south for winter. Architectural survey confirms NotreDame de Paris shifts 3.2 degrees southward each October, returns by spring.",
-    "timestamp": "2026-01-08T21:02:41.991Z",
-    "type": "manuscript|temporal|medieval|marginalia",
-    "patterns": [
-      "opening:marginalia_discovered_in"
-    ]
-  },
-  {
     "text": "Meteorological report, Antarctic research station, July 1987: Blizzard deposited snow that fell upward when disturbed. Samples contained pollen from flowers that bloom only in perpetual darkness. No such flowers exist.",
     "timestamp": "2026-01-09T04:45:12.518Z",
     "type": "meteorological|ontological|modern|narrative",
@@ -118,6 +110,14 @@
     "type": "general_source|general_anomaly|medieval|narrative",
     "patterns": [
       "opening:medical_records_st"
+    ]
+  },
+  {
+    "text": "Architectural survey, Babylon 605 BCE: Hanging Gardens contain irrigation system with PVC joints. Joints show wear patterns consistent with 2,000year operation. Original blueprints reference Home Depot.",
+    "timestamp": "2026-01-11T10:26:59.753Z",
+    "type": "general_source|temporal|prehistoric|narrative",
+    "patterns": [
+      "opening:architectural_survey_babylon"
     ]
   }
 ]
