@@ -1,14 +1,5 @@
 [
   {
-    "text": "İzmir Kemeraltı Çarşısı esnaf sicili, 1876: Dükkanların gece kendiliğinden yer değiştirdiği belgelenmiş. Esnaf sabah farklı sokakta dükkanını bulmuş. Lonca başı \"mevsimlik hareket\" diye açıklamış.",
-    "timestamp": "2026-01-09T20:31:22.936Z",
-    "type": "defter|spatial|late_ottoman|narrative|unspecified_location",
-    "patterns": [
-      "sicil",
-      "opening:izmir_kemeraltı_çarşısı"
-    ]
-  },
-  {
     "text": "Sinop Cezaevi hasta defteri, 1863: Mahkum vefat etmiş ama her sabah yoklama vermeye devam etmiş. 6 ay boyunca günlük işlerini yapmış. Gardiyanlar rutin vaka olarak kaydetmiş.",
     "timestamp": "2026-01-10T04:38:48.631Z",
     "type": "defter|administrative|late_ottoman|narrative|sinop",
@@ -127,6 +118,14 @@
     "patterns": [
       "kayboldu",
       "opening:izmir_arkeoloji_müzesi"
+    ]
+  },
+  {
+    "text": "Üsküdar Mihrimah Sultan Camii vakıf kayıtları, 1548: Cuma namazında 847 kişi sayılmış ama cami 300 kişilik. İmam \"sıkışmadılar\" diye not düşmüş. Mütevelli onaylamış.",
+    "timestamp": "2026-01-12T10:32:58.145Z",
+    "type": "defter|temporal|classical_ottoman|narrative|uskudar",
+    "patterns": [
+      "opening:üsküdar_mihrimah_sultan"
     ]
   }
 ]

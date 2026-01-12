@@ -1,13 +1,5 @@
 [
   {
-    "text": "Dental records from Pompeii victim show orthodontic work completed in 1987. Victim died 79 CE. Brackets are titanium alloy, wisdom teeth removed with laser precision. No anachronistic materials found elsewhere in remains.",
-    "timestamp": "2026-01-09T20:31:17.915Z",
-    "type": "general_source|temporal|modern|narrative",
-    "patterns": [
-      "opening:dental_records_from"
-    ]
-  },
-  {
     "text": "Botanical survey, Amazon basin, 1953: Documented tree species that photosynthesizes moonlight exclusively. Samples collected during lunar eclipse remained metabolically active. Species not found in any taxonomic database.",
     "timestamp": "2026-01-10T04:38:44.199Z",
     "type": "digital|general_anomaly|modern|narrative",
@@ -118,6 +110,14 @@
     "type": "municipal|temporal|medieval|narrative",
     "patterns": [
       "opening:hospital_intake_records"
+    ]
+  },
+  {
+    "text": "Cargo manifest, merchant vessel Windrose 1693: Ship carried 47 barrels of whale oil that burned with cold flame, froze water instead of boiling it. Crew used it for refrigeration. Oil extracted from whales that swim backwards through time.",
+    "timestamp": "2026-01-12T10:32:53.142Z",
+    "type": "meteorological|temporal|earlymodern|narrative",
+    "patterns": [
+      "opening:cargo_manifest_merchant"
     ]
   }
 ]
