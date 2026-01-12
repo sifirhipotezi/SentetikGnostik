@@ -1,13 +1,5 @@
 [
   {
-    "text": "Botanical survey, Amazon basin, 1953: Documented tree species that photosynthesizes moonlight exclusively. Samples collected during lunar eclipse remained metabolically active. Species not found in any taxonomic database.",
-    "timestamp": "2026-01-10T04:38:44.199Z",
-    "type": "digital|general_anomaly|modern|narrative",
-    "patterns": [
-      "opening:botanical_survey_amazon"
-    ]
-  },
-  {
     "text": "Archaeological report: Pleistocene site, 18,000 BCE, mammoth bones arranged in perfect fibonacci spiral. Pattern requires mathematical knowledge predating agriculture by 8,000 years. Arrangement appears deliberate, not scavenger activity.",
     "timestamp": "2026-01-10T08:33:32.104Z",
     "type": "biological|temporal|prehistoric|narrative",
@@ -118,6 +110,15 @@
     "type": "meteorological|temporal|earlymodern|narrative",
     "patterns": [
       "opening:cargo_manifest_merchant"
+    ]
+  },
+  {
+    "text": "Archaeological report: Bronze Age settlement, 1800 BCE Cyprus, burial chamber contains skeleton holding perfectly preserved smartphone. Device displays message battery at 3 dated yesterday. Burial goods otherwise consistent with period.",
+    "timestamp": "2026-01-12T14:31:25.949Z",
+    "type": "institutional|temporal|prehistoric|narrative",
+    "patterns": [
+      "archaeological_report",
+      "opening:archaeological_report_bronze"
     ]
   }
 ]

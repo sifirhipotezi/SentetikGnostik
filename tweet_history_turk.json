@@ -1,14 +1,5 @@
 [
   {
-    "text": "Sinop Cezaevi hasta defteri, 1863: Mahkum vefat etmiş ama her sabah yoklama vermeye devam etmiş. 6 ay boyunca günlük işlerini yapmış. Gardiyanlar rutin vaka olarak kaydetmiş.",
-    "timestamp": "2026-01-10T04:38:48.631Z",
-    "type": "defter|administrative|late_ottoman|narrative|sinop",
-    "patterns": [
-      "defter",
-      "opening:sinop_cezaevi_hasta"
-    ]
-  },
-  {
     "text": "Trabzon Ayasofya kazısı, 1961: Bizans freskinde jet uçağı tasviri bulunmuş. Pigmentler MS 6. yüzyıla ait. Kazı raporu kaybolmuş, fresko duvardan çıkarılamıyor.",
     "timestamp": "2026-01-10T08:33:36.522Z",
     "type": "archaeological|temporal|byzantine|narrative|trabzon",
@@ -126,6 +117,14 @@
     "type": "defter|temporal|classical_ottoman|narrative|uskudar",
     "patterns": [
       "opening:üsküdar_mihrimah_sultan"
+    ]
+  },
+  {
+    "text": "Kayseri Hunat Hatun Türbesi nüfus sayımı, 1927: Türbede 12 kişi ikamet ediyor kaydı var. Hepsi 1205 doğumlu. Sayım memuru \"sağlıklılar\" yazmış. İmzalar var.",
+    "timestamp": "2026-01-12T14:31:30.860Z",
+    "type": "census|general_anomaly|early_ottoman|narrative|kayseri",
+    "patterns": [
+      "opening:kayseri_hunat_hatun"
     ]
   }
 ]
