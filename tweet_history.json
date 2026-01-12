@@ -1,14 +1,5 @@
 [
   {
-    "text": "Archaeological report: Pleistocene site, 18,000 BCE, mammoth bones arranged in perfect fibonacci spiral. Pattern requires mathematical knowledge predating agriculture by 8,000 years. Arrangement appears deliberate, not scavenger activity.",
-    "timestamp": "2026-01-10T08:33:32.104Z",
-    "type": "biological|temporal|prehistoric|narrative",
-    "patterns": [
-      "archaeological_report",
-      "opening:archaeological_report_pleistocene"
-    ]
-  },
-  {
     "text": "Structural engineering report, Tower Bridge 1894: Bridge calculates its own stress loads. Blueprints contain handwritten notes in Victorian cursive predicting traffic patterns through 2089. Notes are 97 accurate to date.",
     "timestamp": "2026-01-10T10:27:00.149Z",
     "type": "institutional|temporal|industrial|narrative",
@@ -119,6 +110,14 @@
     "patterns": [
       "archaeological_report",
       "opening:archaeological_report_bronze"
+    ]
+  },
+  {
+    "text": "Traffic surveillance footage from Prague, December 1989: Taxi cab appears at intersection for 47 consecutive frames traveling same route. License plate changes each frame. Final plate number issued in 2003 to vehicle that never existed.",
+    "timestamp": "2026-01-12T18:40:10.957Z",
+    "type": "general_source|ontological|modern|narrative",
+    "patterns": [
+      "opening:traffic_surveillance_footage"
     ]
   }
 ]

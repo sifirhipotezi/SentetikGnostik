@@ -1,14 +1,5 @@
 [
   {
-    "text": "Trabzon Ayasofya kazısı, 1961: Bizans freskinde jet uçağı tasviri bulunmuş. Pigmentler MS 6. yüzyıla ait. Kazı raporu kaybolmuş, fresko duvardan çıkarılamıyor.",
-    "timestamp": "2026-01-10T08:33:36.522Z",
-    "type": "archaeological|temporal|byzantine|narrative|trabzon",
-    "patterns": [
-      "bizans",
-      "opening:trabzon_ayasofya_kazısı"
-    ]
-  },
-  {
     "text": "Edirne Selimiye Camii imam kayıtları, 1574: Minberden okunan hutbe yankılanıp 3 gün sonra tekrar duyulmuş. Cemaat ikinci hutbeyi de dinlemiş. Müezzin \"ses gecikmesi\" diye not almış.",
     "timestamp": "2026-01-10T10:27:04.999Z",
     "type": "defter|temporal|classical_ottoman|narrative|edirne",
@@ -125,6 +116,14 @@
     "type": "census|general_anomaly|early_ottoman|narrative|kayseri",
     "patterns": [
       "opening:kayseri_hunat_hatun"
+    ]
+  },
+  {
+    "text": "Galata Kulesi meteoroloji gözlemi, 1632: Kar yağışı yukarı doğru düştüğü kaydedilmiş. Rasıt \"taneler gökyüzüne çıkıyor\" yazmış. Ertesi gün normal kar yağmış. Rapor Divan'a sunulmuş.",
+    "timestamp": "2026-01-12T18:40:15.985Z",
+    "type": "architectural|general_anomaly|classical_ottoman|narrative|beyoglu",
+    "patterns": [
+      "opening:galata_kulesi_meteoroloji"
     ]
   }
 ]
