@@ -1,14 +1,5 @@
 [
   {
-    "text": "Bursa Ulu Camii vaiz kayıtları, 1399: Cuma hutbesi sırasında cemaat toplu olarak Osmanlıca yerine Türkçe konuşmaya başlamış. Modern Türkçe kullanmışlar. Vaiz olayı normal karşılamış.",
-    "timestamp": "2026-01-09T14:30:55.832Z",
-    "type": "defter|spatial|early_ottoman|narrative|bursa",
-    "patterns": [
-      "osmanli",
-      "opening:bursa_ulu_camii"
-    ]
-  },
-  {
     "text": "Kastamonu nüfus sayımı, 1927: Bir mahallede yaşayan 340 kişinin hepsi aynı günde doğmuş. Farklı ailelerden, farklı yaşlarda görünüyorlar. Nüfus memuru \"sıradan kayıt\" diye not düşmüş.",
     "timestamp": "2026-01-09T18:40:42.712Z",
     "type": "defter|general_anomaly|republican|narrative|unspecified_location",
@@ -126,6 +117,15 @@
     "type": "architectural|general_anomaly|classical_ottoman|narrative|edirne",
     "patterns": [
       "opening:edirne_selimiye_camii"
+    ]
+  },
+  {
+    "text": "Trabzon limanı gümrük kayıtları, 1876: Aynı Rus tüccar gemisi hem giriş hem çıkış yapmış, aynı gün. İki ayrı memur imzalamış. Gemi tekti, yük aynıydı. Muhasebe kayıtları tutmuş.",
+    "timestamp": "2026-01-12T04:54:54.667Z",
+    "type": "defter|memorial|late_ottoman|narrative|trabzon",
+    "patterns": [
+      "imza",
+      "opening:trabzon_limanı_gümrük"
     ]
   }
 ]

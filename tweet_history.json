@@ -1,13 +1,5 @@
 [
   {
-    "text": "Crossreference anomaly: Magna Carta signed 1215 contains clause about digital privacy rights. Parchment authentic, ink periodcorrect. Clause written in Middle English that won't develop for 200 years.",
-    "timestamp": "2026-01-09T14:30:49.252Z",
-    "type": "manuscript|temporal|medieval|narrative",
-    "patterns": [
-      "opening:crossreference_anomaly_magna"
-    ]
-  },
-  {
     "text": "Census data, rural Montana, 1892: Population listed as 2,847 residents plus one theoretical carpenter. Town records show no carpenter employed, but all buildings display perfect joinery. Theoretical carpenter filed tax return annually throu",
     "timestamp": "2026-01-09T18:40:36.846Z",
     "type": "municipal|bureaucratic|industrial|narrative",
@@ -118,6 +110,14 @@
     "type": "manuscript|ontological|earlymodern|narrative",
     "patterns": [
       "opening:crossreference_error_theater"
+    ]
+  },
+  {
+    "text": "Geological survey, Mount Vesuvius 79 CE: Ash layer from eruption contains vinyl record fragments. Recording is Pompeian street musician performing song that won't be composed until 1967. Audio quality remains pristine.",
+    "timestamp": "2026-01-12T04:54:49.718Z",
+    "type": "geological|stratigraphic|modern|narrative",
+    "patterns": [
+      "opening:geological_survey_mount"
     ]
   }
 ]
