@@ -1,13 +1,5 @@
 [
   {
-    "text": "Kastamonu nüfus sayımı, 1927: Bir mahallede yaşayan 340 kişinin hepsi aynı günde doğmuş. Farklı ailelerden, farklı yaşlarda görünüyorlar. Nüfus memuru \"sıradan kayıt\" diye not düşmüş.",
-    "timestamp": "2026-01-09T18:40:42.712Z",
-    "type": "defter|general_anomaly|republican|narrative|unspecified_location",
-    "patterns": [
-      "opening:kastamonu_nüfus_sayımı"
-    ]
-  },
-  {
     "text": "İzmir Kemeraltı Çarşısı esnaf sicili, 1876: Dükkanların gece kendiliğinden yer değiştirdiği belgelenmiş. Esnaf sabah farklı sokakta dükkanını bulmuş. Lonca başı \"mevsimlik hareket\" diye açıklamış.",
     "timestamp": "2026-01-09T20:31:22.936Z",
     "type": "defter|spatial|late_ottoman|narrative|unspecified_location",
@@ -126,6 +118,15 @@
     "patterns": [
       "imza",
       "opening:trabzon_limanı_gümrük"
+    ]
+  },
+  {
+    "text": "İzmir arkeoloji müzesi deposu, 1973: Roma dönemi amphorada plastik kapak bulundu. Seramik MS 200, kapak 20. yüzyıl üretimi. Amphora kırılmadan çıkarıldı. Dosya kayıp.",
+    "timestamp": "2026-01-12T08:39:47.926Z",
+    "type": "general_source|temporal|republican|narrative|unspecified_location",
+    "patterns": [
+      "kayboldu",
+      "opening:izmir_arkeoloji_müzesi"
     ]
   }
 ]

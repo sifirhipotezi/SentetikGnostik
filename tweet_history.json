@@ -1,13 +1,5 @@
 [
   {
-    "text": "Census data, rural Montana, 1892: Population listed as 2,847 residents plus one theoretical carpenter. Town records show no carpenter employed, but all buildings display perfect joinery. Theoretical carpenter filed tax return annually throu",
-    "timestamp": "2026-01-09T18:40:36.846Z",
-    "type": "municipal|bureaucratic|industrial|narrative",
-    "patterns": [
-      "opening:census_data_rural"
-    ]
-  },
-  {
     "text": "Dental records from Pompeii victim show orthodontic work completed in 1987. Victim died 79 CE. Brackets are titanium alloy, wisdom teeth removed with laser precision. No anachronistic materials found elsewhere in remains.",
     "timestamp": "2026-01-09T20:31:17.915Z",
     "type": "general_source|temporal|modern|narrative",
@@ -118,6 +110,14 @@
     "type": "geological|stratigraphic|modern|narrative",
     "patterns": [
       "opening:geological_survey_mount"
+    ]
+  },
+  {
+    "text": "Hospital intake records, St. Bartholomew's 1348: Patient admitted with plague symptoms recovers after consuming bread that won't be invented until 1928. Baker listed as Wilhelm Sliced no such person in guild registry.",
+    "timestamp": "2026-01-12T08:39:43.301Z",
+    "type": "municipal|temporal|medieval|narrative",
+    "patterns": [
+      "opening:hospital_intake_records"
     ]
   }
 ]
