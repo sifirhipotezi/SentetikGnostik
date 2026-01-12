@@ -1,13 +1,5 @@
 [
   {
-    "text": "Structural engineering report, Tower Bridge 1894: Bridge calculates its own stress loads. Blueprints contain handwritten notes in Victorian cursive predicting traffic patterns through 2089. Notes are 97 accurate to date.",
-    "timestamp": "2026-01-10T10:27:00.149Z",
-    "type": "institutional|temporal|industrial|narrative",
-    "patterns": [
-      "opening:structural_engineering_report"
-    ]
-  },
-  {
     "text": "Weather station logs, Nome Alaska, February 1987: Recorded aurora borealis displaying in geometric patterns that spell out grocery lists in Sumerian. Lists include items not available until 1994. All items were eventually purchased.",
     "timestamp": "2026-01-10T14:24:59.171Z",
     "type": "meteorological|ontological|ancient|narrative",
@@ -118,6 +110,14 @@
     "type": "general_source|ontological|modern|narrative",
     "patterns": [
       "opening:traffic_surveillance_footage"
+    ]
+  },
+  {
+    "text": "Insect specimen collection, University of Edinburgh 1823: Butterfly pinned to display board continues laying eggs. Eggs hatch into butterflies that immediately fly into past tense. Collection case now contains 847 identical specimens from s",
+    "timestamp": "2026-01-12T20:30:44.277Z",
+    "type": "institutional|temporal|industrial|narrative",
+    "patterns": [
+      "opening:insect_specimen_collection"
     ]
   }
 ]

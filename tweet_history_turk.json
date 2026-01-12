@@ -1,13 +1,5 @@
 [
   {
-    "text": "Edirne Selimiye Camii imam kayıtları, 1574: Minberden okunan hutbe yankılanıp 3 gün sonra tekrar duyulmuş. Cemaat ikinci hutbeyi de dinlemiş. Müezzin \"ses gecikmesi\" diye not almış.",
-    "timestamp": "2026-01-10T10:27:04.999Z",
-    "type": "defter|temporal|classical_ottoman|narrative|edirne",
-    "patterns": [
-      "opening:edirne_selimiye_camii"
-    ]
-  },
-  {
     "text": "İstanbul Galata Kulesi meteoroloji kayıtları, 1923: Aynı günde 4 farklı mevsim gözlemlenmiş. Sabah kar, öğle tropikal yağmur, akşam sonbahar yaprakları. Rasıt \"normal değişkenlik\" yazmış.",
     "timestamp": "2026-01-10T14:25:03.820Z",
     "type": "defter|general_anomaly|republican|narrative|beyoglu",
@@ -124,6 +116,15 @@
     "type": "architectural|general_anomaly|classical_ottoman|narrative|beyoglu",
     "patterns": [
       "opening:galata_kulesi_meteoroloji"
+    ]
+  },
+  {
+    "text": "Van Gölü çevresinde 1071 Malazgirt Savaşı öncesi Türk mezarlığı bulundu. 200 mezar, hepsi savaştan 50 yıl önce. Kitabeler Osmanlı Türkçesi. Arkeologlar sessiz kaldı.",
+    "timestamp": "2026-01-12T20:30:51.797Z",
+    "type": "archaeological|temporal|unspecified_era|narrative|van",
+    "patterns": [
+      "osmanli",
+      "opening:van_gölü_çevresinde"
     ]
   }
 ]
