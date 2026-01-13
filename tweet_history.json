@@ -1,13 +1,5 @@
 [
   {
-    "text": "Personal diary, recovered from Vesuvius ash layer 79 CE: Final entry describes author's plans for weekend in Pompeii. Handwriting analysis confirms authenticity. Diary was written on paper manufactured in 1923.",
-    "timestamp": "2026-01-10T20:29:07.513Z",
-    "type": "manuscript|bureaucratic|modern|narrative",
-    "patterns": [
-      "opening:personal_diary_recovered"
-    ]
-  },
-  {
     "text": "Excavation in Mesopotamia, 2400 BCE site, recovered clay cylinder seal depicting standardized shipping barcode. Seal impression found on grain jars throughout region. Modern scanner reads as PRODUCT NOT FOUND.",
     "timestamp": "2026-01-11T04:52:52.245Z",
     "type": "meteorological|general_anomaly|prehistoric|narrative",
@@ -118,6 +110,14 @@
     "type": "municipal|temporal|unspecified_era|narrative",
     "patterns": [
       "opening:census_record_pompeii"
+    ]
+  },
+  {
+    "text": "Medical examiner's report, Boston 1892: Autopsy reveals deceased's heart contains fully formed pocket watch keeping accurate time. Watch face displays date of patient's birth. Mechanism appears to be counting backward to zero.",
+    "timestamp": "2026-01-13T10:31:04.996Z",
+    "type": "biological|temporal|industrial|narrative",
+    "patterns": [
+      "opening:medical_examiners_report"
     ]
   }
 ]
