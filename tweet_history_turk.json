@@ -1,14 +1,5 @@
 [
   {
-    "text": "Van Kalesi arkeoloji raporu, 1967: Urartu duvarında Osmanlıca kitabe bulunmuş. \"Fatih Sultan Mehmet buradan geçti, 1453\" yazıyor. Taş analizleri MÖ 7. yüzyılı gösteriyor. Kazı başkanı sessiz kalmış.",
-    "timestamp": "2026-01-10T18:36:56.454Z",
-    "type": "archaeological|temporal|classical_ottoman|narrative|fatih",
-    "patterns": [
-      "osmanli",
-      "opening:van_kalesi_arkeoloji"
-    ]
-  },
-  {
     "text": "Üsküdar Nüfus Müdürlüğü kayıtları, 1934: Aynı kişi 3 farklı mahallede doğmuş. Üçü de aynı gün, aynı saat. Anne babalar farklı. Kimlik kartı tek, fotoğraf aynı kişiyi gösteriyor.",
     "timestamp": "2026-01-10T20:29:12.095Z",
     "type": "defter|general_anomaly|republican|narrative|uskudar",
@@ -126,6 +117,15 @@
     "patterns": [
       "defter",
       "opening:edirne_selimiye_camii"
+    ]
+  },
+  {
+    "text": "İzmir Kemeraltı Çarşısı esnaf sicili, 1856: Aynı dükkanda 4 farklı berber aynı anda çalışıyor ama mekân tek kişilik. Müşteriler sıra beklememiş. Lonca başı \"verimli gün\" yazmış.",
+    "timestamp": "2026-01-13T08:39:11.626Z",
+    "type": "defter|spatial|late_ottoman|narrative|unspecified_location",
+    "patterns": [
+      "sicil",
+      "opening:izmir_kemeraltı_çarşısı"
     ]
   }
 ]
