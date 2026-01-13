@@ -1,13 +1,5 @@
 [
   {
-    "text": "Sinop Tersanesi gemi inşa kayıtları, 1461: Aynı kadırga hem Karadeniz'de savaşta hem havuzda yapım halinde. Gemi ustası \"ikiz proje\" diye açıklamış. Her iki kadırga da kayıtlarda mevcut.",
-    "timestamp": "2026-01-11T10:27:04.069Z",
-    "type": "defter|general_anomaly|unspecified_era|narrative|sinop",
-    "patterns": [
-      "opening:sinop_tersanesi_gemi"
-    ]
-  },
-  {
     "text": "Konya Mevlana Müzesi ziyaretçi defteri, 1951: Bir kişi \"çok güzeldi, 800 yıl sonra tekrar geldim\" yazmış. İmza XIII. yüzyıl Farsça. Müze müdürü kaydı silmemiş.",
     "timestamp": "2026-01-11T14:24:40.073Z",
     "type": "defter|temporal|republican|narrative|konya",
@@ -125,6 +117,14 @@
     "patterns": [
       "defter",
       "opening:bursa_ipek_yolu"
+    ]
+  },
+  {
+    "text": "Van gölü meteoroloji gözlem raporu, 1924: Göl yüzeyinde kar yağarken su sıcaklığı 28 derece ölçülmüş. Balıklar donmuş ama yüzmeye devam etmiş. Rasathaneci \"olağan\" yazmış.",
+    "timestamp": "2026-01-13T20:31:29.989Z",
+    "type": "architectural|general_anomaly|republican|narrative|van",
+    "patterns": [
+      "opening:van_gölü_meteoroloji"
     ]
   }
 ]
