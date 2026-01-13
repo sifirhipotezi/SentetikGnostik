@@ -1,13 +1,5 @@
 [
   {
-    "text": "Medical records, St. Bartholomew's Hospital 1348: Patient treated for plague develops immunity to diseases not yet discovered. Chart notes resistance to influenza variants H1N1 through H7N9. Patient died of consumption in 1349.",
-    "timestamp": "2026-01-11T08:34:05.832Z",
-    "type": "general_source|general_anomaly|medieval|narrative",
-    "patterns": [
-      "opening:medical_records_st"
-    ]
-  },
-  {
     "text": "Architectural survey, Babylon 605 BCE: Hanging Gardens contain irrigation system with PVC joints. Joints show wear patterns consistent with 2,000year operation. Original blueprints reference Home Depot.",
     "timestamp": "2026-01-11T10:26:59.753Z",
     "type": "general_source|temporal|prehistoric|narrative",
@@ -119,6 +111,14 @@
     "patterns": [
       "chemical_analysis",
       "opening:municipal_water_records"
+    ]
+  },
+  {
+    "text": "Archaeological survey, Çatalhöyük 6500 BCE: Settlement layout matches Manhattan street grid with 97 accuracy. Excavated hearths align perfectly with subway stations that won't exist for 8,000 years. No explanation in site notes.",
+    "timestamp": "2026-01-13T18:38:36.095Z",
+    "type": "archaeological|temporal|prehistoric|narrative",
+    "patterns": [
+      "opening:archaeological_survey_atalhyk"
     ]
   }
 ]

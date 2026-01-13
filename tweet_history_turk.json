@@ -1,15 +1,5 @@
 [
   {
-    "text": "Kayseri Sivas yolu kilometre taşı, 1928: 47. km'de duruyor ama yol sadece 23 km. Taş gerçek granit, Cumhuriyet arması otantik. Karayolları memuru \"fazla taş zarar vermez\" demiş.",
-    "timestamp": "2026-01-11T08:34:10.879Z",
-    "type": "general_source|general_anomaly|republican|narrative|sivas",
-    "patterns": [
-      "otantik",
-      "cumhuriyet",
-      "opening:kayseri_sivas_yolu"
-    ]
-  },
-  {
     "text": "Sinop Tersanesi gemi inşa kayıtları, 1461: Aynı kadırga hem Karadeniz'de savaşta hem havuzda yapım halinde. Gemi ustası \"ikiz proje\" diye açıklamış. Her iki kadırga da kayıtlarda mevcut.",
     "timestamp": "2026-01-11T10:27:04.069Z",
     "type": "defter|general_anomaly|unspecified_era|narrative|sinop",
@@ -126,6 +116,15 @@
     "type": "census|temporal|early_ottoman|narrative|uskudar",
     "patterns": [
       "opening:üsküdar_nüfus_sayımı"
+    ]
+  },
+  {
+    "text": "Bursa İpek Yolu gümrük defteri, 1482: Konstantinopolis'ten gelen tüccar Byzantine altını ödemiş ama şehir 29 yıl önce düştü. Altınlar taze basım. Gümrük emini kabul etmiş.",
+    "timestamp": "2026-01-13T18:38:41.226Z",
+    "type": "defter|temporal|byzantine|narrative|istanbul",
+    "patterns": [
+      "defter",
+      "opening:bursa_ipek_yolu"
     ]
   }
 ]
