@@ -1,13 +1,5 @@
 [
   {
-    "text": "Excavation in Mesopotamia, 2400 BCE site, recovered clay cylinder seal depicting standardized shipping barcode. Seal impression found on grain jars throughout region. Modern scanner reads as PRODUCT NOT FOUND.",
-    "timestamp": "2026-01-11T04:52:52.245Z",
-    "type": "meteorological|general_anomaly|prehistoric|narrative",
-    "patterns": [
-      "opening:excavation_in_mesopotamia"
-    ]
-  },
-  {
     "text": "Medical records, St. Bartholomew's Hospital 1348: Patient treated for plague develops immunity to diseases not yet discovered. Chart notes resistance to influenza variants H1N1 through H7N9. Patient died of consumption in 1349.",
     "timestamp": "2026-01-11T08:34:05.832Z",
     "type": "general_source|general_anomaly|medieval|narrative",
@@ -118,6 +110,15 @@
     "type": "biological|temporal|industrial|narrative",
     "patterns": [
       "opening:medical_examiners_report"
+    ]
+  },
+  {
+    "text": "Municipal water records, Phoenix 1973: Resident complaints of tap water tasting like childhood summers. Chemical analysis confirms H2O contains trace amounts of bicycle bells, scraped knees, and the exact temperature of grandmother's kitche",
+    "timestamp": "2026-01-13T14:31:15.452Z",
+    "type": "municipal|general_anomaly|modern|narrative",
+    "patterns": [
+      "chemical_analysis",
+      "opening:municipal_water_records"
     ]
   }
 ]

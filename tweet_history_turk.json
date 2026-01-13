@@ -1,14 +1,5 @@
 [
   {
-    "text": "Bursa İpek Hanı ticaret sicili, 1487: Aynı ipek balya hem Semerkant'a satılmış hem depoda duruyor. Muhasebeci çifte kayıt için özür dilemiş. Balya hâlâ her iki yerde.",
-    "timestamp": "2026-01-11T04:52:56.891Z",
-    "type": "defter|spatial|unspecified_era|narrative|bursa",
-    "patterns": [
-      "sicil",
-      "opening:bursa_ipek_hanı"
-    ]
-  },
-  {
     "text": "Kayseri Sivas yolu kilometre taşı, 1928: 47. km'de duruyor ama yol sadece 23 km. Taş gerçek granit, Cumhuriyet arması otantik. Karayolları memuru \"fazla taş zarar vermez\" demiş.",
     "timestamp": "2026-01-11T08:34:10.879Z",
     "type": "general_source|general_anomaly|republican|narrative|sivas",
@@ -127,6 +118,14 @@
     "patterns": [
       "bizans",
       "opening:trabzon_ayasofya_camii"
+    ]
+  },
+  {
+    "text": "Üsküdar nüfus sayımı, 1327 Rumî: Aynı evde 3 nesil yaşıyor ama hepsi aynı yaşta görünüyor. Sayım memuru \"zaman durmuş\" yazmış. Aile normal yaşlanmaya devam etmiş.",
+    "timestamp": "2026-01-13T14:31:19.803Z",
+    "type": "census|temporal|early_ottoman|narrative|uskudar",
+    "patterns": [
+      "opening:üsküdar_nüfus_sayımı"
     ]
   }
 ]
