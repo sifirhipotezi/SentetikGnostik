@@ -1,13 +1,5 @@
 [
   {
-    "text": "Crossreference error: Theater program from Globe playhouse 1599 lists Hamlet with alternate ending where Ophelia survives, becomes Queen of Denmark. No manuscript of this version exists. Three audience members' letters describe identical sc",
-    "timestamp": "2026-01-11T20:29:36.520Z",
-    "type": "manuscript|ontological|earlymodern|narrative",
-    "patterns": [
-      "opening:crossreference_error_theater"
-    ]
-  },
-  {
     "text": "Geological survey, Mount Vesuvius 79 CE: Ash layer from eruption contains vinyl record fragments. Recording is Pompeian street musician performing song that won't be composed until 1967. Audio quality remains pristine.",
     "timestamp": "2026-01-12T04:54:49.718Z",
     "type": "geological|stratigraphic|modern|narrative",
@@ -119,6 +111,14 @@
     "type": "digital|spatial|earlymodern|narrative",
     "patterns": [
       "opening:personnel_file_east"
+    ]
+  },
+  {
+    "text": "Census data, Roman Britain 212 CE: Population count includes 847 residents listed as temporarily elsewhere when. Enumerators noted subjects were physically present but experientially absent. Column for when left blank in all cases.",
+    "timestamp": "2026-01-14T10:32:26.032Z",
+    "type": "municipal|bureaucratic|unspecified_era|narrative",
+    "patterns": [
+      "opening:census_data_roman"
     ]
   }
 ]

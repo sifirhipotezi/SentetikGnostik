@@ -1,13 +1,5 @@
 [
   {
-    "text": "Edirne Selimiye Camii restorasyonu, 1965: Mimar Sinan'ın el yazısıyla not bulundu. \"Bu kubbeyi 1574'te yenileyeceğim\" yazıyor. Sinan 1588'de ölmüştü. Kağıt analizi 1960'ları gösteriyor.",
-    "timestamp": "2026-01-11T20:29:41.255Z",
-    "type": "architectural|general_anomaly|classical_ottoman|narrative|edirne",
-    "patterns": [
-      "opening:edirne_selimiye_camii"
-    ]
-  },
-  {
     "text": "Trabzon limanı gümrük kayıtları, 1876: Aynı Rus tüccar gemisi hem giriş hem çıkış yapmış, aynı gün. İki ayrı memur imzalamış. Gemi tekti, yük aynıydı. Muhasebe kayıtları tutmuş.",
     "timestamp": "2026-01-12T04:54:54.667Z",
     "type": "defter|memorial|late_ottoman|narrative|trabzon",
@@ -125,6 +117,16 @@
     "patterns": [
       "defter",
       "opening:konya_mevlana_türbesi"
+    ]
+  },
+  {
+    "text": "İzmir liman fermanı, 1856: Vapurların deniz altından seyahat etmesi emrediliyor. Kaptan Paşa imzalı. Gemi sahipleri \"mümkün değil\" diye itiraz etmemiş. Vapur seferleri aksamamış.",
+    "timestamp": "2026-01-14T10:32:30.665Z",
+    "type": "ferman|memorial|late_ottoman|narrative|unspecified_location",
+    "patterns": [
+      "imza",
+      "ferman",
+      "opening:izmir_liman_fermanı"
     ]
   }
 ]
