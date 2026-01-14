@@ -1,14 +1,5 @@
 [
   {
-    "text": "Konya Mevlana Müzesi ziyaretçi defteri, 1951: Bir kişi \"çok güzeldi, 800 yıl sonra tekrar geldim\" yazmış. İmza XIII. yüzyıl Farsça. Müze müdürü kaydı silmemiş.",
-    "timestamp": "2026-01-11T14:24:40.073Z",
-    "type": "defter|temporal|republican|narrative|konya",
-    "patterns": [
-      "defter",
-      "opening:konya_mevlana_müzesi"
-    ]
-  },
-  {
     "text": "Van Gölü meteoroloji istasyonu raporu, 1889: Kar taneleri yukarı doğru yağmış, 3 saat boyunca. Köylüler doğruluyor. Sıcaklık eksi 12, rüzgar yok. Memur \"tabii hadise\" yazmış.",
     "timestamp": "2026-01-11T18:36:33.291Z",
     "type": "institutional|administrative|late_ottoman|narrative|van",
@@ -125,6 +116,14 @@
     "type": "architectural|general_anomaly|republican|narrative|van",
     "patterns": [
       "opening:van_gölü_meteoroloji"
+    ]
+  },
+  {
+    "text": "Kadıköy liman kayıtları, 1789: Gemiler rıhtıma yanaşmadan yolcu çıkarmış. Deniz üstünde yürüyen 47 kişi. Kaptan \"rüzgar iyi\" yazmış. Yolcular normal karaya çıkmış.",
+    "timestamp": "2026-01-14T04:49:57.417Z",
+    "type": "defter|general_anomaly|late_ottoman|narrative|kadikoy",
+    "patterns": [
+      "opening:kadıköy_liman_kayıtları"
     ]
   }
 ]

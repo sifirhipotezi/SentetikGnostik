@@ -1,13 +1,5 @@
 [
   {
-    "text": "Railway logbook, TransSiberian line 1904: Engineer reports locomotive passed through station that existed only in blueprint stage. Passengers disembarked, purchased tickets for return journey. Station master had been dead since 1891.",
-    "timestamp": "2026-01-11T14:24:35.125Z",
-    "type": "institutional|ontological|industrial|narrative",
-    "patterns": [
-      "opening:railway_logbook_transsiberian"
-    ]
-  },
-  {
     "text": "Census data, Cahokia settlement 1050 CE: Population records list 847 residents who cast shadows pointing north at noon. Standard residents: 12,000. No explanation for photometric deviation. Settlement abandoned by 1100.",
     "timestamp": "2026-01-11T18:36:28.753Z",
     "type": "municipal|anachronistic|unspecified_era|narrative",
@@ -119,6 +111,14 @@
     "type": "manuscript|temporal|modern|narrative",
     "patterns": [
       "opening:weather_station_data"
+    ]
+  },
+  {
+    "text": "Geological survey, Yellowstone 1934: Thermal vent releases steam containing fragments of conversations that won't occur until 2089. Recorded samples include accurate stock predictions and three marriage proposals between people not yet born",
+    "timestamp": "2026-01-14T04:49:50.017Z",
+    "type": "geological|general_anomaly|modern|narrative",
+    "patterns": [
+      "opening:geological_survey_yellowstone"
     ]
   }
 ]
