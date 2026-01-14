@@ -1,13 +1,5 @@
 [
   {
-    "text": "Üsküdar Mihrimah Sultan Camii vakıf kayıtları, 1548: Cuma namazında 847 kişi sayılmış ama cami 300 kişilik. İmam \"sıkışmadılar\" diye not düşmüş. Mütevelli onaylamış.",
-    "timestamp": "2026-01-12T10:32:58.145Z",
-    "type": "defter|temporal|classical_ottoman|narrative|uskudar",
-    "patterns": [
-      "opening:üsküdar_mihrimah_sultan"
-    ]
-  },
-  {
     "text": "Kayseri Hunat Hatun Türbesi nüfus sayımı, 1927: Türbede 12 kişi ikamet ediyor kaydı var. Hepsi 1205 doğumlu. Sayım memuru \"sağlıklılar\" yazmış. İmzalar var.",
     "timestamp": "2026-01-12T14:31:30.860Z",
     "type": "census|general_anomaly|early_ottoman|narrative|kayseri",
@@ -125,6 +117,14 @@
     "type": "defter|temporal|classical_ottoman|narrative|bursa",
     "patterns": [
       "opening:bursa_ipek_tüccarları"
+    ]
+  },
+  {
+    "text": "Van gölü meteoroloji raporu, 1924: Göl suyu bir gece boyunca yukarı doğru akmış. Balıklar havada yüzmüş. Sabah her şey normale dönmüş. Meteoroloji müdürü \"olağan hava durumu\" kaydetmiş.",
+    "timestamp": "2026-01-14T20:27:48.772Z",
+    "type": "meteorological|general_anomaly|republican|narrative|van",
+    "patterns": [
+      "opening:van_gölü_meteoroloji"
     ]
   }
 ]

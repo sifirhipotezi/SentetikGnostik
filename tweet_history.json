@@ -1,13 +1,5 @@
 [
   {
-    "text": "Cargo manifest, merchant vessel Windrose 1693: Ship carried 47 barrels of whale oil that burned with cold flame, froze water instead of boiling it. Crew used it for refrigeration. Oil extracted from whales that swim backwards through time.",
-    "timestamp": "2026-01-12T10:32:53.142Z",
-    "type": "meteorological|temporal|earlymodern|narrative",
-    "patterns": [
-      "opening:cargo_manifest_merchant"
-    ]
-  },
-  {
     "text": "Archaeological report: Bronze Age settlement, 1800 BCE Cyprus, burial chamber contains skeleton holding perfectly preserved smartphone. Device displays message battery at 3 dated yesterday. Burial goods otherwise consistent with period.",
     "timestamp": "2026-01-12T14:31:25.949Z",
     "type": "institutional|temporal|prehistoric|narrative",
@@ -119,6 +111,15 @@
     "type": "institutional|spatial|industrial|narrative",
     "patterns": [
       "opening:autopsy_report_vienna"
+    ]
+  },
+  {
+    "text": "Archaeological report: Pleistocene site, 40,000 BCE, contains Neanderthal burial with grave goods including obsidian blade, mammoth ivory, and laminated employee ID badge from Blockbuster Video. Badge expires 2004.",
+    "timestamp": "2026-01-14T20:27:40.700Z",
+    "type": "institutional|general_anomaly|prehistoric|narrative",
+    "patterns": [
+      "archaeological_report",
+      "opening:archaeological_report_pleistocene"
     ]
   }
 ]
