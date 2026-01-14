@@ -1,14 +1,5 @@
 [
   {
-    "text": "İzmir arkeoloji müzesi deposu, 1973: Roma dönemi amphorada plastik kapak bulundu. Seramik MS 200, kapak 20. yüzyıl üretimi. Amphora kırılmadan çıkarıldı. Dosya kayıp.",
-    "timestamp": "2026-01-12T08:39:47.926Z",
-    "type": "general_source|temporal|republican|narrative|unspecified_location",
-    "patterns": [
-      "kayboldu",
-      "opening:izmir_arkeoloji_müzesi"
-    ]
-  },
-  {
     "text": "Üsküdar Mihrimah Sultan Camii vakıf kayıtları, 1548: Cuma namazında 847 kişi sayılmış ama cami 300 kişilik. İmam \"sıkışmadılar\" diye not düşmüş. Mütevelli onaylamış.",
     "timestamp": "2026-01-12T10:32:58.145Z",
     "type": "defter|temporal|classical_ottoman|narrative|uskudar",
@@ -126,6 +117,14 @@
     "type": "defter|temporal|unspecified_era|narrative|ankara",
     "patterns": [
       "opening:edirne_medrese_kayıtları"
+    ]
+  },
+  {
+    "text": "Bursa ipek tüccarları kayıtları, 1511: İpek böcekleri kendi kendine sarmal yapıp bez dokmuş. Tezgah kullanılmamış. Kalite mükemmel çıkmış. Lonca ahi bey \"bereketli yıl\" demiş.",
+    "timestamp": "2026-01-14T18:41:16.265Z",
+    "type": "defter|temporal|classical_ottoman|narrative|bursa",
+    "patterns": [
+      "opening:bursa_ipek_tüccarları"
     ]
   }
 ]

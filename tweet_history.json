@@ -1,13 +1,5 @@
 [
   {
-    "text": "Hospital intake records, St. Bartholomew's 1348: Patient admitted with plague symptoms recovers after consuming bread that won't be invented until 1928. Baker listed as Wilhelm Sliced no such person in guild registry.",
-    "timestamp": "2026-01-12T08:39:43.301Z",
-    "type": "municipal|temporal|medieval|narrative",
-    "patterns": [
-      "opening:hospital_intake_records"
-    ]
-  },
-  {
     "text": "Cargo manifest, merchant vessel Windrose 1693: Ship carried 47 barrels of whale oil that burned with cold flame, froze water instead of boiling it. Crew used it for refrigeration. Oil extracted from whales that swim backwards through time.",
     "timestamp": "2026-01-12T10:32:53.142Z",
     "type": "meteorological|temporal|earlymodern|narrative",
@@ -119,6 +111,14 @@
     "type": "manuscript|bureaucratic|industrial|narrative",
     "patterns": [
       "opening:dream_journal_recovered"
+    ]
+  },
+  {
+    "text": "Autopsy report, Vienna 1902: Subject died of temporal displacement syndrome. Internal organs aged at different rates heart from 1902, lungs from 1847, liver from 1923. Coroner noted patient was still breathing during examination.",
+    "timestamp": "2026-01-14T18:41:11.126Z",
+    "type": "institutional|spatial|industrial|narrative",
+    "patterns": [
+      "opening:autopsy_report_vienna"
     ]
   }
 ]
