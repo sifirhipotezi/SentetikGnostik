@@ -1,13 +1,5 @@
 [
   {
-    "text": "Geological survey, Mount Vesuvius 79 CE: Ash layer from eruption contains vinyl record fragments. Recording is Pompeian street musician performing song that won't be composed until 1967. Audio quality remains pristine.",
-    "timestamp": "2026-01-12T04:54:49.718Z",
-    "type": "geological|stratigraphic|modern|narrative",
-    "patterns": [
-      "opening:geological_survey_mount"
-    ]
-  },
-  {
     "text": "Hospital intake records, St. Bartholomew's 1348: Patient admitted with plague symptoms recovers after consuming bread that won't be invented until 1928. Baker listed as Wilhelm Sliced no such person in guild registry.",
     "timestamp": "2026-01-12T08:39:43.301Z",
     "type": "municipal|temporal|medieval|narrative",
@@ -119,6 +111,14 @@
     "type": "municipal|bureaucratic|unspecified_era|narrative",
     "patterns": [
       "opening:census_data_roman"
+    ]
+  },
+  {
+    "text": "Dream journal recovered from Pompeii ash, 79 CE: Final entry describes escaping the eruption via subway system. Detailed map of underground tunnels matches 1884 London plans exactly. Journal owner died in house.",
+    "timestamp": "2026-01-14T14:31:06.850Z",
+    "type": "manuscript|bureaucratic|industrial|narrative",
+    "patterns": [
+      "opening:dream_journal_recovered"
     ]
   }
 ]
