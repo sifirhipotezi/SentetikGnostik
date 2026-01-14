@@ -1,13 +1,5 @@
 [
   {
-    "text": "Census data, Cahokia settlement 1050 CE: Population records list 847 residents who cast shadows pointing north at noon. Standard residents: 12,000. No explanation for photometric deviation. Settlement abandoned by 1100.",
-    "timestamp": "2026-01-11T18:36:28.753Z",
-    "type": "municipal|anachronistic|unspecified_era|narrative",
-    "patterns": [
-      "opening:census_data_cahokia"
-    ]
-  },
-  {
     "text": "Crossreference error: Theater program from Globe playhouse 1599 lists Hamlet with alternate ending where Ophelia survives, becomes Queen of Denmark. No manuscript of this version exists. Three audience members' letters describe identical sc",
     "timestamp": "2026-01-11T20:29:36.520Z",
     "type": "manuscript|ontological|earlymodern|narrative",
@@ -119,6 +111,14 @@
     "type": "geological|general_anomaly|modern|narrative",
     "patterns": [
       "opening:geological_survey_yellowstone"
+    ]
+  },
+  {
+    "text": "Personnel file, East India Company 1742: Clerk recorded as having died of nostalgia for places that do not exist. Death certificate signed by physician who won't be born until 1823. Clerk's position remains officially unfilled.",
+    "timestamp": "2026-01-14T08:37:56.132Z",
+    "type": "digital|spatial|earlymodern|narrative",
+    "patterns": [
+      "opening:personnel_file_east"
     ]
   }
 ]
