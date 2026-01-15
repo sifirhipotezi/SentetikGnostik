@@ -1,13 +1,5 @@
 [
   {
-    "text": "Traffic surveillance footage from Prague, December 1989: Taxi cab appears at intersection for 47 consecutive frames traveling same route. License plate changes each frame. Final plate number issued in 2003 to vehicle that never existed.",
-    "timestamp": "2026-01-12T18:40:10.957Z",
-    "type": "general_source|ontological|modern|narrative",
-    "patterns": [
-      "opening:traffic_surveillance_footage"
-    ]
-  },
-  {
     "text": "Insect specimen collection, University of Edinburgh 1823: Butterfly pinned to display board continues laying eggs. Eggs hatch into butterflies that immediately fly into past tense. Collection case now contains 847 identical specimens from s",
     "timestamp": "2026-01-12T20:30:44.277Z",
     "type": "institutional|temporal|industrial|narrative",
@@ -119,6 +111,14 @@
     "type": "digital|general_anomaly|medieval|narrative",
     "patterns": [
       "opening:personal_diary_merchants"
+    ]
+  },
+  {
+    "text": "Botanical survey, Amazon basin 1889: Vine specimens collected exhibited temporal growth rings spanning centuries within hours. Pressed samples aged backward in herbarium. Original collector found saplings he planted had become ancient trees",
+    "timestamp": "2026-01-15T08:38:32.957Z",
+    "type": "paleontological|general_anomaly|industrial|narrative",
+    "patterns": [
+      "opening:botanical_survey_amazon"
     ]
   }
 ]

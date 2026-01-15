@@ -1,13 +1,5 @@
 [
   {
-    "text": "Galata Kulesi meteoroloji gözlemi, 1632: Kar yağışı yukarı doğru düştüğü kaydedilmiş. Rasıt \"taneler gökyüzüne çıkıyor\" yazmış. Ertesi gün normal kar yağmış. Rapor Divan'a sunulmuş.",
-    "timestamp": "2026-01-12T18:40:15.985Z",
-    "type": "architectural|general_anomaly|classical_ottoman|narrative|beyoglu",
-    "patterns": [
-      "opening:galata_kulesi_meteoroloji"
-    ]
-  },
-  {
     "text": "Van Gölü çevresinde 1071 Malazgirt Savaşı öncesi Türk mezarlığı bulundu. 200 mezar, hepsi savaştan 50 yıl önce. Kitabeler Osmanlı Türkçesi. Arkeologlar sessiz kaldı.",
     "timestamp": "2026-01-12T20:30:51.797Z",
     "type": "archaeological|temporal|unspecified_era|narrative|van",
@@ -126,6 +118,14 @@
     "patterns": [
       "sicil",
       "opening:sinop_denizcilik_sicili"
+    ]
+  },
+  {
+    "text": "Kayseri nüfus sayımı, 1927: Aynı kişi üç farklı mahallede kayıtlı. Üçü de aynı gün doğmuş, aynı meslek. Memur \"ikizler olabilir\" not düşmüş. Kişi tek çocukmuş.",
+    "timestamp": "2026-01-15T08:38:38.647Z",
+    "type": "defter|general_anomaly|republican|narrative|kayseri",
+    "patterns": [
+      "opening:kayseri_nüfus_sayımı"
     ]
   }
 ]
