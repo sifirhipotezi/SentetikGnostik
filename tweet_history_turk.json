@@ -1,14 +1,5 @@
 [
   {
-    "text": "Edirne Selimiye Camii imam defteri, 1591: Cuma hutbesi 3 saat sürmüş ama cemaat sadece 20 dakika dinlemiş. \"Zaman yavaşladı\" notu var. Vaiz şikayet etmemiş.",
-    "timestamp": "2026-01-13T04:45:35.454Z",
-    "type": "defter|temporal|classical_ottoman|narrative|edirne",
-    "patterns": [
-      "defter",
-      "opening:edirne_selimiye_camii"
-    ]
-  },
-  {
     "text": "İzmir Kemeraltı Çarşısı esnaf sicili, 1856: Aynı dükkanda 4 farklı berber aynı anda çalışıyor ama mekân tek kişilik. Müşteriler sıra beklememiş. Lonca başı \"verimli gün\" yazmış.",
     "timestamp": "2026-01-13T08:39:11.626Z",
     "type": "defter|spatial|late_ottoman|narrative|unspecified_location",
@@ -126,6 +117,16 @@
     "patterns": [
       "defter",
       "opening:sivas_astronomi_rasathanesi"
+    ]
+  },
+  {
+    "text": "Üsküdar kadı sicili, 1588: Bir köprü inşaatı için ferman çıkmış ama köprü zaten varmış. Ustalar \"yeniden inşa\" diye aynı köprüyü tekrar yapmış. İki köprü üst üste durmuş.",
+    "timestamp": "2026-01-15T14:30:53.465Z",
+    "type": "ferman|general_anomaly|classical_ottoman|narrative|uskudar",
+    "patterns": [
+      "ferman",
+      "sicil",
+      "opening:üsküdar_kadı_sicili"
     ]
   }
 ]

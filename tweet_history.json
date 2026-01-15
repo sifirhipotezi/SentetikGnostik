@@ -1,13 +1,5 @@
 [
   {
-    "text": "Personal diary, housewife in Toledo 1955: The shadows in my kitchen point toward tomorrow instead of away from the sun. Made coffee using tomorrow's shadow it tastes like regret and knows things I haven't done yet.",
-    "timestamp": "2026-01-13T04:45:31.069Z",
-    "type": "architectural|general_anomaly|modern|narrative",
-    "patterns": [
-      "opening:personal_diary_housewife"
-    ]
-  },
-  {
     "text": "Census record, Pompeii 78 CE: Lists family of four plus the man who arrives every Thursday to warn us. Enumerator notes subject speaks only future tense, wears clothing that hasn't been invented yet.",
     "timestamp": "2026-01-13T08:39:06.753Z",
     "type": "municipal|temporal|unspecified_era|narrative",
@@ -119,6 +111,14 @@
     "type": "architectural|general_anomaly|earlymodern|narrative",
     "patterns": [
       "opening:shipping_manifest_port"
+    ]
+  },
+  {
+    "text": "Census data, Rome 73 CE: Population count includes 847 citizens listed as temporarily deceased. Tax records show they continued paying property levies. Burial registry has no corresponding entries.",
+    "timestamp": "2026-01-15T14:30:49.057Z",
+    "type": "municipal|general_anomaly|unspecified_era|narrative",
+    "patterns": [
+      "opening:census_data_rome"
     ]
   }
 ]
