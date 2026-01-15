@@ -1,13 +1,5 @@
 [
   {
-    "text": "Census record, Pompeii 78 CE: Lists family of four plus the man who arrives every Thursday to warn us. Enumerator notes subject speaks only future tense, wears clothing that hasn't been invented yet.",
-    "timestamp": "2026-01-13T08:39:06.753Z",
-    "type": "municipal|temporal|unspecified_era|narrative",
-    "patterns": [
-      "opening:census_record_pompeii"
-    ]
-  },
-  {
     "text": "Medical examiner's report, Boston 1892: Autopsy reveals deceased's heart contains fully formed pocket watch keeping accurate time. Watch face displays date of patient's birth. Mechanism appears to be counting backward to zero.",
     "timestamp": "2026-01-13T10:31:04.996Z",
     "type": "biological|temporal|industrial|narrative",
@@ -119,6 +111,14 @@
     "type": "municipal|general_anomaly|unspecified_era|narrative",
     "patterns": [
       "opening:census_data_rome"
+    ]
+  },
+  {
+    "text": "Meteorological station log, Manitoba 1923: Blizzard deposited snow that fell upward when disturbed. Children reported building snowmen that dissolved into sky. Weather service classified incident as clerical error.",
+    "timestamp": "2026-01-15T18:44:01.422Z",
+    "type": "architectural|general_anomaly|modern|narrative",
+    "patterns": [
+      "opening:meteorological_station_log"
     ]
   }
 ]

@@ -1,14 +1,5 @@
 [
   {
-    "text": "İzmir Kemeraltı Çarşısı esnaf sicili, 1856: Aynı dükkanda 4 farklı berber aynı anda çalışıyor ama mekân tek kişilik. Müşteriler sıra beklememiş. Lonca başı \"verimli gün\" yazmış.",
-    "timestamp": "2026-01-13T08:39:11.626Z",
-    "type": "defter|spatial|late_ottoman|narrative|unspecified_location",
-    "patterns": [
-      "sicil",
-      "opening:izmir_kemeraltı_çarşısı"
-    ]
-  },
-  {
     "text": "Trabzon Ayasofya Camii vakıf kaydı, 1665: Binada aynı anda hem Bizans ayini hem Cuma namazı kılınmış. İki cemaat birbirini görmemiş. Vakıf nazırı \"bereket\" yazmış.",
     "timestamp": "2026-01-13T10:31:09.545Z",
     "type": "architectural|general_anomaly|byzantine|narrative|trabzon",
@@ -127,6 +118,15 @@
       "ferman",
       "sicil",
       "opening:üsküdar_kadı_sicili"
+    ]
+  },
+  {
+    "text": "Edirne sıhhi muayene raporu, 1912: Doktor hastayı muayene etmiş ama hasta hiç gelmemiş. Teşhis konmuş, reçete yazılmış. Hasta evinde iyileşmiş. Randevu defterinde kayıt var.",
+    "timestamp": "2026-01-15T18:44:06.852Z",
+    "type": "defter|administrative|unspecified_era|narrative|edirne",
+    "patterns": [
+      "defter",
+      "opening:edirne_sıhhi_muayene"
     ]
   }
 ]
