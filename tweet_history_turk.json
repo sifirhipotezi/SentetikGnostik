@@ -1,14 +1,5 @@
 [
   {
-    "text": "Van Gölü çevresinde 1071 Malazgirt Savaşı öncesi Türk mezarlığı bulundu. 200 mezar, hepsi savaştan 50 yıl önce. Kitabeler Osmanlı Türkçesi. Arkeologlar sessiz kaldı.",
-    "timestamp": "2026-01-12T20:30:51.797Z",
-    "type": "archaeological|temporal|unspecified_era|narrative|van",
-    "patterns": [
-      "osmanli",
-      "opening:van_gölü_çevresinde"
-    ]
-  },
-  {
     "text": "Edirne Selimiye Camii imam defteri, 1591: Cuma hutbesi 3 saat sürmüş ama cemaat sadece 20 dakika dinlemiş. \"Zaman yavaşladı\" notu var. Vaiz şikayet etmemiş.",
     "timestamp": "2026-01-13T04:45:35.454Z",
     "type": "defter|temporal|classical_ottoman|narrative|edirne",
@@ -126,6 +117,15 @@
     "type": "defter|general_anomaly|republican|narrative|kayseri",
     "patterns": [
       "opening:kayseri_nüfus_sayımı"
+    ]
+  },
+  {
+    "text": "Sivas astronomi rasathanesi gözlem defteri, 1878: Ay iki gece peş peşe dolunay olmuş. İkinci gece daha parlak çıkmış. Rasıt \"hesaplar doğru\" diye kaydetmiş. Takvim normal gösteriyor.",
+    "timestamp": "2026-01-15T10:31:20.686Z",
+    "type": "defter|general_anomaly|late_ottoman|narrative|sivas",
+    "patterns": [
+      "defter",
+      "opening:sivas_astronomi_rasathanesi"
     ]
   }
 ]

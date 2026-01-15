@@ -1,13 +1,5 @@
 [
   {
-    "text": "Insect specimen collection, University of Edinburgh 1823: Butterfly pinned to display board continues laying eggs. Eggs hatch into butterflies that immediately fly into past tense. Collection case now contains 847 identical specimens from s",
-    "timestamp": "2026-01-12T20:30:44.277Z",
-    "type": "institutional|temporal|industrial|narrative",
-    "patterns": [
-      "opening:insect_specimen_collection"
-    ]
-  },
-  {
     "text": "Personal diary, housewife in Toledo 1955: The shadows in my kitchen point toward tomorrow instead of away from the sun. Made coffee using tomorrow's shadow it tastes like regret and knows things I haven't done yet.",
     "timestamp": "2026-01-13T04:45:31.069Z",
     "type": "architectural|general_anomaly|modern|narrative",
@@ -119,6 +111,14 @@
     "type": "paleontological|general_anomaly|industrial|narrative",
     "patterns": [
       "opening:botanical_survey_amazon"
+    ]
+  },
+  {
+    "text": "Shipping manifest, Port of Bristol 1672: Cargo listed as 400 barrels of tomorrow's regret, properly aged. Vessel never departed. Barrels found empty in warehouse cellar 1981, still weeping.",
+    "timestamp": "2026-01-15T10:31:15.404Z",
+    "type": "architectural|general_anomaly|earlymodern|narrative",
+    "patterns": [
+      "opening:shipping_manifest_port"
     ]
   }
 ]
