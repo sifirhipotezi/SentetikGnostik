@@ -1,13 +1,5 @@
 [
   {
-    "text": "Kayseri Hunat Hatun Türbesi nüfus sayımı, 1927: Türbede 12 kişi ikamet ediyor kaydı var. Hepsi 1205 doğumlu. Sayım memuru \"sağlıklılar\" yazmış. İmzalar var.",
-    "timestamp": "2026-01-12T14:31:30.860Z",
-    "type": "census|general_anomaly|early_ottoman|narrative|kayseri",
-    "patterns": [
-      "opening:kayseri_hunat_hatun"
-    ]
-  },
-  {
     "text": "Galata Kulesi meteoroloji gözlemi, 1632: Kar yağışı yukarı doğru düştüğü kaydedilmiş. Rasıt \"taneler gökyüzüne çıkıyor\" yazmış. Ertesi gün normal kar yağmış. Rapor Divan'a sunulmuş.",
     "timestamp": "2026-01-12T18:40:15.985Z",
     "type": "architectural|general_anomaly|classical_ottoman|narrative|beyoglu",
@@ -125,6 +117,15 @@
     "type": "meteorological|general_anomaly|republican|narrative|van",
     "patterns": [
       "opening:van_gölü_meteoroloji"
+    ]
+  },
+  {
+    "text": "Sinop denizcilik sicili, 1637: Gemiler kara yoluyla İstanbul'a gönderilmiş. Yelkenler açık, kürekçiler yürüyerek kürek çekmiş. Kaptan \"rüzgar iyi\" raporu vermiş. Sefer zamanında tamamlanmış.",
+    "timestamp": "2026-01-15T04:47:16.677Z",
+    "type": "defter|temporal|classical_ottoman|narrative|sinop",
+    "patterns": [
+      "sicil",
+      "opening:sinop_denizcilik_sicili"
     ]
   }
 ]

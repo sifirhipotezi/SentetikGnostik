@@ -1,14 +1,5 @@
 [
   {
-    "text": "Archaeological report: Bronze Age settlement, 1800 BCE Cyprus, burial chamber contains skeleton holding perfectly preserved smartphone. Device displays message battery at 3 dated yesterday. Burial goods otherwise consistent with period.",
-    "timestamp": "2026-01-12T14:31:25.949Z",
-    "type": "institutional|temporal|prehistoric|narrative",
-    "patterns": [
-      "archaeological_report",
-      "opening:archaeological_report_bronze"
-    ]
-  },
-  {
     "text": "Traffic surveillance footage from Prague, December 1989: Taxi cab appears at intersection for 47 consecutive frames traveling same route. License plate changes each frame. Final plate number issued in 2003 to vehicle that never existed.",
     "timestamp": "2026-01-12T18:40:10.957Z",
     "type": "general_source|ontological|modern|narrative",
@@ -120,6 +111,14 @@
     "patterns": [
       "archaeological_report",
       "opening:archaeological_report_pleistocene"
+    ]
+  },
+  {
+    "text": "Personal diary, merchant's widow, Lübeck 1456: The stars rearranged themselves to spell my late husband's name. Lasted three nights. Astronomers insist no such configuration occurred. I have witnesses.",
+    "timestamp": "2026-01-15T04:47:11.650Z",
+    "type": "digital|general_anomaly|medieval|narrative",
+    "patterns": [
+      "opening:personal_diary_merchants"
     ]
   }
 ]
