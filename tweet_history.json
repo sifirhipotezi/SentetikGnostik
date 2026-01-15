@@ -1,13 +1,5 @@
 [
   {
-    "text": "Medical examiner's report, Boston 1892: Autopsy reveals deceased's heart contains fully formed pocket watch keeping accurate time. Watch face displays date of patient's birth. Mechanism appears to be counting backward to zero.",
-    "timestamp": "2026-01-13T10:31:04.996Z",
-    "type": "biological|temporal|industrial|narrative",
-    "patterns": [
-      "opening:medical_examiners_report"
-    ]
-  },
-  {
     "text": "Municipal water records, Phoenix 1973: Resident complaints of tap water tasting like childhood summers. Chemical analysis confirms H2O contains trace amounts of bicycle bells, scraped knees, and the exact temperature of grandmother's kitche",
     "timestamp": "2026-01-13T14:31:15.452Z",
     "type": "municipal|general_anomaly|modern|narrative",
@@ -119,6 +111,14 @@
     "type": "architectural|general_anomaly|modern|narrative",
     "patterns": [
       "opening:meteorological_station_log"
+    ]
+  },
+  {
+    "text": "Geological survey, Precambrian shield formation 1.8 billion BCE: Rock strata contain fossilized prayers in language that won't evolve for another billion years. Text requests patience with the long waiting.",
+    "timestamp": "2026-01-15T20:33:07.343Z",
+    "type": "paleontological|temporal|archaeological|narrative",
+    "patterns": [
+      "opening:geological_survey_precambrian"
     ]
   }
 ]
