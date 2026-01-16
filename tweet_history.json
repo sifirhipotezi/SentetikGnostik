@@ -1,13 +1,5 @@
 [
   {
-    "text": "Weather station data, Reykjavik 1987: Barometric pressure readings spell out complete sonnet when plotted chronologically. Poem describes storm that occurred three days before instruments detected it. Meteorologist's notes redacted by unkno",
-    "timestamp": "2026-01-13T20:31:25.428Z",
-    "type": "manuscript|temporal|modern|narrative",
-    "patterns": [
-      "opening:weather_station_data"
-    ]
-  },
-  {
     "text": "Geological survey, Yellowstone 1934: Thermal vent releases steam containing fragments of conversations that won't occur until 2089. Recorded samples include accurate stock predictions and three marriage proposals between people not yet born",
     "timestamp": "2026-01-14T04:49:50.017Z",
     "type": "geological|general_anomaly|modern|narrative",
@@ -118,6 +110,14 @@
     "type": "digital|temporal|industrial|narrative",
     "patterns": [
       "opening:astronomical_observation_log"
+    ]
+  },
+  {
+    "text": "Navigation charts, Caribbean 1692: Pirate vessel documented sailing through island that cartographers confirm never existed. Crew sold authentic treasures from nonexistent raids. Gold tested genuine.",
+    "timestamp": "2026-01-16T10:31:26.294Z",
+    "type": "general_source|ontological|earlymodern|narrative",
+    "patterns": [
+      "opening:navigation_charts_caribbean"
     ]
   }
 ]

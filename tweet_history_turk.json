@@ -1,13 +1,5 @@
 [
   {
-    "text": "Van gölü meteoroloji gözlem raporu, 1924: Göl yüzeyinde kar yağarken su sıcaklığı 28 derece ölçülmüş. Balıklar donmuş ama yüzmeye devam etmiş. Rasathaneci \"olağan\" yazmış.",
-    "timestamp": "2026-01-13T20:31:29.989Z",
-    "type": "architectural|general_anomaly|republican|narrative|van",
-    "patterns": [
-      "opening:van_gölü_meteoroloji"
-    ]
-  },
-  {
     "text": "Kadıköy liman kayıtları, 1789: Gemiler rıhtıma yanaşmadan yolcu çıkarmış. Deniz üstünde yürüyen 47 kişi. Kaptan \"rüzgar iyi\" yazmış. Yolcular normal karaya çıkmış.",
     "timestamp": "2026-01-14T04:49:57.417Z",
     "type": "defter|general_anomaly|late_ottoman|narrative|kadikoy",
@@ -126,6 +118,15 @@
     "patterns": [
       "defter",
       "opening:bursa_ulu_camii"
+    ]
+  },
+  {
+    "text": "Sivas arkeoloji müzesi kataloğu, 1967: Roma dönemine ait amphorada modern Türkçe yazıt bulunmuş. \"Cumhuriyet bayramı kutlu olsun\" yazmış. Seramik MS 200 tarihli. Müze müdürü sessiz kalmış.",
+    "timestamp": "2026-01-16T10:31:31.853Z",
+    "type": "general_source|temporal|republican|narrative|sivas",
+    "patterns": [
+      "cumhuriyet",
+      "opening:sivas_arkeoloji_müzesi"
     ]
   }
 ]
