@@ -1,13 +1,5 @@
 [
   {
-    "text": "Geological survey, Yellowstone 1934: Thermal vent releases steam containing fragments of conversations that won't occur until 2089. Recorded samples include accurate stock predictions and three marriage proposals between people not yet born",
-    "timestamp": "2026-01-14T04:49:50.017Z",
-    "type": "geological|general_anomaly|modern|narrative",
-    "patterns": [
-      "opening:geological_survey_yellowstone"
-    ]
-  },
-  {
     "text": "Personnel file, East India Company 1742: Clerk recorded as having died of nostalgia for places that do not exist. Death certificate signed by physician who won't be born until 1823. Clerk's position remains officially unfilled.",
     "timestamp": "2026-01-14T08:37:56.132Z",
     "type": "digital|spatial|earlymodern|narrative",
@@ -118,6 +110,14 @@
     "type": "general_source|ontological|earlymodern|narrative",
     "patterns": [
       "opening:navigation_charts_caribbean"
+    ]
+  },
+  {
+    "text": "Archaeological excavation, Mesopotamia 2400 BCE: USB drive recovered with cuneiform adapter still attached. Device contains 47 terabytes of data in protoAkkadian. Last accessed folder: BackupTimeline7.",
+    "timestamp": "2026-01-16T14:29:43.729Z",
+    "type": "digital|temporal|prehistoric|narrative",
+    "patterns": [
+      "opening:archaeological_excavation_mesopotamia"
     ]
   }
 ]

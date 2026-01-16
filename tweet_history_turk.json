@@ -1,13 +1,5 @@
 [
   {
-    "text": "Kadıköy liman kayıtları, 1789: Gemiler rıhtıma yanaşmadan yolcu çıkarmış. Deniz üstünde yürüyen 47 kişi. Kaptan \"rüzgar iyi\" yazmış. Yolcular normal karaya çıkmış.",
-    "timestamp": "2026-01-14T04:49:57.417Z",
-    "type": "defter|general_anomaly|late_ottoman|narrative|kadikoy",
-    "patterns": [
-      "opening:kadıköy_liman_kayıtları"
-    ]
-  },
-  {
     "text": "Konya Mevlana Türbesi ziyaretçi defteri, 1273: Mevlana'nın ölümünden önce mezarını ziyaret eden 156 kişi kaydedilmiş. Hepsi \"huzur buldum\" yazmış. Türbedar şaşırmamış.",
     "timestamp": "2026-01-14T08:38:00.685Z",
     "type": "defter|temporal|early_ottoman|narrative|konya",
@@ -127,6 +119,15 @@
     "patterns": [
       "cumhuriyet",
       "opening:sivas_arkeoloji_müzesi"
+    ]
+  },
+  {
+    "text": "Üsküdar kadı sicili, 1567: Boğaz'da yürüyen adam kaydedilmiş. Suya batmadan karşıya geçmiş. Şahitler ifade vermiş. Kadı \"olağan\" yazmış. Adam bir daha görülmemiş.",
+    "timestamp": "2026-01-16T14:29:48.593Z",
+    "type": "defter|temporal|classical_ottoman|narrative|uskudar",
+    "patterns": [
+      "sicil",
+      "opening:üsküdar_kadı_sicili"
     ]
   }
 ]
