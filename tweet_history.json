@@ -1,14 +1,5 @@
 [
   {
-    "text": "Municipal water records, Phoenix 1973: Resident complaints of tap water tasting like childhood summers. Chemical analysis confirms H2O contains trace amounts of bicycle bells, scraped knees, and the exact temperature of grandmother's kitche",
-    "timestamp": "2026-01-13T14:31:15.452Z",
-    "type": "municipal|general_anomaly|modern|narrative",
-    "patterns": [
-      "chemical_analysis",
-      "opening:municipal_water_records"
-    ]
-  },
-  {
     "text": "Archaeological survey, Çatalhöyük 6500 BCE: Settlement layout matches Manhattan street grid with 97 accuracy. Excavated hearths align perfectly with subway stations that won't exist for 8,000 years. No explanation in site notes.",
     "timestamp": "2026-01-13T18:38:36.095Z",
     "type": "archaeological|temporal|prehistoric|narrative",
@@ -119,6 +110,14 @@
     "type": "paleontological|temporal|archaeological|narrative",
     "patterns": [
       "opening:geological_survey_precambrian"
+    ]
+  },
+  {
+    "text": "Medical records, St. Bartholomew's Hospital 1348: Patient treated for wounds sustained in battle that occurred three centuries later. Bandages bore coat of arms not yet designed. Recovery was complete.",
+    "timestamp": "2026-01-16T04:43:30.670Z",
+    "type": "general_source|general_anomaly|medieval|narrative",
+    "patterns": [
+      "opening:medical_records_st"
     ]
   }
 ]

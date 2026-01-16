@@ -1,13 +1,5 @@
 [
   {
-    "text": "Üsküdar nüfus sayımı, 1327 Rumî: Aynı evde 3 nesil yaşıyor ama hepsi aynı yaşta görünüyor. Sayım memuru \"zaman durmuş\" yazmış. Aile normal yaşlanmaya devam etmiş.",
-    "timestamp": "2026-01-13T14:31:19.803Z",
-    "type": "census|temporal|early_ottoman|narrative|uskudar",
-    "patterns": [
-      "opening:üsküdar_nüfus_sayımı"
-    ]
-  },
-  {
     "text": "Bursa İpek Yolu gümrük defteri, 1482: Konstantinopolis'ten gelen tüccar Byzantine altını ödemiş ama şehir 29 yıl önce düştü. Altınlar taze basım. Gümrük emini kabul etmiş.",
     "timestamp": "2026-01-13T18:38:41.226Z",
     "type": "defter|temporal|byzantine|narrative|istanbul",
@@ -126,6 +118,14 @@
     "type": "defter|spatial|late_ottoman|narrative|unspecified_location",
     "patterns": [
       "opening:izmir_liman_gümrük"
+    ]
+  },
+  {
+    "text": "Trabzon meteoroloji istasyonu, 1923: Kar yağışı yukarı doğru düşmüş. Memur \"rüzgar etkisi\" yazmış ama hava durgunmuş. Kar gökyüzüne çıkıp bulutlara karışmış. Sıcaklık eksi 2 derece.",
+    "timestamp": "2026-01-16T04:45:47.518Z",
+    "type": "meteorological|general_anomaly|republican|narrative|trabzon",
+    "patterns": [
+      "opening:trabzon_meteoroloji_istasyonu"
     ]
   }
 ]
