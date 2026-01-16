@@ -1,14 +1,5 @@
 [
   {
-    "text": "Konya Mevlana Türbesi ziyaretçi defteri, 1273: Mevlana'nın ölümünden önce mezarını ziyaret eden 156 kişi kaydedilmiş. Hepsi \"huzur buldum\" yazmış. Türbedar şaşırmamış.",
-    "timestamp": "2026-01-14T08:38:00.685Z",
-    "type": "defter|temporal|early_ottoman|narrative|konya",
-    "patterns": [
-      "defter",
-      "opening:konya_mevlana_türbesi"
-    ]
-  },
-  {
     "text": "İzmir liman fermanı, 1856: Vapurların deniz altından seyahat etmesi emrediliyor. Kaptan Paşa imzalı. Gemi sahipleri \"mümkün değil\" diye itiraz etmemiş. Vapur seferleri aksamamış.",
     "timestamp": "2026-01-14T10:32:30.665Z",
     "type": "ferman|memorial|late_ottoman|narrative|unspecified_location",
@@ -128,6 +119,14 @@
     "patterns": [
       "sicil",
       "opening:üsküdar_kadı_sicili"
+    ]
+  },
+  {
+    "text": "Van gölü nüfus sayımı, 1935: Su altında 200 haneli köy tespit edilmiş. Sakinler balık nefes alıyor, normal yaşıyor. Memur \"kayıt tutulmalı\" demiş. Köy haritada yok.",
+    "timestamp": "2026-01-16T18:40:45.594Z",
+    "type": "defter|administrative|republican|narrative|van",
+    "patterns": [
+      "opening:van_gölü_nüfus"
     ]
   }
 ]

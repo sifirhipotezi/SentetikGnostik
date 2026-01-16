@@ -1,13 +1,5 @@
 [
   {
-    "text": "Personnel file, East India Company 1742: Clerk recorded as having died of nostalgia for places that do not exist. Death certificate signed by physician who won't be born until 1823. Clerk's position remains officially unfilled.",
-    "timestamp": "2026-01-14T08:37:56.132Z",
-    "type": "digital|spatial|earlymodern|narrative",
-    "patterns": [
-      "opening:personnel_file_east"
-    ]
-  },
-  {
     "text": "Census data, Roman Britain 212 CE: Population count includes 847 residents listed as temporarily elsewhere when. Enumerators noted subjects were physically present but experientially absent. Column for when left blank in all cases.",
     "timestamp": "2026-01-14T10:32:26.032Z",
     "type": "municipal|bureaucratic|unspecified_era|narrative",
@@ -118,6 +110,14 @@
     "type": "digital|temporal|prehistoric|narrative",
     "patterns": [
       "opening:archaeological_excavation_mesopotamia"
+    ]
+  },
+  {
+    "text": "Botanical survey 1789: Specimen pressed between herbarium pages shows autumn foliage collected in June. Leaves change seasons when observed directly. Botanist's notes end midsentence.",
+    "timestamp": "2026-01-16T18:40:40.636Z",
+    "type": "paleontological|general_anomaly|earlymodern|narrative",
+    "patterns": [
+      "opening:botanical_survey_1789"
     ]
   }
 ]
