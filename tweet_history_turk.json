@@ -1,14 +1,5 @@
 [
   {
-    "text": "Bursa İpek Yolu gümrük defteri, 1482: Konstantinopolis'ten gelen tüccar Byzantine altını ödemiş ama şehir 29 yıl önce düştü. Altınlar taze basım. Gümrük emini kabul etmiş.",
-    "timestamp": "2026-01-13T18:38:41.226Z",
-    "type": "defter|temporal|byzantine|narrative|istanbul",
-    "patterns": [
-      "defter",
-      "opening:bursa_ipek_yolu"
-    ]
-  },
-  {
     "text": "Van gölü meteoroloji gözlem raporu, 1924: Göl yüzeyinde kar yağarken su sıcaklığı 28 derece ölçülmüş. Balıklar donmuş ama yüzmeye devam etmiş. Rasathaneci \"olağan\" yazmış.",
     "timestamp": "2026-01-13T20:31:29.989Z",
     "type": "architectural|general_anomaly|republican|narrative|van",
@@ -126,6 +117,15 @@
     "type": "meteorological|general_anomaly|republican|narrative|trabzon",
     "patterns": [
       "opening:trabzon_meteoroloji_istasyonu"
+    ]
+  },
+  {
+    "text": "Bursa Ulu Camii vakfiye defteri, 1399: Henüz inşa edilmemiş minare için imam maaşı ayrılmış. İmam her gün var olmayan minareye çıkıp ezan okumuş. Cemaat duymuş.",
+    "timestamp": "2026-01-16T08:37:26.730Z",
+    "type": "defter|administrative|early_ottoman|narrative|bursa",
+    "patterns": [
+      "defter",
+      "opening:bursa_ulu_camii"
     ]
   }
 ]

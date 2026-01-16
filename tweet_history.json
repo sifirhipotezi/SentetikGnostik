@@ -1,13 +1,5 @@
 [
   {
-    "text": "Archaeological survey, Çatalhöyük 6500 BCE: Settlement layout matches Manhattan street grid with 97 accuracy. Excavated hearths align perfectly with subway stations that won't exist for 8,000 years. No explanation in site notes.",
-    "timestamp": "2026-01-13T18:38:36.095Z",
-    "type": "archaeological|temporal|prehistoric|narrative",
-    "patterns": [
-      "opening:archaeological_survey_atalhyk"
-    ]
-  },
-  {
     "text": "Weather station data, Reykjavik 1987: Barometric pressure readings spell out complete sonnet when plotted chronologically. Poem describes storm that occurred three days before instruments detected it. Meteorologist's notes redacted by unkno",
     "timestamp": "2026-01-13T20:31:25.428Z",
     "type": "manuscript|temporal|modern|narrative",
@@ -118,6 +110,14 @@
     "type": "general_source|general_anomaly|medieval|narrative",
     "patterns": [
       "opening:medical_records_st"
+    ]
+  },
+  {
+    "text": "Astronomical observation log, Beijing 1054 CE: Supernova recorded lasting 23 days. Modern telescopic analysis confirms explosion occurred in 1887. Light arrived 833 years early. No explanation filed.",
+    "timestamp": "2026-01-16T08:37:22.462Z",
+    "type": "digital|temporal|industrial|narrative",
+    "patterns": [
+      "opening:astronomical_observation_log"
     ]
   }
 ]
