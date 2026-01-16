@@ -1,15 +1,5 @@
 [
   {
-    "text": "İzmir liman fermanı, 1856: Vapurların deniz altından seyahat etmesi emrediliyor. Kaptan Paşa imzalı. Gemi sahipleri \"mümkün değil\" diye itiraz etmemiş. Vapur seferleri aksamamış.",
-    "timestamp": "2026-01-14T10:32:30.665Z",
-    "type": "ferman|memorial|late_ottoman|narrative|unspecified_location",
-    "patterns": [
-      "imza",
-      "ferman",
-      "opening:izmir_liman_fermanı"
-    ]
-  },
-  {
     "text": "Edirne medrese kayıtları, 1402: Ankara Savaşı'nda ölen talebe derse devam etmiş. Hoca yoklama almış, \"şehit\" yazmış. Öğrenciler sınıfı geçmiş. Mezuniyet töreni yapılmış.",
     "timestamp": "2026-01-14T14:31:11.724Z",
     "type": "defter|temporal|unspecified_era|narrative|ankara",
@@ -127,6 +117,14 @@
     "type": "defter|administrative|republican|narrative|van",
     "patterns": [
       "opening:van_gölü_nüfus"
+    ]
+  },
+  {
+    "text": "İzmir arkeoloji müzesi, 1954: Bergama kazısında bulunan Hellenistik heykel kendi başını yerine koymuş. Gece bekçisi görmüş. Sabah heykelin kafası omuzlarında duruyormuş. Müze müdürü \"doğal olay\" demiş.",
+    "timestamp": "2026-01-16T20:27:45.493Z",
+    "type": "archaeological|spatial|republican|narrative|bergama",
+    "patterns": [
+      "opening:izmir_arkeoloji_müzesi"
     ]
   }
 ]

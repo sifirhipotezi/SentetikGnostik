@@ -1,13 +1,5 @@
 [
   {
-    "text": "Census data, Roman Britain 212 CE: Population count includes 847 residents listed as temporarily elsewhere when. Enumerators noted subjects were physically present but experientially absent. Column for when left blank in all cases.",
-    "timestamp": "2026-01-14T10:32:26.032Z",
-    "type": "municipal|bureaucratic|unspecified_era|narrative",
-    "patterns": [
-      "opening:census_data_roman"
-    ]
-  },
-  {
     "text": "Dream journal recovered from Pompeii ash, 79 CE: Final entry describes escaping the eruption via subway system. Detailed map of underground tunnels matches 1884 London plans exactly. Journal owner died in house.",
     "timestamp": "2026-01-14T14:31:06.850Z",
     "type": "manuscript|bureaucratic|industrial|narrative",
@@ -118,6 +110,14 @@
     "type": "paleontological|general_anomaly|earlymodern|narrative",
     "patterns": [
       "opening:botanical_survey_1789"
+    ]
+  },
+  {
+    "text": "Dental records, Berlin 1923: Patient's wisdom teeth contain miniature engravings of events from 1956. Dentist's Xrays show the etchings glowing. Patient born in 1901, died in 1954.",
+    "timestamp": "2026-01-16T20:27:40.419Z",
+    "type": "biological|general_anomaly|modern|narrative",
+    "patterns": [
+      "opening:dental_records_berlin"
     ]
   }
 ]
