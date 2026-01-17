@@ -1,13 +1,5 @@
 [
   {
-    "text": "Botanical survey, Amazon basin 1889: Vine specimens collected exhibited temporal growth rings spanning centuries within hours. Pressed samples aged backward in herbarium. Original collector found saplings he planted had become ancient trees",
-    "timestamp": "2026-01-15T08:38:32.957Z",
-    "type": "paleontological|general_anomaly|industrial|narrative",
-    "patterns": [
-      "opening:botanical_survey_amazon"
-    ]
-  },
-  {
     "text": "Shipping manifest, Port of Bristol 1672: Cargo listed as 400 barrels of tomorrow's regret, properly aged. Vessel never departed. Barrels found empty in warehouse cellar 1981, still weeping.",
     "timestamp": "2026-01-15T10:31:15.404Z",
     "type": "architectural|general_anomaly|earlymodern|narrative",
@@ -117,6 +109,14 @@
     "type": "manuscript|temporal|prehistoric|narrative",
     "patterns": [
       "opening:librarians_report_ptolemaic"
+    ]
+  },
+  {
+    "text": "Medical examiner's notes, Prague 1891: Deceased's stomach contents included seeds from plants extinct for 200 million years. Seeds were still viable. Cause of death listed as temporal indigestion.",
+    "timestamp": "2026-01-17T18:35:41.096Z",
+    "type": "biological|temporal|industrial|narrative",
+    "patterns": [
+      "opening:medical_examiners_notes"
     ]
   }
 ]

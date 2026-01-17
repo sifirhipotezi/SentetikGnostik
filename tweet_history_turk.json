@@ -1,13 +1,5 @@
 [
   {
-    "text": "Kayseri nüfus sayımı, 1927: Aynı kişi üç farklı mahallede kayıtlı. Üçü de aynı gün doğmuş, aynı meslek. Memur \"ikizler olabilir\" not düşmüş. Kişi tek çocukmuş.",
-    "timestamp": "2026-01-15T08:38:38.647Z",
-    "type": "defter|general_anomaly|republican|narrative|kayseri",
-    "patterns": [
-      "opening:kayseri_nüfus_sayımı"
-    ]
-  },
-  {
     "text": "Sivas astronomi rasathanesi gözlem defteri, 1878: Ay iki gece peş peşe dolunay olmuş. İkinci gece daha parlak çıkmış. Rasıt \"hesaplar doğru\" diye kaydetmiş. Takvim normal gösteriyor.",
     "timestamp": "2026-01-15T10:31:20.686Z",
     "type": "defter|general_anomaly|late_ottoman|narrative|sivas",
@@ -126,6 +118,14 @@
     "type": "defter|general_anomaly|late_ottoman|narrative|bursa",
     "patterns": [
       "opening:bursa_hava_durumu"
+    ]
+  },
+  {
+    "text": "Van Akdamar Kilisesi duvar yazıları, 915: Ermeni alfabesiyle \"WiFi şifresi: akdamar123\" yazılmış. Harf biçimi döneme uygun. Arkeologlar sessiz kaldı.",
+    "timestamp": "2026-01-17T18:35:45.436Z",
+    "type": "archaeological|general_anomaly|unspecified_era|narrative|van",
+    "patterns": [
+      "opening:van_akdamar_kilisesi"
     ]
   }
 ]
