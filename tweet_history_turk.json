@@ -1,13 +1,5 @@
 [
   {
-    "text": "Van gölü meteoroloji raporu, 1924: Göl suyu bir gece boyunca yukarı doğru akmış. Balıklar havada yüzmüş. Sabah her şey normale dönmüş. Meteoroloji müdürü \"olağan hava durumu\" kaydetmiş.",
-    "timestamp": "2026-01-14T20:27:48.772Z",
-    "type": "meteorological|general_anomaly|republican|narrative|van",
-    "patterns": [
-      "opening:van_gölü_meteoroloji"
-    ]
-  },
-  {
     "text": "Sinop denizcilik sicili, 1637: Gemiler kara yoluyla İstanbul'a gönderilmiş. Yelkenler açık, kürekçiler yürüyerek kürek çekmiş. Kaptan \"rüzgar iyi\" raporu vermiş. Sefer zamanında tamamlanmış.",
     "timestamp": "2026-01-15T04:47:16.677Z",
     "type": "defter|temporal|classical_ottoman|narrative|sinop",
@@ -127,6 +119,14 @@
     "type": "architectural|general_anomaly|republican|narrative|edirne",
     "patterns": [
       "opening:edirne_selimiye_camii"
+    ]
+  },
+  {
+    "text": "Trabzon imparatorluğu sikkeleri, 1461: David Komnenos'un altınları hâlâ sıcak. Darphanede yeni basılmış gibi. Metal analizi güncel. İmparatorluk o yıl sona ermişti.",
+    "timestamp": "2026-01-17T10:25:59.784Z",
+    "type": "architectural|temporal|unspecified_era|narrative|trabzon",
+    "patterns": [
+      "opening:trabzon_imparatorluğu_sikkeleri"
     ]
   }
 ]

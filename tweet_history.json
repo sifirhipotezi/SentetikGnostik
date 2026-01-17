@@ -1,14 +1,5 @@
 [
   {
-    "text": "Archaeological report: Pleistocene site, 40,000 BCE, contains Neanderthal burial with grave goods including obsidian blade, mammoth ivory, and laminated employee ID badge from Blockbuster Video. Badge expires 2004.",
-    "timestamp": "2026-01-14T20:27:40.700Z",
-    "type": "institutional|general_anomaly|prehistoric|narrative",
-    "patterns": [
-      "archaeological_report",
-      "opening:archaeological_report_pleistocene"
-    ]
-  },
-  {
     "text": "Personal diary, merchant's widow, Lübeck 1456: The stars rearranged themselves to spell my late husband's name. Lasted three nights. Astronomers insist no such configuration occurred. I have witnesses.",
     "timestamp": "2026-01-15T04:47:11.650Z",
     "type": "digital|general_anomaly|medieval|narrative",
@@ -118,6 +109,14 @@
     "type": "meteorological|temporal|industrial|narrative",
     "patterns": [
       "opening:weather_balloon_recovered"
+    ]
+  },
+  {
+    "text": "Crossreference error: Municipal census, Florence 1398, lists 847 residents named Giovanni but only 23 birth records exist. The remaining 824 claim they arrived with the bells but no bells were installed that year.",
+    "timestamp": "2026-01-17T10:25:55.391Z",
+    "type": "municipal|temporal|medieval|narrative",
+    "patterns": [
+      "opening:crossreference_error_municipal"
     ]
   }
 ]
