@@ -1,13 +1,5 @@
 [
   {
-    "text": "Shipping manifest, Port of Bristol 1672: Cargo listed as 400 barrels of tomorrow's regret, properly aged. Vessel never departed. Barrels found empty in warehouse cellar 1981, still weeping.",
-    "timestamp": "2026-01-15T10:31:15.404Z",
-    "type": "architectural|general_anomaly|earlymodern|narrative",
-    "patterns": [
-      "opening:shipping_manifest_port"
-    ]
-  },
-  {
     "text": "Census data, Rome 73 CE: Population count includes 847 citizens listed as temporarily deceased. Tax records show they continued paying property levies. Burial registry has no corresponding entries.",
     "timestamp": "2026-01-15T14:30:49.057Z",
     "type": "municipal|general_anomaly|unspecified_era|narrative",
@@ -117,6 +109,14 @@
     "type": "biological|temporal|industrial|narrative",
     "patterns": [
       "opening:medical_examiners_notes"
+    ]
+  },
+  {
+    "text": "Crossreference: Property deed for Manhattan lot, 1664, includes mineral rights to all substances yet undreamed. Recent survey found uranium deposits shaped like the seller's signature.",
+    "timestamp": "2026-01-17T20:28:36.574Z",
+    "type": "biological|general_anomaly|earlymodern|narrative",
+    "patterns": [
+      "opening:crossreference_property_deed"
     ]
   }
 ]

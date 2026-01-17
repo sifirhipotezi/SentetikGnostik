@@ -1,14 +1,5 @@
 [
   {
-    "text": "Sivas astronomi rasathanesi gözlem defteri, 1878: Ay iki gece peş peşe dolunay olmuş. İkinci gece daha parlak çıkmış. Rasıt \"hesaplar doğru\" diye kaydetmiş. Takvim normal gösteriyor.",
-    "timestamp": "2026-01-15T10:31:20.686Z",
-    "type": "defter|general_anomaly|late_ottoman|narrative|sivas",
-    "patterns": [
-      "defter",
-      "opening:sivas_astronomi_rasathanesi"
-    ]
-  },
-  {
     "text": "Üsküdar kadı sicili, 1588: Bir köprü inşaatı için ferman çıkmış ama köprü zaten varmış. Ustalar \"yeniden inşa\" diye aynı köprüyü tekrar yapmış. İki köprü üst üste durmuş.",
     "timestamp": "2026-01-15T14:30:53.465Z",
     "type": "ferman|general_anomaly|classical_ottoman|narrative|uskudar",
@@ -126,6 +117,14 @@
     "type": "archaeological|general_anomaly|unspecified_era|narrative|van",
     "patterns": [
       "opening:van_akdamar_kilisesi"
+    ]
+  },
+  {
+    "text": "Beyoğlu polis kayıtları, 1924: Galata Köprüsü'nde aynı kişi üç farklı kimlikle yakalanmış. Fotoğraflar aynı, yaşlar farklı. Dosya \"çözülmez\" damgasıyla kapatılmış.",
+    "timestamp": "2026-01-17T20:28:41.337Z",
+    "type": "defter|bureaucratic|republican|narrative|beyoglu",
+    "patterns": [
+      "opening:beyoğlu_polis_kayıtları"
     ]
   }
 ]
