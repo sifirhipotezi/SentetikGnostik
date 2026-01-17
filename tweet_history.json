@@ -1,13 +1,5 @@
 [
   {
-    "text": "Dream journal recovered from Pompeii ash, 79 CE: Final entry describes escaping the eruption via subway system. Detailed map of underground tunnels matches 1884 London plans exactly. Journal owner died in house.",
-    "timestamp": "2026-01-14T14:31:06.850Z",
-    "type": "manuscript|bureaucratic|industrial|narrative",
-    "patterns": [
-      "opening:dream_journal_recovered"
-    ]
-  },
-  {
     "text": "Autopsy report, Vienna 1902: Subject died of temporal displacement syndrome. Internal organs aged at different rates heart from 1902, lungs from 1847, liver from 1923. Coroner noted patient was still breathing during examination.",
     "timestamp": "2026-01-14T18:41:11.126Z",
     "type": "institutional|spatial|industrial|narrative",
@@ -118,6 +110,14 @@
     "type": "biological|general_anomaly|modern|narrative",
     "patterns": [
       "opening:dental_records_berlin"
+    ]
+  },
+  {
+    "text": "Seismic monitoring station reports earthquake in Nevada, 1962. No structural damage recorded. Tremors spelled out HELP in Morse code across seventeen different instruments. Station was unmanned.",
+    "timestamp": "2026-01-17T04:37:11.968Z",
+    "type": "institutional|general_anomaly|modern|narrative",
+    "patterns": [
+      "opening:seismic_monitoring_station"
     ]
   }
 ]

@@ -1,13 +1,5 @@
 [
   {
-    "text": "Edirne medrese kayıtları, 1402: Ankara Savaşı'nda ölen talebe derse devam etmiş. Hoca yoklama almış, \"şehit\" yazmış. Öğrenciler sınıfı geçmiş. Mezuniyet töreni yapılmış.",
-    "timestamp": "2026-01-14T14:31:11.724Z",
-    "type": "defter|temporal|unspecified_era|narrative|ankara",
-    "patterns": [
-      "opening:edirne_medrese_kayıtları"
-    ]
-  },
-  {
     "text": "Bursa ipek tüccarları kayıtları, 1511: İpek böcekleri kendi kendine sarmal yapıp bez dokmuş. Tezgah kullanılmamış. Kalite mükemmel çıkmış. Lonca ahi bey \"bereketli yıl\" demiş.",
     "timestamp": "2026-01-14T18:41:16.265Z",
     "type": "defter|temporal|classical_ottoman|narrative|bursa",
@@ -125,6 +117,16 @@
     "type": "archaeological|spatial|republican|narrative|bergama",
     "patterns": [
       "opening:izmir_arkeoloji_müzesi"
+    ]
+  },
+  {
+    "text": "Konya Mevlana türbesi ziyaretçi defteri, 1274: Mevlana'nın kendi el yazısıyla imza atmış. \"Güzel ziyaret oldu\" yazmış. O tarihte henüz ölmemişti. Müze müdürü sayfayı yırttı.",
+    "timestamp": "2026-01-17T04:37:16.786Z",
+    "type": "defter|temporal|early_ottoman|narrative|konya",
+    "patterns": [
+      "imza",
+      "defter",
+      "opening:konya_mevlana_türbesi"
     ]
   }
 ]
