@@ -1,13 +1,5 @@
 [
   {
-    "text": "Bursa ipek tüccarları kayıtları, 1511: İpek böcekleri kendi kendine sarmal yapıp bez dokmuş. Tezgah kullanılmamış. Kalite mükemmel çıkmış. Lonca ahi bey \"bereketli yıl\" demiş.",
-    "timestamp": "2026-01-14T18:41:16.265Z",
-    "type": "defter|temporal|classical_ottoman|narrative|bursa",
-    "patterns": [
-      "opening:bursa_ipek_tüccarları"
-    ]
-  },
-  {
     "text": "Van gölü meteoroloji raporu, 1924: Göl suyu bir gece boyunca yukarı doğru akmış. Balıklar havada yüzmüş. Sabah her şey normale dönmüş. Meteoroloji müdürü \"olağan hava durumu\" kaydetmiş.",
     "timestamp": "2026-01-14T20:27:48.772Z",
     "type": "meteorological|general_anomaly|republican|narrative|van",
@@ -127,6 +119,14 @@
       "imza",
       "defter",
       "opening:konya_mevlana_türbesi"
+    ]
+  },
+  {
+    "text": "Edirne Selimiye Camii restorasyonu, 1972: Mimar Sinan'ın not bıraktığı keşfedilmiş. \"1980'de deprem olacak, güçlendirin\" yazmış. El yazısı dönemine uygun. Deprem Erzurum'daydı.",
+    "timestamp": "2026-01-17T08:32:36.633Z",
+    "type": "architectural|general_anomaly|republican|narrative|edirne",
+    "patterns": [
+      "opening:edirne_selimiye_camii"
     ]
   }
 ]
