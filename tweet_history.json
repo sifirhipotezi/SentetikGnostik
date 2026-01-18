@@ -1,13 +1,5 @@
 [
   {
-    "text": "Navigation charts, Caribbean 1692: Pirate vessel documented sailing through island that cartographers confirm never existed. Crew sold authentic treasures from nonexistent raids. Gold tested genuine.",
-    "timestamp": "2026-01-16T10:31:26.294Z",
-    "type": "general_source|ontological|earlymodern|narrative",
-    "patterns": [
-      "opening:navigation_charts_caribbean"
-    ]
-  },
-  {
     "text": "Archaeological excavation, Mesopotamia 2400 BCE: USB drive recovered with cuneiform adapter still attached. Device contains 47 terabytes of data in protoAkkadian. Last accessed folder: BackupTimeline7.",
     "timestamp": "2026-01-16T14:29:43.729Z",
     "type": "digital|temporal|prehistoric|narrative",
@@ -118,6 +110,14 @@
     "type": "general_source|general_anomaly|earlymodern|narrative",
     "patterns": [
       "opening:performance_review_london"
+    ]
+  },
+  {
+    "text": "Digital archaeology, ARPANET node logs 1972: User timekeeper99 accessed system three years before username protocols existed. Login duration: negative 47 minutes. Session included file transfer to server that won't be built until 1979.",
+    "timestamp": "2026-01-18T20:29:38.467Z",
+    "type": "digital|temporal|modern|narrative",
+    "patterns": [
+      "opening:digital_archaeology_arpanet"
     ]
   }
 ]
