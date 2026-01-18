@@ -1,14 +1,5 @@
 [
   {
-    "text": "Edirne sıhhi muayene raporu, 1912: Doktor hastayı muayene etmiş ama hasta hiç gelmemiş. Teşhis konmuş, reçete yazılmış. Hasta evinde iyileşmiş. Randevu defterinde kayıt var.",
-    "timestamp": "2026-01-15T18:44:06.852Z",
-    "type": "defter|administrative|unspecified_era|narrative|edirne",
-    "patterns": [
-      "defter",
-      "opening:edirne_sıhhi_muayene"
-    ]
-  },
-  {
     "text": "İzmir liman gümrük kayıtları, 1856: Vapur kömür yükü ile gelmiş ama kömür yerine kar taşımış. Temmuz sıcağında erimeyen kar. Kaptan \"İngiltere'den getirdik\" demiş. Kar hâlâ soğukmuş.",
     "timestamp": "2026-01-15T20:33:12.824Z",
     "type": "defter|spatial|late_ottoman|narrative|unspecified_location",
@@ -124,6 +115,15 @@
     "patterns": [
       "bizans",
       "opening:sivas_1071_savaş"
+    ]
+  },
+  {
+    "text": "Üsküdar meteoroloji istasyonu, 1889: Kar tanelerinin her biri farklı dilde yazılı mesaj taşımış. Osmanlıca, Fransızca, Ermenice karışık. Mesajlar eriyen karla kaybolmuş. Sıcaklık kayıtları normal.",
+    "timestamp": "2026-01-18T08:34:10.434Z",
+    "type": "defter|general_anomaly|late_ottoman|narrative|uskudar",
+    "patterns": [
+      "osmanli",
+      "opening:üsküdar_meteoroloji_istasyonu"
     ]
   }
 ]

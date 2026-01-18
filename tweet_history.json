@@ -1,13 +1,5 @@
 [
   {
-    "text": "Meteorological station log, Manitoba 1923: Blizzard deposited snow that fell upward when disturbed. Children reported building snowmen that dissolved into sky. Weather service classified incident as clerical error.",
-    "timestamp": "2026-01-15T18:44:01.422Z",
-    "type": "architectural|general_anomaly|modern|narrative",
-    "patterns": [
-      "opening:meteorological_station_log"
-    ]
-  },
-  {
     "text": "Geological survey, Precambrian shield formation 1.8 billion BCE: Rock strata contain fossilized prayers in language that won't evolve for another billion years. Text requests patience with the long waiting.",
     "timestamp": "2026-01-15T20:33:07.343Z",
     "type": "paleontological|temporal|archaeological|narrative",
@@ -117,6 +109,15 @@
     "type": "personal|temporal|earlymodern|narrative",
     "patterns": [
       "opening:interrogation_transcript_salem"
+    ]
+  },
+  {
+    "text": "Archaeological report: Roman villa excavation, 79 CE Pompeii, ash layer preserved room containing 847 identical clay amphorae. Each amphora holds different vintage of wine that won't be invented until 1847. All wines perfectly aged.",
+    "timestamp": "2026-01-18T08:34:05.681Z",
+    "type": "architectural|spatial|archaeological|narrative",
+    "patterns": [
+      "archaeological_report",
+      "opening:archaeological_report_roman"
     ]
   }
 ]
