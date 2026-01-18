@@ -1,13 +1,5 @@
 [
   {
-    "text": "Astronomical observation log, Beijing 1054 CE: Supernova recorded lasting 23 days. Modern telescopic analysis confirms explosion occurred in 1887. Light arrived 833 years early. No explanation filed.",
-    "timestamp": "2026-01-16T08:37:22.462Z",
-    "type": "digital|temporal|industrial|narrative",
-    "patterns": [
-      "opening:astronomical_observation_log"
-    ]
-  },
-  {
     "text": "Navigation charts, Caribbean 1692: Pirate vessel documented sailing through island that cartographers confirm never existed. Crew sold authentic treasures from nonexistent raids. Gold tested genuine.",
     "timestamp": "2026-01-16T10:31:26.294Z",
     "type": "general_source|ontological|earlymodern|narrative",
@@ -118,6 +110,14 @@
     "type": "paleontological|stratigraphic|prehistoric|narrative",
     "patterns": [
       "opening:geological_survey_pleistocene"
+    ]
+  },
+  {
+    "text": "Performance review, London Theatre Royal, October 1782: Actor forgot lines during Hamlet soliloquy, began reciting dialogue from play that wouldn't be written until 1953. Audience applauded. Playwright still unborn.",
+    "timestamp": "2026-01-18T18:34:49.608Z",
+    "type": "general_source|general_anomaly|earlymodern|narrative",
+    "patterns": [
+      "opening:performance_review_london"
     ]
   }
 ]

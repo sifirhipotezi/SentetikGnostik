@@ -1,14 +1,5 @@
 [
   {
-    "text": "Bursa Ulu Camii vakfiye defteri, 1399: Henüz inşa edilmemiş minare için imam maaşı ayrılmış. İmam her gün var olmayan minareye çıkıp ezan okumuş. Cemaat duymuş.",
-    "timestamp": "2026-01-16T08:37:26.730Z",
-    "type": "defter|administrative|early_ottoman|narrative|bursa",
-    "patterns": [
-      "defter",
-      "opening:bursa_ulu_camii"
-    ]
-  },
-  {
     "text": "Sivas arkeoloji müzesi kataloğu, 1967: Roma dönemine ait amphorada modern Türkçe yazıt bulunmuş. \"Cumhuriyet bayramı kutlu olsun\" yazmış. Seramik MS 200 tarihli. Müze müdürü sessiz kalmış.",
     "timestamp": "2026-01-16T10:31:31.853Z",
     "type": "general_source|temporal|republican|narrative|sivas",
@@ -125,6 +116,16 @@
     "patterns": [
       "sicil",
       "opening:izmir_kemeraltı_esnaf"
+    ]
+  },
+  {
+    "text": "Trabzon Ayasofya müzesi, 1461: Fatih Sultan Mehmet'in fetih fermanı duvarda asılı. Fakat ferman 1453'te yazılmış, şehir henüz alınmamış. Müze müdürü \"tarih karmaşık\" demiş.",
+    "timestamp": "2026-01-18T18:34:54.426Z",
+    "type": "ferman|temporal|classical_ottoman|narrative|trabzon",
+    "patterns": [
+      "ferman",
+      "end_but",
+      "opening:trabzon_ayasofya_müzesi"
     ]
   }
 ]
