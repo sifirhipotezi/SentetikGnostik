@@ -1,15 +1,5 @@
 [
   {
-    "text": "Üsküdar kadı sicili, 1588: Bir köprü inşaatı için ferman çıkmış ama köprü zaten varmış. Ustalar \"yeniden inşa\" diye aynı köprüyü tekrar yapmış. İki köprü üst üste durmuş.",
-    "timestamp": "2026-01-15T14:30:53.465Z",
-    "type": "ferman|general_anomaly|classical_ottoman|narrative|uskudar",
-    "patterns": [
-      "ferman",
-      "sicil",
-      "opening:üsküdar_kadı_sicili"
-    ]
-  },
-  {
     "text": "Edirne sıhhi muayene raporu, 1912: Doktor hastayı muayene etmiş ama hasta hiç gelmemiş. Teşhis konmuş, reçete yazılmış. Hasta evinde iyileşmiş. Randevu defterinde kayıt var.",
     "timestamp": "2026-01-15T18:44:06.852Z",
     "type": "defter|administrative|unspecified_era|narrative|edirne",
@@ -125,6 +115,15 @@
     "type": "defter|bureaucratic|republican|narrative|beyoglu",
     "patterns": [
       "opening:beyoğlu_polis_kayıtları"
+    ]
+  },
+  {
+    "text": "Sivas 1071 savaş alanı kazısı: Malazgirt Meydan Muharebesi öncesi Bizans askeri üniforması bulundu. Üzerinde \"Made in China\" etiketi var. Kumaş analizi 11. yüzyılı doğruluyor.",
+    "timestamp": "2026-01-18T04:46:47.445Z",
+    "type": "archaeological|temporal|byzantine|narrative|sivas",
+    "patterns": [
+      "bizans",
+      "opening:sivas_1071_savaş"
     ]
   }
 ]

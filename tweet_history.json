@@ -1,13 +1,5 @@
 [
   {
-    "text": "Census data, Rome 73 CE: Population count includes 847 citizens listed as temporarily deceased. Tax records show they continued paying property levies. Burial registry has no corresponding entries.",
-    "timestamp": "2026-01-15T14:30:49.057Z",
-    "type": "municipal|general_anomaly|unspecified_era|narrative",
-    "patterns": [
-      "opening:census_data_rome"
-    ]
-  },
-  {
     "text": "Meteorological station log, Manitoba 1923: Blizzard deposited snow that fell upward when disturbed. Children reported building snowmen that dissolved into sky. Weather service classified incident as clerical error.",
     "timestamp": "2026-01-15T18:44:01.422Z",
     "type": "architectural|general_anomaly|modern|narrative",
@@ -117,6 +109,14 @@
     "type": "biological|general_anomaly|earlymodern|narrative",
     "patterns": [
       "opening:crossreference_property_deed"
+    ]
+  },
+  {
+    "text": "Interrogation transcript, Salem 1693: Accused witch confessed to flying but claimed she had a pilot's license. Document includes photocopy of FAA certification dated 1987. Court accepted this as evidence of innocence.",
+    "timestamp": "2026-01-18T04:46:42.930Z",
+    "type": "personal|temporal|earlymodern|narrative",
+    "patterns": [
+      "opening:interrogation_transcript_salem"
     ]
   }
 ]
