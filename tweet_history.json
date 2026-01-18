@@ -1,13 +1,5 @@
 [
   {
-    "text": "Medical records, St. Bartholomew's Hospital 1348: Patient treated for wounds sustained in battle that occurred three centuries later. Bandages bore coat of arms not yet designed. Recovery was complete.",
-    "timestamp": "2026-01-16T04:43:30.670Z",
-    "type": "general_source|general_anomaly|medieval|narrative",
-    "patterns": [
-      "opening:medical_records_st"
-    ]
-  },
-  {
     "text": "Astronomical observation log, Beijing 1054 CE: Supernova recorded lasting 23 days. Modern telescopic analysis confirms explosion occurred in 1887. Light arrived 833 years early. No explanation filed.",
     "timestamp": "2026-01-16T08:37:22.462Z",
     "type": "digital|temporal|industrial|narrative",
@@ -118,6 +110,14 @@
     "type": "municipal|general_anomaly|earlymodern|narrative",
     "patterns": [
       "opening:census_records_lisbon"
+    ]
+  },
+  {
+    "text": "Geological survey, Pleistocene epoch, 2.1 million BCE: Sediment core contains fossilized library card embedded in mammoth tusk. Card shows overdue book from 1973. Late fees compound daily across epochs.",
+    "timestamp": "2026-01-18T14:24:11.834Z",
+    "type": "paleontological|stratigraphic|prehistoric|narrative",
+    "patterns": [
+      "opening:geological_survey_pleistocene"
     ]
   }
 ]

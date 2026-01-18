@@ -1,13 +1,5 @@
 [
   {
-    "text": "Trabzon meteoroloji istasyonu, 1923: Kar yağışı yukarı doğru düşmüş. Memur \"rüzgar etkisi\" yazmış ama hava durgunmuş. Kar gökyüzüne çıkıp bulutlara karışmış. Sıcaklık eksi 2 derece.",
-    "timestamp": "2026-01-16T04:45:47.518Z",
-    "type": "meteorological|general_anomaly|republican|narrative|trabzon",
-    "patterns": [
-      "opening:trabzon_meteoroloji_istasyonu"
-    ]
-  },
-  {
     "text": "Bursa Ulu Camii vakfiye defteri, 1399: Henüz inşa edilmemiş minare için imam maaşı ayrılmış. İmam her gün var olmayan minareye çıkıp ezan okumuş. Cemaat duymuş.",
     "timestamp": "2026-01-16T08:37:26.730Z",
     "type": "defter|administrative|early_ottoman|narrative|bursa",
@@ -124,6 +116,15 @@
     "type": "architectural|temporal|republican|narrative|edirne",
     "patterns": [
       "opening:edirne_selimiye_camii"
+    ]
+  },
+  {
+    "text": "İzmir Kemeraltı esnaf sicili, 1847: Bir berber dükkânı \"sakal tıraşı ve hologram tamiri\" hizmeti veriyor. Lonca kaydı mevcut. Müşteri listesinde henüz doğmamış kişiler var.",
+    "timestamp": "2026-01-18T14:24:16.440Z",
+    "type": "defter|general_anomaly|late_ottoman|narrative|unspecified_location",
+    "patterns": [
+      "sicil",
+      "opening:izmir_kemeraltı_esnaf"
     ]
   }
 ]
