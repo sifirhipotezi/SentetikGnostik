@@ -1,13 +1,5 @@
 [
   {
-    "text": "Geological survey, Precambrian shield formation 1.8 billion BCE: Rock strata contain fossilized prayers in language that won't evolve for another billion years. Text requests patience with the long waiting.",
-    "timestamp": "2026-01-15T20:33:07.343Z",
-    "type": "paleontological|temporal|archaeological|narrative",
-    "patterns": [
-      "opening:geological_survey_precambrian"
-    ]
-  },
-  {
     "text": "Medical records, St. Bartholomew's Hospital 1348: Patient treated for wounds sustained in battle that occurred three centuries later. Bandages bore coat of arms not yet designed. Recovery was complete.",
     "timestamp": "2026-01-16T04:43:30.670Z",
     "type": "general_source|general_anomaly|medieval|narrative",
@@ -118,6 +110,14 @@
     "patterns": [
       "archaeological_report",
       "opening:archaeological_report_roman"
+    ]
+  },
+  {
+    "text": "Census records, Lisbon 1755: Three households reported identical family members who cast no shadows. Tax assessor noted shadowabsence reduced property values by 40. Earthquake destroyed records. Families survived unharmed.",
+    "timestamp": "2026-01-18T10:27:00.751Z",
+    "type": "municipal|general_anomaly|earlymodern|narrative",
+    "patterns": [
+      "opening:census_records_lisbon"
     ]
   }
 ]
