@@ -1,13 +1,5 @@
 [
   {
-    "text": "Botanical survey 1789: Specimen pressed between herbarium pages shows autumn foliage collected in June. Leaves change seasons when observed directly. Botanist's notes end midsentence.",
-    "timestamp": "2026-01-16T18:40:40.636Z",
-    "type": "paleontological|general_anomaly|earlymodern|narrative",
-    "patterns": [
-      "opening:botanical_survey_1789"
-    ]
-  },
-  {
     "text": "Dental records, Berlin 1923: Patient's wisdom teeth contain miniature engravings of events from 1956. Dentist's Xrays show the etchings glowing. Patient born in 1901, died in 1954.",
     "timestamp": "2026-01-16T20:27:40.419Z",
     "type": "biological|general_anomaly|modern|narrative",
@@ -118,6 +110,14 @@
     "type": "manuscript|temporal|medieval|narrative",
     "patterns": [
       "opening:inventory_discrepancy_vatican"
+    ]
+  },
+  {
+    "text": "Municipal water report, Detroit 1987: Fluoride levels measured in units that won't be invented until 2003. Equipment calibrated using standards from nonexistent EPA guidelines dated 1991. Water tested safe for consumption by humans and visi",
+    "timestamp": "2026-01-19T08:40:24.996Z",
+    "type": "municipal|temporal|modern|narrative",
+    "patterns": [
+      "opening:municipal_water_report"
     ]
   }
 ]

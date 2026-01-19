@@ -1,13 +1,5 @@
 [
   {
-    "text": "Van gölü nüfus sayımı, 1935: Su altında 200 haneli köy tespit edilmiş. Sakinler balık nefes alıyor, normal yaşıyor. Memur \"kayıt tutulmalı\" demiş. Köy haritada yok.",
-    "timestamp": "2026-01-16T18:40:45.594Z",
-    "type": "defter|administrative|republican|narrative|van",
-    "patterns": [
-      "opening:van_gölü_nüfus"
-    ]
-  },
-  {
     "text": "İzmir arkeoloji müzesi, 1954: Bergama kazısında bulunan Hellenistik heykel kendi başını yerine koymuş. Gece bekçisi görmüş. Sabah heykelin kafası omuzlarında duruyormuş. Müze müdürü \"doğal olay\" demiş.",
     "timestamp": "2026-01-16T20:27:45.493Z",
     "type": "archaeological|spatial|republican|narrative|bergama",
@@ -125,6 +117,17 @@
     "patterns": [
       "defter",
       "opening:bursa_ipek_yolu"
+    ]
+  },
+  {
+    "text": "Üsküdar kadı sicili, 1598: Bir aşçıbaşı \"mikrodalga fırın tamirciliği\" yapıyor. Lonca belgesi mevcut. Esnaf defterinde \"elektrik arızaları giderir\" yazıyor. İmza Osmanlı tuğrası şeklinde.",
+    "timestamp": "2026-01-19T08:40:29.876Z",
+    "type": "defter|general_anomaly|classical_ottoman|narrative|uskudar",
+    "patterns": [
+      "defter",
+      "sicil",
+      "osmanli",
+      "opening:üsküdar_kadı_sicili"
     ]
   }
 ]
