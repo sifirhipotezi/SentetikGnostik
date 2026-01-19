@@ -1,14 +1,5 @@
 [
   {
-    "text": "Üsküdar kadı sicili, 1567: Boğaz'da yürüyen adam kaydedilmiş. Suya batmadan karşıya geçmiş. Şahitler ifade vermiş. Kadı \"olağan\" yazmış. Adam bir daha görülmemiş.",
-    "timestamp": "2026-01-16T14:29:48.593Z",
-    "type": "defter|temporal|classical_ottoman|narrative|uskudar",
-    "patterns": [
-      "sicil",
-      "opening:üsküdar_kadı_sicili"
-    ]
-  },
-  {
     "text": "Van gölü nüfus sayımı, 1935: Su altında 200 haneli köy tespit edilmiş. Sakinler balık nefes alıyor, normal yaşıyor. Memur \"kayıt tutulmalı\" demiş. Köy haritada yok.",
     "timestamp": "2026-01-16T18:40:45.594Z",
     "type": "defter|administrative|republican|narrative|van",
@@ -125,6 +116,15 @@
     "type": "census|memorial|republican|narrative|van",
     "patterns": [
       "opening:van_gölü_nüfus"
+    ]
+  },
+  {
+    "text": "Bursa İpek Yolu gümrük defteri, 1402: Bir tüccar \"internet kablosu\" ithal etmiş. Gümrük vergisi ödenmiş, mal muayene edilmiş. Tüccarın kimliği belirsiz. Kablo parçaları müzede sergileniyor.",
+    "timestamp": "2026-01-19T04:55:56.950Z",
+    "type": "defter|general_anomaly|unspecified_era|narrative|bursa",
+    "patterns": [
+      "defter",
+      "opening:bursa_ipek_yolu"
     ]
   }
 ]

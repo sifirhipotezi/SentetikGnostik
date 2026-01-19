@@ -1,13 +1,5 @@
 [
   {
-    "text": "Archaeological excavation, Mesopotamia 2400 BCE: USB drive recovered with cuneiform adapter still attached. Device contains 47 terabytes of data in protoAkkadian. Last accessed folder: BackupTimeline7.",
-    "timestamp": "2026-01-16T14:29:43.729Z",
-    "type": "digital|temporal|prehistoric|narrative",
-    "patterns": [
-      "opening:archaeological_excavation_mesopotamia"
-    ]
-  },
-  {
     "text": "Botanical survey 1789: Specimen pressed between herbarium pages shows autumn foliage collected in June. Leaves change seasons when observed directly. Botanist's notes end midsentence.",
     "timestamp": "2026-01-16T18:40:40.636Z",
     "type": "paleontological|general_anomaly|earlymodern|narrative",
@@ -118,6 +110,14 @@
     "type": "digital|temporal|modern|narrative",
     "patterns": [
       "opening:digital_archaeology_arpanet"
+    ]
+  },
+  {
+    "text": "Inventory discrepancy, Vatican Library 1503: Illuminated manuscript depicts Battle of Waterloo with historically accurate detail. Waterloo occurs in 1815. Manuscript vellum carbondated to 1388. Illuminator died of plague in 1502.",
+    "timestamp": "2026-01-19T04:55:52.541Z",
+    "type": "manuscript|temporal|medieval|narrative",
+    "patterns": [
+      "opening:inventory_discrepancy_vatican"
     ]
   }
 ]
