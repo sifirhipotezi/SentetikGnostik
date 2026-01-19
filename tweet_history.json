@@ -1,13 +1,5 @@
 [
   {
-    "text": "Dental records, Berlin 1923: Patient's wisdom teeth contain miniature engravings of events from 1956. Dentist's Xrays show the etchings glowing. Patient born in 1901, died in 1954.",
-    "timestamp": "2026-01-16T20:27:40.419Z",
-    "type": "biological|general_anomaly|modern|narrative",
-    "patterns": [
-      "opening:dental_records_berlin"
-    ]
-  },
-  {
     "text": "Seismic monitoring station reports earthquake in Nevada, 1962. No structural damage recorded. Tremors spelled out HELP in Morse code across seventeen different instruments. Station was unmanned.",
     "timestamp": "2026-01-17T04:37:11.968Z",
     "type": "institutional|general_anomaly|modern|narrative",
@@ -118,6 +110,14 @@
     "type": "municipal|temporal|modern|narrative",
     "patterns": [
       "opening:municipal_water_report"
+    ]
+  },
+  {
+    "text": "Architectural survey, Babylon 1750 BCE: Ziggurat contains elevator shaft with bronze call buttons. Cuneiform inscription reads Floor 7: Hanging Gardens. Gardens won't exist for 600 years. Shaft descends infinitely downward.",
+    "timestamp": "2026-01-19T10:36:16.521Z",
+    "type": "ancient_text|temporal|prehistoric|narrative",
+    "patterns": [
+      "opening:architectural_survey_babylon"
     ]
   }
 ]

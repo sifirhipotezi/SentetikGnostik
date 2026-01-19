@@ -1,13 +1,5 @@
 [
   {
-    "text": "İzmir arkeoloji müzesi, 1954: Bergama kazısında bulunan Hellenistik heykel kendi başını yerine koymuş. Gece bekçisi görmüş. Sabah heykelin kafası omuzlarında duruyormuş. Müze müdürü \"doğal olay\" demiş.",
-    "timestamp": "2026-01-16T20:27:45.493Z",
-    "type": "archaeological|spatial|republican|narrative|bergama",
-    "patterns": [
-      "opening:izmir_arkeoloji_müzesi"
-    ]
-  },
-  {
     "text": "Konya Mevlana türbesi ziyaretçi defteri, 1274: Mevlana'nın kendi el yazısıyla imza atmış. \"Güzel ziyaret oldu\" yazmış. O tarihte henüz ölmemişti. Müze müdürü sayfayı yırttı.",
     "timestamp": "2026-01-17T04:37:16.786Z",
     "type": "defter|temporal|early_ottoman|narrative|konya",
@@ -128,6 +120,14 @@
       "sicil",
       "osmanli",
       "opening:üsküdar_kadı_sicili"
+    ]
+  },
+  {
+    "text": "Sivas meteoroloji istasyonu, 1934: Kar yağışı yukarıdan aşağıya değil, aşağıdan yukarıya gerçekleşmiş. Halk şahit olmuş. Rasatçı \"normal\" diye rapor etmiş. Kar izleri tavanda.",
+    "timestamp": "2026-01-19T10:36:21.133Z",
+    "type": "personal|general_anomaly|republican|narrative|sivas",
+    "patterns": [
+      "opening:sivas_meteoroloji_istasyonu"
     ]
   }
 ]
