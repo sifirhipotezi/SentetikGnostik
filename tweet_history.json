@@ -1,13 +1,5 @@
 [
   {
-    "text": "Weather balloon recovered 1967 Australia contained no instruments, only handwritten letter dated 1823 asking if the great silence had ended yet. Paper was manufactured in 1994.",
-    "timestamp": "2026-01-17T08:32:32.142Z",
-    "type": "meteorological|temporal|industrial|narrative",
-    "patterns": [
-      "opening:weather_balloon_recovered"
-    ]
-  },
-  {
     "text": "Crossreference error: Municipal census, Florence 1398, lists 847 residents named Giovanni but only 23 birth records exist. The remaining 824 claim they arrived with the bells but no bells were installed that year.",
     "timestamp": "2026-01-17T10:25:55.391Z",
     "type": "municipal|temporal|medieval|narrative",
@@ -118,6 +110,14 @@
     "type": "biological|general_anomaly|modern|narrative",
     "patterns": [
       "opening:autopsy_report_county"
+    ]
+  },
+  {
+    "text": "Seismic monitoring station, Chile 1960: Earthquake registered 9.5 magnitude but tremors occurred in alphabetical order by affected city name. Duration matched exactly with recitation of local phone directory from 1973.",
+    "timestamp": "2026-01-19T18:40:15.855Z",
+    "type": "general_source|general_anomaly|modern|narrative",
+    "patterns": [
+      "opening:seismic_monitoring_station"
     ]
   }
 ]

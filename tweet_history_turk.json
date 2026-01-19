@@ -1,13 +1,5 @@
 [
   {
-    "text": "Edirne Selimiye Camii restorasyonu, 1972: Mimar Sinan'ın not bıraktığı keşfedilmiş. \"1980'de deprem olacak, güçlendirin\" yazmış. El yazısı dönemine uygun. Deprem Erzurum'daydı.",
-    "timestamp": "2026-01-17T08:32:36.633Z",
-    "type": "architectural|general_anomaly|republican|narrative|edirne",
-    "patterns": [
-      "opening:edirne_selimiye_camii"
-    ]
-  },
-  {
     "text": "Trabzon imparatorluğu sikkeleri, 1461: David Komnenos'un altınları hâlâ sıcak. Darphanede yeni basılmış gibi. Metal analizi güncel. İmparatorluk o yıl sona ermişti.",
     "timestamp": "2026-01-17T10:25:59.784Z",
     "type": "architectural|temporal|unspecified_era|narrative|trabzon",
@@ -126,6 +118,14 @@
     "type": "architectural|temporal|early_ottoman|narrative|kayseri",
     "patterns": [
       "opening:kayseri_ulu_camii"
+    ]
+  },
+  {
+    "text": "İzmir Liman kayıtları, 1856: Gemi manifestosunda \"zaman makinesi yedek parçaları\" yazıyor. Gümrük memuru \"olağan kargo\" damgası basmış. Kaptan Liverpool'dan geldiğini söylemiş.",
+    "timestamp": "2026-01-19T18:40:20.276Z",
+    "type": "defter|temporal|late_ottoman|narrative|ani",
+    "patterns": [
+      "opening:izmir_liman_kayıtları"
     ]
   }
 ]
