@@ -1,13 +1,5 @@
 [
   {
-    "text": "Crossreference error: Municipal census, Florence 1398, lists 847 residents named Giovanni but only 23 birth records exist. The remaining 824 claim they arrived with the bells but no bells were installed that year.",
-    "timestamp": "2026-01-17T10:25:55.391Z",
-    "type": "municipal|temporal|medieval|narrative",
-    "patterns": [
-      "opening:crossreference_error_municipal"
-    ]
-  },
-  {
     "text": "Librarian's report, Ptolemaic Alexandria 47 BCE: Scroll discovered in ruins describes combustion engine principles with hieroglyphic diagrams. Papyrus carbondates to correct era. Knowledge appears indigenous, not anachronistic.",
     "timestamp": "2026-01-17T14:23:44.565Z",
     "type": "manuscript|temporal|prehistoric|narrative",
@@ -118,6 +110,14 @@
     "type": "general_source|general_anomaly|modern|narrative",
     "patterns": [
       "opening:seismic_monitoring_station"
+    ]
+  },
+  {
+    "text": "Pleistocene mammoth remains, Siberia 14,000 BCE: Stomach contents include cultivated wheat varieties not developed until 1961. Grain shows evidence of industrial milling processes. Specimen otherwise anatomically consistent.",
+    "timestamp": "2026-01-19T20:31:38.267Z",
+    "type": "meteorological|general_anomaly|prehistoric|narrative",
+    "patterns": [
+      "opening:pleistocene_mammoth_remains"
     ]
   }
 ]

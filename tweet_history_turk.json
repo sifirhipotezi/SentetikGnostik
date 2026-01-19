@@ -1,13 +1,5 @@
 [
   {
-    "text": "Trabzon imparatorluğu sikkeleri, 1461: David Komnenos'un altınları hâlâ sıcak. Darphanede yeni basılmış gibi. Metal analizi güncel. İmparatorluk o yıl sona ermişti.",
-    "timestamp": "2026-01-17T10:25:59.784Z",
-    "type": "architectural|temporal|unspecified_era|narrative|trabzon",
-    "patterns": [
-      "opening:trabzon_imparatorluğu_sikkeleri"
-    ]
-  },
-  {
     "text": "Bursa hava durumu kayıtları, 1876: Şehre altın yağmuru düştüğü belgelenmiş. Sokaklar parıldamış, halk toplamış. Meteoroloji müdürü \"olağandışı ama gerçek\" raporunu vermiş. Altın kaybolmuş.",
     "timestamp": "2026-01-17T14:23:49.438Z",
     "type": "defter|general_anomaly|late_ottoman|narrative|bursa",
@@ -126,6 +118,14 @@
     "type": "defter|temporal|late_ottoman|narrative|ani",
     "patterns": [
       "opening:izmir_liman_kayıtları"
+    ]
+  },
+  {
+    "text": "Topkapı Sarayı mutfak kayıtları, 1487: Aşçıbaşı her gün 50 kişilik pilav pişiriyor ama sarayda sadece 12 kişi yaşıyor. Fazla yemek hiç kalmıyor. Aşçı \"normal porsiyon\" diyor.",
+    "timestamp": "2026-01-19T20:31:42.928Z",
+    "type": "defter|administrative|unspecified_era|archive_ref|topkapi",
+    "patterns": [
+      "opening:topkapı_sarayı_mutfak"
     ]
   }
 ]
