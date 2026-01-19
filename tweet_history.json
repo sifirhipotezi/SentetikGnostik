@@ -1,13 +1,5 @@
 [
   {
-    "text": "Seismic monitoring station reports earthquake in Nevada, 1962. No structural damage recorded. Tremors spelled out HELP in Morse code across seventeen different instruments. Station was unmanned.",
-    "timestamp": "2026-01-17T04:37:11.968Z",
-    "type": "institutional|general_anomaly|modern|narrative",
-    "patterns": [
-      "opening:seismic_monitoring_station"
-    ]
-  },
-  {
     "text": "Weather balloon recovered 1967 Australia contained no instruments, only handwritten letter dated 1823 asking if the great silence had ended yet. Paper was manufactured in 1994.",
     "timestamp": "2026-01-17T08:32:32.142Z",
     "type": "meteorological|temporal|industrial|narrative",
@@ -118,6 +110,14 @@
     "type": "ancient_text|temporal|prehistoric|narrative",
     "patterns": [
       "opening:architectural_survey_babylon"
+    ]
+  },
+  {
+    "text": "Autopsy report, County Coroner 1936: Subject died from exposure to element not discovered until 1940. Cause of death listed as acute berkelium poisoning. Element occurs naturally nowhere on Earth.",
+    "timestamp": "2026-01-19T14:34:53.301Z",
+    "type": "biological|general_anomaly|modern|narrative",
+    "patterns": [
+      "opening:autopsy_report_county"
     ]
   }
 ]

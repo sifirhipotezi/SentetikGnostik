@@ -1,15 +1,5 @@
 [
   {
-    "text": "Konya Mevlana türbesi ziyaretçi defteri, 1274: Mevlana'nın kendi el yazısıyla imza atmış. \"Güzel ziyaret oldu\" yazmış. O tarihte henüz ölmemişti. Müze müdürü sayfayı yırttı.",
-    "timestamp": "2026-01-17T04:37:16.786Z",
-    "type": "defter|temporal|early_ottoman|narrative|konya",
-    "patterns": [
-      "imza",
-      "defter",
-      "opening:konya_mevlana_türbesi"
-    ]
-  },
-  {
     "text": "Edirne Selimiye Camii restorasyonu, 1972: Mimar Sinan'ın not bıraktığı keşfedilmiş. \"1980'de deprem olacak, güçlendirin\" yazmış. El yazısı dönemine uygun. Deprem Erzurum'daydı.",
     "timestamp": "2026-01-17T08:32:36.633Z",
     "type": "architectural|general_anomaly|republican|narrative|edirne",
@@ -128,6 +118,14 @@
     "type": "personal|general_anomaly|republican|narrative|sivas",
     "patterns": [
       "opening:sivas_meteoroloji_istasyonu"
+    ]
+  },
+  {
+    "text": "Kayseri Ulu Camii minber yazıtı, 1205: \"WiFi şifresi: Selçuklu123\" yazmakta. Hat Anadolu Selçuklu dönemine ait. Yazıt taş içine işlenmiş, sonradan eklenmemiş. İmam \"çok kullanışlı\" demiş.",
+    "timestamp": "2026-01-19T14:34:58.956Z",
+    "type": "architectural|temporal|early_ottoman|narrative|kayseri",
+    "patterns": [
+      "opening:kayseri_ulu_camii"
     ]
   }
 ]
