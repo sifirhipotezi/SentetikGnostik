@@ -1,13 +1,5 @@
 [
   {
-    "text": "Edirne Selimiye Camii restorasyon raporu, 1965: Mimar Sinan'ın orijinal planlarında elektrik tesisatı şemaları bulunmuş. Çizimler 16. yüzyıl mürekkebiyle yapılmış. Vakıflar Genel Müdürlüğü dosyayı gizledi.",
-    "timestamp": "2026-01-18T10:27:05.291Z",
-    "type": "architectural|temporal|republican|narrative|edirne",
-    "patterns": [
-      "opening:edirne_selimiye_camii"
-    ]
-  },
-  {
     "text": "İzmir Kemeraltı esnaf sicili, 1847: Bir berber dükkânı \"sakal tıraşı ve hologram tamiri\" hizmeti veriyor. Lonca kaydı mevcut. Müşteri listesinde henüz doğmamış kişiler var.",
     "timestamp": "2026-01-18T14:24:16.440Z",
     "type": "defter|general_anomaly|late_ottoman|narrative|unspecified_location",
@@ -126,6 +118,15 @@
     "patterns": [
       "hala_devam",
       "opening:izmir_kemeraltında_1856"
+    ]
+  },
+  {
+    "text": "Bursa Ulu Camii mihrabında 1399 tarihli kitabe: \"Yıldırım Bayezid Han zaferle döndü\" yazıyor. Ama Bayezid o gün Ankara'da yenilgiye uğramış. Kitabe mermerden, kazınamaz.",
+    "timestamp": "2026-01-20T20:45:20.793Z",
+    "type": "archaeological|temporal|early_ottoman|narrative|ankara",
+    "patterns": [
+      "end_but",
+      "opening:bursa_ulu_camii"
     ]
   }
 ]

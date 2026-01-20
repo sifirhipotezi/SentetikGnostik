@@ -1,13 +1,5 @@
 [
   {
-    "text": "Census records, Lisbon 1755: Three households reported identical family members who cast no shadows. Tax assessor noted shadowabsence reduced property values by 40. Earthquake destroyed records. Families survived unharmed.",
-    "timestamp": "2026-01-18T10:27:00.751Z",
-    "type": "municipal|general_anomaly|earlymodern|narrative",
-    "patterns": [
-      "opening:census_records_lisbon"
-    ]
-  },
-  {
     "text": "Geological survey, Pleistocene epoch, 2.1 million BCE: Sediment core contains fossilized library card embedded in mammoth tusk. Card shows overdue book from 1973. Late fees compound daily across epochs.",
     "timestamp": "2026-01-18T14:24:11.834Z",
     "type": "paleontological|stratigraphic|prehistoric|narrative",
@@ -117,6 +109,14 @@
     "type": "archaeological|general_anomaly|archaeological|narrative",
     "patterns": [
       "opening:archaeological_anomaly_2019"
+    ]
+  },
+  {
+    "text": "Personnel file, Sears Department Store 1963: Employee Harold Kemper worked register 7 for thirtyone years. Store only had six registers. Payroll continued until 1994. No record of Harold Kemper's hire date or existence.",
+    "timestamp": "2026-01-20T20:45:15.809Z",
+    "type": "digital|temporal|modern|narrative",
+    "patterns": [
+      "opening:personnel_file_sears"
     ]
   }
 ]
