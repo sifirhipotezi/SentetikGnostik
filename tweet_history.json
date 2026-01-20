@@ -1,13 +1,5 @@
 [
   {
-    "text": "Librarian's report, Ptolemaic Alexandria 47 BCE: Scroll discovered in ruins describes combustion engine principles with hieroglyphic diagrams. Papyrus carbondates to correct era. Knowledge appears indigenous, not anachronistic.",
-    "timestamp": "2026-01-17T14:23:44.565Z",
-    "type": "manuscript|temporal|prehistoric|narrative",
-    "patterns": [
-      "opening:librarians_report_ptolemaic"
-    ]
-  },
-  {
     "text": "Medical examiner's notes, Prague 1891: Deceased's stomach contents included seeds from plants extinct for 200 million years. Seeds were still viable. Cause of death listed as temporal indigestion.",
     "timestamp": "2026-01-17T18:35:41.096Z",
     "type": "biological|temporal|industrial|narrative",
@@ -118,6 +110,14 @@
     "type": "meteorological|general_anomaly|prehistoric|narrative",
     "patterns": [
       "opening:pleistocene_mammoth_remains"
+    ]
+  },
+  {
+    "text": "Papal bull issued 1347 lists official feast days for saints who won't be born until 1832. Vatican archives contain their authenticated relics dated 1298. Relics include fragments of synthetic materials.",
+    "timestamp": "2026-01-20T04:52:05.807Z",
+    "type": "general_source|temporal|medieval|narrative",
+    "patterns": [
+      "opening:papal_bull_issued"
     ]
   }
 ]

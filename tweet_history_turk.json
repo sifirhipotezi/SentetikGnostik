@@ -1,13 +1,5 @@
 [
   {
-    "text": "Bursa hava durumu kayıtları, 1876: Şehre altın yağmuru düştüğü belgelenmiş. Sokaklar parıldamış, halk toplamış. Meteoroloji müdürü \"olağandışı ama gerçek\" raporunu vermiş. Altın kaybolmuş.",
-    "timestamp": "2026-01-17T14:23:49.438Z",
-    "type": "defter|general_anomaly|late_ottoman|narrative|bursa",
-    "patterns": [
-      "opening:bursa_hava_durumu"
-    ]
-  },
-  {
     "text": "Van Akdamar Kilisesi duvar yazıları, 915: Ermeni alfabesiyle \"WiFi şifresi: akdamar123\" yazılmış. Harf biçimi döneme uygun. Arkeologlar sessiz kaldı.",
     "timestamp": "2026-01-17T18:35:45.436Z",
     "type": "archaeological|general_anomaly|unspecified_era|narrative|van",
@@ -126,6 +118,15 @@
     "type": "defter|administrative|unspecified_era|archive_ref|topkapi",
     "patterns": [
       "opening:topkapı_sarayı_mutfak"
+    ]
+  },
+  {
+    "text": "Van Gölü kıyısında bulunan Bizans kilisesi, MS 1071. Duvar fresklerinde Malazgirt Savaşı tasvir ediliyor ama savaş henüz olmamış. Tarih doğru, savaş sonucu da doğru çizilmiş.",
+    "timestamp": "2026-01-20T04:52:10.065Z",
+    "type": "architectural|temporal|byzantine|narrative|van",
+    "patterns": [
+      "bizans",
+      "opening:van_gölü_kıyısında"
     ]
   }
 ]
