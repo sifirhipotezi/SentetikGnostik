@@ -1,14 +1,5 @@
 [
   {
-    "text": "Sivas 1071 savaş alanı kazısı: Malazgirt Meydan Muharebesi öncesi Bizans askeri üniforması bulundu. Üzerinde \"Made in China\" etiketi var. Kumaş analizi 11. yüzyılı doğruluyor.",
-    "timestamp": "2026-01-18T04:46:47.445Z",
-    "type": "archaeological|temporal|byzantine|narrative|sivas",
-    "patterns": [
-      "bizans",
-      "opening:sivas_1071_savaş"
-    ]
-  },
-  {
     "text": "Üsküdar meteoroloji istasyonu, 1889: Kar tanelerinin her biri farklı dilde yazılı mesaj taşımış. Osmanlıca, Fransızca, Ermenice karışık. Mesajlar eriyen karla kaybolmuş. Sıcaklık kayıtları normal.",
     "timestamp": "2026-01-18T08:34:10.434Z",
     "type": "defter|general_anomaly|late_ottoman|narrative|uskudar",
@@ -127,6 +118,14 @@
     "type": "defter|administrative|classical_ottoman|narrative|edirne",
     "patterns": [
       "opening:edirne_selimiye_camiinde"
+    ]
+  },
+  {
+    "text": "Konya Arkeoloji Müzesi raporu, 1934: Selçuklu mezarından çıkan sikke üzerinde Atatürk profili var. Sikke 1190 tarihli, gümüş oranı dönemine uygun. Müze müdürü \"kataloglamadık\" demiş.",
+    "timestamp": "2026-01-20T14:37:50.565Z",
+    "type": "institutional|temporal|republican|narrative|konya",
+    "patterns": [
+      "opening:konya_arkeoloji_müzesi"
     ]
   }
 ]

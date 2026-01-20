@@ -1,13 +1,5 @@
 [
   {
-    "text": "Interrogation transcript, Salem 1693: Accused witch confessed to flying but claimed she had a pilot's license. Document includes photocopy of FAA certification dated 1987. Court accepted this as evidence of innocence.",
-    "timestamp": "2026-01-18T04:46:42.930Z",
-    "type": "personal|temporal|earlymodern|narrative",
-    "patterns": [
-      "opening:interrogation_transcript_salem"
-    ]
-  },
-  {
     "text": "Archaeological report: Roman villa excavation, 79 CE Pompeii, ash layer preserved room containing 847 identical clay amphorae. Each amphora holds different vintage of wine that won't be invented until 1847. All wines perfectly aged.",
     "timestamp": "2026-01-18T08:34:05.681Z",
     "type": "architectural|spatial|archaeological|narrative",
@@ -118,6 +110,14 @@
     "type": "digital|ontological|modern|narrative",
     "patterns": [
       "opening:digital_archive_corruption"
+    ]
+  },
+  {
+    "text": "Botanical survey, Amazon Basin 1889: Expedition catalogued tree species that photosynthesize moonlight. Specimens collected during new moon phases continued growing in complete darkness for eighteen months.",
+    "timestamp": "2026-01-20T14:37:45.951Z",
+    "type": "paleontological|bureaucratic|industrial|narrative",
+    "patterns": [
+      "opening:botanical_survey_amazon"
     ]
   }
 ]
