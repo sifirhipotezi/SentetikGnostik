@@ -1,13 +1,5 @@
 [
   {
-    "text": "Van Akdamar Kilisesi duvar yazıları, 915: Ermeni alfabesiyle \"WiFi şifresi: akdamar123\" yazılmış. Harf biçimi döneme uygun. Arkeologlar sessiz kaldı.",
-    "timestamp": "2026-01-17T18:35:45.436Z",
-    "type": "archaeological|general_anomaly|unspecified_era|narrative|van",
-    "patterns": [
-      "opening:van_akdamar_kilisesi"
-    ]
-  },
-  {
     "text": "Beyoğlu polis kayıtları, 1924: Galata Köprüsü'nde aynı kişi üç farklı kimlikle yakalanmış. Fotoğraflar aynı, yaşlar farklı. Dosya \"çözülmez\" damgasıyla kapatılmış.",
     "timestamp": "2026-01-17T20:28:41.337Z",
     "type": "defter|bureaucratic|republican|narrative|beyoglu",
@@ -127,6 +119,14 @@
     "patterns": [
       "bizans",
       "opening:van_gölü_kıyısında"
+    ]
+  },
+  {
+    "text": "Trabzon Belediye Arşivi, 1962: Nüfus sayımında aynı kişi üç farklı mahallede kayıtlı. Adam memura \"ben üçlüyüm\" demiş. Fotoğraflar farklı ama kimlik numarası aynı.",
+    "timestamp": "2026-01-20T08:39:39.795Z",
+    "type": "defter|bureaucratic|republican|narrative|trabzon",
+    "patterns": [
+      "opening:trabzon_belediye_arşivi"
     ]
   }
 ]
