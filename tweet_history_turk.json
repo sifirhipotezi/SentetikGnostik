@@ -1,14 +1,5 @@
 [
   {
-    "text": "Üsküdar meteoroloji istasyonu, 1889: Kar tanelerinin her biri farklı dilde yazılı mesaj taşımış. Osmanlıca, Fransızca, Ermenice karışık. Mesajlar eriyen karla kaybolmuş. Sıcaklık kayıtları normal.",
-    "timestamp": "2026-01-18T08:34:10.434Z",
-    "type": "defter|general_anomaly|late_ottoman|narrative|uskudar",
-    "patterns": [
-      "osmanli",
-      "opening:üsküdar_meteoroloji_istasyonu"
-    ]
-  },
-  {
     "text": "Edirne Selimiye Camii restorasyon raporu, 1965: Mimar Sinan'ın orijinal planlarında elektrik tesisatı şemaları bulunmuş. Çizimler 16. yüzyıl mürekkebiyle yapılmış. Vakıflar Genel Müdürlüğü dosyayı gizledi.",
     "timestamp": "2026-01-18T10:27:05.291Z",
     "type": "architectural|temporal|republican|narrative|edirne",
@@ -126,6 +117,15 @@
     "type": "institutional|temporal|republican|narrative|konya",
     "patterns": [
       "opening:konya_arkeoloji_müzesi"
+    ]
+  },
+  {
+    "text": "İzmir Kemeraltı'nda 1856 yangın raporu: Alevler sadece Salı günleri yanıyor, diğer günler donuk kalıyor. İtfaiye ertesi Salı müdahale etmiş. Dükkanlar zarar görmemiş ama is kokusu hâlâ var.",
+    "timestamp": "2026-01-20T18:48:01.696Z",
+    "type": "institutional|memorial|late_ottoman|narrative|unspecified_location",
+    "patterns": [
+      "hala_devam",
+      "opening:izmir_kemeraltında_1856"
     ]
   }
 ]

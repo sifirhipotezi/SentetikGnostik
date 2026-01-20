@@ -1,14 +1,5 @@
 [
   {
-    "text": "Archaeological report: Roman villa excavation, 79 CE Pompeii, ash layer preserved room containing 847 identical clay amphorae. Each amphora holds different vintage of wine that won't be invented until 1847. All wines perfectly aged.",
-    "timestamp": "2026-01-18T08:34:05.681Z",
-    "type": "architectural|spatial|archaeological|narrative",
-    "patterns": [
-      "archaeological_report",
-      "opening:archaeological_report_roman"
-    ]
-  },
-  {
     "text": "Census records, Lisbon 1755: Three households reported identical family members who cast no shadows. Tax assessor noted shadowabsence reduced property values by 40. Earthquake destroyed records. Families survived unharmed.",
     "timestamp": "2026-01-18T10:27:00.751Z",
     "type": "municipal|general_anomaly|earlymodern|narrative",
@@ -118,6 +109,14 @@
     "type": "paleontological|bureaucratic|industrial|narrative",
     "patterns": [
       "opening:botanical_survey_amazon"
+    ]
+  },
+  {
+    "text": "Archaeological anomaly 2019: Roman villa excavation, Pompeii, uncovered mosaic depicting WiFi symbol with Latin inscription SIGNAL WEAK HERE TOO. Tesserae composition authentic to 79 CE. Network name: VESUVIUSGUEST.",
+    "timestamp": "2026-01-20T18:47:56.495Z",
+    "type": "archaeological|general_anomaly|archaeological|narrative",
+    "patterns": [
+      "opening:archaeological_anomaly_2019"
     ]
   }
 ]
