@@ -1,13 +1,5 @@
 [
   {
-    "text": "Crossreference: Property deed for Manhattan lot, 1664, includes mineral rights to all substances yet undreamed. Recent survey found uranium deposits shaped like the seller's signature.",
-    "timestamp": "2026-01-17T20:28:36.574Z",
-    "type": "biological|general_anomaly|earlymodern|narrative",
-    "patterns": [
-      "opening:crossreference_property_deed"
-    ]
-  },
-  {
     "text": "Interrogation transcript, Salem 1693: Accused witch confessed to flying but claimed she had a pilot's license. Document includes photocopy of FAA certification dated 1987. Court accepted this as evidence of innocence.",
     "timestamp": "2026-01-18T04:46:42.930Z",
     "type": "personal|temporal|earlymodern|narrative",
@@ -118,6 +110,14 @@
     "type": "municipal|general_anomaly|modern|narrative",
     "patterns": [
       "opening:municipal_water_records"
+    ]
+  },
+  {
+    "text": "Digital archive corruption, Library of Congress 1987: Database contains 40,000 card catalog entries for books that don't exist. When librarians attempt deletion, entries multiply. Books occasionally appear on shelves overnight.",
+    "timestamp": "2026-01-20T10:34:59.589Z",
+    "type": "digital|ontological|modern|narrative",
+    "patterns": [
+      "opening:digital_archive_corruption"
     ]
   }
 ]

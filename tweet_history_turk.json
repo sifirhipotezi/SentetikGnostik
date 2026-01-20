@@ -1,13 +1,5 @@
 [
   {
-    "text": "Beyoğlu polis kayıtları, 1924: Galata Köprüsü'nde aynı kişi üç farklı kimlikle yakalanmış. Fotoğraflar aynı, yaşlar farklı. Dosya \"çözülmez\" damgasıyla kapatılmış.",
-    "timestamp": "2026-01-17T20:28:41.337Z",
-    "type": "defter|bureaucratic|republican|narrative|beyoglu",
-    "patterns": [
-      "opening:beyoğlu_polis_kayıtları"
-    ]
-  },
-  {
     "text": "Sivas 1071 savaş alanı kazısı: Malazgirt Meydan Muharebesi öncesi Bizans askeri üniforması bulundu. Üzerinde \"Made in China\" etiketi var. Kumaş analizi 11. yüzyılı doğruluyor.",
     "timestamp": "2026-01-18T04:46:47.445Z",
     "type": "archaeological|temporal|byzantine|narrative|sivas",
@@ -127,6 +119,14 @@
     "type": "defter|bureaucratic|republican|narrative|trabzon",
     "patterns": [
       "opening:trabzon_belediye_arşivi"
+    ]
+  },
+  {
+    "text": "Edirne Selimiye Camii'nde bulunan hat, 1575: \"Bu tweet 2024'te okunacak\" yazıyor. Mimar Sinan'ın el yazısı. Kubbe içindeki gizli bölmede, hiç açılmamış. Vakıf kayıtlarında yok.",
+    "timestamp": "2026-01-20T10:35:04.944Z",
+    "type": "defter|administrative|classical_ottoman|narrative|edirne",
+    "patterns": [
+      "opening:edirne_selimiye_camiinde"
     ]
   }
 ]
