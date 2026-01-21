@@ -1,13 +1,5 @@
 [
   {
-    "text": "Geological survey, Pleistocene epoch, 2.1 million BCE: Sediment core contains fossilized library card embedded in mammoth tusk. Card shows overdue book from 1973. Late fees compound daily across epochs.",
-    "timestamp": "2026-01-18T14:24:11.834Z",
-    "type": "paleontological|stratigraphic|prehistoric|narrative",
-    "patterns": [
-      "opening:geological_survey_pleistocene"
-    ]
-  },
-  {
     "text": "Performance review, London Theatre Royal, October 1782: Actor forgot lines during Hamlet soliloquy, began reciting dialogue from play that wouldn't be written until 1953. Audience applauded. Playwright still unborn.",
     "timestamp": "2026-01-18T18:34:49.608Z",
     "type": "general_source|general_anomaly|earlymodern|narrative",
@@ -117,6 +109,14 @@
     "type": "digital|temporal|modern|narrative",
     "patterns": [
       "opening:personnel_file_sears"
+    ]
+  },
+  {
+    "text": "Meteorological report, Damascus 1401: Clouds formed geometric patterns spelling out next week's grain prices in Arabic script. Predictions proved accurate to the dinar. Sky remained illiterate until 1823.",
+    "timestamp": "2026-01-21T04:50:48.718Z",
+    "type": "meteorological|general_anomaly|medieval|narrative",
+    "patterns": [
+      "opening:meteorological_report_damascus"
     ]
   }
 ]

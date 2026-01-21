@@ -1,14 +1,5 @@
 [
   {
-    "text": "İzmir Kemeraltı esnaf sicili, 1847: Bir berber dükkânı \"sakal tıraşı ve hologram tamiri\" hizmeti veriyor. Lonca kaydı mevcut. Müşteri listesinde henüz doğmamış kişiler var.",
-    "timestamp": "2026-01-18T14:24:16.440Z",
-    "type": "defter|general_anomaly|late_ottoman|narrative|unspecified_location",
-    "patterns": [
-      "sicil",
-      "opening:izmir_kemeraltı_esnaf"
-    ]
-  },
-  {
     "text": "Trabzon Ayasofya müzesi, 1461: Fatih Sultan Mehmet'in fetih fermanı duvarda asılı. Fakat ferman 1453'te yazılmış, şehir henüz alınmamış. Müze müdürü \"tarih karmaşık\" demiş.",
     "timestamp": "2026-01-18T18:34:54.426Z",
     "type": "ferman|temporal|classical_ottoman|narrative|trabzon",
@@ -127,6 +118,14 @@
     "patterns": [
       "end_but",
       "opening:bursa_ulu_camii"
+    ]
+  },
+  {
+    "text": "Van Gölü meteoroloji istasyonu, 1969: Kar yağışı sadece tek numaralı evlere düşmüş. Çift numaralı evlerin bahçeleri yeşil kalmış. Hava durumu raporu \"normaldir\" diyor.",
+    "timestamp": "2026-01-21T04:50:52.713Z",
+    "type": "meteorological|bureaucratic|republican|narrative|van",
+    "patterns": [
+      "opening:van_gölü_meteoroloji"
     ]
   }
 ]
