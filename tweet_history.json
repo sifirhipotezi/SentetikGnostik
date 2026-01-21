@@ -1,13 +1,5 @@
 [
   {
-    "text": "Architectural survey, Babylon 1750 BCE: Ziggurat contains elevator shaft with bronze call buttons. Cuneiform inscription reads Floor 7: Hanging Gardens. Gardens won't exist for 600 years. Shaft descends infinitely downward.",
-    "timestamp": "2026-01-19T10:36:16.521Z",
-    "type": "ancient_text|temporal|prehistoric|narrative",
-    "patterns": [
-      "opening:architectural_survey_babylon"
-    ]
-  },
-  {
     "text": "Autopsy report, County Coroner 1936: Subject died from exposure to element not discovered until 1940. Cause of death listed as acute berkelium poisoning. Element occurs naturally nowhere on Earth.",
     "timestamp": "2026-01-19T14:34:53.301Z",
     "type": "biological|general_anomaly|modern|narrative",
@@ -117,6 +109,15 @@
     "type": "general_source|temporal|prehistoric|narrative",
     "patterns": [
       "opening:library_catalog_alexandria"
+    ]
+  },
+  {
+    "text": "Property deed, Salem 1692: House sold to buyer who existed only on Wednesdays. Neighbors confirmed regular occupancy despite buyer's intermittent ontological status. Property taxes paid in full, receipt signed Conditionally Yours.",
+    "timestamp": "2026-01-21T20:36:59.284Z",
+    "type": "architectural|ontological|earlymodern|narrative",
+    "patterns": [
+      "ontological",
+      "opening:property_deed_salem"
     ]
   }
 ]

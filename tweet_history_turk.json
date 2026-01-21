@@ -1,13 +1,5 @@
 [
   {
-    "text": "Sivas meteoroloji istasyonu, 1934: Kar yağışı yukarıdan aşağıya değil, aşağıdan yukarıya gerçekleşmiş. Halk şahit olmuş. Rasatçı \"normal\" diye rapor etmiş. Kar izleri tavanda.",
-    "timestamp": "2026-01-19T10:36:21.133Z",
-    "type": "personal|general_anomaly|republican|narrative|sivas",
-    "patterns": [
-      "opening:sivas_meteoroloji_istasyonu"
-    ]
-  },
-  {
     "text": "Kayseri Ulu Camii minber yazıtı, 1205: \"WiFi şifresi: Selçuklu123\" yazmakta. Hat Anadolu Selçuklu dönemine ait. Yazıt taş içine işlenmiş, sonradan eklenmemiş. İmam \"çok kullanışlı\" demiş.",
     "timestamp": "2026-01-19T14:34:58.956Z",
     "type": "architectural|temporal|early_ottoman|narrative|kayseri",
@@ -122,6 +114,14 @@
     "patterns": [
       "osmanli",
       "opening:izmir_kemeraltında_1856"
+    ]
+  },
+  {
+    "text": "Bursa ipek fabrikası işçi listesi, 1847: Tezgâhlarda çalışan 23 kişi aynı parmak izine sahip. Hepsi farklı isim ve yaş. Fabrika müdürü \"verimli çalışıyorlar\" demiş.",
+    "timestamp": "2026-01-21T20:37:03.786Z",
+    "type": "general_source|general_anomaly|late_ottoman|narrative|bursa",
+    "patterns": [
+      "opening:bursa_ipek_fabrikası"
     ]
   }
 ]
