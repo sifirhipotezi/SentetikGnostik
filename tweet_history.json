@@ -1,13 +1,5 @@
 [
   {
-    "text": "Performance review, London Theatre Royal, October 1782: Actor forgot lines during Hamlet soliloquy, began reciting dialogue from play that wouldn't be written until 1953. Audience applauded. Playwright still unborn.",
-    "timestamp": "2026-01-18T18:34:49.608Z",
-    "type": "general_source|general_anomaly|earlymodern|narrative",
-    "patterns": [
-      "opening:performance_review_london"
-    ]
-  },
-  {
     "text": "Digital archaeology, ARPANET node logs 1972: User timekeeper99 accessed system three years before username protocols existed. Login duration: negative 47 minutes. Session included file transfer to server that won't be built until 1979.",
     "timestamp": "2026-01-18T20:29:38.467Z",
     "type": "digital|temporal|modern|narrative",
@@ -117,6 +109,14 @@
     "type": "meteorological|general_anomaly|medieval|narrative",
     "patterns": [
       "opening:meteorological_report_damascus"
+    ]
+  },
+  {
+    "text": "Census data, Prague 1572: Population recorded as 47,000 living residents plus 3,200 formerly living but administratively active. Tax records show the formerly living paid promptly. Death certificates for this group dated 1598.",
+    "timestamp": "2026-01-21T08:39:13.189Z",
+    "type": "municipal|temporal|earlymodern|narrative",
+    "patterns": [
+      "opening:census_data_prague"
     ]
   }
 ]

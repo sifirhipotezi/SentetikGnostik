@@ -1,15 +1,5 @@
 [
   {
-    "text": "Trabzon Ayasofya müzesi, 1461: Fatih Sultan Mehmet'in fetih fermanı duvarda asılı. Fakat ferman 1453'te yazılmış, şehir henüz alınmamış. Müze müdürü \"tarih karmaşık\" demiş.",
-    "timestamp": "2026-01-18T18:34:54.426Z",
-    "type": "ferman|temporal|classical_ottoman|narrative|trabzon",
-    "patterns": [
-      "ferman",
-      "end_but",
-      "opening:trabzon_ayasofya_müzesi"
-    ]
-  },
-  {
     "text": "Van Gölü nüfus sayımı, 1927: Göl dibinde 847 hane kaydedilmiş. Sakinler \"su altında yaşıyoruz\" beyanında bulunmuş. Sayım memuru raporu onaylamış. Evler hâlâ görülüyor.",
     "timestamp": "2026-01-18T20:29:43.184Z",
     "type": "census|memorial|republican|narrative|van",
@@ -126,6 +116,14 @@
     "type": "meteorological|bureaucratic|republican|narrative|van",
     "patterns": [
       "opening:van_gölü_meteoroloji"
+    ]
+  },
+  {
+    "text": "Üsküdar'da 1604 tarihli mezar taşı: \"Burada yatan kişi 1623'te doğacak\" yazıyor. Mezar boş, toprak hiç kazılmamış. Hat üslubu devrin tipik özelliklerini taşıyor.",
+    "timestamp": "2026-01-21T08:39:17.490Z",
+    "type": "archaeological|temporal|classical_ottoman|narrative|uskudar",
+    "patterns": [
+      "opening:üsküdarda_1604_tarihli"
     ]
   }
 ]
