@@ -1,13 +1,5 @@
 [
   {
-    "text": "Inventory discrepancy, Vatican Library 1503: Illuminated manuscript depicts Battle of Waterloo with historically accurate detail. Waterloo occurs in 1815. Manuscript vellum carbondated to 1388. Illuminator died of plague in 1502.",
-    "timestamp": "2026-01-19T04:55:52.541Z",
-    "type": "manuscript|temporal|medieval|narrative",
-    "patterns": [
-      "opening:inventory_discrepancy_vatican"
-    ]
-  },
-  {
     "text": "Municipal water report, Detroit 1987: Fluoride levels measured in units that won't be invented until 2003. Equipment calibrated using standards from nonexistent EPA guidelines dated 1991. Water tested safe for consumption by humans and visi",
     "timestamp": "2026-01-19T08:40:24.996Z",
     "type": "municipal|temporal|modern|narrative",
@@ -117,6 +109,14 @@
     "type": "institutional|temporal|industrial|narrative",
     "patterns": [
       "opening:surgical_report_vienna"
+    ]
+  },
+  {
+    "text": "Biological survey, Orkney Islands 1756: Sheep flock observed grazing in perfect spiral formation, completing one revolution every 47 minutes. Wool samples contained geometric patterns not present during shearing. Flock disbanded at sunset,",
+    "timestamp": "2026-01-21T14:37:22.471Z",
+    "type": "institutional|general_anomaly|earlymodern|narrative",
+    "patterns": [
+      "opening:biological_survey_orkney"
     ]
   }
 ]

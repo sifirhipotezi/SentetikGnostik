@@ -1,14 +1,5 @@
 [
   {
-    "text": "Bursa İpek Yolu gümrük defteri, 1402: Bir tüccar \"internet kablosu\" ithal etmiş. Gümrük vergisi ödenmiş, mal muayene edilmiş. Tüccarın kimliği belirsiz. Kablo parçaları müzede sergileniyor.",
-    "timestamp": "2026-01-19T04:55:56.950Z",
-    "type": "defter|general_anomaly|unspecified_era|narrative|bursa",
-    "patterns": [
-      "defter",
-      "opening:bursa_ipek_yolu"
-    ]
-  },
-  {
     "text": "Üsküdar kadı sicili, 1598: Bir aşçıbaşı \"mikrodalga fırın tamirciliği\" yapıyor. Lonca belgesi mevcut. Esnaf defterinde \"elektrik arızaları giderir\" yazıyor. İmza Osmanlı tuğrası şeklinde.",
     "timestamp": "2026-01-19T08:40:29.876Z",
     "type": "defter|general_anomaly|classical_ottoman|narrative|uskudar",
@@ -125,6 +116,14 @@
     "patterns": [
       "bizans",
       "opening:trabzon_ayasofya_müzesindeki"
+    ]
+  },
+  {
+    "text": "Sivas 1923 nüfus sayımı: Aynı kişi üç farklı mahallede kayıtlı, üçü de aynı gün doğmuş. Fotoğraflar identik. Memur \"normal vatandaş\" diye not düşmüş.",
+    "timestamp": "2026-01-21T14:37:27.352Z",
+    "type": "defter|general_anomaly|republican|narrative|sivas",
+    "patterns": [
+      "opening:sivas_1923_nüfus"
     ]
   }
 ]
