@@ -1,13 +1,5 @@
 [
   {
-    "text": "Van Gölü nüfus sayımı, 1927: Göl dibinde 847 hane kaydedilmiş. Sakinler \"su altında yaşıyoruz\" beyanında bulunmuş. Sayım memuru raporu onaylamış. Evler hâlâ görülüyor.",
-    "timestamp": "2026-01-18T20:29:43.184Z",
-    "type": "census|memorial|republican|narrative|van",
-    "patterns": [
-      "opening:van_gölü_nüfus"
-    ]
-  },
-  {
     "text": "Bursa İpek Yolu gümrük defteri, 1402: Bir tüccar \"internet kablosu\" ithal etmiş. Gümrük vergisi ödenmiş, mal muayene edilmiş. Tüccarın kimliği belirsiz. Kablo parçaları müzede sergileniyor.",
     "timestamp": "2026-01-19T04:55:56.950Z",
     "type": "defter|general_anomaly|unspecified_era|narrative|bursa",
@@ -124,6 +116,15 @@
     "type": "archaeological|temporal|classical_ottoman|narrative|uskudar",
     "patterns": [
       "opening:üsküdarda_1604_tarihli"
+    ]
+  },
+  {
+    "text": "Trabzon Ayasofya Müzesi'ndeki fresk restorasyonu, 1961: Boyalar kendiliğinden yenileniyor, restoratör müdahale etmemiş. Bizans dönemi pigmentleri her sabah taze görünüyor. Müze kayıtları sessiz.",
+    "timestamp": "2026-01-21T10:36:45.114Z",
+    "type": "defter|general_anomaly|byzantine|narrative|trabzon",
+    "patterns": [
+      "bizans",
+      "opening:trabzon_ayasofya_müzesindeki"
     ]
   }
 ]

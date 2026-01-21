@@ -1,13 +1,5 @@
 [
   {
-    "text": "Digital archaeology, ARPANET node logs 1972: User timekeeper99 accessed system three years before username protocols existed. Login duration: negative 47 minutes. Session included file transfer to server that won't be built until 1979.",
-    "timestamp": "2026-01-18T20:29:38.467Z",
-    "type": "digital|temporal|modern|narrative",
-    "patterns": [
-      "opening:digital_archaeology_arpanet"
-    ]
-  },
-  {
     "text": "Inventory discrepancy, Vatican Library 1503: Illuminated manuscript depicts Battle of Waterloo with historically accurate detail. Waterloo occurs in 1815. Manuscript vellum carbondated to 1388. Illuminator died of plague in 1502.",
     "timestamp": "2026-01-19T04:55:52.541Z",
     "type": "manuscript|temporal|medieval|narrative",
@@ -117,6 +109,14 @@
     "type": "municipal|temporal|earlymodern|narrative",
     "patterns": [
       "opening:census_data_prague"
+    ]
+  },
+  {
+    "text": "Surgical report, Vienna General Hospital 1894: Patient's appendix contained fully formed pocket watch, ticking accurately. Timepiece showed correct hour despite patient never owning a watch. Inscription: Property of Future Self.",
+    "timestamp": "2026-01-21T10:36:40.527Z",
+    "type": "institutional|temporal|industrial|narrative",
+    "patterns": [
+      "opening:surgical_report_vienna"
     ]
   }
 ]
