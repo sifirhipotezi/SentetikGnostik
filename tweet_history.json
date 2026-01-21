@@ -1,13 +1,5 @@
 [
   {
-    "text": "Municipal water report, Detroit 1987: Fluoride levels measured in units that won't be invented until 2003. Equipment calibrated using standards from nonexistent EPA guidelines dated 1991. Water tested safe for consumption by humans and visi",
-    "timestamp": "2026-01-19T08:40:24.996Z",
-    "type": "municipal|temporal|modern|narrative",
-    "patterns": [
-      "opening:municipal_water_report"
-    ]
-  },
-  {
     "text": "Architectural survey, Babylon 1750 BCE: Ziggurat contains elevator shaft with bronze call buttons. Cuneiform inscription reads Floor 7: Hanging Gardens. Gardens won't exist for 600 years. Shaft descends infinitely downward.",
     "timestamp": "2026-01-19T10:36:16.521Z",
     "type": "ancient_text|temporal|prehistoric|narrative",
@@ -117,6 +109,14 @@
     "type": "institutional|general_anomaly|earlymodern|narrative",
     "patterns": [
       "opening:biological_survey_orkney"
+    ]
+  },
+  {
+    "text": "Library catalog, Alexandria 47 BCE: Book titled Complete History of Rome Through 476 CE shelved correctly despite Rome's fall occurring five centuries later. Text accuracy verified by modern historians. Author listed as Anonymous Future.",
+    "timestamp": "2026-01-21T18:51:07.972Z",
+    "type": "general_source|temporal|prehistoric|narrative",
+    "patterns": [
+      "opening:library_catalog_alexandria"
     ]
   }
 ]

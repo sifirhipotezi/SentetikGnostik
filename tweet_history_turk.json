@@ -1,16 +1,5 @@
 [
   {
-    "text": "Üsküdar kadı sicili, 1598: Bir aşçıbaşı \"mikrodalga fırın tamirciliği\" yapıyor. Lonca belgesi mevcut. Esnaf defterinde \"elektrik arızaları giderir\" yazıyor. İmza Osmanlı tuğrası şeklinde.",
-    "timestamp": "2026-01-19T08:40:29.876Z",
-    "type": "defter|general_anomaly|classical_ottoman|narrative|uskudar",
-    "patterns": [
-      "defter",
-      "sicil",
-      "osmanli",
-      "opening:üsküdar_kadı_sicili"
-    ]
-  },
-  {
     "text": "Sivas meteoroloji istasyonu, 1934: Kar yağışı yukarıdan aşağıya değil, aşağıdan yukarıya gerçekleşmiş. Halk şahit olmuş. Rasatçı \"normal\" diye rapor etmiş. Kar izleri tavanda.",
     "timestamp": "2026-01-19T10:36:21.133Z",
     "type": "personal|general_anomaly|republican|narrative|sivas",
@@ -124,6 +113,15 @@
     "type": "defter|general_anomaly|republican|narrative|sivas",
     "patterns": [
       "opening:sivas_1923_nüfus"
+    ]
+  },
+  {
+    "text": "İzmir Kemeraltı'nda 1856 tarihli dükkân tabelası: \"Elektrik ampulü tamiri\" yazıyor. Edison henüz icat etmemiş. Tabela kalayı dönem uygun, yazı Osmanlı Türkçesi.",
+    "timestamp": "2026-01-21T18:51:12.362Z",
+    "type": "general_source|temporal|late_ottoman|narrative|unspecified_location",
+    "patterns": [
+      "osmanli",
+      "opening:izmir_kemeraltında_1856"
     ]
   }
 ]
