@@ -1,13 +1,5 @@
 [
   {
-    "text": "Municipal water records, Phoenix 1952: Resident at 447 Oak Street consumed 847 gallons daily for six months. Property inspection revealed standard fixtures, single occupant. Occupant had been deceased since 1949.",
-    "timestamp": "2026-01-20T08:39:35.127Z",
-    "type": "municipal|general_anomaly|modern|narrative",
-    "patterns": [
-      "opening:municipal_water_records"
-    ]
-  },
-  {
     "text": "Digital archive corruption, Library of Congress 1987: Database contains 40,000 card catalog entries for books that don't exist. When librarians attempt deletion, entries multiply. Books occasionally appear on shelves overnight.",
     "timestamp": "2026-01-20T10:34:59.589Z",
     "type": "digital|ontological|modern|narrative",
@@ -118,6 +110,14 @@
     "type": "architectural|temporal|medieval|narrative",
     "patterns": [
       "opening:medical_records_st"
+    ]
+  },
+  {
+    "text": "Weather station logs, Nome Alaska 1952: Temperature recorded as 40F while thermometer simultaneously displayed 98F. Both readings accurate. Station operator reported feeling both frostbite and heat stroke within same hour.",
+    "timestamp": "2026-01-22T18:41:03.213Z",
+    "type": "meteorological|synchronicity|modern|narrative",
+    "patterns": [
+      "opening:weather_station_logs"
     ]
   }
 ]

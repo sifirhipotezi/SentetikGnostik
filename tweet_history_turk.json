@@ -1,13 +1,5 @@
 [
   {
-    "text": "Trabzon Belediye Arşivi, 1962: Nüfus sayımında aynı kişi üç farklı mahallede kayıtlı. Adam memura \"ben üçlüyüm\" demiş. Fotoğraflar farklı ama kimlik numarası aynı.",
-    "timestamp": "2026-01-20T08:39:39.795Z",
-    "type": "defter|bureaucratic|republican|narrative|trabzon",
-    "patterns": [
-      "opening:trabzon_belediye_arşivi"
-    ]
-  },
-  {
     "text": "Edirne Selimiye Camii'nde bulunan hat, 1575: \"Bu tweet 2024'te okunacak\" yazıyor. Mimar Sinan'ın el yazısı. Kubbe içindeki gizli bölmede, hiç açılmamış. Vakıf kayıtlarında yok.",
     "timestamp": "2026-01-20T10:35:04.944Z",
     "type": "defter|administrative|classical_ottoman|narrative|edirne",
@@ -123,6 +115,16 @@
     "patterns": [
       "defter",
       "opening:kayseride_1534_tarihli"
+    ]
+  },
+  {
+    "text": "Van Gölü kıyısında 1071 tarihli Bizans kilisesi: Duvarında Malazgirt Savaşı'nın sonucunu anlatan fresk var. Savaş aynı yıl olmuş ama fresk boyası henüz kurumamış. Patrik imzası net okunuyor.",
+    "timestamp": "2026-01-22T18:41:08.281Z",
+    "type": "architectural|temporal|byzantine|narrative|van",
+    "patterns": [
+      "imza",
+      "bizans",
+      "opening:van_gölü_kıyısında"
     ]
   }
 ]
