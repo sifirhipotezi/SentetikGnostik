@@ -1,13 +1,5 @@
 [
   {
-    "text": "Pleistocene mammoth remains, Siberia 14,000 BCE: Stomach contents include cultivated wheat varieties not developed until 1961. Grain shows evidence of industrial milling processes. Specimen otherwise anatomically consistent.",
-    "timestamp": "2026-01-19T20:31:38.267Z",
-    "type": "meteorological|general_anomaly|prehistoric|narrative",
-    "patterns": [
-      "opening:pleistocene_mammoth_remains"
-    ]
-  },
-  {
     "text": "Papal bull issued 1347 lists official feast days for saints who won't be born until 1832. Vatican archives contain their authenticated relics dated 1298. Relics include fragments of synthetic materials.",
     "timestamp": "2026-01-20T04:52:05.807Z",
     "type": "general_source|temporal|medieval|narrative",
@@ -118,6 +110,14 @@
     "type": "manuscript|general_anomaly|industrial|narrative",
     "patterns": [
       "opening:census_data_reykjavik"
+    ]
+  },
+  {
+    "text": "Archaeological survey, Babylon 1750 BCE: Construction workers unearthed foundation stone inscribed Renovated 1750 BCE Original built 1750 BCE. Stone shows no signs of prior construction. Building exists in continuous present tense.",
+    "timestamp": "2026-01-22T10:34:27.088Z",
+    "type": "manuscript|ontological|prehistoric|narrative",
+    "patterns": [
+      "opening:archaeological_survey_babylon"
     ]
   }
 ]

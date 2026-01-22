@@ -1,13 +1,5 @@
 [
   {
-    "text": "Topkapı Sarayı mutfak kayıtları, 1487: Aşçıbaşı her gün 50 kişilik pilav pişiriyor ama sarayda sadece 12 kişi yaşıyor. Fazla yemek hiç kalmıyor. Aşçı \"normal porsiyon\" diyor.",
-    "timestamp": "2026-01-19T20:31:42.928Z",
-    "type": "defter|administrative|unspecified_era|archive_ref|topkapi",
-    "patterns": [
-      "opening:topkapı_sarayı_mutfak"
-    ]
-  },
-  {
     "text": "Van Gölü kıyısında bulunan Bizans kilisesi, MS 1071. Duvar fresklerinde Malazgirt Savaşı tasvir ediliyor ama savaş henüz olmamış. Tarih doğru, savaş sonucu da doğru çizilmiş.",
     "timestamp": "2026-01-20T04:52:10.065Z",
     "type": "architectural|temporal|byzantine|narrative|van",
@@ -123,6 +115,14 @@
     "patterns": [
       "imza",
       "opening:diyarbakır_sur_duvarlarında"
+    ]
+  },
+  {
+    "text": "Malatya meteoroloji istasyonu, 1962: Aynı günde hem kar hem de 40 derece sıcaklık kaydedilmiş. İki farklı memur tutanak tutmuş, ikisi de yemin ediyor. Termometreler çalışıyor.",
+    "timestamp": "2026-01-22T10:34:31.622Z",
+    "type": "institutional|general_anomaly|republican|narrative|unspecified_location",
+    "patterns": [
+      "opening:malatya_meteoroloji_istasyonu"
     ]
   }
 ]
