@@ -1,13 +1,5 @@
 [
   {
-    "text": "Digital archive corruption, Library of Congress 1987: Database contains 40,000 card catalog entries for books that don't exist. When librarians attempt deletion, entries multiply. Books occasionally appear on shelves overnight.",
-    "timestamp": "2026-01-20T10:34:59.589Z",
-    "type": "digital|ontological|modern|narrative",
-    "patterns": [
-      "opening:digital_archive_corruption"
-    ]
-  },
-  {
     "text": "Botanical survey, Amazon Basin 1889: Expedition catalogued tree species that photosynthesize moonlight. Specimens collected during new moon phases continued growing in complete darkness for eighteen months.",
     "timestamp": "2026-01-20T14:37:45.951Z",
     "type": "paleontological|bureaucratic|industrial|narrative",
@@ -118,6 +110,14 @@
     "type": "meteorological|synchronicity|modern|narrative",
     "patterns": [
       "opening:weather_station_logs"
+    ]
+  },
+  {
+    "text": "Botanical survey, Amazon Basin 1889: Specimen collected exhibits reverse photosynthesis, converting oxygen to carbon dioxide in daylight. Plant thrives. Local guides report grove has existed since before trees learned to breathe properly.",
+    "timestamp": "2026-01-22T20:34:29.130Z",
+    "type": "institutional|temporal|industrial|narrative",
+    "patterns": [
+      "opening:botanical_survey_amazon"
     ]
   }
 ]
