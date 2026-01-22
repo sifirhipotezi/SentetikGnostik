@@ -1,13 +1,5 @@
 [
   {
-    "text": "Kayseri Ulu Camii minber yazıtı, 1205: \"WiFi şifresi: Selçuklu123\" yazmakta. Hat Anadolu Selçuklu dönemine ait. Yazıt taş içine işlenmiş, sonradan eklenmemiş. İmam \"çok kullanışlı\" demiş.",
-    "timestamp": "2026-01-19T14:34:58.956Z",
-    "type": "architectural|temporal|early_ottoman|narrative|kayseri",
-    "patterns": [
-      "opening:kayseri_ulu_camii"
-    ]
-  },
-  {
     "text": "İzmir Liman kayıtları, 1856: Gemi manifestosunda \"zaman makinesi yedek parçaları\" yazıyor. Gümrük memuru \"olağan kargo\" damgası basmış. Kaptan Liverpool'dan geldiğini söylemiş.",
     "timestamp": "2026-01-19T18:40:20.276Z",
     "type": "defter|temporal|late_ottoman|narrative|ani",
@@ -122,6 +114,14 @@
     "type": "general_source|general_anomaly|late_ottoman|narrative|bursa",
     "patterns": [
       "opening:bursa_ipek_fabrikası"
+    ]
+  },
+  {
+    "text": "Gaziantep arkeoloji müzesi deposunda Roma dönemi anfora: İçinden çıkan zeytinyağı hâlâ taze, 1800 yıl geçmesine rağmen. Laboratuvar analizi modern filtrasyon izleri gösteriyor. Amfora kırılmamış.",
+    "timestamp": "2026-01-22T04:53:00.074Z",
+    "type": "general_source|temporal|late_ottoman|narrative|gaziantep",
+    "patterns": [
+      "opening:gaziantep_arkeoloji_müzesi"
     ]
   }
 ]

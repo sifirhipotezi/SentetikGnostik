@@ -1,13 +1,5 @@
 [
   {
-    "text": "Autopsy report, County Coroner 1936: Subject died from exposure to element not discovered until 1940. Cause of death listed as acute berkelium poisoning. Element occurs naturally nowhere on Earth.",
-    "timestamp": "2026-01-19T14:34:53.301Z",
-    "type": "biological|general_anomaly|modern|narrative",
-    "patterns": [
-      "opening:autopsy_report_county"
-    ]
-  },
-  {
     "text": "Seismic monitoring station, Chile 1960: Earthquake registered 9.5 magnitude but tremors occurred in alphabetical order by affected city name. Duration matched exactly with recitation of local phone directory from 1973.",
     "timestamp": "2026-01-19T18:40:15.855Z",
     "type": "general_source|general_anomaly|modern|narrative",
@@ -118,6 +110,14 @@
     "patterns": [
       "ontological",
       "opening:property_deed_salem"
+    ]
+  },
+  {
+    "text": "Personal diary, recovered from Pompeii excavation: Final entry dated August 25th, 79 CE describes tomorrow's ash rain in past tense. Handwriting analysis confirms single author throughout. Volcano erupted August 24th.",
+    "timestamp": "2026-01-22T04:52:55.300Z",
+    "type": "manuscript|temporal|archaeological|narrative",
+    "patterns": [
+      "opening:personal_diary_recovered"
     ]
   }
 ]
