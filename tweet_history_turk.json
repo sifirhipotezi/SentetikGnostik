@@ -1,13 +1,5 @@
 [
   {
-    "text": "İzmir Liman kayıtları, 1856: Gemi manifestosunda \"zaman makinesi yedek parçaları\" yazıyor. Gümrük memuru \"olağan kargo\" damgası basmış. Kaptan Liverpool'dan geldiğini söylemiş.",
-    "timestamp": "2026-01-19T18:40:20.276Z",
-    "type": "defter|temporal|late_ottoman|narrative|ani",
-    "patterns": [
-      "opening:izmir_liman_kayıtları"
-    ]
-  },
-  {
     "text": "Topkapı Sarayı mutfak kayıtları, 1487: Aşçıbaşı her gün 50 kişilik pilav pişiriyor ama sarayda sadece 12 kişi yaşıyor. Fazla yemek hiç kalmıyor. Aşçı \"normal porsiyon\" diyor.",
     "timestamp": "2026-01-19T20:31:42.928Z",
     "type": "defter|administrative|unspecified_era|archive_ref|topkapi",
@@ -122,6 +114,15 @@
     "type": "general_source|temporal|late_ottoman|narrative|gaziantep",
     "patterns": [
       "opening:gaziantep_arkeoloji_müzesi"
+    ]
+  },
+  {
+    "text": "Diyarbakır sur duvarlarında 1453 tarihli kitabe: \"Konstantiniyye'nin fethini kutlarız\" yazıyor. Taş dönem uygun ama İstanbul fethinden üç ay önce yazılmış. Taşçı imzası okunaklı.",
+    "timestamp": "2026-01-22T08:40:11.538Z",
+    "type": "architectural|temporal|unspecified_era|narrative|istanbul",
+    "patterns": [
+      "imza",
+      "opening:diyarbakır_sur_duvarlarında"
     ]
   }
 ]

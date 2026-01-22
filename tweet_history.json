@@ -1,13 +1,5 @@
 [
   {
-    "text": "Seismic monitoring station, Chile 1960: Earthquake registered 9.5 magnitude but tremors occurred in alphabetical order by affected city name. Duration matched exactly with recitation of local phone directory from 1973.",
-    "timestamp": "2026-01-19T18:40:15.855Z",
-    "type": "general_source|general_anomaly|modern|narrative",
-    "patterns": [
-      "opening:seismic_monitoring_station"
-    ]
-  },
-  {
     "text": "Pleistocene mammoth remains, Siberia 14,000 BCE: Stomach contents include cultivated wheat varieties not developed until 1961. Grain shows evidence of industrial milling processes. Specimen otherwise anatomically consistent.",
     "timestamp": "2026-01-19T20:31:38.267Z",
     "type": "meteorological|general_anomaly|prehistoric|narrative",
@@ -118,6 +110,14 @@
     "type": "manuscript|temporal|archaeological|narrative",
     "patterns": [
       "opening:personal_diary_recovered"
+    ]
+  },
+  {
+    "text": "Census data, Reykjavik 1801: Population recorded as 5,406 residents plus one recurring stranger. Enumeration notes describe individual who appears in different households each count, aging normally between surveys but never dying.",
+    "timestamp": "2026-01-22T08:40:07.071Z",
+    "type": "manuscript|general_anomaly|industrial|narrative",
+    "patterns": [
+      "opening:census_data_reykjavik"
     ]
   }
 ]
