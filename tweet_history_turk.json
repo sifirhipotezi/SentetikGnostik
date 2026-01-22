@@ -1,14 +1,5 @@
 [
   {
-    "text": "Van Gölü kıyısında bulunan Bizans kilisesi, MS 1071. Duvar fresklerinde Malazgirt Savaşı tasvir ediliyor ama savaş henüz olmamış. Tarih doğru, savaş sonucu da doğru çizilmiş.",
-    "timestamp": "2026-01-20T04:52:10.065Z",
-    "type": "architectural|temporal|byzantine|narrative|van",
-    "patterns": [
-      "bizans",
-      "opening:van_gölü_kıyısında"
-    ]
-  },
-  {
     "text": "Trabzon Belediye Arşivi, 1962: Nüfus sayımında aynı kişi üç farklı mahallede kayıtlı. Adam memura \"ben üçlüyüm\" demiş. Fotoğraflar farklı ama kimlik numarası aynı.",
     "timestamp": "2026-01-20T08:39:39.795Z",
     "type": "defter|bureaucratic|republican|narrative|trabzon",
@@ -123,6 +114,15 @@
     "type": "institutional|general_anomaly|republican|narrative|unspecified_location",
     "patterns": [
       "opening:malatya_meteoroloji_istasyonu"
+    ]
+  },
+  {
+    "text": "Kayseri'de 1534 tarihli vergi defteri: Çiftçi Mehmed Ağa'dan \"uçan halı vergisi\" tahsil edilmiş. Tutar 15 akçe. Defterdarlık onaylamış. Halı tarifi detaylı, kumaş cinsi belirtilmiş.",
+    "timestamp": "2026-01-22T14:36:51.158Z",
+    "type": "defter|temporal|classical_ottoman|narrative|kayseri",
+    "patterns": [
+      "defter",
+      "opening:kayseride_1534_tarihli"
     ]
   }
 ]

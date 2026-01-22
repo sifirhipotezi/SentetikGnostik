@@ -1,13 +1,5 @@
 [
   {
-    "text": "Papal bull issued 1347 lists official feast days for saints who won't be born until 1832. Vatican archives contain their authenticated relics dated 1298. Relics include fragments of synthetic materials.",
-    "timestamp": "2026-01-20T04:52:05.807Z",
-    "type": "general_source|temporal|medieval|narrative",
-    "patterns": [
-      "opening:papal_bull_issued"
-    ]
-  },
-  {
     "text": "Municipal water records, Phoenix 1952: Resident at 447 Oak Street consumed 847 gallons daily for six months. Property inspection revealed standard fixtures, single occupant. Occupant had been deceased since 1949.",
     "timestamp": "2026-01-20T08:39:35.127Z",
     "type": "municipal|general_anomaly|modern|narrative",
@@ -118,6 +110,14 @@
     "type": "manuscript|ontological|prehistoric|narrative",
     "patterns": [
       "opening:archaeological_survey_babylon"
+    ]
+  },
+  {
+    "text": "Medical records, St. Bartholomew's Hospital 1348: Patient admitted with plague symptoms recovers after consuming bread that won't be invented until 1928. Baker's apprentice claims recipe came to him in dreams of white coats and sterile room",
+    "timestamp": "2026-01-22T14:36:45.995Z",
+    "type": "architectural|temporal|medieval|narrative",
+    "patterns": [
+      "opening:medical_records_st"
     ]
   }
 ]
