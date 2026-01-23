@@ -1,13 +1,5 @@
 [
   {
-    "text": "Census data, Prague 1572: Population recorded as 47,000 living residents plus 3,200 formerly living but administratively active. Tax records show the formerly living paid promptly. Death certificates for this group dated 1598.",
-    "timestamp": "2026-01-21T08:39:13.189Z",
-    "type": "municipal|temporal|earlymodern|narrative",
-    "patterns": [
-      "opening:census_data_prague"
-    ]
-  },
-  {
     "text": "Surgical report, Vienna General Hospital 1894: Patient's appendix contained fully formed pocket watch, ticking accurately. Timepiece showed correct hour despite patient never owning a watch. Inscription: Property of Future Self.",
     "timestamp": "2026-01-21T10:36:40.527Z",
     "type": "institutional|temporal|industrial|narrative",
@@ -118,6 +110,14 @@
     "type": "biological|temporal|modern|narrative",
     "patterns": [
       "opening:blood_test_results"
+    ]
+  },
+  {
+    "text": "Shipping manifest, Port of London 1843: Vessel Mary Catherine recorded delivering cargo of winter to July. Harbor master notes summer temperatures dropped 23 degrees upon docking. Ship's hold contained crystallized August.",
+    "timestamp": "2026-01-23T18:42:14.199Z",
+    "type": "general_source|general_anomaly|industrial|narrative",
+    "patterns": [
+      "opening:shipping_manifest_port"
     ]
   }
 ]

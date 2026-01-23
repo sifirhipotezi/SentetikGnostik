@@ -1,13 +1,5 @@
 [
   {
-    "text": "Üsküdar'da 1604 tarihli mezar taşı: \"Burada yatan kişi 1623'te doğacak\" yazıyor. Mezar boş, toprak hiç kazılmamış. Hat üslubu devrin tipik özelliklerini taşıyor.",
-    "timestamp": "2026-01-21T08:39:17.490Z",
-    "type": "archaeological|temporal|classical_ottoman|narrative|uskudar",
-    "patterns": [
-      "opening:üsküdarda_1604_tarihli"
-    ]
-  },
-  {
     "text": "Trabzon Ayasofya Müzesi'ndeki fresk restorasyonu, 1961: Boyalar kendiliğinden yenileniyor, restoratör müdahale etmemiş. Bizans dönemi pigmentleri her sabah taze görünüyor. Müze kayıtları sessiz.",
     "timestamp": "2026-01-21T10:36:45.114Z",
     "type": "defter|general_anomaly|byzantine|narrative|trabzon",
@@ -125,6 +117,14 @@
     "patterns": [
       "sicil",
       "opening:kayseri_arşivlerinde_1512"
+    ]
+  },
+  {
+    "text": "Van Gölü meteoroloji istasyonu, 1934: Su seviyesi eksi 12 metre ölçülmüş ama göl kurumuş değil. Balıkçılar normal avlanmaya devam etmiş. Ölçüm cihazları kalibreli, kayıtlar arşivde.",
+    "timestamp": "2026-01-23T18:42:19.159Z",
+    "type": "defter|memorial|republican|narrative|van",
+    "patterns": [
+      "opening:van_gölü_meteoroloji"
     ]
   }
 ]
