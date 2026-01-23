@@ -1,13 +1,5 @@
 [
   {
-    "text": "Surgical report, Vienna General Hospital 1894: Patient's appendix contained fully formed pocket watch, ticking accurately. Timepiece showed correct hour despite patient never owning a watch. Inscription: Property of Future Self.",
-    "timestamp": "2026-01-21T10:36:40.527Z",
-    "type": "institutional|temporal|industrial|narrative",
-    "patterns": [
-      "opening:surgical_report_vienna"
-    ]
-  },
-  {
     "text": "Biological survey, Orkney Islands 1756: Sheep flock observed grazing in perfect spiral formation, completing one revolution every 47 minutes. Wool samples contained geometric patterns not present during shearing. Flock disbanded at sunset,",
     "timestamp": "2026-01-21T14:37:22.471Z",
     "type": "institutional|general_anomaly|earlymodern|narrative",
@@ -118,6 +110,16 @@
     "type": "general_source|general_anomaly|industrial|narrative",
     "patterns": [
       "opening:shipping_manifest_port"
+    ]
+  },
+  {
+    "text": "Paleontological survey, Morrison Formation: Stegosaurus skeleton, 155 million BCE, discovered wearing fitted bronze armor. Metallurgy predates earliest copper working by 154,990,000 years. Armor shows battle damage.",
+    "timestamp": "2026-01-23T20:32:32.515Z",
+    "type": "paleontological|temporal|prehistoric|narrative",
+    "patterns": [
+      "ontological",
+      "predates_by",
+      "opening:paleontological_survey_morrison"
     ]
   }
 ]

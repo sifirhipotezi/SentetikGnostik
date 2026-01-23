@@ -1,14 +1,5 @@
 [
   {
-    "text": "Trabzon Ayasofya Müzesi'ndeki fresk restorasyonu, 1961: Boyalar kendiliğinden yenileniyor, restoratör müdahale etmemiş. Bizans dönemi pigmentleri her sabah taze görünüyor. Müze kayıtları sessiz.",
-    "timestamp": "2026-01-21T10:36:45.114Z",
-    "type": "defter|general_anomaly|byzantine|narrative|trabzon",
-    "patterns": [
-      "bizans",
-      "opening:trabzon_ayasofya_müzesindeki"
-    ]
-  },
-  {
     "text": "Sivas 1923 nüfus sayımı: Aynı kişi üç farklı mahallede kayıtlı, üçü de aynı gün doğmuş. Fotoğraflar identik. Memur \"normal vatandaş\" diye not düşmüş.",
     "timestamp": "2026-01-21T14:37:27.352Z",
     "type": "defter|general_anomaly|republican|narrative|sivas",
@@ -125,6 +116,14 @@
     "type": "defter|memorial|republican|narrative|van",
     "patterns": [
       "opening:van_gölü_meteoroloji"
+    ]
+  },
+  {
+    "text": "Manisa kazı raporu, 1967: Roma dönemine ait amfiteatrda plastik koltuk bulundu. Karbon testi MS 2. yüzyılı gösteriyor. Plastik analizi de aynı tarihi veriyor. Müze kayıtlarında yok.",
+    "timestamp": "2026-01-23T20:32:37.613Z",
+    "type": "defter|temporal|republican|narrative|ani",
+    "patterns": [
+      "opening:manisa_kazı_raporu"
     ]
   }
 ]
