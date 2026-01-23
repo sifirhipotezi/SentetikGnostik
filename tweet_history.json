@@ -1,13 +1,5 @@
 [
   {
-    "text": "Personnel file, Sears Department Store 1963: Employee Harold Kemper worked register 7 for thirtyone years. Store only had six registers. Payroll continued until 1994. No record of Harold Kemper's hire date or existence.",
-    "timestamp": "2026-01-20T20:45:15.809Z",
-    "type": "digital|temporal|modern|narrative",
-    "patterns": [
-      "opening:personnel_file_sears"
-    ]
-  },
-  {
     "text": "Meteorological report, Damascus 1401: Clouds formed geometric patterns spelling out next week's grain prices in Arabic script. Predictions proved accurate to the dinar. Sky remained illiterate until 1823.",
     "timestamp": "2026-01-21T04:50:48.718Z",
     "type": "meteorological|general_anomaly|medieval|narrative",
@@ -118,6 +110,14 @@
     "type": "municipal|temporal|modern|narrative",
     "patterns": [
       "opening:municipal_census_detroit"
+    ]
+  },
+  {
+    "text": "Excavation report, Babylon 2100 BCE: Cuneiform tablet inventory lists 847 scrolls in library. Physical count yields 847 empty shelves. Scribes continue daily cataloging of invisible collection. Reading room remains fully occupied.",
+    "timestamp": "2026-01-23T10:31:24.086Z",
+    "type": "manuscript|spatial|prehistoric|narrative",
+    "patterns": [
+      "opening:excavation_report_babylon"
     ]
   }
 ]
