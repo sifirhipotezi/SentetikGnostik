@@ -1,13 +1,5 @@
 [
   {
-    "text": "Meteorological report, Damascus 1401: Clouds formed geometric patterns spelling out next week's grain prices in Arabic script. Predictions proved accurate to the dinar. Sky remained illiterate until 1823.",
-    "timestamp": "2026-01-21T04:50:48.718Z",
-    "type": "meteorological|general_anomaly|medieval|narrative",
-    "patterns": [
-      "opening:meteorological_report_damascus"
-    ]
-  },
-  {
     "text": "Census data, Prague 1572: Population recorded as 47,000 living residents plus 3,200 formerly living but administratively active. Tax records show the formerly living paid promptly. Death certificates for this group dated 1598.",
     "timestamp": "2026-01-21T08:39:13.189Z",
     "type": "municipal|temporal|earlymodern|narrative",
@@ -118,6 +110,14 @@
     "type": "manuscript|spatial|prehistoric|narrative",
     "patterns": [
       "opening:excavation_report_babylon"
+    ]
+  },
+  {
+    "text": "Blood test results, Stockholm 1967: Patient's blood type documented as AB during morning draw, O during afternoon draw. Same patient, same day. Both samples genetically identical. Patient required both universal donor and universal recipien",
+    "timestamp": "2026-01-23T14:31:46.357Z",
+    "type": "biological|temporal|modern|narrative",
+    "patterns": [
+      "opening:blood_test_results"
     ]
   }
 ]

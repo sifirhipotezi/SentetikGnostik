@@ -1,13 +1,5 @@
 [
   {
-    "text": "Van Gölü meteoroloji istasyonu, 1969: Kar yağışı sadece tek numaralı evlere düşmüş. Çift numaralı evlerin bahçeleri yeşil kalmış. Hava durumu raporu \"normaldir\" diyor.",
-    "timestamp": "2026-01-21T04:50:52.713Z",
-    "type": "meteorological|bureaucratic|republican|narrative|van",
-    "patterns": [
-      "opening:van_gölü_meteoroloji"
-    ]
-  },
-  {
     "text": "Üsküdar'da 1604 tarihli mezar taşı: \"Burada yatan kişi 1623'te doğacak\" yazıyor. Mezar boş, toprak hiç kazılmamış. Hat üslubu devrin tipik özelliklerini taşıyor.",
     "timestamp": "2026-01-21T08:39:17.490Z",
     "type": "archaeological|temporal|classical_ottoman|narrative|uskudar",
@@ -124,6 +116,15 @@
     "type": "defter|temporal|byzantine|narrative|istanbul",
     "patterns": [
       "opening:üsküdarda_1453_tarihli"
+    ]
+  },
+  {
+    "text": "Kayseri arşivlerinde 1512 tarihli sicil: Şehirde hiç düşmeyen kar için temizlik bütçesi ayrılmış. Kar 3 ay boyunca havada asılı kalmış. Belediye kayıtları mevcut, harcama belgelenmiş.",
+    "timestamp": "2026-01-23T14:31:50.660Z",
+    "type": "defter|temporal|classical_ottoman|narrative|kayseri",
+    "patterns": [
+      "sicil",
+      "opening:kayseri_arşivlerinde_1512"
     ]
   }
 ]
