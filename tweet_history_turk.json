@@ -1,14 +1,5 @@
 [
   {
-    "text": "İzmir Kemeraltı'nda 1856 yangın raporu: Alevler sadece Salı günleri yanıyor, diğer günler donuk kalıyor. İtfaiye ertesi Salı müdahale etmiş. Dükkanlar zarar görmemiş ama is kokusu hâlâ var.",
-    "timestamp": "2026-01-20T18:48:01.696Z",
-    "type": "institutional|memorial|late_ottoman|narrative|unspecified_location",
-    "patterns": [
-      "hala_devam",
-      "opening:izmir_kemeraltında_1856"
-    ]
-  },
-  {
     "text": "Bursa Ulu Camii mihrabında 1399 tarihli kitabe: \"Yıldırım Bayezid Han zaferle döndü\" yazıyor. Ama Bayezid o gün Ankara'da yenilgiye uğramış. Kitabe mermerden, kazınamaz.",
     "timestamp": "2026-01-20T20:45:20.793Z",
     "type": "archaeological|temporal|early_ottoman|narrative|ankara",
@@ -126,6 +117,14 @@
     "patterns": [
       "imza",
       "opening:edirne_selimiye_camiinde"
+    ]
+  },
+  {
+    "text": "Sinop limanı gümrük kayıtları, 1889: Gemiler yokken 500 ton buğday ihraç edilmiş. Liman reisi mührü basmış. Alıcı firma Rusya'da mevcut, ödeme yapılmış.",
+    "timestamp": "2026-01-23T08:37:44.175Z",
+    "type": "defter|administrative|late_ottoman|narrative|sinop",
+    "patterns": [
+      "opening:sinop_limanı_gümrük"
     ]
   }
 ]

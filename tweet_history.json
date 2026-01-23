@@ -1,13 +1,5 @@
 [
   {
-    "text": "Archaeological anomaly 2019: Roman villa excavation, Pompeii, uncovered mosaic depicting WiFi symbol with Latin inscription SIGNAL WEAK HERE TOO. Tesserae composition authentic to 79 CE. Network name: VESUVIUSGUEST.",
-    "timestamp": "2026-01-20T18:47:56.495Z",
-    "type": "archaeological|general_anomaly|archaeological|narrative",
-    "patterns": [
-      "opening:archaeological_anomaly_2019"
-    ]
-  },
-  {
     "text": "Personnel file, Sears Department Store 1963: Employee Harold Kemper worked register 7 for thirtyone years. Store only had six registers. Payroll continued until 1994. No record of Harold Kemper's hire date or existence.",
     "timestamp": "2026-01-20T20:45:15.809Z",
     "type": "digital|temporal|modern|narrative",
@@ -118,6 +110,14 @@
     "type": "biological|general_anomaly|earlymodern|narrative",
     "patterns": [
       "opening:personal_diary_prague"
+    ]
+  },
+  {
+    "text": "Municipal census, Detroit 1973: Household counted 47 residents living in twobedroom apartment. Inspector confirmed accurate headcount. Building permits show structure physically accommodates maximum of 6 occupants.",
+    "timestamp": "2026-01-23T08:37:39.685Z",
+    "type": "municipal|temporal|modern|narrative",
+    "patterns": [
+      "opening:municipal_census_detroit"
     ]
   }
 ]
