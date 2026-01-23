@@ -1,13 +1,5 @@
 [
   {
-    "text": "Botanical survey, Amazon Basin 1889: Expedition catalogued tree species that photosynthesize moonlight. Specimens collected during new moon phases continued growing in complete darkness for eighteen months.",
-    "timestamp": "2026-01-20T14:37:45.951Z",
-    "type": "paleontological|bureaucratic|industrial|narrative",
-    "patterns": [
-      "opening:botanical_survey_amazon"
-    ]
-  },
-  {
     "text": "Archaeological anomaly 2019: Roman villa excavation, Pompeii, uncovered mosaic depicting WiFi symbol with Latin inscription SIGNAL WEAK HERE TOO. Tesserae composition authentic to 79 CE. Network name: VESUVIUSGUEST.",
     "timestamp": "2026-01-20T18:47:56.495Z",
     "type": "archaeological|general_anomaly|archaeological|narrative",
@@ -118,6 +110,14 @@
     "type": "institutional|temporal|industrial|narrative",
     "patterns": [
       "opening:botanical_survey_amazon"
+    ]
+  },
+  {
+    "text": "Personal diary, Prague 1592: Woman documents daily conversations with her reflection. Reflection responds with different opinions, remembers events that never occurred. Mirror was installed facing blank wall.",
+    "timestamp": "2026-01-23T04:50:00.626Z",
+    "type": "biological|general_anomaly|earlymodern|narrative",
+    "patterns": [
+      "opening:personal_diary_prague"
     ]
   }
 ]
