@@ -1,13 +1,5 @@
 [
   {
-    "text": "Library catalog, Alexandria 47 BCE: Book titled Complete History of Rome Through 476 CE shelved correctly despite Rome's fall occurring five centuries later. Text accuracy verified by modern historians. Author listed as Anonymous Future.",
-    "timestamp": "2026-01-21T18:51:07.972Z",
-    "type": "general_source|temporal|prehistoric|narrative",
-    "patterns": [
-      "opening:library_catalog_alexandria"
-    ]
-  },
-  {
     "text": "Property deed, Salem 1692: House sold to buyer who existed only on Wednesdays. Neighbors confirmed regular occupancy despite buyer's intermittent ontological status. Property taxes paid in full, receipt signed Conditionally Yours.",
     "timestamp": "2026-01-21T20:36:59.284Z",
     "type": "architectural|ontological|earlymodern|narrative",
@@ -120,6 +112,14 @@
     "type": "meteorological|general_anomaly|modern|narrative",
     "patterns": [
       "opening:weather_station_logs"
+    ]
+  },
+  {
+    "text": "Census records, Pompeii 78 CE: Population listed as 20,000 living residents, 3,847 not yet born. Vesuvius erupted the following year. All unborn citizens found in ash, fully formed.",
+    "timestamp": "2026-01-24T08:33:40.564Z",
+    "type": "municipal|temporal|unspecified_era|narrative",
+    "patterns": [
+      "opening:census_records_pompeii"
     ]
   }
 ]

@@ -1,14 +1,5 @@
 [
   {
-    "text": "İzmir Kemeraltı'nda 1856 tarihli dükkân tabelası: \"Elektrik ampulü tamiri\" yazıyor. Edison henüz icat etmemiş. Tabela kalayı dönem uygun, yazı Osmanlı Türkçesi.",
-    "timestamp": "2026-01-21T18:51:12.362Z",
-    "type": "general_source|temporal|late_ottoman|narrative|unspecified_location",
-    "patterns": [
-      "osmanli",
-      "opening:izmir_kemeraltında_1856"
-    ]
-  },
-  {
     "text": "Bursa ipek fabrikası işçi listesi, 1847: Tezgâhlarda çalışan 23 kişi aynı parmak izine sahip. Hepsi farklı isim ve yaş. Fabrika müdürü \"verimli çalışıyorlar\" demiş.",
     "timestamp": "2026-01-21T20:37:03.786Z",
     "type": "general_source|general_anomaly|late_ottoman|narrative|bursa",
@@ -125,6 +116,14 @@
     "patterns": [
       "imza",
       "opening:trabzon_ayasofyasında_1461"
+    ]
+  },
+  {
+    "text": "İzmir liman kayıtları, 1889: Yük gemisi 47 gün boyunca aynı anda hem limana giriyor hem çıkıyor. Gümrük memurları her iki işlemi de kaydetmiş. Gemi kaptanı durumdan habersiz.",
+    "timestamp": "2026-01-24T08:33:45.056Z",
+    "type": "defter|memorial|late_ottoman|narrative|unspecified_location",
+    "patterns": [
+      "opening:izmir_liman_kayıtları"
     ]
   }
 ]
