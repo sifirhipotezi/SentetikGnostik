@@ -1,13 +1,5 @@
 [
   {
-    "text": "Bursa ipek fabrikası işçi listesi, 1847: Tezgâhlarda çalışan 23 kişi aynı parmak izine sahip. Hepsi farklı isim ve yaş. Fabrika müdürü \"verimli çalışıyorlar\" demiş.",
-    "timestamp": "2026-01-21T20:37:03.786Z",
-    "type": "general_source|general_anomaly|late_ottoman|narrative|bursa",
-    "patterns": [
-      "opening:bursa_ipek_fabrikası"
-    ]
-  },
-  {
     "text": "Gaziantep arkeoloji müzesi deposunda Roma dönemi anfora: İçinden çıkan zeytinyağı hâlâ taze, 1800 yıl geçmesine rağmen. Laboratuvar analizi modern filtrasyon izleri gösteriyor. Amfora kırılmamış.",
     "timestamp": "2026-01-22T04:53:00.074Z",
     "type": "general_source|temporal|late_ottoman|narrative|gaziantep",
@@ -124,6 +116,14 @@
     "type": "defter|memorial|late_ottoman|narrative|unspecified_location",
     "patterns": [
       "opening:izmir_liman_kayıtları"
+    ]
+  },
+  {
+    "text": "Sivas nüfus sayımı, 1927: Aynı mahallede 340 kişi yaşıyor ama sadece 89 ev var. Her evde ortalama 0.26 kişi hesaplanmış. Sayım memurları rakamları üç kez kontrol etmiş.",
+    "timestamp": "2026-01-24T10:27:15.933Z",
+    "type": "census|general_anomaly|republican|narrative|sivas",
+    "patterns": [
+      "opening:sivas_nüfus_sayımı"
     ]
   }
 ]

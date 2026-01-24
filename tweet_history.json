@@ -1,14 +1,5 @@
 [
   {
-    "text": "Property deed, Salem 1692: House sold to buyer who existed only on Wednesdays. Neighbors confirmed regular occupancy despite buyer's intermittent ontological status. Property taxes paid in full, receipt signed Conditionally Yours.",
-    "timestamp": "2026-01-21T20:36:59.284Z",
-    "type": "architectural|ontological|earlymodern|narrative",
-    "patterns": [
-      "ontological",
-      "opening:property_deed_salem"
-    ]
-  },
-  {
     "text": "Personal diary, recovered from Pompeii excavation: Final entry dated August 25th, 79 CE describes tomorrow's ash rain in past tense. Handwriting analysis confirms single author throughout. Volcano erupted August 24th.",
     "timestamp": "2026-01-22T04:52:55.300Z",
     "type": "manuscript|temporal|archaeological|narrative",
@@ -120,6 +111,14 @@
     "type": "municipal|temporal|unspecified_era|narrative",
     "patterns": [
       "opening:census_records_pompeii"
+    ]
+  },
+  {
+    "text": "Library circulation records, Alexandria 48 BCE: Final checkout before the fire was A Complete History of the Library of Alexandria by Marcus Didius. Book was due back in 52 BCE. Never returned.",
+    "timestamp": "2026-01-24T10:27:11.351Z",
+    "type": "general_source|temporal|prehistoric|narrative",
+    "patterns": [
+      "opening:library_circulation_records"
     ]
   }
 ]
