@@ -1,14 +1,5 @@
 [
   {
-    "text": "Diyarbakır sur duvarlarında 1453 tarihli kitabe: \"Konstantiniyye'nin fethini kutlarız\" yazıyor. Taş dönem uygun ama İstanbul fethinden üç ay önce yazılmış. Taşçı imzası okunaklı.",
-    "timestamp": "2026-01-22T08:40:11.538Z",
-    "type": "architectural|temporal|unspecified_era|narrative|istanbul",
-    "patterns": [
-      "imza",
-      "opening:diyarbakır_sur_duvarlarında"
-    ]
-  },
-  {
     "text": "Malatya meteoroloji istasyonu, 1962: Aynı günde hem kar hem de 40 derece sıcaklık kaydedilmiş. İki farklı memur tutanak tutmuş, ikisi de yemin ediyor. Termometreler çalışıyor.",
     "timestamp": "2026-01-22T10:34:31.622Z",
     "type": "institutional|general_anomaly|republican|narrative|unspecified_location",
@@ -126,6 +117,14 @@
       "imza",
       "defter",
       "opening:bursa_ulu_cami"
+    ]
+  },
+  {
+    "text": "Van Gölü meteoroloji kayıtları, 1934: Aynı gün hem 15C hem 8C ölçülmüş. İki farklı ekip aynı istasyonda çalışıyor, termometreler kalibreli. Hava durumu raporlarında ikisi de geçerli sayılmış.",
+    "timestamp": "2026-01-24T18:37:36.116Z",
+    "type": "defter|temporal|republican|narrative|van",
+    "patterns": [
+      "opening:van_gölü_meteoroloji"
     ]
   }
 ]
