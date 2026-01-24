@@ -1,13 +1,5 @@
 [
   {
-    "text": "Gaziantep arkeoloji müzesi deposunda Roma dönemi anfora: İçinden çıkan zeytinyağı hâlâ taze, 1800 yıl geçmesine rağmen. Laboratuvar analizi modern filtrasyon izleri gösteriyor. Amfora kırılmamış.",
-    "timestamp": "2026-01-22T04:53:00.074Z",
-    "type": "general_source|temporal|late_ottoman|narrative|gaziantep",
-    "patterns": [
-      "opening:gaziantep_arkeoloji_müzesi"
-    ]
-  },
-  {
     "text": "Diyarbakır sur duvarlarında 1453 tarihli kitabe: \"Konstantiniyye'nin fethini kutlarız\" yazıyor. Taş dönem uygun ama İstanbul fethinden üç ay önce yazılmış. Taşçı imzası okunaklı.",
     "timestamp": "2026-01-22T08:40:11.538Z",
     "type": "architectural|temporal|unspecified_era|narrative|istanbul",
@@ -124,6 +116,16 @@
     "type": "census|general_anomaly|republican|narrative|sivas",
     "patterns": [
       "opening:sivas_nüfus_sayımı"
+    ]
+  },
+  {
+    "text": "Bursa Ulu Cami vakfiye defteri, 1399: Caminin 1402'de yapılacak tamiratı için tahsisat ayrılmış. Deprem henüz olmamış ama hasar detayları yazılı. Müteahhit sözleşmeyi imzalamış.",
+    "timestamp": "2026-01-24T14:25:40.118Z",
+    "type": "defter|general_anomaly|early_ottoman|narrative|bursa",
+    "patterns": [
+      "imza",
+      "defter",
+      "opening:bursa_ulu_cami"
     ]
   }
 ]

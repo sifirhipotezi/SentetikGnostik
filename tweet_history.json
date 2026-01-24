@@ -1,13 +1,5 @@
 [
   {
-    "text": "Personal diary, recovered from Pompeii excavation: Final entry dated August 25th, 79 CE describes tomorrow's ash rain in past tense. Handwriting analysis confirms single author throughout. Volcano erupted August 24th.",
-    "timestamp": "2026-01-22T04:52:55.300Z",
-    "type": "manuscript|temporal|archaeological|narrative",
-    "patterns": [
-      "opening:personal_diary_recovered"
-    ]
-  },
-  {
     "text": "Census data, Reykjavik 1801: Population recorded as 5,406 residents plus one recurring stranger. Enumeration notes describe individual who appears in different households each count, aging normally between surveys but never dying.",
     "timestamp": "2026-01-22T08:40:07.071Z",
     "type": "manuscript|general_anomaly|industrial|narrative",
@@ -119,6 +111,14 @@
     "type": "general_source|temporal|prehistoric|narrative",
     "patterns": [
       "opening:library_circulation_records"
+    ]
+  },
+  {
+    "text": "Medical records, St. Bartholomew's Hospital 1665: Patient admitted with memories of plague he hasn't caught yet. Symptoms manifested three days before exposure. Recovery preceded infection by a fortnight.",
+    "timestamp": "2026-01-24T14:25:35.413Z",
+    "type": "general_source|temporal|earlymodern|narrative",
+    "patterns": [
+      "opening:medical_records_st"
     ]
   }
 ]
