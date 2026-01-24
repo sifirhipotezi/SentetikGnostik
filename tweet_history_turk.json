@@ -1,13 +1,5 @@
 [
   {
-    "text": "Sivas 1923 nüfus sayımı: Aynı kişi üç farklı mahallede kayıtlı, üçü de aynı gün doğmuş. Fotoğraflar identik. Memur \"normal vatandaş\" diye not düşmüş.",
-    "timestamp": "2026-01-21T14:37:27.352Z",
-    "type": "defter|general_anomaly|republican|narrative|sivas",
-    "patterns": [
-      "opening:sivas_1923_nüfus"
-    ]
-  },
-  {
     "text": "İzmir Kemeraltı'nda 1856 tarihli dükkân tabelası: \"Elektrik ampulü tamiri\" yazıyor. Edison henüz icat etmemiş. Tabela kalayı dönem uygun, yazı Osmanlı Türkçesi.",
     "timestamp": "2026-01-21T18:51:12.362Z",
     "type": "general_source|temporal|late_ottoman|narrative|unspecified_location",
@@ -124,6 +116,15 @@
     "type": "defter|temporal|republican|narrative|ani",
     "patterns": [
       "opening:manisa_kazı_raporu"
+    ]
+  },
+  {
+    "text": "Trabzon Ayasofya'sında 1461 tarihli fresk: Fatih Sultan Mehmet'i tasvir ediyor ama fetih öncesi boyalı. Boya analizi 1460'ı doğruluyor. Sanatçı bilinmiyor, imza yok.",
+    "timestamp": "2026-01-24T04:40:26.561Z",
+    "type": "general_source|temporal|classical_ottoman|narrative|trabzon",
+    "patterns": [
+      "imza",
+      "opening:trabzon_ayasofyasında_1461"
     ]
   }
 ]

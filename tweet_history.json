@@ -1,13 +1,5 @@
 [
   {
-    "text": "Biological survey, Orkney Islands 1756: Sheep flock observed grazing in perfect spiral formation, completing one revolution every 47 minutes. Wool samples contained geometric patterns not present during shearing. Flock disbanded at sunset,",
-    "timestamp": "2026-01-21T14:37:22.471Z",
-    "type": "institutional|general_anomaly|earlymodern|narrative",
-    "patterns": [
-      "opening:biological_survey_orkney"
-    ]
-  },
-  {
     "text": "Library catalog, Alexandria 47 BCE: Book titled Complete History of Rome Through 476 CE shelved correctly despite Rome's fall occurring five centuries later. Text accuracy verified by modern historians. Author listed as Anonymous Future.",
     "timestamp": "2026-01-21T18:51:07.972Z",
     "type": "general_source|temporal|prehistoric|narrative",
@@ -120,6 +112,14 @@
       "ontological",
       "predates_by",
       "opening:paleontological_survey_morrison"
+    ]
+  },
+  {
+    "text": "Weather station logs, Nome Alaska 1951: Barometric pressure readings recorded in iambic pentameter for entire month of February. Meteorologist's notes written in standard prose. Storm predictions achieved 97 accuracy.",
+    "timestamp": "2026-01-24T04:40:22.263Z",
+    "type": "meteorological|general_anomaly|modern|narrative",
+    "patterns": [
+      "opening:weather_station_logs"
     ]
   }
 ]
