@@ -1,13 +1,5 @@
 [
   {
-    "text": "Malatya meteoroloji istasyonu, 1962: Aynı günde hem kar hem de 40 derece sıcaklık kaydedilmiş. İki farklı memur tutanak tutmuş, ikisi de yemin ediyor. Termometreler çalışıyor.",
-    "timestamp": "2026-01-22T10:34:31.622Z",
-    "type": "institutional|general_anomaly|republican|narrative|unspecified_location",
-    "patterns": [
-      "opening:malatya_meteoroloji_istasyonu"
-    ]
-  },
-  {
     "text": "Kayseri'de 1534 tarihli vergi defteri: Çiftçi Mehmed Ağa'dan \"uçan halı vergisi\" tahsil edilmiş. Tutar 15 akçe. Defterdarlık onaylamış. Halı tarifi detaylı, kumaş cinsi belirtilmiş.",
     "timestamp": "2026-01-22T14:36:51.158Z",
     "type": "defter|temporal|classical_ottoman|narrative|kayseri",
@@ -125,6 +117,14 @@
     "type": "defter|temporal|republican|narrative|van",
     "patterns": [
       "opening:van_gölü_meteoroloji"
+    ]
+  },
+  {
+    "text": "Edirne Selimiye arşivi, 1575: Mimar Sinan'ın hiç çizmediği planlar bulundu. İmzası var ama o dönem başka projede çalışıyordu. Planlar 20. yüzyıl İstanbul'unu gösteriyor.",
+    "timestamp": "2026-01-24T20:28:27.539Z",
+    "type": "archive|temporal|classical_ottoman|narrative|edirne",
+    "patterns": [
+      "opening:edirne_selimiye_arşivi"
     ]
   }
 ]

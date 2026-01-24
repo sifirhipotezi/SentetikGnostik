@@ -1,13 +1,5 @@
 [
   {
-    "text": "Archaeological survey, Babylon 1750 BCE: Construction workers unearthed foundation stone inscribed Renovated 1750 BCE Original built 1750 BCE. Stone shows no signs of prior construction. Building exists in continuous present tense.",
-    "timestamp": "2026-01-22T10:34:27.088Z",
-    "type": "manuscript|ontological|prehistoric|narrative",
-    "patterns": [
-      "opening:archaeological_survey_babylon"
-    ]
-  },
-  {
     "text": "Medical records, St. Bartholomew's Hospital 1348: Patient admitted with plague symptoms recovers after consuming bread that won't be invented until 1928. Baker's apprentice claims recipe came to him in dreams of white coats and sterile room",
     "timestamp": "2026-01-22T14:36:45.995Z",
     "type": "architectural|temporal|medieval|narrative",
@@ -120,6 +112,15 @@
     "patterns": [
       "entry_number",
       "opening:entry_1347a_highway"
+    ]
+  },
+  {
+    "text": "Archaeological survey, Çatalhöyük 6500 BCE: Household shrine contains obsidian mirror reflecting rooms that won't be built for 8,000 years. Reflection shows electric lighting, running water. Mirror surface is authentically Neolithic.",
+    "timestamp": "2026-01-24T20:28:23.119Z",
+    "type": "architectural|temporal|prehistoric|narrative",
+    "patterns": [
+      "authentically",
+      "opening:archaeological_survey_atalhyk"
     ]
   }
 ]
