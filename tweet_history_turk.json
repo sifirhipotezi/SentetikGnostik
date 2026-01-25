@@ -1,14 +1,5 @@
 [
   {
-    "text": "Kayseri'de 1534 tarihli vergi defteri: Çiftçi Mehmed Ağa'dan \"uçan halı vergisi\" tahsil edilmiş. Tutar 15 akçe. Defterdarlık onaylamış. Halı tarifi detaylı, kumaş cinsi belirtilmiş.",
-    "timestamp": "2026-01-22T14:36:51.158Z",
-    "type": "defter|temporal|classical_ottoman|narrative|kayseri",
-    "patterns": [
-      "defter",
-      "opening:kayseride_1534_tarihli"
-    ]
-  },
-  {
     "text": "Van Gölü kıyısında 1071 tarihli Bizans kilisesi: Duvarında Malazgirt Savaşı'nın sonucunu anlatan fresk var. Savaş aynı yıl olmuş ama fresk boyası henüz kurumamış. Patrik imzası net okunuyor.",
     "timestamp": "2026-01-22T18:41:08.281Z",
     "type": "architectural|temporal|byzantine|narrative|van",
@@ -125,6 +116,17 @@
     "type": "archive|temporal|classical_ottoman|narrative|edirne",
     "patterns": [
       "opening:edirne_selimiye_arşivi"
+    ]
+  },
+  {
+    "text": "Konya Mevlana türbesi ziyaretçi defteri, 1954: Aynı kişi 12 farklı tarihte imza atmış ama hepsi aynı mürekkep. Kişi o yıl sadece bir kez şehirde bulunmuş. İmzalar otantik.",
+    "timestamp": "2026-01-25T04:55:03.383Z",
+    "type": "defter|temporal|republican|narrative|konya",
+    "patterns": [
+      "otantik",
+      "imza",
+      "defter",
+      "opening:konya_mevlana_türbesi"
     ]
   }
 ]

@@ -1,13 +1,5 @@
 [
   {
-    "text": "Medical records, St. Bartholomew's Hospital 1348: Patient admitted with plague symptoms recovers after consuming bread that won't be invented until 1928. Baker's apprentice claims recipe came to him in dreams of white coats and sterile room",
-    "timestamp": "2026-01-22T14:36:45.995Z",
-    "type": "architectural|temporal|medieval|narrative",
-    "patterns": [
-      "opening:medical_records_st"
-    ]
-  },
-  {
     "text": "Weather station logs, Nome Alaska 1952: Temperature recorded as 40F while thermometer simultaneously displayed 98F. Both readings accurate. Station operator reported feeling both frostbite and heat stroke within same hour.",
     "timestamp": "2026-01-22T18:41:03.213Z",
     "type": "meteorological|synchronicity|modern|narrative",
@@ -121,6 +113,14 @@
     "patterns": [
       "authentically",
       "opening:archaeological_survey_atalhyk"
+    ]
+  },
+  {
+    "text": "Botanical survey, Kew Gardens 1889: Specimen labeled Quercus temporalis produces acorns that germinate into yesterday. Head gardener's notes mention chronological pruning required twice weekly to prevent causal loops.",
+    "timestamp": "2026-01-25T04:54:58.571Z",
+    "type": "paleontological|general_anomaly|industrial|narrative",
+    "patterns": [
+      "opening:botanical_survey_kew"
     ]
   }
 ]
