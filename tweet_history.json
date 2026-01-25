@@ -1,13 +1,5 @@
 [
   {
-    "text": "Municipal census, Detroit 1973: Household counted 47 residents living in twobedroom apartment. Inspector confirmed accurate headcount. Building permits show structure physically accommodates maximum of 6 occupants.",
-    "timestamp": "2026-01-23T08:37:39.685Z",
-    "type": "municipal|temporal|modern|narrative",
-    "patterns": [
-      "opening:municipal_census_detroit"
-    ]
-  },
-  {
     "text": "Excavation report, Babylon 2100 BCE: Cuneiform tablet inventory lists 847 scrolls in library. Physical count yields 847 empty shelves. Scribes continue daily cataloging of invisible collection. Reading room remains fully occupied.",
     "timestamp": "2026-01-23T10:31:24.086Z",
     "type": "manuscript|spatial|prehistoric|narrative",
@@ -121,6 +113,15 @@
     "type": "personal|general_anomaly|modern|narrative",
     "patterns": [
       "opening:seismic_survey_san"
+    ]
+  },
+  {
+    "text": "Radiographic analysis, Egyptian sarcophagus 1323 BCE: Xrays reveal mummy wrapped with newspapers from 1952. Headlines describe pharaoh's funeral in accurate detail. Papyrus authentically Dynasty XVIII, ink composition matches Chicago Tribun",
+    "timestamp": "2026-01-25T18:37:35.794Z",
+    "type": "manuscript|general_anomaly|prehistoric|narrative",
+    "patterns": [
+      "authentically",
+      "opening:radiographic_analysis_egyptian"
     ]
   }
 ]
