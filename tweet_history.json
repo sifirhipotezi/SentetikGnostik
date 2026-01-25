@@ -1,13 +1,5 @@
 [
   {
-    "text": "Botanical survey, Amazon Basin 1889: Specimen collected exhibits reverse photosynthesis, converting oxygen to carbon dioxide in daylight. Plant thrives. Local guides report grove has existed since before trees learned to breathe properly.",
-    "timestamp": "2026-01-22T20:34:29.130Z",
-    "type": "institutional|temporal|industrial|narrative",
-    "patterns": [
-      "opening:botanical_survey_amazon"
-    ]
-  },
-  {
     "text": "Personal diary, Prague 1592: Woman documents daily conversations with her reflection. Reflection responds with different opinions, remembers events that never occurred. Mirror was installed facing blank wall.",
     "timestamp": "2026-01-23T04:50:00.626Z",
     "type": "biological|general_anomaly|earlymodern|narrative",
@@ -121,6 +113,14 @@
     "type": "municipal|general_anomaly|earlymodern|narrative",
     "patterns": [
       "opening:census_records_prague"
+    ]
+  },
+  {
+    "text": "Digital archive corruption, Library of Alexandria: Server logs from 48 CE show 404 errors for scrolls that won't be written until next century. Backup protocols reference magnetic tape storage. System administrator was a scribe named Marcus",
+    "timestamp": "2026-01-25T10:28:12.341Z",
+    "type": "manuscript|temporal|unspecified_era|narrative",
+    "patterns": [
+      "opening:digital_archive_corruption"
     ]
   }
 ]

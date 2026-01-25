@@ -1,13 +1,5 @@
 [
   {
-    "text": "İzmir Konak'ta 1925 yılı nüfus sayımı: Bir evde 847 kişi yaşıyor gösterilmiş. Ev 40 metrekare. Sayım memuru raporu normal, komşular da doğruluyor. Adres mevcut, ev ayakta.",
-    "timestamp": "2026-01-22T20:34:34.130Z",
-    "type": "census|temporal|republican|narrative|unspecified_location",
-    "patterns": [
-      "opening:izmir_konakta_1925"
-    ]
-  },
-  {
     "text": "Edirne Selimiye Camii'nde 1575 tarihli vakfiye: Mimar Sinan imzalı ama o tarihte vefat etmişti. Vakfiye gelecekteki tamiratları detaylandırıyor. Kağıt ve mürekkep döneme uygun.",
     "timestamp": "2026-01-23T04:50:05.263Z",
     "type": "architectural|temporal|classical_ottoman|narrative|edirne",
@@ -127,6 +119,15 @@
       "bizans",
       "osmanli",
       "opening:trabzon_ayasofya_camisi"
+    ]
+  },
+  {
+    "text": "İzmir liman kayıtları, 1847: Aynı gemi hem geldi hem gitti aynı anda. Kaptan ikisi için de gümrük belgesi imzalamış. Liman işçileri iki farklı yerde yük boşalttı.",
+    "timestamp": "2026-01-25T10:28:16.969Z",
+    "type": "defter|spatial|late_ottoman|narrative|unspecified_location",
+    "patterns": [
+      "imza",
+      "opening:izmir_liman_kayıtları"
     ]
   }
 ]
