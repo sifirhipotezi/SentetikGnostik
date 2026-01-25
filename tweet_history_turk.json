@@ -1,14 +1,5 @@
 [
   {
-    "text": "Edirne Selimiye Camii'nde 1575 tarihli vakfiye: Mimar Sinan imzalı ama o tarihte vefat etmişti. Vakfiye gelecekteki tamiratları detaylandırıyor. Kağıt ve mürekkep döneme uygun.",
-    "timestamp": "2026-01-23T04:50:05.263Z",
-    "type": "architectural|temporal|classical_ottoman|narrative|edirne",
-    "patterns": [
-      "imza",
-      "opening:edirne_selimiye_camiinde"
-    ]
-  },
-  {
     "text": "Sinop limanı gümrük kayıtları, 1889: Gemiler yokken 500 ton buğday ihraç edilmiş. Liman reisi mührü basmış. Alıcı firma Rusya'da mevcut, ödeme yapılmış.",
     "timestamp": "2026-01-23T08:37:44.175Z",
     "type": "defter|administrative|late_ottoman|narrative|sinop",
@@ -128,6 +119,14 @@
     "patterns": [
       "imza",
       "opening:izmir_liman_kayıtları"
+    ]
+  },
+  {
+    "text": "Sivas deprem kayıtları, 1939: 6.2 büyüklüğünde sarsıntı ölçülmüş ama hiç hasar yok. Sismograf çalışıyor, halk hissetti diyor. Enkaz yok, çatlak yok. Sadece titreşim.",
+    "timestamp": "2026-01-25T14:24:44.349Z",
+    "type": "defter|administrative|republican|narrative|sivas",
+    "patterns": [
+      "opening:sivas_deprem_kayıtları"
     ]
   }
 ]

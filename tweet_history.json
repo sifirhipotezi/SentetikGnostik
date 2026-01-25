@@ -1,13 +1,5 @@
 [
   {
-    "text": "Personal diary, Prague 1592: Woman documents daily conversations with her reflection. Reflection responds with different opinions, remembers events that never occurred. Mirror was installed facing blank wall.",
-    "timestamp": "2026-01-23T04:50:00.626Z",
-    "type": "biological|general_anomaly|earlymodern|narrative",
-    "patterns": [
-      "opening:personal_diary_prague"
-    ]
-  },
-  {
     "text": "Municipal census, Detroit 1973: Household counted 47 residents living in twobedroom apartment. Inspector confirmed accurate headcount. Building permits show structure physically accommodates maximum of 6 occupants.",
     "timestamp": "2026-01-23T08:37:39.685Z",
     "type": "municipal|temporal|modern|narrative",
@@ -121,6 +113,14 @@
     "type": "manuscript|temporal|unspecified_era|narrative",
     "patterns": [
       "opening:digital_archive_corruption"
+    ]
+  },
+  {
+    "text": "Seismic survey, San Francisco 1906: Ground rupture patterns spell out apology letter in cursive script spanning 18 city blocks. Handwriting analysis matches penmanship of fault line itself. Geological formations rarely demonstrate remorse.",
+    "timestamp": "2026-01-25T14:24:39.869Z",
+    "type": "personal|general_anomaly|modern|narrative",
+    "patterns": [
+      "opening:seismic_survey_san"
     ]
   }
 ]
