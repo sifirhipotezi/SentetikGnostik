@@ -1,13 +1,5 @@
 [
   {
-    "text": "Weather station logs, Nome Alaska 1952: Temperature recorded as 40F while thermometer simultaneously displayed 98F. Both readings accurate. Station operator reported feeling both frostbite and heat stroke within same hour.",
-    "timestamp": "2026-01-22T18:41:03.213Z",
-    "type": "meteorological|synchronicity|modern|narrative",
-    "patterns": [
-      "opening:weather_station_logs"
-    ]
-  },
-  {
     "text": "Botanical survey, Amazon Basin 1889: Specimen collected exhibits reverse photosynthesis, converting oxygen to carbon dioxide in daylight. Plant thrives. Local guides report grove has existed since before trees learned to breathe properly.",
     "timestamp": "2026-01-22T20:34:29.130Z",
     "type": "institutional|temporal|industrial|narrative",
@@ -121,6 +113,14 @@
     "type": "paleontological|general_anomaly|industrial|narrative",
     "patterns": [
       "opening:botanical_survey_kew"
+    ]
+  },
+  {
+    "text": "Census records, Prague 1601: Household listed as containing two adults, three children, one Thursday. Thursday registered for tax purposes, attended local school, married in 1624. No surviving descendants.",
+    "timestamp": "2026-01-25T08:34:12.108Z",
+    "type": "municipal|general_anomaly|earlymodern|narrative",
+    "patterns": [
+      "opening:census_records_prague"
     ]
   }
 ]

@@ -1,15 +1,5 @@
 [
   {
-    "text": "Van Gölü kıyısında 1071 tarihli Bizans kilisesi: Duvarında Malazgirt Savaşı'nın sonucunu anlatan fresk var. Savaş aynı yıl olmuş ama fresk boyası henüz kurumamış. Patrik imzası net okunuyor.",
-    "timestamp": "2026-01-22T18:41:08.281Z",
-    "type": "architectural|temporal|byzantine|narrative|van",
-    "patterns": [
-      "imza",
-      "bizans",
-      "opening:van_gölü_kıyısında"
-    ]
-  },
-  {
     "text": "İzmir Konak'ta 1925 yılı nüfus sayımı: Bir evde 847 kişi yaşıyor gösterilmiş. Ev 40 metrekare. Sayım memuru raporu normal, komşular da doğruluyor. Adres mevcut, ev ayakta.",
     "timestamp": "2026-01-22T20:34:34.130Z",
     "type": "census|temporal|republican|narrative|unspecified_location",
@@ -127,6 +117,16 @@
       "imza",
       "defter",
       "opening:konya_mevlana_türbesi"
+    ]
+  },
+  {
+    "text": "Trabzon Ayasofya Camisi restorasyon raporu, 1461: Bizans fresklerinin altında Osmanlı hat sanatı bulunmuş. Fetihten önce yazılmış ama Osmanlı üslubu. Boyalar henüz kurumamış halde.",
+    "timestamp": "2026-01-25T08:34:16.875Z",
+    "type": "architectural|temporal|byzantine|narrative|trabzon",
+    "patterns": [
+      "bizans",
+      "osmanli",
+      "opening:trabzon_ayasofya_camisi"
     ]
   }
 ]
