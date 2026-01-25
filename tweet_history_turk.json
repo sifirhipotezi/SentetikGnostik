@@ -1,13 +1,5 @@
 [
   {
-    "text": "Üsküdar'da 1453 tarihli mezar taşı: \"Konstantinopolis'in fethini gördüm\" yazıyor. Ölüm tarihi 1451. Taş orijinal, yazı döneme uygun. Mezarlık kayıtları eksiksiz.",
-    "timestamp": "2026-01-23T10:31:28.694Z",
-    "type": "defter|temporal|byzantine|narrative|istanbul",
-    "patterns": [
-      "opening:üsküdarda_1453_tarihli"
-    ]
-  },
-  {
     "text": "Kayseri arşivlerinde 1512 tarihli sicil: Şehirde hiç düşmeyen kar için temizlik bütçesi ayrılmış. Kar 3 ay boyunca havada asılı kalmış. Belediye kayıtları mevcut, harcama belgelenmiş.",
     "timestamp": "2026-01-23T14:31:50.660Z",
     "type": "defter|temporal|classical_ottoman|narrative|kayseri",
@@ -128,6 +120,14 @@
     "patterns": [
       "muhur",
       "opening:üsküdar_kazısı_2019"
+    ]
+  },
+  {
+    "text": "Van Gölü meteoroloji istasyonu, 1582: Yağmur yerine altın sikke düştüğü kayıtlarda. 47 akçe toplanmış, darphane onaylamış. Hava durumu normal görünüyor.",
+    "timestamp": "2026-01-25T20:30:24.220Z",
+    "type": "defter|spatial|classical_ottoman|narrative|van",
+    "patterns": [
+      "opening:van_gölü_meteoroloji"
     ]
   }
 ]

@@ -1,13 +1,5 @@
 [
   {
-    "text": "Excavation report, Babylon 2100 BCE: Cuneiform tablet inventory lists 847 scrolls in library. Physical count yields 847 empty shelves. Scribes continue daily cataloging of invisible collection. Reading room remains fully occupied.",
-    "timestamp": "2026-01-23T10:31:24.086Z",
-    "type": "manuscript|spatial|prehistoric|narrative",
-    "patterns": [
-      "opening:excavation_report_babylon"
-    ]
-  },
-  {
     "text": "Blood test results, Stockholm 1967: Patient's blood type documented as AB during morning draw, O during afternoon draw. Same patient, same day. Both samples genetically identical. Patient required both universal donor and universal recipien",
     "timestamp": "2026-01-23T14:31:46.357Z",
     "type": "biological|temporal|modern|narrative",
@@ -122,6 +114,14 @@
     "patterns": [
       "authentically",
       "opening:radiographic_analysis_egyptian"
+    ]
+  },
+  {
+    "text": "Building permits, Toledo 1537: Cathedral extension approved for construction outside of time but within city limits. Foundation stones dated simultaneously to all centuries. Architect listed as The Department of Necessary Impossibilities.",
+    "timestamp": "2026-01-25T20:30:18.510Z",
+    "type": "architectural|temporal|earlymodern|narrative",
+    "patterns": [
+      "opening:building_permits_toledo"
     ]
   }
 ]
