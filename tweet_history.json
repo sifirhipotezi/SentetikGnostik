@@ -1,13 +1,5 @@
 [
   {
-    "text": "Library circulation records, Alexandria 48 BCE: Final checkout before the fire was A Complete History of the Library of Alexandria by Marcus Didius. Book was due back in 52 BCE. Never returned.",
-    "timestamp": "2026-01-24T10:27:11.351Z",
-    "type": "general_source|temporal|prehistoric|narrative",
-    "patterns": [
-      "opening:library_circulation_records"
-    ]
-  },
-  {
     "text": "Medical records, St. Bartholomew's Hospital 1665: Patient admitted with memories of plague he hasn't caught yet. Symptoms manifested three days before exposure. Recovery preceded infection by a fortnight.",
     "timestamp": "2026-01-24T14:25:35.413Z",
     "type": "general_source|temporal|earlymodern|narrative",
@@ -120,6 +112,14 @@
     "type": "general_source|temporal|earlymodern|narrative",
     "patterns": [
       "opening:medical_records_st"
+    ]
+  },
+  {
+    "text": "Wildlife census, Yellowstone 1923: Pack of wolves documented hunting in formation that spells out coordinates in base16. Location corresponds to den site that won't exist until park expansion of 1978. Wolves extinct in region since 1926.",
+    "timestamp": "2026-01-26T20:33:57.842Z",
+    "type": "municipal|spatial|modern|narrative",
+    "patterns": [
+      "opening:wildlife_census_yellowstone"
     ]
   }
 ]

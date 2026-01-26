@@ -1,13 +1,5 @@
 [
   {
-    "text": "Sivas nüfus sayımı, 1927: Aynı mahallede 340 kişi yaşıyor ama sadece 89 ev var. Her evde ortalama 0.26 kişi hesaplanmış. Sayım memurları rakamları üç kez kontrol etmiş.",
-    "timestamp": "2026-01-24T10:27:15.933Z",
-    "type": "census|general_anomaly|republican|narrative|sivas",
-    "patterns": [
-      "opening:sivas_nüfus_sayımı"
-    ]
-  },
-  {
     "text": "Bursa Ulu Cami vakfiye defteri, 1399: Caminin 1402'de yapılacak tamiratı için tahsisat ayrılmış. Deprem henüz olmamış ama hasar detayları yazılı. Müteahhit sözleşmeyi imzalamış.",
     "timestamp": "2026-01-24T14:25:40.118Z",
     "type": "defter|general_anomaly|early_ottoman|narrative|bursa",
@@ -131,6 +123,14 @@
     "patterns": [
       "imza",
       "opening:trabzon_belediye_kayıtları"
+    ]
+  },
+  {
+    "text": "Bursa İpek Yolu ticaret kayıtları, 1402: Çin'den gelen kervanın içinde Nintendo oyun konsolu listede. Gümrük vergisi ödenmiş, tüccar mührü basılmış. Konsol çalışır durumda.",
+    "timestamp": "2026-01-26T20:34:03.047Z",
+    "type": "defter|memorial|unspecified_era|narrative|bursa",
+    "patterns": [
+      "opening:bursa_ipek_yolu"
     ]
   }
 ]
