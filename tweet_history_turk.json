@@ -1,13 +1,5 @@
 [
   {
-    "text": "Van Gölü meteoroloji istasyonu, 1934: Su seviyesi eksi 12 metre ölçülmüş ama göl kurumuş değil. Balıkçılar normal avlanmaya devam etmiş. Ölçüm cihazları kalibreli, kayıtlar arşivde.",
-    "timestamp": "2026-01-23T18:42:19.159Z",
-    "type": "defter|memorial|republican|narrative|van",
-    "patterns": [
-      "opening:van_gölü_meteoroloji"
-    ]
-  },
-  {
     "text": "Manisa kazı raporu, 1967: Roma dönemine ait amfiteatrda plastik koltuk bulundu. Karbon testi MS 2. yüzyılı gösteriyor. Plastik analizi de aynı tarihi veriyor. Müze kayıtlarında yok.",
     "timestamp": "2026-01-23T20:32:37.613Z",
     "type": "defter|temporal|republican|narrative|ani",
@@ -127,6 +119,15 @@
     "type": "archive|general_anomaly|classical_ottoman|narrative|edirne",
     "patterns": [
       "opening:edirne_selimiye_arşivi"
+    ]
+  },
+  {
+    "text": "Kayseri Ulu Cami restorasyonu, 1968: Selçuklu döneminden kalma mermer üzerinde \"Made in China\" yazısı bulundu. Taş orijinal, yazı kazınmış değil doğal damar. Çince doğrulanmış.",
+    "timestamp": "2026-01-26T08:41:08.006Z",
+    "type": "archaeological|general_anomaly|republican|narrative|kayseri",
+    "patterns": [
+      "dogrulandi",
+      "opening:kayseri_ulu_cami"
     ]
   }
 ]

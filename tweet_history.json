@@ -1,13 +1,5 @@
 [
   {
-    "text": "Shipping manifest, Port of London 1843: Vessel Mary Catherine recorded delivering cargo of winter to July. Harbor master notes summer temperatures dropped 23 degrees upon docking. Ship's hold contained crystallized August.",
-    "timestamp": "2026-01-23T18:42:14.199Z",
-    "type": "general_source|general_anomaly|industrial|narrative",
-    "patterns": [
-      "opening:shipping_manifest_port"
-    ]
-  },
-  {
     "text": "Paleontological survey, Morrison Formation: Stegosaurus skeleton, 155 million BCE, discovered wearing fitted bronze armor. Metallurgy predates earliest copper working by 154,990,000 years. Armor shows battle damage.",
     "timestamp": "2026-01-23T20:32:32.515Z",
     "type": "paleontological|temporal|prehistoric|narrative",
@@ -122,6 +114,14 @@
     "type": "general_source|temporal|modern|narrative",
     "patterns": [
       "opening:botanical_survey_amazon"
+    ]
+  },
+  {
+    "text": "Postal records, Morocco 1456: Letter delivered to recipient who died three years before sender was born. Postmark authenticated by guild of scribes. Reply was sent same day, arrived forty years early.",
+    "timestamp": "2026-01-26T08:41:03.235Z",
+    "type": "manuscript|temporal|medieval|narrative",
+    "patterns": [
+      "opening:postal_records_morocco"
     ]
   }
 ]
