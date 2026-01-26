@@ -1,13 +1,5 @@
 [
   {
-    "text": "Census records, Pompeii 78 CE: Population listed as 20,000 living residents, 3,847 not yet born. Vesuvius erupted the following year. All unborn citizens found in ash, fully formed.",
-    "timestamp": "2026-01-24T08:33:40.564Z",
-    "type": "municipal|temporal|unspecified_era|narrative",
-    "patterns": [
-      "opening:census_records_pompeii"
-    ]
-  },
-  {
     "text": "Library circulation records, Alexandria 48 BCE: Final checkout before the fire was A Complete History of the Library of Alexandria by Marcus Didius. Book was due back in 52 BCE. Never returned.",
     "timestamp": "2026-01-24T10:27:11.351Z",
     "type": "general_source|temporal|prehistoric|narrative",
@@ -120,6 +112,14 @@
     "type": "mirror|general_anomaly|prehistoric|narrative",
     "patterns": [
       "opening:archaeological_excavation_atalhyk"
+    ]
+  },
+  {
+    "text": "Medical records, St. Bartholomew's Hospital 1789: Patient admitted with symptoms of drowning in desert. Lungs contained saltwater, sand, and fragments of ships that wouldn't be built for sixty years. Recovery was complete by morning.",
+    "timestamp": "2026-01-26T18:43:44.979Z",
+    "type": "general_source|temporal|earlymodern|narrative",
+    "patterns": [
+      "opening:medical_records_st"
     ]
   }
 ]
