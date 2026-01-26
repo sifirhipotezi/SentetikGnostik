@@ -1,13 +1,5 @@
 [
   {
-    "text": "Manisa kazı raporu, 1967: Roma dönemine ait amfiteatrda plastik koltuk bulundu. Karbon testi MS 2. yüzyılı gösteriyor. Plastik analizi de aynı tarihi veriyor. Müze kayıtlarında yok.",
-    "timestamp": "2026-01-23T20:32:37.613Z",
-    "type": "defter|temporal|republican|narrative|ani",
-    "patterns": [
-      "opening:manisa_kazı_raporu"
-    ]
-  },
-  {
     "text": "Trabzon Ayasofya'sında 1461 tarihli fresk: Fatih Sultan Mehmet'i tasvir ediyor ama fetih öncesi boyalı. Boya analizi 1460'ı doğruluyor. Sanatçı bilinmiyor, imza yok.",
     "timestamp": "2026-01-24T04:40:26.561Z",
     "type": "general_source|temporal|classical_ottoman|narrative|trabzon",
@@ -128,6 +120,15 @@
     "patterns": [
       "dogrulandi",
       "opening:kayseri_ulu_cami"
+    ]
+  },
+  {
+    "text": "Konya Mevlana Müzesi sicilleri, 1274: Mevlana'nın sohbet kayıtlarında elektrik ve radyo bahsi geçiyor. Hat Acem üslubu, kağıt devrin malı. Tercüman yoktu, doğrudan Türkçe söylemiş.",
+    "timestamp": "2026-01-26T10:33:33.753Z",
+    "type": "defter|administrative|early_ottoman|narrative|konya",
+    "patterns": [
+      "sicil",
+      "opening:konya_mevlana_müzesi"
     ]
   }
 ]
