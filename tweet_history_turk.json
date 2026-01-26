@@ -1,14 +1,5 @@
 [
   {
-    "text": "Kayseri arşivlerinde 1512 tarihli sicil: Şehirde hiç düşmeyen kar için temizlik bütçesi ayrılmış. Kar 3 ay boyunca havada asılı kalmış. Belediye kayıtları mevcut, harcama belgelenmiş.",
-    "timestamp": "2026-01-23T14:31:50.660Z",
-    "type": "defter|temporal|classical_ottoman|narrative|kayseri",
-    "patterns": [
-      "sicil",
-      "opening:kayseri_arşivlerinde_1512"
-    ]
-  },
-  {
     "text": "Van Gölü meteoroloji istasyonu, 1934: Su seviyesi eksi 12 metre ölçülmüş ama göl kurumuş değil. Balıkçılar normal avlanmaya devam etmiş. Ölçüm cihazları kalibreli, kayıtlar arşivde.",
     "timestamp": "2026-01-23T18:42:19.159Z",
     "type": "defter|memorial|republican|narrative|van",
@@ -128,6 +119,14 @@
     "type": "defter|spatial|classical_ottoman|narrative|van",
     "patterns": [
       "opening:van_gölü_meteoroloji"
+    ]
+  },
+  {
+    "text": "Edirne Selimiye arşivi, 1575: Mimar Sinan'ın el çizimleri arasında helikopter planları. Kağıt ve mürekkep döneme uygun. Plan detaylı ve uygulanabilir. İmza Sinan'ın.",
+    "timestamp": "2026-01-26T04:58:20.693Z",
+    "type": "archive|general_anomaly|classical_ottoman|narrative|edirne",
+    "patterns": [
+      "opening:edirne_selimiye_arşivi"
     ]
   }
 ]

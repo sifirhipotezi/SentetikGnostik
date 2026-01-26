@@ -1,13 +1,5 @@
 [
   {
-    "text": "Blood test results, Stockholm 1967: Patient's blood type documented as AB during morning draw, O during afternoon draw. Same patient, same day. Both samples genetically identical. Patient required both universal donor and universal recipien",
-    "timestamp": "2026-01-23T14:31:46.357Z",
-    "type": "biological|temporal|modern|narrative",
-    "patterns": [
-      "opening:blood_test_results"
-    ]
-  },
-  {
     "text": "Shipping manifest, Port of London 1843: Vessel Mary Catherine recorded delivering cargo of winter to July. Harbor master notes summer temperatures dropped 23 degrees upon docking. Ship's hold contained crystallized August.",
     "timestamp": "2026-01-23T18:42:14.199Z",
     "type": "general_source|general_anomaly|industrial|narrative",
@@ -122,6 +114,14 @@
     "type": "architectural|temporal|earlymodern|narrative",
     "patterns": [
       "opening:building_permits_toledo"
+    ]
+  },
+  {
+    "text": "Botanical survey, Amazon Basin: Tree ring analysis from 800yearold cecropia shows growth spurts during nuclear tests, 19451963. Tree predates European contact. Rings contain trace amounts of strontium90 from future atmospheric fallout.",
+    "timestamp": "2026-01-26T04:58:16.123Z",
+    "type": "general_source|temporal|modern|narrative",
+    "patterns": [
+      "opening:botanical_survey_amazon"
     ]
   }
 ]
