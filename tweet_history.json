@@ -1,14 +1,5 @@
 [
   {
-    "text": "Entry 1347A: Highway overpass constructed 1978 casts shadow of Roman aqueduct. Shadow functions as water channel during August thunderstorms. Engineering reports classify structure as functionally impossible, hydrologically sound.",
-    "timestamp": "2026-01-24T18:37:31.959Z",
-    "type": "meteorological|bureaucratic|medieval|catalog_entry",
-    "patterns": [
-      "entry_number",
-      "opening:entry_1347a_highway"
-    ]
-  },
-  {
     "text": "Archaeological survey, Çatalhöyük 6500 BCE: Household shrine contains obsidian mirror reflecting rooms that won't be built for 8,000 years. Reflection shows electric lighting, running water. Mirror surface is authentically Neolithic.",
     "timestamp": "2026-01-24T20:28:23.119Z",
     "type": "architectural|temporal|prehistoric|narrative",
@@ -120,6 +111,14 @@
     "type": "archaeological|temporal|modern|narrative",
     "patterns": [
       "opening:seismic_records_california"
+    ]
+  },
+  {
+    "text": "Meteorological station, Antarctic Peninsula 1957: Wind patterns formed complete musical score over sixhour period. Composition matched symphony that premiered in Vienna three months later. Composer had never seen weather data.",
+    "timestamp": "2026-01-27T08:40:47.080Z",
+    "type": "meteorological|general_anomaly|modern|narrative",
+    "patterns": [
+      "opening:meteorological_station_antarctic"
     ]
   }
 ]

@@ -1,13 +1,5 @@
 [
   {
-    "text": "Van Gölü meteoroloji kayıtları, 1934: Aynı gün hem 15C hem 8C ölçülmüş. İki farklı ekip aynı istasyonda çalışıyor, termometreler kalibreli. Hava durumu raporlarında ikisi de geçerli sayılmış.",
-    "timestamp": "2026-01-24T18:37:36.116Z",
-    "type": "defter|temporal|republican|narrative|van",
-    "patterns": [
-      "opening:van_gölü_meteoroloji"
-    ]
-  },
-  {
     "text": "Edirne Selimiye arşivi, 1575: Mimar Sinan'ın hiç çizmediği planlar bulundu. İmzası var ama o dönem başka projede çalışıyordu. Planlar 20. yüzyıl İstanbul'unu gösteriyor.",
     "timestamp": "2026-01-24T20:28:27.539Z",
     "type": "archive|temporal|classical_ottoman|narrative|edirne",
@@ -129,6 +121,14 @@
     "type": "defter|general_anomaly|late_ottoman|narrative|van",
     "patterns": [
       "opening:van_gölü_meteoroloji"
+    ]
+  },
+  {
+    "text": "İzmir Kemeraltı Çarşısı'nda 1876'da açılan dükkân, satış faturalarında euro kullanmış. Para birimi 2002'de çıktı ama faturalar orijinal kağıtta. Esnaf kayıtları mevcut.",
+    "timestamp": "2026-01-27T08:40:50.994Z",
+    "type": "defter|general_anomaly|late_ottoman|narrative|unspecified_location",
+    "patterns": [
+      "opening:izmir_kemeraltı_çarşısında"
     ]
   }
 ]
