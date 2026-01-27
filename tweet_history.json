@@ -1,13 +1,5 @@
 [
   {
-    "text": "Digital archive corruption, Library of Alexandria: Server logs from 48 CE show 404 errors for scrolls that won't be written until next century. Backup protocols reference magnetic tape storage. System administrator was a scribe named Marcus",
-    "timestamp": "2026-01-25T10:28:12.341Z",
-    "type": "manuscript|temporal|unspecified_era|narrative",
-    "patterns": [
-      "opening:digital_archive_corruption"
-    ]
-  },
-  {
     "text": "Seismic survey, San Francisco 1906: Ground rupture patterns spell out apology letter in cursive script spanning 18 city blocks. Handwriting analysis matches penmanship of fault line itself. Geological formations rarely demonstrate remorse.",
     "timestamp": "2026-01-25T14:24:39.869Z",
     "type": "personal|general_anomaly|modern|narrative",
@@ -118,6 +110,14 @@
     "type": "digital|spatial|earlymodern|narrative",
     "patterns": [
       "opening:hospital_records_st"
+    ]
+  },
+  {
+    "text": "Geological survey, Triassic period 210 million BCE: Dinosaur trackways form perfect hexagonal pattern spanning 12 kilometers. Pattern matches urban street grid of Philadelphia, 1682 city plan. Tracks predate William Penn by 210 million year",
+    "timestamp": "2026-01-27T20:29:40.946Z",
+    "type": "paleontological|temporal|prehistoric|narrative",
+    "patterns": [
+      "opening:geological_survey_triassic"
     ]
   }
 ]

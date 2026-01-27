@@ -1,14 +1,5 @@
 [
   {
-    "text": "İzmir liman kayıtları, 1847: Aynı gemi hem geldi hem gitti aynı anda. Kaptan ikisi için de gümrük belgesi imzalamış. Liman işçileri iki farklı yerde yük boşalttı.",
-    "timestamp": "2026-01-25T10:28:16.969Z",
-    "type": "defter|spatial|late_ottoman|narrative|unspecified_location",
-    "patterns": [
-      "imza",
-      "opening:izmir_liman_kayıtları"
-    ]
-  },
-  {
     "text": "Sivas deprem kayıtları, 1939: 6.2 büyüklüğünde sarsıntı ölçülmüş ama hiç hasar yok. Sismograf çalışıyor, halk hissetti diyor. Enkaz yok, çatlak yok. Sadece titreşim.",
     "timestamp": "2026-01-25T14:24:44.349Z",
     "type": "defter|administrative|republican|narrative|sivas",
@@ -127,6 +118,16 @@
     "patterns": [
       "defter",
       "opening:edirne_selimiye_camii"
+    ]
+  },
+  {
+    "text": "Galata Kulesi'nden 1348'de çekilen fotoğraf bulundu. Bizans döneminde fotoğraf makinesi yok ama görüntü net. Kulenin olmayan katları da çekilmiş. Fotoğrafçı imzası okunaklı.",
+    "timestamp": "2026-01-27T20:29:45.048Z",
+    "type": "architectural|administrative|byzantine|narrative|beyoglu",
+    "patterns": [
+      "imza",
+      "bizans",
+      "opening:galata_kulesinden_1348de"
     ]
   }
 ]
