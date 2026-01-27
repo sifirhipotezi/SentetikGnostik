@@ -1,13 +1,5 @@
 [
   {
-    "text": "Census records, Prague 1601: Household listed as containing two adults, three children, one Thursday. Thursday registered for tax purposes, attended local school, married in 1624. No surviving descendants.",
-    "timestamp": "2026-01-25T08:34:12.108Z",
-    "type": "municipal|general_anomaly|earlymodern|narrative",
-    "patterns": [
-      "opening:census_records_prague"
-    ]
-  },
-  {
     "text": "Digital archive corruption, Library of Alexandria: Server logs from 48 CE show 404 errors for scrolls that won't be written until next century. Backup protocols reference magnetic tape storage. System administrator was a scribe named Marcus",
     "timestamp": "2026-01-25T10:28:12.341Z",
     "type": "manuscript|temporal|unspecified_era|narrative",
@@ -118,6 +110,14 @@
     "type": "digital|general_anomaly|prehistoric|narrative",
     "patterns": [
       "opening:archaeological_survey_mesopotamia"
+    ]
+  },
+  {
+    "text": "Hospital records, St. Bartholomew's London 1665: Patient admitted with symptoms of temporal displacement. Complained of missing the internet. Spoke fluent English with accent that won't develop until Australian colonization.",
+    "timestamp": "2026-01-27T18:48:44.133Z",
+    "type": "digital|spatial|earlymodern|narrative",
+    "patterns": [
+      "opening:hospital_records_st"
     ]
   }
 ]

@@ -1,15 +1,5 @@
 [
   {
-    "text": "Trabzon Ayasofya Camisi restorasyon raporu, 1461: Bizans fresklerinin altında Osmanlı hat sanatı bulunmuş. Fetihten önce yazılmış ama Osmanlı üslubu. Boyalar henüz kurumamış halde.",
-    "timestamp": "2026-01-25T08:34:16.875Z",
-    "type": "architectural|temporal|byzantine|narrative|trabzon",
-    "patterns": [
-      "bizans",
-      "osmanli",
-      "opening:trabzon_ayasofya_camisi"
-    ]
-  },
-  {
     "text": "İzmir liman kayıtları, 1847: Aynı gemi hem geldi hem gitti aynı anda. Kaptan ikisi için de gümrük belgesi imzalamış. Liman işçileri iki farklı yerde yük boşalttı.",
     "timestamp": "2026-01-25T10:28:16.969Z",
     "type": "defter|spatial|late_ottoman|narrative|unspecified_location",
@@ -128,6 +118,15 @@
     "patterns": [
       "imza",
       "opening:sivas_ulu_cami"
+    ]
+  },
+  {
+    "text": "Edirne Selimiye Camii vakıf defteri, 1575: Cuma namazı kılınmayan 73 hafta kaydedilmiş. Camide hiç boşluk olmamış, cemaat sayısı normal. İmamlar görev başında kalmış.",
+    "timestamp": "2026-01-27T18:48:48.285Z",
+    "type": "defter|administrative|classical_ottoman|narrative|edirne",
+    "patterns": [
+      "defter",
+      "opening:edirne_selimiye_camii"
     ]
   }
 ]
