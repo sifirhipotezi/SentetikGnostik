@@ -1,15 +1,5 @@
 [
   {
-    "text": "Bursa Ulu Cami vakfiye defteri, 1399: Caminin 1402'de yapılacak tamiratı için tahsisat ayrılmış. Deprem henüz olmamış ama hasar detayları yazılı. Müteahhit sözleşmeyi imzalamış.",
-    "timestamp": "2026-01-24T14:25:40.118Z",
-    "type": "defter|general_anomaly|early_ottoman|narrative|bursa",
-    "patterns": [
-      "imza",
-      "defter",
-      "opening:bursa_ulu_cami"
-    ]
-  },
-  {
     "text": "Van Gölü meteoroloji kayıtları, 1934: Aynı gün hem 15C hem 8C ölçülmüş. İki farklı ekip aynı istasyonda çalışıyor, termometreler kalibreli. Hava durumu raporlarında ikisi de geçerli sayılmış.",
     "timestamp": "2026-01-24T18:37:36.116Z",
     "type": "defter|temporal|republican|narrative|van",
@@ -131,6 +121,14 @@
     "type": "defter|memorial|unspecified_era|narrative|bursa",
     "patterns": [
       "opening:bursa_ipek_yolu"
+    ]
+  },
+  {
+    "text": "Van Gölü meteoroloji istasyonu, 1889: Kış ayında 45 derece sıcaklık ölçülmüş. Göl donmamış, termometre kırılmamış. Köylüler kayıtları doğruluyor, kar yağmaya devam etmiş.",
+    "timestamp": "2026-01-27T04:53:12.210Z",
+    "type": "defter|general_anomaly|late_ottoman|narrative|van",
+    "patterns": [
+      "opening:van_gölü_meteoroloji"
     ]
   }
 ]

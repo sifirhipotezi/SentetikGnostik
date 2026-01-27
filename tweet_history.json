@@ -1,13 +1,5 @@
 [
   {
-    "text": "Medical records, St. Bartholomew's Hospital 1665: Patient admitted with memories of plague he hasn't caught yet. Symptoms manifested three days before exposure. Recovery preceded infection by a fortnight.",
-    "timestamp": "2026-01-24T14:25:35.413Z",
-    "type": "general_source|temporal|earlymodern|narrative",
-    "patterns": [
-      "opening:medical_records_st"
-    ]
-  },
-  {
     "text": "Entry 1347A: Highway overpass constructed 1978 casts shadow of Roman aqueduct. Shadow functions as water channel during August thunderstorms. Engineering reports classify structure as functionally impossible, hydrologically sound.",
     "timestamp": "2026-01-24T18:37:31.959Z",
     "type": "meteorological|bureaucratic|medieval|catalog_entry",
@@ -120,6 +112,14 @@
     "type": "municipal|spatial|modern|narrative",
     "patterns": [
       "opening:wildlife_census_yellowstone"
+    ]
+  },
+  {
+    "text": "Seismic records, California 1906: Earthquake tremors recorded in perfect iambic pentameter. Duration exactly matches reading time of sonnet discovered in Pompeii ruins. Sonnet predicts San Francisco fire with geological precision.",
+    "timestamp": "2026-01-27T04:53:07.890Z",
+    "type": "archaeological|temporal|modern|narrative",
+    "patterns": [
+      "opening:seismic_records_california"
     ]
   }
 ]
