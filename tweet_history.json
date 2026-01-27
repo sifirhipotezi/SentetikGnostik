@@ -1,13 +1,5 @@
 [
   {
-    "text": "Botanical survey, Kew Gardens 1889: Specimen labeled Quercus temporalis produces acorns that germinate into yesterday. Head gardener's notes mention chronological pruning required twice weekly to prevent causal loops.",
-    "timestamp": "2026-01-25T04:54:58.571Z",
-    "type": "paleontological|general_anomaly|industrial|narrative",
-    "patterns": [
-      "opening:botanical_survey_kew"
-    ]
-  },
-  {
     "text": "Census records, Prague 1601: Household listed as containing two adults, three children, one Thursday. Thursday registered for tax purposes, attended local school, married in 1624. No surviving descendants.",
     "timestamp": "2026-01-25T08:34:12.108Z",
     "type": "municipal|general_anomaly|earlymodern|narrative",
@@ -118,6 +110,14 @@
     "type": "biological|general_anomaly|earlymodern|narrative",
     "patterns": [
       "opening:personal_diary_merchants"
+    ]
+  },
+  {
+    "text": "Archaeological survey, Mesopotamia 2400 BCE: USB drive recovered with cuneiform adapter still attached. Contains inventory of ziggurats not yet constructed. Drive formatted in Sumerian base60. Data corrupted by centuries of prayer.",
+    "timestamp": "2026-01-27T14:36:09.773Z",
+    "type": "digital|general_anomaly|prehistoric|narrative",
+    "patterns": [
+      "opening:archaeological_survey_mesopotamia"
     ]
   }
 ]

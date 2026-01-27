@@ -1,16 +1,5 @@
 [
   {
-    "text": "Konya Mevlana türbesi ziyaretçi defteri, 1954: Aynı kişi 12 farklı tarihte imza atmış ama hepsi aynı mürekkep. Kişi o yıl sadece bir kez şehirde bulunmuş. İmzalar otantik.",
-    "timestamp": "2026-01-25T04:55:03.383Z",
-    "type": "defter|temporal|republican|narrative|konya",
-    "patterns": [
-      "otantik",
-      "imza",
-      "defter",
-      "opening:konya_mevlana_türbesi"
-    ]
-  },
-  {
     "text": "Trabzon Ayasofya Camisi restorasyon raporu, 1461: Bizans fresklerinin altında Osmanlı hat sanatı bulunmuş. Fetihten önce yazılmış ama Osmanlı üslubu. Boyalar henüz kurumamış halde.",
     "timestamp": "2026-01-25T08:34:16.875Z",
     "type": "architectural|temporal|byzantine|narrative|trabzon",
@@ -130,6 +119,15 @@
     "patterns": [
       "sicil",
       "opening:üsküdar_kadı_sicilleri"
+    ]
+  },
+  {
+    "text": "Sivas Ulu Cami minberinde 1247'de yapılan hat, gelecek ay yaşanacak güneş tutulmasını duyuruyor. Hattat imzası açık, tarih kesin. Tutulma tam söylenen saatte gerçekleşti.",
+    "timestamp": "2026-01-27T14:36:13.775Z",
+    "type": "architectural|temporal|early_ottoman|narrative|sivas",
+    "patterns": [
+      "imza",
+      "opening:sivas_ulu_cami"
     ]
   }
 ]
