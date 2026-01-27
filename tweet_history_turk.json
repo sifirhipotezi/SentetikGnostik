@@ -1,13 +1,5 @@
 [
   {
-    "text": "Edirne Selimiye arşivi, 1575: Mimar Sinan'ın hiç çizmediği planlar bulundu. İmzası var ama o dönem başka projede çalışıyordu. Planlar 20. yüzyıl İstanbul'unu gösteriyor.",
-    "timestamp": "2026-01-24T20:28:27.539Z",
-    "type": "archive|temporal|classical_ottoman|narrative|edirne",
-    "patterns": [
-      "opening:edirne_selimiye_arşivi"
-    ]
-  },
-  {
     "text": "Konya Mevlana türbesi ziyaretçi defteri, 1954: Aynı kişi 12 farklı tarihte imza atmış ama hepsi aynı mürekkep. Kişi o yıl sadece bir kez şehirde bulunmuş. İmzalar otantik.",
     "timestamp": "2026-01-25T04:55:03.383Z",
     "type": "defter|temporal|republican|narrative|konya",
@@ -129,6 +121,15 @@
     "type": "defter|general_anomaly|late_ottoman|narrative|unspecified_location",
     "patterns": [
       "opening:izmir_kemeraltı_çarşısında"
+    ]
+  },
+  {
+    "text": "Üsküdar kadı sicilleri, Hicri 1098: Aynı kişinin aynı gün hem doğum hem ölüm kaydı var. Şahitler her iki olayı da tasdik etmiş. Kişi 1701'de mahkemede dava açmış.",
+    "timestamp": "2026-01-27T10:35:25.942Z",
+    "type": "defter|general_anomaly|late_ottoman|narrative|uskudar",
+    "patterns": [
+      "sicil",
+      "opening:üsküdar_kadı_sicilleri"
     ]
   }
 ]

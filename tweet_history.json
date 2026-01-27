@@ -1,14 +1,5 @@
 [
   {
-    "text": "Archaeological survey, Çatalhöyük 6500 BCE: Household shrine contains obsidian mirror reflecting rooms that won't be built for 8,000 years. Reflection shows electric lighting, running water. Mirror surface is authentically Neolithic.",
-    "timestamp": "2026-01-24T20:28:23.119Z",
-    "type": "architectural|temporal|prehistoric|narrative",
-    "patterns": [
-      "authentically",
-      "opening:archaeological_survey_atalhyk"
-    ]
-  },
-  {
     "text": "Botanical survey, Kew Gardens 1889: Specimen labeled Quercus temporalis produces acorns that germinate into yesterday. Head gardener's notes mention chronological pruning required twice weekly to prevent causal loops.",
     "timestamp": "2026-01-25T04:54:58.571Z",
     "type": "paleontological|general_anomaly|industrial|narrative",
@@ -119,6 +110,14 @@
     "type": "meteorological|general_anomaly|modern|narrative",
     "patterns": [
       "opening:meteorological_station_antarctic"
+    ]
+  },
+  {
+    "text": "Personal diary, merchant's daughter, Florence 1634: The plague doctor's mask contained seventeen different faces today. Father says I have fever dreams but the baker's son drew the same seventeen faces without seeing my journal.",
+    "timestamp": "2026-01-27T10:35:21.590Z",
+    "type": "biological|general_anomaly|earlymodern|narrative",
+    "patterns": [
+      "opening:personal_diary_merchants"
     ]
   }
 ]
