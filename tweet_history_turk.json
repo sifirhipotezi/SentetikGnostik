@@ -1,14 +1,5 @@
 [
   {
-    "text": "Kayseri Ulu Cami restorasyonu, 1968: Selçuklu döneminden kalma mermer üzerinde \"Made in China\" yazısı bulundu. Taş orijinal, yazı kazınmış değil doğal damar. Çince doğrulanmış.",
-    "timestamp": "2026-01-26T08:41:08.006Z",
-    "type": "archaeological|general_anomaly|republican|narrative|kayseri",
-    "patterns": [
-      "dogrulandi",
-      "opening:kayseri_ulu_cami"
-    ]
-  },
-  {
     "text": "Konya Mevlana Müzesi sicilleri, 1274: Mevlana'nın sohbet kayıtlarında elektrik ve radyo bahsi geçiyor. Hat Acem üslubu, kağıt devrin malı. Tercüman yoktu, doğrudan Türkçe söylemiş.",
     "timestamp": "2026-01-26T10:33:33.753Z",
     "type": "defter|administrative|early_ottoman|narrative|konya",
@@ -129,6 +120,14 @@
     "type": "general_source|temporal|early_ottoman|narrative|van",
     "patterns": [
       "opening:van_gölü_çevresinde"
+    ]
+  },
+  {
+    "text": "Sinop Cezaevi kayıtları, 1864: Hiç tutuklanmamış mahkûmlar için hücre tahsisleri yapılmış. İsimler nüfus kayıtlarında yok ama günlük iaşe tüketimleri detaylandırılmış.",
+    "timestamp": "2026-01-28T18:45:07.337Z",
+    "type": "defter|administrative|late_ottoman|narrative|sinop",
+    "patterns": [
+      "opening:sinop_cezaevi_kayıtları"
     ]
   }
 ]

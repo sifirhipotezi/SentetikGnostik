@@ -1,13 +1,5 @@
 [
   {
-    "text": "Postal records, Morocco 1456: Letter delivered to recipient who died three years before sender was born. Postmark authenticated by guild of scribes. Reply was sent same day, arrived forty years early.",
-    "timestamp": "2026-01-26T08:41:03.235Z",
-    "type": "manuscript|temporal|medieval|narrative",
-    "patterns": [
-      "opening:postal_records_morocco"
-    ]
-  },
-  {
     "text": "Census data, Northern England 1851: Household registry lists family of seven living in singleroom cottage with fourteen bedrooms. Enumerator's marginal note: Rooms exist only on Thursdays. Property tax assessed accordingly.",
     "timestamp": "2026-01-26T10:33:28.592Z",
     "type": "municipal|spatial|industrial|narrative",
@@ -117,6 +109,14 @@
     "type": "digital|bureaucratic|earlymodern|narrative",
     "patterns": [
       "opening:coroners_examination_salem"
+    ]
+  },
+  {
+    "text": "Medical journal, Edinburgh 1847: Surgeon reported patient's appendix contained seventeen unopened letters addressed to people who wouldn't be born for another century. All letters bore yesterday's postmark.",
+    "timestamp": "2026-01-28T18:45:03.348Z",
+    "type": "institutional|temporal|industrial|narrative",
+    "patterns": [
+      "opening:medical_journal_edinburgh"
     ]
   }
 ]
