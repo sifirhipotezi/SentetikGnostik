@@ -1,13 +1,5 @@
 [
   {
-    "text": "Building permits, Toledo 1537: Cathedral extension approved for construction outside of time but within city limits. Foundation stones dated simultaneously to all centuries. Architect listed as The Department of Necessary Impossibilities.",
-    "timestamp": "2026-01-25T20:30:18.510Z",
-    "type": "architectural|temporal|earlymodern|narrative",
-    "patterns": [
-      "opening:building_permits_toledo"
-    ]
-  },
-  {
     "text": "Botanical survey, Amazon Basin: Tree ring analysis from 800yearold cecropia shows growth spurts during nuclear tests, 19451963. Tree predates European contact. Rings contain trace amounts of strontium90 from future atmospheric fallout.",
     "timestamp": "2026-01-26T04:58:16.123Z",
     "type": "general_source|temporal|modern|narrative",
@@ -117,6 +109,14 @@
     "type": "meteorological|ontological|modern|narrative",
     "patterns": [
       "opening:weather_station_data"
+    ]
+  },
+  {
+    "text": "Monastery scriptorium, Canterbury 1198: Illuminated manuscript margin depicts monk copying the same manuscript. Each successive copy shows the monk growing older. Final panel shows empty desk. Manuscript remains unfinished.",
+    "timestamp": "2026-01-28T10:35:26.489Z",
+    "type": "manuscript|general_anomaly|unspecified_era|narrative",
+    "patterns": [
+      "opening:monastery_scriptorium_canterbury"
     ]
   }
 ]

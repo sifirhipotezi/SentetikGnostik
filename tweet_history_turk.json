@@ -1,13 +1,5 @@
 [
   {
-    "text": "Van Gölü meteoroloji istasyonu, 1582: Yağmur yerine altın sikke düştüğü kayıtlarda. 47 akçe toplanmış, darphane onaylamış. Hava durumu normal görünüyor.",
-    "timestamp": "2026-01-25T20:30:24.220Z",
-    "type": "defter|spatial|classical_ottoman|narrative|van",
-    "patterns": [
-      "opening:van_gölü_meteoroloji"
-    ]
-  },
-  {
     "text": "Edirne Selimiye arşivi, 1575: Mimar Sinan'ın el çizimleri arasında helikopter planları. Kağıt ve mürekkep döneme uygun. Plan detaylı ve uygulanabilir. İmza Sinan'ın.",
     "timestamp": "2026-01-26T04:58:20.693Z",
     "type": "archive|general_anomaly|classical_ottoman|narrative|edirne",
@@ -128,6 +120,15 @@
     "patterns": [
       "osmanli",
       "opening:bursa_ipek_hanı"
+    ]
+  },
+  {
+    "text": "İzmir Kemeraltı'nda 1856'da açılan dükkân, henüz icat edilmemiş mallar satmış. Müşteri fişleri ampul ve radyo gösteriyor. Esnaf sicili normal, vergi ödemeleri düzenli.",
+    "timestamp": "2026-01-28T10:35:30.589Z",
+    "type": "defter|general_anomaly|late_ottoman|narrative|unspecified_location",
+    "patterns": [
+      "sicil",
+      "opening:izmir_kemeraltında_1856da"
     ]
   }
 ]
