@@ -1,13 +1,5 @@
 [
   {
-    "text": "Census data, Northern England 1851: Household registry lists family of seven living in singleroom cottage with fourteen bedrooms. Enumerator's marginal note: Rooms exist only on Thursdays. Property tax assessed accordingly.",
-    "timestamp": "2026-01-26T10:33:28.592Z",
-    "type": "municipal|spatial|industrial|narrative",
-    "patterns": [
-      "opening:census_data_northern"
-    ]
-  },
-  {
     "text": "Archaeological excavation, Çatalhöyük 6500 BCE: Obsidian blade found with microscopic serial number etched in Latin script. Blade composition matches Anatolian volcanic glass. Serial format corresponds to 1970s manufacturing standards.",
     "timestamp": "2026-01-26T14:34:53.193Z",
     "type": "mirror|general_anomaly|prehistoric|narrative",
@@ -117,6 +109,14 @@
     "type": "institutional|temporal|industrial|narrative",
     "patterns": [
       "opening:medical_journal_edinburgh"
+    ]
+  },
+  {
+    "text": "Archaeological survey, Mesopotamia 2400 BCE: Excavation recovered clay tablet with USB port carved into cuneiform. Port accepts modern cables. When connected, displays star charts for constellations that won't exist until 2157 CE.",
+    "timestamp": "2026-01-28T20:38:55.898Z",
+    "type": "digital|ontological|prehistoric|narrative",
+    "patterns": [
+      "opening:archaeological_survey_mesopotamia"
     ]
   }
 ]

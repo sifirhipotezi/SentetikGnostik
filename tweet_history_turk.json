@@ -1,14 +1,5 @@
 [
   {
-    "text": "Konya Mevlana Müzesi sicilleri, 1274: Mevlana'nın sohbet kayıtlarında elektrik ve radyo bahsi geçiyor. Hat Acem üslubu, kağıt devrin malı. Tercüman yoktu, doğrudan Türkçe söylemiş.",
-    "timestamp": "2026-01-26T10:33:33.753Z",
-    "type": "defter|administrative|early_ottoman|narrative|konya",
-    "patterns": [
-      "sicil",
-      "opening:konya_mevlana_müzesi"
-    ]
-  },
-  {
     "text": "Galata Kulesi'nin temel kazısında bulunan Bizans sikkesi, 1204 tarihli. Üzerinde Fatih Sultan Mehmet'in portresi var. Sikke otantik altın, darp tekniği dönemine uygun.",
     "timestamp": "2026-01-26T14:34:56.953Z",
     "type": "archaeological|temporal|byzantine|narrative|beyoglu",
@@ -128,6 +119,15 @@
     "type": "defter|administrative|late_ottoman|narrative|sinop",
     "patterns": [
       "opening:sinop_cezaevi_kayıtları"
+    ]
+  },
+  {
+    "text": "Kayseri Hunat Camii'nde 1237'de bulunan minber. Ahşabında lazer kesim izleri var. Selçuklu nakışları otantik. Restorasyonda modern alet kullanılmamış. Usta kayıtları mevcut.",
+    "timestamp": "2026-01-28T20:39:00.033Z",
+    "type": "defter|memorial|early_ottoman|narrative|kayseri",
+    "patterns": [
+      "otantik",
+      "opening:kayseri_hunat_camiinde"
     ]
   }
 ]
