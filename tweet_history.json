@@ -1,13 +1,5 @@
 [
   {
-    "text": "Botanical survey, Amazon Basin: Tree ring analysis from 800yearold cecropia shows growth spurts during nuclear tests, 19451963. Tree predates European contact. Rings contain trace amounts of strontium90 from future atmospheric fallout.",
-    "timestamp": "2026-01-26T04:58:16.123Z",
-    "type": "general_source|temporal|modern|narrative",
-    "patterns": [
-      "opening:botanical_survey_amazon"
-    ]
-  },
-  {
     "text": "Postal records, Morocco 1456: Letter delivered to recipient who died three years before sender was born. Postmark authenticated by guild of scribes. Reply was sent same day, arrived forty years early.",
     "timestamp": "2026-01-26T08:41:03.235Z",
     "type": "manuscript|temporal|medieval|narrative",
@@ -117,6 +109,14 @@
     "type": "manuscript|general_anomaly|unspecified_era|narrative",
     "patterns": [
       "opening:monastery_scriptorium_canterbury"
+    ]
+  },
+  {
+    "text": "Coroner's examination, Salem 1672: Deceased claimed death was clerical error, attended own autopsy. Provided detailed commentary on procedure. Certificate filed posthumously in subject's handwriting.",
+    "timestamp": "2026-01-28T14:37:23.403Z",
+    "type": "digital|bureaucratic|earlymodern|narrative",
+    "patterns": [
+      "opening:coroners_examination_salem"
     ]
   }
 ]

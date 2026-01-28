@@ -1,13 +1,5 @@
 [
   {
-    "text": "Edirne Selimiye arşivi, 1575: Mimar Sinan'ın el çizimleri arasında helikopter planları. Kağıt ve mürekkep döneme uygun. Plan detaylı ve uygulanabilir. İmza Sinan'ın.",
-    "timestamp": "2026-01-26T04:58:20.693Z",
-    "type": "archive|general_anomaly|classical_ottoman|narrative|edirne",
-    "patterns": [
-      "opening:edirne_selimiye_arşivi"
-    ]
-  },
-  {
     "text": "Kayseri Ulu Cami restorasyonu, 1968: Selçuklu döneminden kalma mermer üzerinde \"Made in China\" yazısı bulundu. Taş orijinal, yazı kazınmış değil doğal damar. Çince doğrulanmış.",
     "timestamp": "2026-01-26T08:41:08.006Z",
     "type": "archaeological|general_anomaly|republican|narrative|kayseri",
@@ -129,6 +121,14 @@
     "patterns": [
       "sicil",
       "opening:izmir_kemeraltında_1856da"
+    ]
+  },
+  {
+    "text": "Van Gölü çevresinde 1204 tarihli Selçuklu mezar taşı. Kitabede gelecek yıllarda olacak depremler listeleniyor. 2023'e kadar doğru çıkmış. Taş 1970'te kaybolmuş.",
+    "timestamp": "2026-01-28T14:37:28.263Z",
+    "type": "general_source|temporal|early_ottoman|narrative|van",
+    "patterns": [
+      "opening:van_gölü_çevresinde"
     ]
   }
 ]
