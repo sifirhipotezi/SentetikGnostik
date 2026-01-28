@@ -1,14 +1,5 @@
 [
   {
-    "text": "Üsküdar kazısı, 2019: Roma dönemi lahit açıldı, içinde 1920'lerden gazete var. Kağıt taze, mürekkep akmamış. Lahit hiç açılmamış, mühürler sağlam. Gazete güncel haberler veriyor.",
-    "timestamp": "2026-01-25T18:37:40.722Z",
-    "type": "archaeological|administrative|republican|narrative|uskudar",
-    "patterns": [
-      "muhur",
-      "opening:üsküdar_kazısı_2019"
-    ]
-  },
-  {
     "text": "Van Gölü meteoroloji istasyonu, 1582: Yağmur yerine altın sikke düştüğü kayıtlarda. 47 akçe toplanmış, darphane onaylamış. Hava durumu normal görünüyor.",
     "timestamp": "2026-01-25T20:30:24.220Z",
     "type": "defter|spatial|classical_ottoman|narrative|van",
@@ -128,6 +119,15 @@
     "type": "meteorological|general_anomaly|republican|narrative|trabzon",
     "patterns": [
       "opening:trabzon_meteoroloji_istasyonu"
+    ]
+  },
+  {
+    "text": "Bursa İpek Hanı ticaret kayıtları, 1453: Konstantiniye'nin fethinden önce İstanbul malları satılmış. Tacirler şehrin yeni adını kullanmış. Mal bedelleri Osmanlı akçesiyle ödenmiş.",
+    "timestamp": "2026-01-28T08:40:08.954Z",
+    "type": "defter|temporal|unspecified_era|narrative|bursa",
+    "patterns": [
+      "osmanli",
+      "opening:bursa_ipek_hanı"
     ]
   }
 ]

@@ -1,14 +1,5 @@
 [
   {
-    "text": "Radiographic analysis, Egyptian sarcophagus 1323 BCE: Xrays reveal mummy wrapped with newspapers from 1952. Headlines describe pharaoh's funeral in accurate detail. Papyrus authentically Dynasty XVIII, ink composition matches Chicago Tribun",
-    "timestamp": "2026-01-25T18:37:35.794Z",
-    "type": "manuscript|general_anomaly|prehistoric|narrative",
-    "patterns": [
-      "authentically",
-      "opening:radiographic_analysis_egyptian"
-    ]
-  },
-  {
     "text": "Building permits, Toledo 1537: Cathedral extension approved for construction outside of time but within city limits. Foundation stones dated simultaneously to all centuries. Architect listed as The Department of Necessary Impossibilities.",
     "timestamp": "2026-01-25T20:30:18.510Z",
     "type": "architectural|temporal|earlymodern|narrative",
@@ -118,6 +109,14 @@
     "type": "municipal|temporal|industrial|narrative",
     "patterns": [
       "opening:census_enumeration_rural"
+    ]
+  },
+  {
+    "text": "Weather station data, Antarctica 1957: Barometric readings spell out recipe for grandmother's cookies in Morse code. No grandmother stationed at base. Recipe calls for ingredients that don't exist. Cookies taste exactly like childhood.",
+    "timestamp": "2026-01-28T08:40:04.793Z",
+    "type": "meteorological|ontological|modern|narrative",
+    "patterns": [
+      "opening:weather_station_data"
     ]
   }
 ]
