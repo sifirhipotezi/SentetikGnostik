@@ -1,13 +1,5 @@
 [
   {
-    "text": "Sivas deprem kayıtları, 1939: 6.2 büyüklüğünde sarsıntı ölçülmüş ama hiç hasar yok. Sismograf çalışıyor, halk hissetti diyor. Enkaz yok, çatlak yok. Sadece titreşim.",
-    "timestamp": "2026-01-25T14:24:44.349Z",
-    "type": "defter|administrative|republican|narrative|sivas",
-    "patterns": [
-      "opening:sivas_deprem_kayıtları"
-    ]
-  },
-  {
     "text": "Üsküdar kazısı, 2019: Roma dönemi lahit açıldı, içinde 1920'lerden gazete var. Kağıt taze, mürekkep akmamış. Lahit hiç açılmamış, mühürler sağlam. Gazete güncel haberler veriyor.",
     "timestamp": "2026-01-25T18:37:40.722Z",
     "type": "archaeological|administrative|republican|narrative|uskudar",
@@ -128,6 +120,14 @@
       "imza",
       "bizans",
       "opening:galata_kulesinden_1348de"
+    ]
+  },
+  {
+    "text": "Trabzon meteoroloji istasyonu, 1923: Kar yağışı yukarı doğru ölçülmüş. Gözlemciler ters kar fırtınası raporlamış. Sıcaklık eksi 40 derece ama deniz donmamış.",
+    "timestamp": "2026-01-28T04:50:25.884Z",
+    "type": "meteorological|general_anomaly|republican|narrative|trabzon",
+    "patterns": [
+      "opening:trabzon_meteoroloji_istasyonu"
     ]
   }
 ]

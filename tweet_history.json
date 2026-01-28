@@ -1,13 +1,5 @@
 [
   {
-    "text": "Seismic survey, San Francisco 1906: Ground rupture patterns spell out apology letter in cursive script spanning 18 city blocks. Handwriting analysis matches penmanship of fault line itself. Geological formations rarely demonstrate remorse.",
-    "timestamp": "2026-01-25T14:24:39.869Z",
-    "type": "personal|general_anomaly|modern|narrative",
-    "patterns": [
-      "opening:seismic_survey_san"
-    ]
-  },
-  {
     "text": "Radiographic analysis, Egyptian sarcophagus 1323 BCE: Xrays reveal mummy wrapped with newspapers from 1952. Headlines describe pharaoh's funeral in accurate detail. Papyrus authentically Dynasty XVIII, ink composition matches Chicago Tribun",
     "timestamp": "2026-01-25T18:37:35.794Z",
     "type": "manuscript|general_anomaly|prehistoric|narrative",
@@ -118,6 +110,14 @@
     "type": "paleontological|temporal|prehistoric|narrative",
     "patterns": [
       "opening:geological_survey_triassic"
+    ]
+  },
+  {
+    "text": "Census enumeration, rural Vermont 1820: Household listed family of four plus the Tuesday that got lost. Enumerator noted Tuesday responds to questions, pays taxes, owns property deed dated for day that never occurred.",
+    "timestamp": "2026-01-28T04:50:21.912Z",
+    "type": "municipal|temporal|industrial|narrative",
+    "patterns": [
+      "opening:census_enumeration_rural"
     ]
   }
 ]
