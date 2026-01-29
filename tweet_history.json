@@ -1,13 +1,5 @@
 [
   {
-    "text": "Seismic records, California 1906: Earthquake tremors recorded in perfect iambic pentameter. Duration exactly matches reading time of sonnet discovered in Pompeii ruins. Sonnet predicts San Francisco fire with geological precision.",
-    "timestamp": "2026-01-27T04:53:07.890Z",
-    "type": "archaeological|temporal|modern|narrative",
-    "patterns": [
-      "opening:seismic_records_california"
-    ]
-  },
-  {
     "text": "Meteorological station, Antarctic Peninsula 1957: Wind patterns formed complete musical score over sixhour period. Composition matched symphony that premiered in Vienna three months later. Composer had never seen weather data.",
     "timestamp": "2026-01-27T08:40:47.080Z",
     "type": "meteorological|general_anomaly|modern|narrative",
@@ -117,6 +109,14 @@
     "type": "general_source|temporal|modern|narrative",
     "patterns": [
       "opening:biological_survey_amazon"
+    ]
+  },
+  {
+    "text": "Architectural survey, Venice 1456: Cathedral contains confessional booth that absolves sins not yet committed. Priest's logbook records 347 future transgressions. Most frequent: Will forget to feed the pigeons, Thursday.",
+    "timestamp": "2026-01-29T14:42:55.488Z",
+    "type": "architectural|temporal|medieval|narrative",
+    "patterns": [
+      "opening:architectural_survey_venice"
     ]
   }
 ]

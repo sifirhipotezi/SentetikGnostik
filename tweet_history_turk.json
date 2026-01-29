@@ -1,13 +1,5 @@
 [
   {
-    "text": "Van Gölü meteoroloji istasyonu, 1889: Kış ayında 45 derece sıcaklık ölçülmüş. Göl donmamış, termometre kırılmamış. Köylüler kayıtları doğruluyor, kar yağmaya devam etmiş.",
-    "timestamp": "2026-01-27T04:53:12.210Z",
-    "type": "defter|general_anomaly|late_ottoman|narrative|van",
-    "patterns": [
-      "opening:van_gölü_meteoroloji"
-    ]
-  },
-  {
     "text": "İzmir Kemeraltı Çarşısı'nda 1876'da açılan dükkân, satış faturalarında euro kullanmış. Para birimi 2002'de çıktı ama faturalar orijinal kağıtta. Esnaf kayıtları mevcut.",
     "timestamp": "2026-01-27T08:40:50.994Z",
     "type": "defter|general_anomaly|late_ottoman|narrative|unspecified_location",
@@ -125,6 +117,17 @@
     "type": "archaeological|temporal|early_ottoman|narrative|konya",
     "patterns": [
       "opening:konya_mevlana_müzesinde"
+    ]
+  },
+  {
+    "text": "İzmir Kemeraltı'nda 1923'te açılan berber dükkanı. Müşteri defterinde 19741998 arası randevular yazılı. Berber o tarihte vefat etmiş. Defter kağıdı cumhuriyet dönemi, mürekkep analizi doğrulanmış.",
+    "timestamp": "2026-01-29T14:42:59.848Z",
+    "type": "defter|temporal|republican|narrative|unspecified_location",
+    "patterns": [
+      "dogrulandi",
+      "defter",
+      "cumhuriyet",
+      "opening:izmir_kemeraltında_1923te"
     ]
   }
 ]
