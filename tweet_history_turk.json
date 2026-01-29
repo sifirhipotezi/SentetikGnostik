@@ -1,13 +1,5 @@
 [
   {
-    "text": "Bursa İpek Yolu ticaret kayıtları, 1402: Çin'den gelen kervanın içinde Nintendo oyun konsolu listede. Gümrük vergisi ödenmiş, tüccar mührü basılmış. Konsol çalışır durumda.",
-    "timestamp": "2026-01-26T20:34:03.047Z",
-    "type": "defter|memorial|unspecified_era|narrative|bursa",
-    "patterns": [
-      "opening:bursa_ipek_yolu"
-    ]
-  },
-  {
     "text": "Van Gölü meteoroloji istasyonu, 1889: Kış ayında 45 derece sıcaklık ölçülmüş. Göl donmamış, termometre kırılmamış. Köylüler kayıtları doğruluyor, kar yağmaya devam etmiş.",
     "timestamp": "2026-01-27T04:53:12.210Z",
     "type": "defter|general_anomaly|late_ottoman|narrative|van",
@@ -125,6 +117,14 @@
     "type": "general_source|temporal|late_ottoman|narrative|uskudar",
     "patterns": [
       "opening:üsküdarda_1789_yılında"
+    ]
+  },
+  {
+    "text": "Konya Mevlana Müzesi'nde 1273 tarihli semazen figürü. Heykelin gözleri ziyaretçileri takip ediyor. Güvenlik kameraları hareketi doğruluyor. Selçuklu dönemi mermer işçiliği.",
+    "timestamp": "2026-01-29T10:43:01.571Z",
+    "type": "archaeological|temporal|early_ottoman|narrative|konya",
+    "patterns": [
+      "opening:konya_mevlana_müzesinde"
     ]
   }
 ]

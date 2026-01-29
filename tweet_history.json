@@ -1,13 +1,5 @@
 [
   {
-    "text": "Wildlife census, Yellowstone 1923: Pack of wolves documented hunting in formation that spells out coordinates in base16. Location corresponds to den site that won't exist until park expansion of 1978. Wolves extinct in region since 1926.",
-    "timestamp": "2026-01-26T20:33:57.842Z",
-    "type": "municipal|spatial|modern|narrative",
-    "patterns": [
-      "opening:wildlife_census_yellowstone"
-    ]
-  },
-  {
     "text": "Seismic records, California 1906: Earthquake tremors recorded in perfect iambic pentameter. Duration exactly matches reading time of sonnet discovered in Pompeii ruins. Sonnet predicts San Francisco fire with geological precision.",
     "timestamp": "2026-01-27T04:53:07.890Z",
     "type": "archaeological|temporal|modern|narrative",
@@ -117,6 +109,14 @@
     "type": "general_source|temporal|industrial|narrative",
     "patterns": [
       "opening:railroad_survey_records"
+    ]
+  },
+  {
+    "text": "Biological survey, Amazon basin 1952: Botanist catalogued tree species that produces fruit exactly 24 hours before it flowers. Local guides refuse to eat fruit, claiming it tastes like next week's regrets.",
+    "timestamp": "2026-01-29T10:42:56.990Z",
+    "type": "general_source|temporal|modern|narrative",
+    "patterns": [
+      "opening:biological_survey_amazon"
     ]
   }
 ]
