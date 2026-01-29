@@ -1,13 +1,5 @@
 [
   {
-    "text": "Personal diary, merchant's daughter, Florence 1634: The plague doctor's mask contained seventeen different faces today. Father says I have fever dreams but the baker's son drew the same seventeen faces without seeing my journal.",
-    "timestamp": "2026-01-27T10:35:21.590Z",
-    "type": "biological|general_anomaly|earlymodern|narrative",
-    "patterns": [
-      "opening:personal_diary_merchants"
-    ]
-  },
-  {
     "text": "Archaeological survey, Mesopotamia 2400 BCE: USB drive recovered with cuneiform adapter still attached. Contains inventory of ziggurats not yet constructed. Drive formatted in Sumerian base60. Data corrupted by centuries of prayer.",
     "timestamp": "2026-01-27T14:36:09.773Z",
     "type": "digital|general_anomaly|prehistoric|narrative",
@@ -117,6 +109,14 @@
     "type": "biological|ontological|modern|narrative",
     "patterns": [
       "opening:hospital_records_boston"
+    ]
+  },
+  {
+    "text": "Weather station logs, Greenland 1734: Temperature readings recorded in units that predate Celsius by four years. Instruments calibrated to measure coldness of sorrow and warmth of forgotten names. Data remains meteorologically accurate.",
+    "timestamp": "2026-01-29T20:37:48.544Z",
+    "type": "meteorological|temporal|earlymodern|narrative",
+    "patterns": [
+      "opening:weather_station_logs"
     ]
   }
 ]

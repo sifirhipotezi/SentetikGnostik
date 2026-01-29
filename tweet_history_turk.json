@@ -1,14 +1,5 @@
 [
   {
-    "text": "Üsküdar kadı sicilleri, Hicri 1098: Aynı kişinin aynı gün hem doğum hem ölüm kaydı var. Şahitler her iki olayı da tasdik etmiş. Kişi 1701'de mahkemede dava açmış.",
-    "timestamp": "2026-01-27T10:35:25.942Z",
-    "type": "defter|general_anomaly|late_ottoman|narrative|uskudar",
-    "patterns": [
-      "sicil",
-      "opening:üsküdar_kadı_sicilleri"
-    ]
-  },
-  {
     "text": "Sivas Ulu Cami minberinde 1247'de yapılan hat, gelecek ay yaşanacak güneş tutulmasını duyuruyor. Hattat imzası açık, tarih kesin. Tutulma tam söylenen saatte gerçekleşti.",
     "timestamp": "2026-01-27T14:36:13.775Z",
     "type": "architectural|temporal|early_ottoman|narrative|sivas",
@@ -132,6 +123,14 @@
       "bizans",
       "osmanli",
       "opening:van_gölünde_1071"
+    ]
+  },
+  {
+    "text": "Erzurum meteoroloji kayıtları, 1916 Şubat: Kar taneleri altıgen değil kare şeklinde düşmüş. Halk şikayetçi olmuş, normal kar istemiş. Sıcaklık kayıtları olağan, sadece şekil anomalisi var.",
+    "timestamp": "2026-01-29T20:37:53.090Z",
+    "type": "defter|general_anomaly|unspecified_era|narrative|erzurum",
+    "patterns": [
+      "opening:erzurum_meteoroloji_kayıtları"
     ]
   }
 ]
