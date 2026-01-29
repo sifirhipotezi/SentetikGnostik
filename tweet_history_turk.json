@@ -1,14 +1,5 @@
 [
   {
-    "text": "Trabzon belediye kayıtları, 1923: Şehirde hiç yaşanmamış deprem için hasar raporu hazırlanmış. 847 bina yıkık listede, hepsi ayakta duruyor. Rapor mühendis imzalı.",
-    "timestamp": "2026-01-26T18:43:49.342Z",
-    "type": "defter|administrative|republican|narrative|trabzon",
-    "patterns": [
-      "imza",
-      "opening:trabzon_belediye_kayıtları"
-    ]
-  },
-  {
     "text": "Bursa İpek Yolu ticaret kayıtları, 1402: Çin'den gelen kervanın içinde Nintendo oyun konsolu listede. Gümrük vergisi ödenmiş, tüccar mührü basılmış. Konsol çalışır durumda.",
     "timestamp": "2026-01-26T20:34:03.047Z",
     "type": "defter|memorial|unspecified_era|narrative|bursa",
@@ -126,6 +117,14 @@
     "type": "defter|temporal|unspecified_era|narrative|ankara",
     "patterns": [
       "opening:edirne_1402_savaş"
+    ]
+  },
+  {
+    "text": "Üsküdar'da 1789 yılında çekilmiş fotoğraf. Boğaz manzarası ve vapurlar görülüyor. Fotoğraf makinesinin icadından 50 yıl önce. Kimyasal analiz dönemle uyumlu.",
+    "timestamp": "2026-01-29T08:49:28.933Z",
+    "type": "general_source|temporal|late_ottoman|narrative|uskudar",
+    "patterns": [
+      "opening:üsküdarda_1789_yılında"
     ]
   }
 ]

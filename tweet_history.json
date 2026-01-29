@@ -1,13 +1,5 @@
 [
   {
-    "text": "Medical records, St. Bartholomew's Hospital 1789: Patient admitted with symptoms of drowning in desert. Lungs contained saltwater, sand, and fragments of ships that wouldn't be built for sixty years. Recovery was complete by morning.",
-    "timestamp": "2026-01-26T18:43:44.979Z",
-    "type": "general_source|temporal|earlymodern|narrative",
-    "patterns": [
-      "opening:medical_records_st"
-    ]
-  },
-  {
     "text": "Wildlife census, Yellowstone 1923: Pack of wolves documented hunting in formation that spells out coordinates in base16. Location corresponds to den site that won't exist until park expansion of 1978. Wolves extinct in region since 1926.",
     "timestamp": "2026-01-26T20:33:57.842Z",
     "type": "municipal|spatial|modern|narrative",
@@ -117,6 +109,14 @@
     "type": "municipal|temporal|modern|narrative",
     "patterns": [
       "opening:census_bureau_filing"
+    ]
+  },
+  {
+    "text": "Railroad survey records, Montana Territory 1883: Track measurements show railway line extends 23 miles beyond its physical terminus. Survey crew followed theoretical rails on foot for six hours before turning back at impossibility's edge.",
+    "timestamp": "2026-01-29T08:49:25.270Z",
+    "type": "general_source|temporal|industrial|narrative",
+    "patterns": [
+      "opening:railroad_survey_records"
     ]
   }
 ]
