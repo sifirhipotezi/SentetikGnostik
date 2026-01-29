@@ -1,13 +1,5 @@
 [
   {
-    "text": "Meteorological station, Antarctic Peninsula 1957: Wind patterns formed complete musical score over sixhour period. Composition matched symphony that premiered in Vienna three months later. Composer had never seen weather data.",
-    "timestamp": "2026-01-27T08:40:47.080Z",
-    "type": "meteorological|general_anomaly|modern|narrative",
-    "patterns": [
-      "opening:meteorological_station_antarctic"
-    ]
-  },
-  {
     "text": "Personal diary, merchant's daughter, Florence 1634: The plague doctor's mask contained seventeen different faces today. Father says I have fever dreams but the baker's son drew the same seventeen faces without seeing my journal.",
     "timestamp": "2026-01-27T10:35:21.590Z",
     "type": "biological|general_anomaly|earlymodern|narrative",
@@ -117,6 +109,14 @@
     "type": "architectural|temporal|medieval|narrative",
     "patterns": [
       "opening:architectural_survey_venice"
+    ]
+  },
+  {
+    "text": "Hospital records, Boston 1923: Patient admitted with compound fracture of bone that doesn't exist in human anatomy. Xrays clearly show break in ulnaris tertius. Patient made full recovery. Bone vanished upon discharge.",
+    "timestamp": "2026-01-29T18:56:13.238Z",
+    "type": "biological|ontological|modern|narrative",
+    "patterns": [
+      "opening:hospital_records_boston"
     ]
   }
 ]

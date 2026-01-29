@@ -1,13 +1,5 @@
 [
   {
-    "text": "İzmir Kemeraltı Çarşısı'nda 1876'da açılan dükkân, satış faturalarında euro kullanmış. Para birimi 2002'de çıktı ama faturalar orijinal kağıtta. Esnaf kayıtları mevcut.",
-    "timestamp": "2026-01-27T08:40:50.994Z",
-    "type": "defter|general_anomaly|late_ottoman|narrative|unspecified_location",
-    "patterns": [
-      "opening:izmir_kemeraltı_çarşısında"
-    ]
-  },
-  {
     "text": "Üsküdar kadı sicilleri, Hicri 1098: Aynı kişinin aynı gün hem doğum hem ölüm kaydı var. Şahitler her iki olayı da tasdik etmiş. Kişi 1701'de mahkemede dava açmış.",
     "timestamp": "2026-01-27T10:35:25.942Z",
     "type": "defter|general_anomaly|late_ottoman|narrative|uskudar",
@@ -128,6 +120,18 @@
       "defter",
       "cumhuriyet",
       "opening:izmir_kemeraltında_1923te"
+    ]
+  },
+  {
+    "text": "Van Gölü'nde 1071 Malazgirt Savaşı öncesi batık gemi. İçinde 1299 tarihli Osmanlı sikkeleri bulunmuş. Gemi Bizans yapımı ama sikke döküm tekniği otantik. Su altı arkeoloji raporu kayıp.",
+    "timestamp": "2026-01-29T18:56:17.407Z",
+    "type": "institutional|temporal|byzantine|narrative|van",
+    "patterns": [
+      "otantik",
+      "kayboldu",
+      "bizans",
+      "osmanli",
+      "opening:van_gölünde_1071"
     ]
   }
 ]
