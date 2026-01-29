@@ -1,15 +1,5 @@
 [
   {
-    "text": "Galata Kulesi'nin temel kazısında bulunan Bizans sikkesi, 1204 tarihli. Üzerinde Fatih Sultan Mehmet'in portresi var. Sikke otantik altın, darp tekniği dönemine uygun.",
-    "timestamp": "2026-01-26T14:34:56.953Z",
-    "type": "archaeological|temporal|byzantine|narrative|beyoglu",
-    "patterns": [
-      "otantik",
-      "bizans",
-      "opening:galata_kulesinin_temel"
-    ]
-  },
-  {
     "text": "Trabzon belediye kayıtları, 1923: Şehirde hiç yaşanmamış deprem için hasar raporu hazırlanmış. 847 bina yıkık listede, hepsi ayakta duruyor. Rapor mühendis imzalı.",
     "timestamp": "2026-01-26T18:43:49.342Z",
     "type": "defter|administrative|republican|narrative|trabzon",
@@ -128,6 +118,14 @@
     "patterns": [
       "otantik",
       "opening:kayseri_hunat_camiinde"
+    ]
+  },
+  {
+    "text": "Edirne 1402 savaş sonrası nüfus sayımı: Ankara Savaşı'nda ölen askerlerin torunları kayıtlı. Doğum tarihleri 1450 sonrası. Vergi mükellefleri listesinde yer alıyorlar.",
+    "timestamp": "2026-01-29T05:09:48.588Z",
+    "type": "defter|temporal|unspecified_era|narrative|ankara",
+    "patterns": [
+      "opening:edirne_1402_savaş"
     ]
   }
 ]

@@ -1,13 +1,5 @@
 [
   {
-    "text": "Archaeological excavation, Çatalhöyük 6500 BCE: Obsidian blade found with microscopic serial number etched in Latin script. Blade composition matches Anatolian volcanic glass. Serial format corresponds to 1970s manufacturing standards.",
-    "timestamp": "2026-01-26T14:34:53.193Z",
-    "type": "mirror|general_anomaly|prehistoric|narrative",
-    "patterns": [
-      "opening:archaeological_excavation_atalhyk"
-    ]
-  },
-  {
     "text": "Medical records, St. Bartholomew's Hospital 1789: Patient admitted with symptoms of drowning in desert. Lungs contained saltwater, sand, and fragments of ships that wouldn't be built for sixty years. Recovery was complete by morning.",
     "timestamp": "2026-01-26T18:43:44.979Z",
     "type": "general_source|temporal|earlymodern|narrative",
@@ -117,6 +109,14 @@
     "type": "digital|ontological|prehistoric|narrative",
     "patterns": [
       "opening:archaeological_survey_mesopotamia"
+    ]
+  },
+  {
+    "text": "Census bureau filing cabinet, Detroit 1962: Drawer labeled Population: Unborn contains 847 completed forms. All signatures in same handwriting. Birth dates range from 1963 to 2089. Forms filled out in 1962 ink.",
+    "timestamp": "2026-01-29T05:09:44.821Z",
+    "type": "municipal|temporal|modern|narrative",
+    "patterns": [
+      "opening:census_bureau_filing"
     ]
   }
 ]
