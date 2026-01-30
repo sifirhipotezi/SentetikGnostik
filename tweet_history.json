@@ -1,13 +1,5 @@
 [
   {
-    "text": "Monastery scriptorium, Canterbury 1198: Illuminated manuscript margin depicts monk copying the same manuscript. Each successive copy shows the monk growing older. Final panel shows empty desk. Manuscript remains unfinished.",
-    "timestamp": "2026-01-28T10:35:26.489Z",
-    "type": "manuscript|general_anomaly|unspecified_era|narrative",
-    "patterns": [
-      "opening:monastery_scriptorium_canterbury"
-    ]
-  },
-  {
     "text": "Coroner's examination, Salem 1672: Deceased claimed death was clerical error, attended own autopsy. Provided detailed commentary on procedure. Certificate filed posthumously in subject's handwriting.",
     "timestamp": "2026-01-28T14:37:23.403Z",
     "type": "digital|bureaucratic|earlymodern|narrative",
@@ -118,6 +110,14 @@
     "type": "architectural|temporal|industrial|narrative",
     "patterns": [
       "opening:building_inspection_report"
+    ]
+  },
+  {
+    "text": "Weather station log, Antarctica 1957: Temperature readings show gradual warming trend beginning December 21st. Thermometers recorded春天 instead of numerical values for six consecutive days. Station was unmanned during this period.",
+    "timestamp": "2026-01-30T20:38:23.998Z",
+    "type": "meteorological|general_anomaly|modern|narrative",
+    "patterns": [
+      "opening:weather_station_log"
     ]
   }
 ]
