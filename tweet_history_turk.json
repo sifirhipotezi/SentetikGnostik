@@ -1,14 +1,5 @@
 [
   {
-    "text": "Sivas Ulu Cami minberinde 1247'de yapılan hat, gelecek ay yaşanacak güneş tutulmasını duyuruyor. Hattat imzası açık, tarih kesin. Tutulma tam söylenen saatte gerçekleşti.",
-    "timestamp": "2026-01-27T14:36:13.775Z",
-    "type": "architectural|temporal|early_ottoman|narrative|sivas",
-    "patterns": [
-      "imza",
-      "opening:sivas_ulu_cami"
-    ]
-  },
-  {
     "text": "Edirne Selimiye Camii vakıf defteri, 1575: Cuma namazı kılınmayan 73 hafta kaydedilmiş. Camide hiç boşluk olmamış, cemaat sayısı normal. İmamlar görev başında kalmış.",
     "timestamp": "2026-01-27T18:48:48.285Z",
     "type": "defter|administrative|classical_ottoman|narrative|edirne",
@@ -131,6 +122,14 @@
     "type": "defter|general_anomaly|unspecified_era|narrative|erzurum",
     "patterns": [
       "opening:erzurum_meteoroloji_kayıtları"
+    ]
+  },
+  {
+    "text": "Çanakkale Müzesi'nde 1915 kurşunu. İçinden 2003 tarihli Türk lirası çıktı. Kurşun deformasyonu savaş dönemi, banknot gerçek. Metal yorgunluğu analizi tutarlı.",
+    "timestamp": "2026-01-30T05:12:09.291Z",
+    "type": "general_source|temporal|republican|narrative|unspecified_location",
+    "patterns": [
+      "opening:çanakkale_müzesinde_1915"
     ]
   }
 ]

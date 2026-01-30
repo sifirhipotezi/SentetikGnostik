@@ -1,13 +1,5 @@
 [
   {
-    "text": "Archaeological survey, Mesopotamia 2400 BCE: USB drive recovered with cuneiform adapter still attached. Contains inventory of ziggurats not yet constructed. Drive formatted in Sumerian base60. Data corrupted by centuries of prayer.",
-    "timestamp": "2026-01-27T14:36:09.773Z",
-    "type": "digital|general_anomaly|prehistoric|narrative",
-    "patterns": [
-      "opening:archaeological_survey_mesopotamia"
-    ]
-  },
-  {
     "text": "Hospital records, St. Bartholomew's London 1665: Patient admitted with symptoms of temporal displacement. Complained of missing the internet. Spoke fluent English with accent that won't develop until Australian colonization.",
     "timestamp": "2026-01-27T18:48:44.133Z",
     "type": "digital|spatial|earlymodern|narrative",
@@ -117,6 +109,15 @@
     "type": "meteorological|temporal|earlymodern|narrative",
     "patterns": [
       "opening:weather_station_logs"
+    ]
+  },
+  {
+    "text": "Entry 4401Census: Roman citizen register 89 CE lists Marcus Flavius as born twice, died once. Tax records show he paid for both incarnations. Second birth occurred three years after documented death.",
+    "timestamp": "2026-01-30T05:12:04.773Z",
+    "type": "municipal|temporal|unspecified_era|catalog_entry",
+    "patterns": [
+      "entry_number",
+      "opening:entry_4401census_roman"
     ]
   }
 ]
