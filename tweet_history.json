@@ -1,13 +1,5 @@
 [
   {
-    "text": "Census enumeration, rural Vermont 1820: Household listed family of four plus the Tuesday that got lost. Enumerator noted Tuesday responds to questions, pays taxes, owns property deed dated for day that never occurred.",
-    "timestamp": "2026-01-28T04:50:21.912Z",
-    "type": "municipal|temporal|industrial|narrative",
-    "patterns": [
-      "opening:census_enumeration_rural"
-    ]
-  },
-  {
     "text": "Weather station data, Antarctica 1957: Barometric readings spell out recipe for grandmother's cookies in Morse code. No grandmother stationed at base. Recipe calls for ingredients that don't exist. Cookies taste exactly like childhood.",
     "timestamp": "2026-01-28T08:40:04.793Z",
     "type": "meteorological|ontological|modern|narrative",
@@ -118,6 +110,14 @@
     "type": "meteorological|temporal|industrial|narrative",
     "patterns": [
       "opening:transit_records_london"
+    ]
+  },
+  {
+    "text": "Archaeological survey, Pompeii: Carbonized scroll from Villa of Papyri contains complete text of Aristotle's On Comedy. Manuscript dated 79 CE. Aristotle died 322 BCE but handwriting analysis confirms authorship.",
+    "timestamp": "2026-01-30T14:40:20.079Z",
+    "type": "manuscript|temporal|prehistoric|narrative",
+    "patterns": [
+      "opening:archaeological_survey_pompeii"
     ]
   }
 ]

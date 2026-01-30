@@ -1,13 +1,5 @@
 [
   {
-    "text": "Trabzon meteoroloji istasyonu, 1923: Kar yağışı yukarı doğru ölçülmüş. Gözlemciler ters kar fırtınası raporlamış. Sıcaklık eksi 40 derece ama deniz donmamış.",
-    "timestamp": "2026-01-28T04:50:25.884Z",
-    "type": "meteorological|general_anomaly|republican|narrative|trabzon",
-    "patterns": [
-      "opening:trabzon_meteoroloji_istasyonu"
-    ]
-  },
-  {
     "text": "Bursa İpek Hanı ticaret kayıtları, 1453: Konstantiniye'nin fethinden önce İstanbul malları satılmış. Tacirler şehrin yeni adını kullanmış. Mal bedelleri Osmanlı akçesiyle ödenmiş.",
     "timestamp": "2026-01-28T08:40:08.954Z",
     "type": "defter|temporal|unspecified_era|narrative|bursa",
@@ -130,6 +122,16 @@
       "defter",
       "osmanli",
       "opening:edirne_selimiye_camii"
+    ]
+  },
+  {
+    "text": "Kapadokya peribacası kesitinde 1204 tarihli Bizans mührü. Mühür volkanik tüfün içinde, sanki kayayla birlikte oluşmuş. Jeolojik yaş 3 milyon yıl. İmparator III. Aleksios'un arması seçiliyor.",
+    "timestamp": "2026-01-30T14:40:25.175Z",
+    "type": "general_source|temporal|byzantine|narrative|ani",
+    "patterns": [
+      "muhur",
+      "bizans",
+      "opening:kapadokya_peribacası_kesitinde"
     ]
   }
 ]
