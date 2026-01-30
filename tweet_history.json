@@ -1,13 +1,5 @@
 [
   {
-    "text": "Hospital records, St. Bartholomew's London 1665: Patient admitted with symptoms of temporal displacement. Complained of missing the internet. Spoke fluent English with accent that won't develop until Australian colonization.",
-    "timestamp": "2026-01-27T18:48:44.133Z",
-    "type": "digital|spatial|earlymodern|narrative",
-    "patterns": [
-      "opening:hospital_records_st"
-    ]
-  },
-  {
     "text": "Geological survey, Triassic period 210 million BCE: Dinosaur trackways form perfect hexagonal pattern spanning 12 kilometers. Pattern matches urban street grid of Philadelphia, 1682 city plan. Tracks predate William Penn by 210 million year",
     "timestamp": "2026-01-27T20:29:40.946Z",
     "type": "paleontological|temporal|prehistoric|narrative",
@@ -118,6 +110,14 @@
     "patterns": [
       "entry_number",
       "opening:entry_4401census_roman"
+    ]
+  },
+  {
+    "text": "Textile analysis, monastery vestments 1203: Silk threads analyzed under microscope contain DNA sequences for extinct prayer positions. Monks reported muscle memory for genuflections that require additional joints not present in human anatom",
+    "timestamp": "2026-01-30T08:48:53.152Z",
+    "type": "biological|general_anomaly|medieval|narrative",
+    "patterns": [
+      "opening:textile_analysis_monastery"
     ]
   }
 ]
