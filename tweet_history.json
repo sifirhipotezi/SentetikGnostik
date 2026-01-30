@@ -1,13 +1,5 @@
 [
   {
-    "text": "Geological survey, Triassic period 210 million BCE: Dinosaur trackways form perfect hexagonal pattern spanning 12 kilometers. Pattern matches urban street grid of Philadelphia, 1682 city plan. Tracks predate William Penn by 210 million year",
-    "timestamp": "2026-01-27T20:29:40.946Z",
-    "type": "paleontological|temporal|prehistoric|narrative",
-    "patterns": [
-      "opening:geological_survey_triassic"
-    ]
-  },
-  {
     "text": "Census enumeration, rural Vermont 1820: Household listed family of four plus the Tuesday that got lost. Enumerator noted Tuesday responds to questions, pays taxes, owns property deed dated for day that never occurred.",
     "timestamp": "2026-01-28T04:50:21.912Z",
     "type": "municipal|temporal|industrial|narrative",
@@ -118,6 +110,14 @@
     "type": "biological|general_anomaly|medieval|narrative",
     "patterns": [
       "opening:textile_analysis_monastery"
+    ]
+  },
+  {
+    "text": "Transit records, London Underground 1863: Opening day passenger manifest lists 2,847 riders who boarded trains that wouldn't be built until 1878. All tickets were properly validated. No one questioned the delays.",
+    "timestamp": "2026-01-30T10:40:51.609Z",
+    "type": "meteorological|temporal|industrial|narrative",
+    "patterns": [
+      "opening:transit_records_london"
     ]
   }
 ]
