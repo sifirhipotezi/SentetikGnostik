@@ -1,14 +1,5 @@
 [
   {
-    "text": "Bursa İpek Hanı ticaret kayıtları, 1453: Konstantiniye'nin fethinden önce İstanbul malları satılmış. Tacirler şehrin yeni adını kullanmış. Mal bedelleri Osmanlı akçesiyle ödenmiş.",
-    "timestamp": "2026-01-28T08:40:08.954Z",
-    "type": "defter|temporal|unspecified_era|narrative|bursa",
-    "patterns": [
-      "osmanli",
-      "opening:bursa_ipek_hanı"
-    ]
-  },
-  {
     "text": "İzmir Kemeraltı'nda 1856'da açılan dükkân, henüz icat edilmemiş mallar satmış. Müşteri fişleri ampul ve radyo gösteriyor. Esnaf sicili normal, vergi ödemeleri düzenli.",
     "timestamp": "2026-01-28T10:35:30.589Z",
     "type": "defter|general_anomaly|late_ottoman|narrative|unspecified_location",
@@ -132,6 +123,14 @@
       "muhur",
       "bizans",
       "opening:kapadokya_peribacası_kesitinde"
+    ]
+  },
+  {
+    "text": "Trabzon 1461 nüfus sayımı: Uzun Hasan'ın ordusunda fil sürücüsü kaydı var. Anadolu'da fil yok, Akkoyunlular fil kullanmıyor. Sayım memuru isim vermiş, maaş hesaplamış.",
+    "timestamp": "2026-01-30T18:53:11.691Z",
+    "type": "census|administrative|unspecified_era|narrative|trabzon",
+    "patterns": [
+      "opening:trabzon_1461_nüfus"
     ]
   }
 ]

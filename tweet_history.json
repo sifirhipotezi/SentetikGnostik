@@ -1,13 +1,5 @@
 [
   {
-    "text": "Weather station data, Antarctica 1957: Barometric readings spell out recipe for grandmother's cookies in Morse code. No grandmother stationed at base. Recipe calls for ingredients that don't exist. Cookies taste exactly like childhood.",
-    "timestamp": "2026-01-28T08:40:04.793Z",
-    "type": "meteorological|ontological|modern|narrative",
-    "patterns": [
-      "opening:weather_station_data"
-    ]
-  },
-  {
     "text": "Monastery scriptorium, Canterbury 1198: Illuminated manuscript margin depicts monk copying the same manuscript. Each successive copy shows the monk growing older. Final panel shows empty desk. Manuscript remains unfinished.",
     "timestamp": "2026-01-28T10:35:26.489Z",
     "type": "manuscript|general_anomaly|unspecified_era|narrative",
@@ -118,6 +110,14 @@
     "type": "manuscript|temporal|prehistoric|narrative",
     "patterns": [
       "opening:archaeological_survey_pompeii"
+    ]
+  },
+  {
+    "text": "Building inspection report, Chicago 1871: Foundation blueprints filed three days after Great Fire show architect's signature in ash that hadn't fallen yet. Structure remains standing in timeline that burned.",
+    "timestamp": "2026-01-30T18:53:07.506Z",
+    "type": "architectural|temporal|industrial|narrative",
+    "patterns": [
+      "opening:building_inspection_report"
     ]
   }
 ]
