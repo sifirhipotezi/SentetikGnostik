@@ -1,13 +1,5 @@
 [
   {
-    "text": "Archaeological survey, Mesopotamia 2400 BCE: Excavation recovered clay tablet with USB port carved into cuneiform. Port accepts modern cables. When connected, displays star charts for constellations that won't exist until 2157 CE.",
-    "timestamp": "2026-01-28T20:38:55.898Z",
-    "type": "digital|ontological|prehistoric|narrative",
-    "patterns": [
-      "opening:archaeological_survey_mesopotamia"
-    ]
-  },
-  {
     "text": "Census bureau filing cabinet, Detroit 1962: Drawer labeled Population: Unborn contains 847 completed forms. All signatures in same handwriting. Birth dates range from 1963 to 2089. Forms filled out in 1962 ink.",
     "timestamp": "2026-01-29T05:09:44.821Z",
     "type": "municipal|temporal|modern|narrative",
@@ -118,6 +110,14 @@
     "type": "digital|temporal|modern|narrative",
     "patterns": [
       "opening:digital_forensics_lab"
+    ]
+  },
+  {
+    "text": "Census records, Roman Britain 142 CE: Population survey lists Marcus Aurelius Digitalis, occupation programmer of calculating engines. Term appears in no other contemporary document. Individual's tax records span 847 years without death cer",
+    "timestamp": "2026-01-31T10:30:42.932Z",
+    "type": "municipal|temporal|unspecified_era|narrative",
+    "patterns": [
+      "opening:census_records_roman"
     ]
   }
 ]
