@@ -1,13 +1,5 @@
 [
   {
-    "text": "Medical journal, Edinburgh 1847: Surgeon reported patient's appendix contained seventeen unopened letters addressed to people who wouldn't be born for another century. All letters bore yesterday's postmark.",
-    "timestamp": "2026-01-28T18:45:03.348Z",
-    "type": "institutional|temporal|industrial|narrative",
-    "patterns": [
-      "opening:medical_journal_edinburgh"
-    ]
-  },
-  {
     "text": "Archaeological survey, Mesopotamia 2400 BCE: Excavation recovered clay tablet with USB port carved into cuneiform. Port accepts modern cables. When connected, displays star charts for constellations that won't exist until 2157 CE.",
     "timestamp": "2026-01-28T20:38:55.898Z",
     "type": "digital|ontological|prehistoric|narrative",
@@ -118,6 +110,14 @@
     "type": "manuscript|temporal|ancient|narrative",
     "patterns": [
       "opening:personal_journal_cairo"
+    ]
+  },
+  {
+    "text": "Digital forensics lab, MIT 1982: Computer terminal displayed email interface thirty years before implementation. Graduate student documented sending message to future self. Reply arrived immediately from 2012 address.",
+    "timestamp": "2026-01-31T08:38:01.351Z",
+    "type": "digital|temporal|modern|narrative",
+    "patterns": [
+      "opening:digital_forensics_lab"
     ]
   }
 ]

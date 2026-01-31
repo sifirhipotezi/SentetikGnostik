@@ -1,13 +1,5 @@
 [
   {
-    "text": "Sinop Cezaevi kayıtları, 1864: Hiç tutuklanmamış mahkûmlar için hücre tahsisleri yapılmış. İsimler nüfus kayıtlarında yok ama günlük iaşe tüketimleri detaylandırılmış.",
-    "timestamp": "2026-01-28T18:45:07.337Z",
-    "type": "defter|administrative|late_ottoman|narrative|sinop",
-    "patterns": [
-      "opening:sinop_cezaevi_kayıtları"
-    ]
-  },
-  {
     "text": "Kayseri Hunat Camii'nde 1237'de bulunan minber. Ahşabında lazer kesim izleri var. Selçuklu nakışları otantik. Restorasyonda modern alet kullanılmamış. Usta kayıtları mevcut.",
     "timestamp": "2026-01-28T20:39:00.033Z",
     "type": "defter|memorial|early_ottoman|narrative|kayseri",
@@ -131,6 +123,14 @@
     "patterns": [
       "imza",
       "opening:van_gölü_meteoroloji"
+    ]
+  },
+  {
+    "text": "Galata Kulesi'nde 1348 tarihli taş kitabe: \"WiFi şifresi GalataKulesi1348\" yazıyor. Harf oyması dönem tekniğine uygun. Latince değil, modern Türkçe. Kule restore edilmemiş bu bölümde.",
+    "timestamp": "2026-01-31T08:38:05.573Z",
+    "type": "architectural|temporal|early_ottoman|narrative|beyoglu",
+    "patterns": [
+      "opening:galata_kulesinde_1348"
     ]
   }
 ]
