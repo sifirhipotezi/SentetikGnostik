@@ -1,13 +1,5 @@
 [
   {
-    "text": "Railroad survey records, Montana Territory 1883: Track measurements show railway line extends 23 miles beyond its physical terminus. Survey crew followed theoretical rails on foot for six hours before turning back at impossibility's edge.",
-    "timestamp": "2026-01-29T08:49:25.270Z",
-    "type": "general_source|temporal|industrial|narrative",
-    "patterns": [
-      "opening:railroad_survey_records"
-    ]
-  },
-  {
     "text": "Biological survey, Amazon basin 1952: Botanist catalogued tree species that produces fruit exactly 24 hours before it flowers. Local guides refuse to eat fruit, claiming it tastes like next week's regrets.",
     "timestamp": "2026-01-29T10:42:56.990Z",
     "type": "general_source|temporal|modern|narrative",
@@ -118,6 +110,15 @@
     "type": "digital|temporal|prehistoric|narrative",
     "patterns": [
       "opening:excavation_report_gbekli"
+    ]
+  },
+  {
+    "text": "Municipal water records, Prague 1621: Fountain in town square dispensed wine every third Thursday for eighteen months. Citizens reported no intoxication. Chemical analysis of samples shows water. Fountain demolished 1623, wine ceased immedi",
+    "timestamp": "2026-01-31T18:40:15.685Z",
+    "type": "municipal|general_anomaly|earlymodern|narrative",
+    "patterns": [
+      "chemical_analysis",
+      "opening:municipal_water_records"
     ]
   }
 ]

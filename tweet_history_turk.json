@@ -1,13 +1,5 @@
 [
   {
-    "text": "Üsküdar'da 1789 yılında çekilmiş fotoğraf. Boğaz manzarası ve vapurlar görülüyor. Fotoğraf makinesinin icadından 50 yıl önce. Kimyasal analiz dönemle uyumlu.",
-    "timestamp": "2026-01-29T08:49:28.933Z",
-    "type": "general_source|temporal|late_ottoman|narrative|uskudar",
-    "patterns": [
-      "opening:üsküdarda_1789_yılında"
-    ]
-  },
-  {
     "text": "Konya Mevlana Müzesi'nde 1273 tarihli semazen figürü. Heykelin gözleri ziyaretçileri takip ediyor. Güvenlik kameraları hareketi doğruluyor. Selçuklu dönemi mermer işçiliği.",
     "timestamp": "2026-01-29T10:43:01.571Z",
     "type": "archaeological|temporal|early_ottoman|narrative|konya",
@@ -131,6 +123,14 @@
     "patterns": [
       "bizans",
       "opening:kadıköy_arşiv_deposunda"
+    ]
+  },
+  {
+    "text": "Sivas nüfus sayımı, 1927: Bir mahallede 847 kişi kayıtlı ama sadece 23 ev var. Her evde ortalama 37 kişi yaşıyor hesaplanmış. Sayım memuru anomaliyi fark etmemiş, raporu onaylamış.",
+    "timestamp": "2026-01-31T18:40:19.557Z",
+    "type": "defter|general_anomaly|republican|narrative|sivas",
+    "patterns": [
+      "opening:sivas_nüfus_sayımı"
     ]
   }
 ]
