@@ -1,13 +1,5 @@
 [
   {
-    "text": "Konya Mevlana Müzesi'nde 1273 tarihli semazen figürü. Heykelin gözleri ziyaretçileri takip ediyor. Güvenlik kameraları hareketi doğruluyor. Selçuklu dönemi mermer işçiliği.",
-    "timestamp": "2026-01-29T10:43:01.571Z",
-    "type": "archaeological|temporal|early_ottoman|narrative|konya",
-    "patterns": [
-      "opening:konya_mevlana_müzesinde"
-    ]
-  },
-  {
     "text": "İzmir Kemeraltı'nda 1923'te açılan berber dükkanı. Müşteri defterinde 19741998 arası randevular yazılı. Berber o tarihte vefat etmiş. Defter kağıdı cumhuriyet dönemi, mürekkep analizi doğrulanmış.",
     "timestamp": "2026-01-29T14:42:59.848Z",
     "type": "defter|temporal|republican|narrative|unspecified_location",
@@ -131,6 +123,15 @@
     "type": "defter|general_anomaly|republican|narrative|sivas",
     "patterns": [
       "opening:sivas_nüfus_sayımı"
+    ]
+  },
+  {
+    "text": "Üsküdar'da osmanlı hamam çini levhası, 1574: \"Wudhu öncesi ellerinizi dezenfekte ediniz\" yazıyor. Hat sanatı döneme uygun, Türkçe kelimeler değil. Restorasyonda ortaya çıktı.",
+    "timestamp": "2026-01-31T20:32:00.072Z",
+    "type": "architectural|temporal|classical_ottoman|narrative|uskudar",
+    "patterns": [
+      "osmanli",
+      "opening:üsküdarda_osmanlı_hamam"
     ]
   }
 ]

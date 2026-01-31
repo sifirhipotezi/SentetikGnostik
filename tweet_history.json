@@ -1,13 +1,5 @@
 [
   {
-    "text": "Biological survey, Amazon basin 1952: Botanist catalogued tree species that produces fruit exactly 24 hours before it flowers. Local guides refuse to eat fruit, claiming it tastes like next week's regrets.",
-    "timestamp": "2026-01-29T10:42:56.990Z",
-    "type": "general_source|temporal|modern|narrative",
-    "patterns": [
-      "opening:biological_survey_amazon"
-    ]
-  },
-  {
     "text": "Architectural survey, Venice 1456: Cathedral contains confessional booth that absolves sins not yet committed. Priest's logbook records 347 future transgressions. Most frequent: Will forget to feed the pigeons, Thursday.",
     "timestamp": "2026-01-29T14:42:55.488Z",
     "type": "architectural|temporal|medieval|narrative",
@@ -119,6 +111,14 @@
     "patterns": [
       "chemical_analysis",
       "opening:municipal_water_records"
+    ]
+  },
+  {
+    "text": "Apothecary ledger, London 1665: Customer purchased remedy for temporal hiccups experiencing same hour repeatedly. Payment recorded as three coins that wouldn't be minted until 1723. Shopkeeper noted customer aged backwards during transactio",
+    "timestamp": "2026-01-31T20:31:55.171Z",
+    "type": "general_source|general_anomaly|earlymodern|narrative",
+    "patterns": [
+      "opening:apothecary_ledger_london"
     ]
   }
 ]
