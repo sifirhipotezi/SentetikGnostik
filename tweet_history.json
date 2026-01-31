@@ -1,13 +1,5 @@
 [
   {
-    "text": "Census bureau filing cabinet, Detroit 1962: Drawer labeled Population: Unborn contains 847 completed forms. All signatures in same handwriting. Birth dates range from 1963 to 2089. Forms filled out in 1962 ink.",
-    "timestamp": "2026-01-29T05:09:44.821Z",
-    "type": "municipal|temporal|modern|narrative",
-    "patterns": [
-      "opening:census_bureau_filing"
-    ]
-  },
-  {
     "text": "Railroad survey records, Montana Territory 1883: Track measurements show railway line extends 23 miles beyond its physical terminus. Survey crew followed theoretical rails on foot for six hours before turning back at impossibility's edge.",
     "timestamp": "2026-01-29T08:49:25.270Z",
     "type": "general_source|temporal|industrial|narrative",
@@ -118,6 +110,14 @@
     "type": "municipal|temporal|unspecified_era|narrative",
     "patterns": [
       "opening:census_records_roman"
+    ]
+  },
+  {
+    "text": "Excavation report, Göbekli Tepe 9500 BCE: Stone pillar Tshaped relief depicts binary code sequence. When decoded: System will restart in 11,500 years. Archaeological team's digital equipment malfunctioned during documentation.",
+    "timestamp": "2026-01-31T14:30:01.063Z",
+    "type": "digital|temporal|prehistoric|narrative",
+    "patterns": [
+      "opening:excavation_report_gbekli"
     ]
   }
 ]

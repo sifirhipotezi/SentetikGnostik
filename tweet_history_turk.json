@@ -1,13 +1,5 @@
 [
   {
-    "text": "Edirne 1402 savaş sonrası nüfus sayımı: Ankara Savaşı'nda ölen askerlerin torunları kayıtlı. Doğum tarihleri 1450 sonrası. Vergi mükellefleri listesinde yer alıyorlar.",
-    "timestamp": "2026-01-29T05:09:48.588Z",
-    "type": "defter|temporal|unspecified_era|narrative|ankara",
-    "patterns": [
-      "opening:edirne_1402_savaş"
-    ]
-  },
-  {
     "text": "Üsküdar'da 1789 yılında çekilmiş fotoğraf. Boğaz manzarası ve vapurlar görülüyor. Fotoğraf makinesinin icadından 50 yıl önce. Kimyasal analiz dönemle uyumlu.",
     "timestamp": "2026-01-29T08:49:28.933Z",
     "type": "general_source|temporal|late_ottoman|narrative|uskudar",
@@ -130,6 +122,15 @@
     "type": "defter|temporal|late_ottoman|narrative|ani",
     "patterns": [
       "opening:izmir_liman_gümrük"
+    ]
+  },
+  {
+    "text": "Kadıköy arşiv deposunda bulunan mezar taşı, 1203 Bizans dönemi. Yazıt Türkçe, \"Burada İstanbul Büyükşehir Belediyesi çalışanı yatır\" diyor. Mermer analizi 13. yüzyıl çıktı.",
+    "timestamp": "2026-01-31T14:30:05.091Z",
+    "type": "archive|temporal|byzantine|narrative|kadikoy",
+    "patterns": [
+      "bizans",
+      "opening:kadıköy_arşiv_deposunda"
     ]
   }
 ]
