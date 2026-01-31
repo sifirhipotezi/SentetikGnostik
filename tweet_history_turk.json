@@ -1,13 +1,5 @@
 [
   {
-    "text": "Van Gölü çevresinde 1204 tarihli Selçuklu mezar taşı. Kitabede gelecek yıllarda olacak depremler listeleniyor. 2023'e kadar doğru çıkmış. Taş 1970'te kaybolmuş.",
-    "timestamp": "2026-01-28T14:37:28.263Z",
-    "type": "general_source|temporal|early_ottoman|narrative|van",
-    "patterns": [
-      "opening:van_gölü_çevresinde"
-    ]
-  },
-  {
     "text": "Sinop Cezaevi kayıtları, 1864: Hiç tutuklanmamış mahkûmlar için hücre tahsisleri yapılmış. İsimler nüfus kayıtlarında yok ama günlük iaşe tüketimleri detaylandırılmış.",
     "timestamp": "2026-01-28T18:45:07.337Z",
     "type": "defter|administrative|late_ottoman|narrative|sinop",
@@ -130,6 +122,15 @@
     "type": "architectural|temporal|early_ottoman|narrative|bursa",
     "patterns": [
       "opening:bursa_ulu_camii"
+    ]
+  },
+  {
+    "text": "Van Gölü meteoroloji istasyonu, 1967 raporu: Aynı gün için hem kar hem de 38 derece sıcaklık kaydedilmiş. İki farklı memur imzalamış, termometreler kalibre. Köylüler her iki hava durumunu teyit ediyor.",
+    "timestamp": "2026-01-31T05:05:09.513Z",
+    "type": "meteorological|general_anomaly|republican|narrative|van",
+    "patterns": [
+      "imza",
+      "opening:van_gölü_meteoroloji"
     ]
   }
 ]

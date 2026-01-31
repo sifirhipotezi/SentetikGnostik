@@ -1,13 +1,5 @@
 [
   {
-    "text": "Coroner's examination, Salem 1672: Deceased claimed death was clerical error, attended own autopsy. Provided detailed commentary on procedure. Certificate filed posthumously in subject's handwriting.",
-    "timestamp": "2026-01-28T14:37:23.403Z",
-    "type": "digital|bureaucratic|earlymodern|narrative",
-    "patterns": [
-      "opening:coroners_examination_salem"
-    ]
-  },
-  {
     "text": "Medical journal, Edinburgh 1847: Surgeon reported patient's appendix contained seventeen unopened letters addressed to people who wouldn't be born for another century. All letters bore yesterday's postmark.",
     "timestamp": "2026-01-28T18:45:03.348Z",
     "type": "institutional|temporal|industrial|narrative",
@@ -118,6 +110,14 @@
     "type": "meteorological|general_anomaly|modern|narrative",
     "patterns": [
       "opening:weather_station_log"
+    ]
+  },
+  {
+    "text": "Personal journal, Cairo 1798: Soldier's diary describes Napoleon reviewing troops at pyramids. Entry dated three months before French invasion began. Diary found in barracks that wouldn't be constructed until 1801.",
+    "timestamp": "2026-01-31T05:05:05.276Z",
+    "type": "manuscript|temporal|ancient|narrative",
+    "patterns": [
+      "opening:personal_journal_cairo"
     ]
   }
 ]
