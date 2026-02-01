@@ -1,13 +1,5 @@
 [
   {
-    "text": "Çanakkale Müzesi'nde 1915 kurşunu. İçinden 2003 tarihli Türk lirası çıktı. Kurşun deformasyonu savaş dönemi, banknot gerçek. Metal yorgunluğu analizi tutarlı.",
-    "timestamp": "2026-01-30T05:12:09.291Z",
-    "type": "general_source|temporal|republican|narrative|unspecified_location",
-    "patterns": [
-      "opening:çanakkale_müzesinde_1915"
-    ]
-  },
-  {
     "text": "İstanbul Arkeoloji Müzesi'nde 1453 tarihli top mermisi. Röntgen çekiminde içinde gramofon plağı görünüyor. Plakta Fatih'in sesli fermani kayıtlı. Demir analizi 15. yüzyıl, ses kalitesi net.",
     "timestamp": "2026-01-30T08:48:57.571Z",
     "type": "ferman|temporal|classical_ottoman|narrative|fatih",
@@ -127,6 +119,14 @@
     "patterns": [
       "defter",
       "opening:edirne_selimiye_camii"
+    ]
+  },
+  {
+    "text": "Kayseri arşivi, 1902: Şehirde hiç görülmemiş kar fırtınası raporu. Aynı gün İstanbul'da tropik sıcaklık ölçülmüş. Telgraf hatları çalışıyor, hava durumu bilgileri tutarlı.",
+    "timestamp": "2026-02-01T14:32:01.084Z",
+    "type": "meteorological|administrative|unspecified_era|narrative|kayseri",
+    "patterns": [
+      "opening:kayseri_arşivi_1902"
     ]
   }
 ]

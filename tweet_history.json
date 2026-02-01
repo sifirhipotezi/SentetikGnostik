@@ -1,14 +1,5 @@
 [
   {
-    "text": "Entry 4401Census: Roman citizen register 89 CE lists Marcus Flavius as born twice, died once. Tax records show he paid for both incarnations. Second birth occurred three years after documented death.",
-    "timestamp": "2026-01-30T05:12:04.773Z",
-    "type": "municipal|temporal|unspecified_era|catalog_entry",
-    "patterns": [
-      "entry_number",
-      "opening:entry_4401census_roman"
-    ]
-  },
-  {
     "text": "Textile analysis, monastery vestments 1203: Silk threads analyzed under microscope contain DNA sequences for extinct prayer positions. Monks reported muscle memory for genuflections that require additional joints not present in human anatom",
     "timestamp": "2026-01-30T08:48:53.152Z",
     "type": "biological|general_anomaly|medieval|narrative",
@@ -119,6 +110,14 @@
     "type": "personal|temporal|unspecified_era|narrative",
     "patterns": [
       "opening:personal_diary_rome"
+    ]
+  },
+  {
+    "text": "Census record, Berlin 1933: Population counted twice in same district yielded different totals each time. Second count included 847 residents who cast no shadows. Enumerators filed reports in duplicate, signed by same hand in different ink.",
+    "timestamp": "2026-02-01T14:31:56.996Z",
+    "type": "municipal|temporal|modern|narrative",
+    "patterns": [
+      "opening:census_record_berlin"
     ]
   }
 ]
