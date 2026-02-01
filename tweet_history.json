@@ -1,13 +1,5 @@
 [
   {
-    "text": "Architectural survey, Venice 1456: Cathedral contains confessional booth that absolves sins not yet committed. Priest's logbook records 347 future transgressions. Most frequent: Will forget to feed the pigeons, Thursday.",
-    "timestamp": "2026-01-29T14:42:55.488Z",
-    "type": "architectural|temporal|medieval|narrative",
-    "patterns": [
-      "opening:architectural_survey_venice"
-    ]
-  },
-  {
     "text": "Hospital records, Boston 1923: Patient admitted with compound fracture of bone that doesn't exist in human anatomy. Xrays clearly show break in ulnaris tertius. Patient made full recovery. Bone vanished upon discharge.",
     "timestamp": "2026-01-29T18:56:13.238Z",
     "type": "biological|ontological|modern|narrative",
@@ -119,6 +111,14 @@
     "type": "general_source|general_anomaly|earlymodern|narrative",
     "patterns": [
       "opening:apothecary_ledger_london"
+    ]
+  },
+  {
+    "text": "Shipping manifest, SS Titanic April 1912: Cargo hold 3 listed 847 crates of temporal ballast, fragile, do not sink. Official records show 846 empty crates recovered. Contents unknown. Ship's weight calculations remain mathematically impossi",
+    "timestamp": "2026-02-01T05:24:34.424Z",
+    "type": "general_source|general_anomaly|modern|narrative",
+    "patterns": [
+      "opening:shipping_manifest_ss"
     ]
   }
 ]

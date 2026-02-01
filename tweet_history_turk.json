@@ -1,16 +1,5 @@
 [
   {
-    "text": "İzmir Kemeraltı'nda 1923'te açılan berber dükkanı. Müşteri defterinde 19741998 arası randevular yazılı. Berber o tarihte vefat etmiş. Defter kağıdı cumhuriyet dönemi, mürekkep analizi doğrulanmış.",
-    "timestamp": "2026-01-29T14:42:59.848Z",
-    "type": "defter|temporal|republican|narrative|unspecified_location",
-    "patterns": [
-      "dogrulandi",
-      "defter",
-      "cumhuriyet",
-      "opening:izmir_kemeraltında_1923te"
-    ]
-  },
-  {
     "text": "Van Gölü'nde 1071 Malazgirt Savaşı öncesi batık gemi. İçinde 1299 tarihli Osmanlı sikkeleri bulunmuş. Gemi Bizans yapımı ama sikke döküm tekniği otantik. Su altı arkeoloji raporu kayıp.",
     "timestamp": "2026-01-29T18:56:17.407Z",
     "type": "institutional|temporal|byzantine|narrative|van",
@@ -132,6 +121,14 @@
     "patterns": [
       "osmanli",
       "opening:üsküdarda_osmanlı_hamam"
+    ]
+  },
+  {
+    "text": "Van Gölü meteoroloji istasyonu, 1965: Sıcaklık 40C ölçülmüş ama göl donmamış. Balıkçılar normal avlanmış. Termometre kalibre, yedek cihaz aynı değeri göstermiş. Rapor arşivlendi.",
+    "timestamp": "2026-02-01T05:24:38.556Z",
+    "type": "institutional|general_anomaly|republican|narrative|van",
+    "patterns": [
+      "opening:van_gölü_meteoroloji"
     ]
   }
 ]
