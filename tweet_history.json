@@ -1,13 +1,5 @@
 [
   {
-    "text": "Transit records, London Underground 1863: Opening day passenger manifest lists 2,847 riders who boarded trains that wouldn't be built until 1878. All tickets were properly validated. No one questioned the delays.",
-    "timestamp": "2026-01-30T10:40:51.609Z",
-    "type": "meteorological|temporal|industrial|narrative",
-    "patterns": [
-      "opening:transit_records_london"
-    ]
-  },
-  {
     "text": "Archaeological survey, Pompeii: Carbonized scroll from Villa of Papyri contains complete text of Aristotle's On Comedy. Manuscript dated 79 CE. Aristotle died 322 BCE but handwriting analysis confirms authorship.",
     "timestamp": "2026-01-30T14:40:20.079Z",
     "type": "manuscript|temporal|prehistoric|narrative",
@@ -118,6 +110,16 @@
     "type": "biological|general_anomaly|earlymodern|narrative",
     "patterns": [
       "opening:anatomical_study_vienna"
+    ]
+  },
+  {
+    "text": "Archaeological report: Pompeii excavation, House of the Faun, uncovered mosaic depicting the eruption of Vesuvius with accurate timestamp. Mosaic predates eruption by 200 years. Tesserae composition includes volcanic ash from 79 CE.",
+    "timestamp": "2026-02-01T20:34:02.854Z",
+    "type": "architectural|temporal|archaeological|narrative",
+    "patterns": [
+      "predates_by",
+      "archaeological_report",
+      "opening:archaeological_report_pompeii"
     ]
   }
 ]

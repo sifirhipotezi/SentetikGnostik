@@ -1,15 +1,5 @@
 [
   {
-    "text": "Edirne Selimiye Camii inşaat defterleri, 1575. Mimar Sinan'ın notlarında \"betonarme\" kelimesi geçiyor. Yapı tamamen taş ve tuğla. Kelime Osmanlıca sözlüklerde yok ama el yazısı dönem mürekkebiyle yazılmış.",
-    "timestamp": "2026-01-30T10:40:57.012Z",
-    "type": "defter|administrative|classical_ottoman|narrative|edirne",
-    "patterns": [
-      "defter",
-      "osmanli",
-      "opening:edirne_selimiye_camii"
-    ]
-  },
-  {
     "text": "Kapadokya peribacası kesitinde 1204 tarihli Bizans mührü. Mühür volkanik tüfün içinde, sanki kayayla birlikte oluşmuş. Jeolojik yaş 3 milyon yıl. İmparator III. Aleksios'un arması seçiliyor.",
     "timestamp": "2026-01-30T14:40:25.175Z",
     "type": "general_source|temporal|byzantine|narrative|ani",
@@ -128,6 +118,15 @@
       "dogrulandi",
       "defter",
       "opening:galata_kulesi_inşaat"
+    ]
+  },
+  {
+    "text": "Tokat Ulu Camii'nin minberinde bulunmuş kitabe, 1485 tarihli. \"Bu camide namaz kılacak olanlar cep telefonlarını kapatmalıdır\" yazılı. Osmanlı Türkçesi gramer kurallarına uygun. Mermer orijinal.",
+    "timestamp": "2026-02-01T20:34:07.139Z",
+    "type": "architectural|temporal|unspecified_era|narrative|diyarbakir",
+    "patterns": [
+      "osmanli",
+      "opening:tokat_ulu_camiinin"
     ]
   }
 ]
