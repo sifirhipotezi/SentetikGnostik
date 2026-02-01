@@ -1,13 +1,5 @@
 [
   {
-    "text": "Textile analysis, monastery vestments 1203: Silk threads analyzed under microscope contain DNA sequences for extinct prayer positions. Monks reported muscle memory for genuflections that require additional joints not present in human anatom",
-    "timestamp": "2026-01-30T08:48:53.152Z",
-    "type": "biological|general_anomaly|medieval|narrative",
-    "patterns": [
-      "opening:textile_analysis_monastery"
-    ]
-  },
-  {
     "text": "Transit records, London Underground 1863: Opening day passenger manifest lists 2,847 riders who boarded trains that wouldn't be built until 1878. All tickets were properly validated. No one questioned the delays.",
     "timestamp": "2026-01-30T10:40:51.609Z",
     "type": "meteorological|temporal|industrial|narrative",
@@ -118,6 +110,14 @@
     "type": "municipal|temporal|modern|narrative",
     "patterns": [
       "opening:census_record_berlin"
+    ]
+  },
+  {
+    "text": "Anatomical study, Vienna 1784: Physician dissected cadaver containing second heart that beat in reverse temporal sequence. Pulse preceded death by six minutes. Body donated by man who attended his own funeral the following Tuesday.",
+    "timestamp": "2026-02-01T18:42:28.080Z",
+    "type": "biological|general_anomaly|earlymodern|narrative",
+    "patterns": [
+      "opening:anatomical_study_vienna"
     ]
   }
 ]

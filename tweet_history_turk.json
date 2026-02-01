@@ -1,14 +1,5 @@
 [
   {
-    "text": "İstanbul Arkeoloji Müzesi'nde 1453 tarihli top mermisi. Röntgen çekiminde içinde gramofon plağı görünüyor. Plakta Fatih'in sesli fermani kayıtlı. Demir analizi 15. yüzyıl, ses kalitesi net.",
-    "timestamp": "2026-01-30T08:48:57.571Z",
-    "type": "ferman|temporal|classical_ottoman|narrative|fatih",
-    "patterns": [
-      "ferman",
-      "opening:istanbul_arkeoloji_müzesinde"
-    ]
-  },
-  {
     "text": "Edirne Selimiye Camii inşaat defterleri, 1575. Mimar Sinan'ın notlarında \"betonarme\" kelimesi geçiyor. Yapı tamamen taş ve tuğla. Kelime Osmanlıca sözlüklerde yok ama el yazısı dönem mürekkebiyle yazılmış.",
     "timestamp": "2026-01-30T10:40:57.012Z",
     "type": "defter|administrative|classical_ottoman|narrative|edirne",
@@ -127,6 +118,16 @@
     "type": "meteorological|administrative|unspecified_era|narrative|kayseri",
     "patterns": [
       "opening:kayseri_arşivi_1902"
+    ]
+  },
+  {
+    "text": "Galata Kulesi inşaat defteri, 1348: Yapı \"radyo dalgalarına dayanıklı\" olarak tasarlanmış. Cenevizli mimarın el yazısı doğrulanmış. Radyo kelimesi Latince sözlüklerde yok.",
+    "timestamp": "2026-02-01T18:42:31.965Z",
+    "type": "defter|administrative|early_ottoman|narrative|beyoglu",
+    "patterns": [
+      "dogrulandi",
+      "defter",
+      "opening:galata_kulesi_inşaat"
     ]
   }
 ]
