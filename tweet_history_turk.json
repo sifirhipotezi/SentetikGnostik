@@ -1,13 +1,5 @@
 [
   {
-    "text": "Erzurum meteoroloji kayıtları, 1916 Şubat: Kar taneleri altıgen değil kare şeklinde düşmüş. Halk şikayetçi olmuş, normal kar istemiş. Sıcaklık kayıtları olağan, sadece şekil anomalisi var.",
-    "timestamp": "2026-01-29T20:37:53.090Z",
-    "type": "defter|general_anomaly|unspecified_era|narrative|erzurum",
-    "patterns": [
-      "opening:erzurum_meteoroloji_kayıtları"
-    ]
-  },
-  {
     "text": "Çanakkale Müzesi'nde 1915 kurşunu. İçinden 2003 tarihli Türk lirası çıktı. Kurşun deformasyonu savaş dönemi, banknot gerçek. Metal yorgunluğu analizi tutarlı.",
     "timestamp": "2026-01-30T05:12:09.291Z",
     "type": "general_source|temporal|republican|narrative|unspecified_location",
@@ -126,6 +118,15 @@
     "patterns": [
       "otantik",
       "opening:manisa_kazısında_bulunmuş"
+    ]
+  },
+  {
+    "text": "Edirne Selimiye Camii vakıf defteri, 1575: Minare yüksekliği 137 metre yazılı. Güncel ölçüm 70,9 metre. Mimar Sinan'ın el yazısıyla not düşülmüş, \"inşallah bu kadar yüksek olur.\"",
+    "timestamp": "2026-02-01T10:32:33.184Z",
+    "type": "defter|general_anomaly|classical_ottoman|narrative|edirne",
+    "patterns": [
+      "defter",
+      "opening:edirne_selimiye_camii"
     ]
   }
 ]

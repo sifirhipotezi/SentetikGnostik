@@ -1,13 +1,5 @@
 [
   {
-    "text": "Weather station logs, Greenland 1734: Temperature readings recorded in units that predate Celsius by four years. Instruments calibrated to measure coldness of sorrow and warmth of forgotten names. Data remains meteorologically accurate.",
-    "timestamp": "2026-01-29T20:37:48.544Z",
-    "type": "meteorological|temporal|earlymodern|narrative",
-    "patterns": [
-      "opening:weather_station_logs"
-    ]
-  },
-  {
     "text": "Entry 4401Census: Roman citizen register 89 CE lists Marcus Flavius as born twice, died once. Tax records show he paid for both incarnations. Second birth occurred three years after documented death.",
     "timestamp": "2026-01-30T05:12:04.773Z",
     "type": "municipal|temporal|unspecified_era|catalog_entry",
@@ -119,6 +111,14 @@
     "type": "institutional|bureaucratic|industrial|narrative",
     "patterns": [
       "opening:botanical_survey_amazon"
+    ]
+  },
+  {
+    "text": "Personal diary, Rome 47 CE: Citizen recorded meeting himself at market, aged thirty years older. Older self warned of fire that wouldn't occur until 64 CE. Both versions purchased identical fish from same vendor who charged them once.",
+    "timestamp": "2026-02-01T10:32:28.790Z",
+    "type": "personal|temporal|unspecified_era|narrative",
+    "patterns": [
+      "opening:personal_diary_rome"
     ]
   }
 ]
