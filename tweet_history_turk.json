@@ -1,17 +1,5 @@
 [
   {
-    "text": "Van Gölü'nde 1071 Malazgirt Savaşı öncesi batık gemi. İçinde 1299 tarihli Osmanlı sikkeleri bulunmuş. Gemi Bizans yapımı ama sikke döküm tekniği otantik. Su altı arkeoloji raporu kayıp.",
-    "timestamp": "2026-01-29T18:56:17.407Z",
-    "type": "institutional|temporal|byzantine|narrative|van",
-    "patterns": [
-      "otantik",
-      "kayboldu",
-      "bizans",
-      "osmanli",
-      "opening:van_gölünde_1071"
-    ]
-  },
-  {
     "text": "Erzurum meteoroloji kayıtları, 1916 Şubat: Kar taneleri altıgen değil kare şeklinde düşmüş. Halk şikayetçi olmuş, normal kar istemiş. Sıcaklık kayıtları olağan, sadece şekil anomalisi var.",
     "timestamp": "2026-01-29T20:37:53.090Z",
     "type": "defter|general_anomaly|unspecified_era|narrative|erzurum",
@@ -129,6 +117,15 @@
     "type": "institutional|general_anomaly|republican|narrative|van",
     "patterns": [
       "opening:van_gölü_meteoroloji"
+    ]
+  },
+  {
+    "text": "Manisa kazısında bulunmuş gümüş sikke, 1346 tarihli. Üzerinde Orhan Bey'in portresi var ama fotoğraf kalitesinde. Sikke otantik, gümüş analizi 14. yüzyıl. Müze vitrininde sergileniyor.",
+    "timestamp": "2026-02-01T08:39:33.825Z",
+    "type": "archaeological|temporal|early_ottoman|narrative|ani",
+    "patterns": [
+      "otantik",
+      "opening:manisa_kazısında_bulunmuş"
     ]
   }
 ]
