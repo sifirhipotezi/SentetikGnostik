@@ -1,13 +1,5 @@
 [
   {
-    "text": "Archaeological survey, Pompeii: Carbonized scroll from Villa of Papyri contains complete text of Aristotle's On Comedy. Manuscript dated 79 CE. Aristotle died 322 BCE but handwriting analysis confirms authorship.",
-    "timestamp": "2026-01-30T14:40:20.079Z",
-    "type": "manuscript|temporal|prehistoric|narrative",
-    "patterns": [
-      "opening:archaeological_survey_pompeii"
-    ]
-  },
-  {
     "text": "Building inspection report, Chicago 1871: Foundation blueprints filed three days after Great Fire show architect's signature in ash that hadn't fallen yet. Structure remains standing in timeline that burned.",
     "timestamp": "2026-01-30T18:53:07.506Z",
     "type": "architectural|temporal|industrial|narrative",
@@ -120,6 +112,14 @@
       "predates_by",
       "archaeological_report",
       "opening:archaeological_report_pompeii"
+    ]
+  },
+  {
+    "text": "Meteorological log, Saskatchewan 1952: Blizzard deposited snow that melted upward into clear sky. Ground remained frozen while air temperature rose with altitude. Farmers reported crop circles in wheat that hadn't been planted yet.",
+    "timestamp": "2026-02-02T05:26:50.250Z",
+    "type": "meteorological|general_anomaly|modern|narrative",
+    "patterns": [
+      "opening:meteorological_log_saskatchewan"
     ]
   }
 ]

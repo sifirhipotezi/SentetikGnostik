@@ -1,15 +1,5 @@
 [
   {
-    "text": "Kapadokya peribacası kesitinde 1204 tarihli Bizans mührü. Mühür volkanik tüfün içinde, sanki kayayla birlikte oluşmuş. Jeolojik yaş 3 milyon yıl. İmparator III. Aleksios'un arması seçiliyor.",
-    "timestamp": "2026-01-30T14:40:25.175Z",
-    "type": "general_source|temporal|byzantine|narrative|ani",
-    "patterns": [
-      "muhur",
-      "bizans",
-      "opening:kapadokya_peribacası_kesitinde"
-    ]
-  },
-  {
     "text": "Trabzon 1461 nüfus sayımı: Uzun Hasan'ın ordusunda fil sürücüsü kaydı var. Anadolu'da fil yok, Akkoyunlular fil kullanmıyor. Sayım memuru isim vermiş, maaş hesaplamış.",
     "timestamp": "2026-01-30T18:53:11.691Z",
     "type": "census|administrative|unspecified_era|narrative|trabzon",
@@ -127,6 +117,15 @@
     "patterns": [
       "osmanli",
       "opening:tokat_ulu_camiinin"
+    ]
+  },
+  {
+    "text": "İzmir liman gümrük kayıtları, 1889: Vapurla gelen yolcu listesinde \"Android model telefon 50 adet\" ibaresi. Gümrük vergisi ödenmiş. Eşya hiç teslim edilmemiş. Kayıt mührü otantik.",
+    "timestamp": "2026-02-02T05:26:54.980Z",
+    "type": "defter|administrative|late_ottoman|narrative|unspecified_location",
+    "patterns": [
+      "otantik",
+      "opening:izmir_liman_gümrük"
     ]
   }
 ]
