@@ -1,13 +1,5 @@
 [
   {
-    "text": "Bursa Ulu Camii mihrabında gizli bölme, 1399. İçinde 1923 tarihli Lozan Antlaşması'nın el yazması kopyası. Kağıt yaşlanma analizi 14. yüzyıl gösteriyor. Metin Fransızca, mürekkep dönem malzemesi.",
-    "timestamp": "2026-01-30T20:38:28.964Z",
-    "type": "architectural|temporal|early_ottoman|narrative|bursa",
-    "patterns": [
-      "opening:bursa_ulu_camii"
-    ]
-  },
-  {
     "text": "Van Gölü meteoroloji istasyonu, 1967 raporu: Aynı gün için hem kar hem de 38 derece sıcaklık kaydedilmiş. İki farklı memur imzalamış, termometreler kalibre. Köylüler her iki hava durumunu teyit ediyor.",
     "timestamp": "2026-01-31T05:05:09.513Z",
     "type": "meteorological|general_anomaly|republican|narrative|van",
@@ -127,6 +119,15 @@
     "patterns": [
       "sicil",
       "opening:bursa_ipek_yolu"
+    ]
+  },
+  {
+    "text": "Trabzon Ayasofya'sında fresk, MS 1250. Azize'nin elinde modern anahtarlık var. Bizans sanat tarihçileri sessiz. Fresk restore edilmemiş, boyalar dönem malzemesi.",
+    "timestamp": "2026-02-02T10:52:13.932Z",
+    "type": "general_source|temporal|byzantine|narrative|trabzon",
+    "patterns": [
+      "bizans",
+      "opening:trabzon_ayasofyasında_fresk"
     ]
   }
 ]

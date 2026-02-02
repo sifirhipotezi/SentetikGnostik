@@ -1,13 +1,5 @@
 [
   {
-    "text": "Weather station log, Antarctica 1957: Temperature readings show gradual warming trend beginning December 21st. Thermometers recorded春天 instead of numerical values for six consecutive days. Station was unmanned during this period.",
-    "timestamp": "2026-01-30T20:38:23.998Z",
-    "type": "meteorological|general_anomaly|modern|narrative",
-    "patterns": [
-      "opening:weather_station_log"
-    ]
-  },
-  {
     "text": "Personal journal, Cairo 1798: Soldier's diary describes Napoleon reviewing troops at pyramids. Entry dated three months before French invasion began. Diary found in barracks that wouldn't be constructed until 1801.",
     "timestamp": "2026-01-31T05:05:05.276Z",
     "type": "manuscript|temporal|ancient|narrative",
@@ -120,6 +112,14 @@
     "type": "biological|temporal|prehistoric|narrative",
     "patterns": [
       "opening:paleobotanical_specimen_triassic"
+    ]
+  },
+  {
+    "text": "Cartographic discrepancy: Maritime chart from 1689 shows detailed coastline of continent that doesn't exist. Three separate expeditions reached the shores depicted. All returned with samples of impossible minerals. Chart issued by Royal Nav",
+    "timestamp": "2026-02-02T10:52:09.365Z",
+    "type": "general_source|temporal|earlymodern|narrative",
+    "patterns": [
+      "opening:cartographic_discrepancy_maritime"
     ]
   }
 ]
