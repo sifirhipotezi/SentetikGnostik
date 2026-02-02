@@ -1,13 +1,5 @@
 [
   {
-    "text": "Building inspection report, Chicago 1871: Foundation blueprints filed three days after Great Fire show architect's signature in ash that hadn't fallen yet. Structure remains standing in timeline that burned.",
-    "timestamp": "2026-01-30T18:53:07.506Z",
-    "type": "architectural|temporal|industrial|narrative",
-    "patterns": [
-      "opening:building_inspection_report"
-    ]
-  },
-  {
     "text": "Weather station log, Antarctica 1957: Temperature readings show gradual warming trend beginning December 21st. Thermometers recorded春天 instead of numerical values for six consecutive days. Station was unmanned during this period.",
     "timestamp": "2026-01-30T20:38:23.998Z",
     "type": "meteorological|general_anomaly|modern|narrative",
@@ -120,6 +112,14 @@
     "type": "meteorological|general_anomaly|modern|narrative",
     "patterns": [
       "opening:meteorological_log_saskatchewan"
+    ]
+  },
+  {
+    "text": "Paleobotanical specimen: Triassic fern, 220 million BCE, cellular structure contains microscopic etchings of Sanskrit text. Translation reads The dinosaurs remember everything. Sanskrit won't be invented for 219,997,500 years.",
+    "timestamp": "2026-02-02T08:52:51.099Z",
+    "type": "biological|temporal|prehistoric|narrative",
+    "patterns": [
+      "opening:paleobotanical_specimen_triassic"
     ]
   }
 ]

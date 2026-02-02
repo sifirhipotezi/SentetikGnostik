@@ -1,13 +1,5 @@
 [
   {
-    "text": "Trabzon 1461 nüfus sayımı: Uzun Hasan'ın ordusunda fil sürücüsü kaydı var. Anadolu'da fil yok, Akkoyunlular fil kullanmıyor. Sayım memuru isim vermiş, maaş hesaplamış.",
-    "timestamp": "2026-01-30T18:53:11.691Z",
-    "type": "census|administrative|unspecified_era|narrative|trabzon",
-    "patterns": [
-      "opening:trabzon_1461_nüfus"
-    ]
-  },
-  {
     "text": "Bursa Ulu Camii mihrabında gizli bölme, 1399. İçinde 1923 tarihli Lozan Antlaşması'nın el yazması kopyası. Kağıt yaşlanma analizi 14. yüzyıl gösteriyor. Metin Fransızca, mürekkep dönem malzemesi.",
     "timestamp": "2026-01-30T20:38:28.964Z",
     "type": "architectural|temporal|early_ottoman|narrative|bursa",
@@ -126,6 +118,15 @@
     "patterns": [
       "otantik",
       "opening:izmir_liman_gümrük"
+    ]
+  },
+  {
+    "text": "Bursa İpek Yolu ticaret sicili, 1453: Konstantiniye'den ipek sevkiyatı kaydı. Şehir henüz alınmamış, feth 29 Mayıs. Tüccar kayıtları 15 Haziran tarihli. İmzalar mevcut.",
+    "timestamp": "2026-02-02T08:52:55.926Z",
+    "type": "defter|temporal|unspecified_era|narrative|bursa",
+    "patterns": [
+      "sicil",
+      "opening:bursa_ipek_yolu"
     ]
   }
 ]
