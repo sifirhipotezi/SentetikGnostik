@@ -1,13 +1,5 @@
 [
   {
-    "text": "Personal journal, Cairo 1798: Soldier's diary describes Napoleon reviewing troops at pyramids. Entry dated three months before French invasion began. Diary found in barracks that wouldn't be constructed until 1801.",
-    "timestamp": "2026-01-31T05:05:05.276Z",
-    "type": "manuscript|temporal|ancient|narrative",
-    "patterns": [
-      "opening:personal_journal_cairo"
-    ]
-  },
-  {
     "text": "Digital forensics lab, MIT 1982: Computer terminal displayed email interface thirty years before implementation. Graduate student documented sending message to future self. Reply arrived immediately from 2012 address.",
     "timestamp": "2026-01-31T08:38:01.351Z",
     "type": "digital|temporal|modern|narrative",
@@ -120,6 +112,14 @@
     "type": "general_source|temporal|earlymodern|narrative",
     "patterns": [
       "opening:cartographic_discrepancy_maritime"
+    ]
+  },
+  {
+    "text": "Census records, Byzantine Empire 1054: Population count includes 847 citizens listed as temporarily deceased. Tax assessments show these individuals paid levies for seventeen consecutive years. Death certificates predate births by decades.",
+    "timestamp": "2026-02-02T14:48:08.599Z",
+    "type": "municipal|temporal|unspecified_era|narrative",
+    "patterns": [
+      "opening:census_records_byzantine"
     ]
   }
 ]

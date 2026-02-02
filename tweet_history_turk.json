@@ -1,14 +1,5 @@
 [
   {
-    "text": "Van Gölü meteoroloji istasyonu, 1967 raporu: Aynı gün için hem kar hem de 38 derece sıcaklık kaydedilmiş. İki farklı memur imzalamış, termometreler kalibre. Köylüler her iki hava durumunu teyit ediyor.",
-    "timestamp": "2026-01-31T05:05:09.513Z",
-    "type": "meteorological|general_anomaly|republican|narrative|van",
-    "patterns": [
-      "imza",
-      "opening:van_gölü_meteoroloji"
-    ]
-  },
-  {
     "text": "Galata Kulesi'nde 1348 tarihli taş kitabe: \"WiFi şifresi GalataKulesi1348\" yazıyor. Harf oyması dönem tekniğine uygun. Latince değil, modern Türkçe. Kule restore edilmemiş bu bölümde.",
     "timestamp": "2026-01-31T08:38:05.573Z",
     "type": "architectural|temporal|early_ottoman|narrative|beyoglu",
@@ -128,6 +119,15 @@
     "patterns": [
       "bizans",
       "opening:trabzon_ayasofyasında_fresk"
+    ]
+  },
+  {
+    "text": "Manisa Muradiye Camii vakfiye defteri, 1586: \"WiFi şifresi: Murad1586\" notu kenar yazısı olarak eklenmiş. Hat sanatı Kanuni dönemi üslubu. Mürekkep analizi 16. yüzyıl doğruluyor.",
+    "timestamp": "2026-02-02T14:48:13.265Z",
+    "type": "defter|temporal|classical_ottoman|narrative|ani",
+    "patterns": [
+      "defter",
+      "opening:manisa_muradiye_camii"
     ]
   }
 ]
