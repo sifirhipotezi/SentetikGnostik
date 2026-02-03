@@ -1,13 +1,5 @@
 [
   {
-    "text": "Galata Kulesi'nde 1348 tarihli taş kitabe: \"WiFi şifresi GalataKulesi1348\" yazıyor. Harf oyması dönem tekniğine uygun. Latince değil, modern Türkçe. Kule restore edilmemiş bu bölümde.",
-    "timestamp": "2026-01-31T08:38:05.573Z",
-    "type": "architectural|temporal|early_ottoman|narrative|beyoglu",
-    "patterns": [
-      "opening:galata_kulesinde_1348"
-    ]
-  },
-  {
     "text": "İzmir liman gümrük kayıtları, 1889: Selanik'ten gelen gemide \"elektrikli lamba\" ithalatı. Ampul Edison'dan 3 yıl önce icat edilmiş. Gümrük memuru detaylı tarif yapmış, vergi hesaplamış.",
     "timestamp": "2026-01-31T10:30:47.743Z",
     "type": "defter|temporal|late_ottoman|narrative|ani",
@@ -128,6 +120,15 @@
     "patterns": [
       "defter",
       "opening:manisa_muradiye_camii"
+    ]
+  },
+  {
+    "text": "Konya meteoroloji kayıtları, 1924: Şehre 3 gün boyunca altın yağmuru düşmüş. Cumhuriyet arşivlerinde numuneler mevcut. Kimyasal analiz saf altın gösteriyor. Tanık ifadeleri tutarlı.",
+    "timestamp": "2026-02-03T05:18:02.639Z",
+    "type": "defter|memorial|republican|narrative|konya",
+    "patterns": [
+      "cumhuriyet",
+      "opening:konya_meteoroloji_kayıtları"
     ]
   }
 ]
