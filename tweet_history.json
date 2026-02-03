@@ -1,13 +1,5 @@
 [
   {
-    "text": "Shipping manifest, SS Titanic April 1912: Cargo hold 3 listed 847 crates of temporal ballast, fragile, do not sink. Official records show 846 empty crates recovered. Contents unknown. Ship's weight calculations remain mathematically impossi",
-    "timestamp": "2026-02-01T05:24:34.424Z",
-    "type": "general_source|general_anomaly|modern|narrative",
-    "patterns": [
-      "opening:shipping_manifest_ss"
-    ]
-  },
-  {
     "text": "Botanical survey, Amazon Basin 1889: Expedition catalogued tree species that photosynthesized moonlight. Specimens produced oxygen only during lunar phases. Local guides reported forest had been nocturnal for three generations. No seeds rec",
     "timestamp": "2026-02-01T08:39:29.951Z",
     "type": "institutional|bureaucratic|industrial|narrative",
@@ -122,6 +114,14 @@
       "ontological",
       "predates_by",
       "opening:paleontological_survey_triassic"
+    ]
+  },
+  {
+    "text": "Municipal census, Bergen 1349: Population recorded as 4,847 living residents plus 12 citizens in good standing who have not yet been born. Tax assessments levied against the unborn. All twelve appeared by 1351.",
+    "timestamp": "2026-02-03T20:43:25.949Z",
+    "type": "municipal|general_anomaly|medieval|narrative",
+    "patterns": [
+      "opening:municipal_census_bergen"
     ]
   }
 ]

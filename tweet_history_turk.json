@@ -1,13 +1,5 @@
 [
   {
-    "text": "Van Gölü meteoroloji istasyonu, 1965: Sıcaklık 40C ölçülmüş ama göl donmamış. Balıkçılar normal avlanmış. Termometre kalibre, yedek cihaz aynı değeri göstermiş. Rapor arşivlendi.",
-    "timestamp": "2026-02-01T05:24:38.556Z",
-    "type": "institutional|general_anomaly|republican|narrative|van",
-    "patterns": [
-      "opening:van_gölü_meteoroloji"
-    ]
-  },
-  {
     "text": "Manisa kazısında bulunmuş gümüş sikke, 1346 tarihli. Üzerinde Orhan Bey'in portresi var ama fotoğraf kalitesinde. Sikke otantik, gümüş analizi 14. yüzyıl. Müze vitrininde sergileniyor.",
     "timestamp": "2026-02-01T08:39:33.825Z",
     "type": "archaeological|temporal|early_ottoman|narrative|ani",
@@ -129,6 +121,15 @@
     "type": "institutional|memorial|late_ottoman|narrative|trabzon",
     "patterns": [
       "opening:trabzon_sahil_güvenlik"
+    ]
+  },
+  {
+    "text": "İstanbul Kadıköy vakıf kayıtları, 1512: Mevlevi tekkesi için bağışlanan arazi haritası var. Harita Marmaray güzergahını gösteriyor. Çizim kesin, ölçüler doğru. Hat Osmanlıca.",
+    "timestamp": "2026-02-03T20:43:30.426Z",
+    "type": "defter|general_anomaly|classical_ottoman|narrative|kadikoy",
+    "patterns": [
+      "osmanli",
+      "opening:istanbul_kadıköy_vakıf"
     ]
   }
 ]
