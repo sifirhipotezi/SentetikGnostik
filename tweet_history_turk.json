@@ -1,13 +1,5 @@
 [
   {
-    "text": "Sivas nüfus sayımı, 1927: Bir mahallede 847 kişi kayıtlı ama sadece 23 ev var. Her evde ortalama 37 kişi yaşıyor hesaplanmış. Sayım memuru anomaliyi fark etmemiş, raporu onaylamış.",
-    "timestamp": "2026-01-31T18:40:19.557Z",
-    "type": "defter|general_anomaly|republican|narrative|sivas",
-    "patterns": [
-      "opening:sivas_nüfus_sayımı"
-    ]
-  },
-  {
     "text": "Üsküdar'da osmanlı hamam çini levhası, 1574: \"Wudhu öncesi ellerinizi dezenfekte ediniz\" yazıyor. Hat sanatı döneme uygun, Türkçe kelimeler değil. Restorasyonda ortaya çıktı.",
     "timestamp": "2026-01-31T20:32:00.072Z",
     "type": "architectural|temporal|classical_ottoman|narrative|uskudar",
@@ -128,6 +120,16 @@
     "type": "defter|temporal|late_ottoman|narrative|unspecified_location",
     "patterns": [
       "opening:izmir_liman_gümrük"
+    ]
+  },
+  {
+    "text": "Edirne Selimiye Camii restorasyonu, 1973: Mimar Sinan'ın imzalı planları bulundu ama tarih 1994 yazıyor. Plan dijital yazıcıdan çıkmış. İmza otantik, kağıt modern.",
+    "timestamp": "2026-02-03T14:50:54.844Z",
+    "type": "architectural|temporal|republican|narrative|edirne",
+    "patterns": [
+      "otantik",
+      "imza",
+      "opening:edirne_selimiye_camii"
     ]
   }
 ]

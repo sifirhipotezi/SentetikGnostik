@@ -1,14 +1,5 @@
 [
   {
-    "text": "Municipal water records, Prague 1621: Fountain in town square dispensed wine every third Thursday for eighteen months. Citizens reported no intoxication. Chemical analysis of samples shows water. Fountain demolished 1623, wine ceased immedi",
-    "timestamp": "2026-01-31T18:40:15.685Z",
-    "type": "municipal|general_anomaly|earlymodern|narrative",
-    "patterns": [
-      "chemical_analysis",
-      "opening:municipal_water_records"
-    ]
-  },
-  {
     "text": "Apothecary ledger, London 1665: Customer purchased remedy for temporal hiccups experiencing same hour repeatedly. Payment recorded as three coins that wouldn't be minted until 1723. Shopkeeper noted customer aged backwards during transactio",
     "timestamp": "2026-01-31T20:31:55.171Z",
     "type": "general_source|general_anomaly|earlymodern|narrative",
@@ -121,6 +112,14 @@
     "type": "architectural|temporal|medieval|narrative",
     "patterns": [
       "opening:architectural_survey_cologne"
+    ]
+  },
+  {
+    "text": "Autopsy report, London 1888: Victim's stomach contents included breakfast from restaurant that opened in 1923. Meal was still warm. Coroner noted subject died of starvation despite evidence of recent consumption.",
+    "timestamp": "2026-02-03T14:50:49.721Z",
+    "type": "institutional|general_anomaly|industrial|narrative",
+    "patterns": [
+      "opening:autopsy_report_london"
     ]
   }
 ]
