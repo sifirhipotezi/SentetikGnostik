@@ -1,13 +1,5 @@
 [
   {
-    "text": "Census records, Roman Britain 142 CE: Population survey lists Marcus Aurelius Digitalis, occupation programmer of calculating engines. Term appears in no other contemporary document. Individual's tax records span 847 years without death cer",
-    "timestamp": "2026-01-31T10:30:42.932Z",
-    "type": "municipal|temporal|unspecified_era|narrative",
-    "patterns": [
-      "opening:census_records_roman"
-    ]
-  },
-  {
     "text": "Excavation report, Göbekli Tepe 9500 BCE: Stone pillar Tshaped relief depicts binary code sequence. When decoded: System will restart in 11,500 years. Archaeological team's digital equipment malfunctioned during documentation.",
     "timestamp": "2026-01-31T14:30:01.063Z",
     "type": "digital|temporal|prehistoric|narrative",
@@ -120,6 +112,15 @@
     "type": "general_source|temporal|modern|narrative",
     "patterns": [
       "opening:seismic_reading_chile"
+    ]
+  },
+  {
+    "text": "Digital forensics, 1987: Commodore 64 discovered with 847 terabytes of storage. Files dated 2089 contain complete biographies of people born in 1992. Computer predates hard drives by three years. All subjects eventually fulfilled their pred",
+    "timestamp": "2026-02-03T08:45:24.382Z",
+    "type": "digital|temporal|modern|narrative",
+    "patterns": [
+      "predates_by",
+      "opening:digital_forensics_1987"
     ]
   }
 ]
