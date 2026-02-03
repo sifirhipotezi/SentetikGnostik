@@ -1,14 +1,5 @@
 [
   {
-    "text": "Kadıköy arşiv deposunda bulunan mezar taşı, 1203 Bizans dönemi. Yazıt Türkçe, \"Burada İstanbul Büyükşehir Belediyesi çalışanı yatır\" diyor. Mermer analizi 13. yüzyıl çıktı.",
-    "timestamp": "2026-01-31T14:30:05.091Z",
-    "type": "archive|temporal|byzantine|narrative|kadikoy",
-    "patterns": [
-      "bizans",
-      "opening:kadıköy_arşiv_deposunda"
-    ]
-  },
-  {
     "text": "Sivas nüfus sayımı, 1927: Bir mahallede 847 kişi kayıtlı ama sadece 23 ev var. Her evde ortalama 37 kişi yaşıyor hesaplanmış. Sayım memuru anomaliyi fark etmemiş, raporu onaylamış.",
     "timestamp": "2026-01-31T18:40:19.557Z",
     "type": "defter|general_anomaly|republican|narrative|sivas",
@@ -129,6 +120,14 @@
     "type": "archaeological|temporal|republican|narrative|van",
     "patterns": [
       "opening:van_gölü_arkeoloji"
+    ]
+  },
+  {
+    "text": "İzmir liman gümrük kayıtları, 1847: Marsilya'dan gelen gemide 200 sandık \"gelecek gazete\" ithal edilmiş. Gazeteler 19231938 arası olayları kapsıyor. Kağıt ve mürekkep döneme uygun.",
+    "timestamp": "2026-02-03T10:48:57.701Z",
+    "type": "defter|temporal|late_ottoman|narrative|unspecified_location",
+    "patterns": [
+      "opening:izmir_liman_gümrük"
     ]
   }
 ]

@@ -1,13 +1,5 @@
 [
   {
-    "text": "Excavation report, Göbekli Tepe 9500 BCE: Stone pillar Tshaped relief depicts binary code sequence. When decoded: System will restart in 11,500 years. Archaeological team's digital equipment malfunctioned during documentation.",
-    "timestamp": "2026-01-31T14:30:01.063Z",
-    "type": "digital|temporal|prehistoric|narrative",
-    "patterns": [
-      "opening:excavation_report_gbekli"
-    ]
-  },
-  {
     "text": "Municipal water records, Prague 1621: Fountain in town square dispensed wine every third Thursday for eighteen months. Citizens reported no intoxication. Chemical analysis of samples shows water. Fountain demolished 1623, wine ceased immedi",
     "timestamp": "2026-01-31T18:40:15.685Z",
     "type": "municipal|general_anomaly|earlymodern|narrative",
@@ -121,6 +113,14 @@
     "patterns": [
       "predates_by",
       "opening:digital_forensics_1987"
+    ]
+  },
+  {
+    "text": "Architectural survey, Cologne Cathedral 1248: Blueprint margins contain detailed sketches of aircraft. Drawings predate Wright brothers by 655 years. Margin notes specify fuel mixture ratios for engines not yet conceptualized.",
+    "timestamp": "2026-02-03T10:48:53.082Z",
+    "type": "architectural|temporal|medieval|narrative",
+    "patterns": [
+      "opening:architectural_survey_cologne"
     ]
   }
 ]
