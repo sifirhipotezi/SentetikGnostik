@@ -1,14 +1,5 @@
 [
   {
-    "text": "İzmir liman gümrük kayıtları, 1889: Vapurla gelen yolcu listesinde \"Android model telefon 50 adet\" ibaresi. Gümrük vergisi ödenmiş. Eşya hiç teslim edilmemiş. Kayıt mührü otantik.",
-    "timestamp": "2026-02-02T05:26:54.980Z",
-    "type": "defter|administrative|late_ottoman|narrative|unspecified_location",
-    "patterns": [
-      "otantik",
-      "opening:izmir_liman_gümrük"
-    ]
-  },
-  {
     "text": "Bursa İpek Yolu ticaret sicili, 1453: Konstantiniye'den ipek sevkiyatı kaydı. Şehir henüz alınmamış, feth 29 Mayıs. Tüccar kayıtları 15 Haziran tarihli. İmzalar mevcut.",
     "timestamp": "2026-02-02T08:52:55.926Z",
     "type": "defter|temporal|unspecified_era|narrative|bursa",
@@ -126,6 +117,15 @@
     "type": "architectural|spatial|late_ottoman|narrative|edirne",
     "patterns": [
       "opening:edirne_selimiye_camii"
+    ]
+  },
+  {
+    "text": "Kayseri nüfus sayımı defteri, 1927: Bir mahallede aynı isimde 340 kişi yaşıyor, hepsi aynı yaşta. Kimlik bilgileri farklı ama parmak izleri identik. Mahalle gerçek.",
+    "timestamp": "2026-02-04T20:40:26.162Z",
+    "type": "defter|general_anomaly|republican|narrative|kayseri",
+    "patterns": [
+      "defter",
+      "opening:kayseri_nüfus_sayımı"
     ]
   }
 ]

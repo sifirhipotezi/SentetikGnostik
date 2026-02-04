@@ -1,13 +1,5 @@
 [
   {
-    "text": "Meteorological log, Saskatchewan 1952: Blizzard deposited snow that melted upward into clear sky. Ground remained frozen while air temperature rose with altitude. Farmers reported crop circles in wheat that hadn't been planted yet.",
-    "timestamp": "2026-02-02T05:26:50.250Z",
-    "type": "meteorological|general_anomaly|modern|narrative",
-    "patterns": [
-      "opening:meteorological_log_saskatchewan"
-    ]
-  },
-  {
     "text": "Paleobotanical specimen: Triassic fern, 220 million BCE, cellular structure contains microscopic etchings of Sanskrit text. Translation reads The dinosaurs remember everything. Sanskrit won't be invented for 219,997,500 years.",
     "timestamp": "2026-02-02T08:52:51.099Z",
     "type": "biological|temporal|prehistoric|narrative",
@@ -120,6 +112,14 @@
     "type": "general_source|temporal|unspecified_era|narrative",
     "patterns": [
       "opening:crossreference_anomaly_library"
+    ]
+  },
+  {
+    "text": "Digital forensics lab, 1987: Technician analyzing floppy disk discovered file directory containing folders named after each day of the following year. December 31st folder held resignation letter from technician dated 1988.",
+    "timestamp": "2026-02-04T20:40:22.422Z",
+    "type": "digital|temporal|modern|narrative",
+    "patterns": [
+      "opening:digital_forensics_lab"
     ]
   }
 ]
