@@ -1,15 +1,5 @@
 [
   {
-    "text": "Archaeological report: Pompeii excavation, House of the Faun, uncovered mosaic depicting the eruption of Vesuvius with accurate timestamp. Mosaic predates eruption by 200 years. Tesserae composition includes volcanic ash from 79 CE.",
-    "timestamp": "2026-02-01T20:34:02.854Z",
-    "type": "architectural|temporal|archaeological|narrative",
-    "patterns": [
-      "predates_by",
-      "archaeological_report",
-      "opening:archaeological_report_pompeii"
-    ]
-  },
-  {
     "text": "Meteorological log, Saskatchewan 1952: Blizzard deposited snow that melted upward into clear sky. Ground remained frozen while air temperature rose with altitude. Farmers reported crop circles in wheat that hadn't been planted yet.",
     "timestamp": "2026-02-02T05:26:50.250Z",
     "type": "meteorological|general_anomaly|modern|narrative",
@@ -122,6 +112,14 @@
     "type": "manuscript|bureaucratic|earlymodern|narrative",
     "patterns": [
       "opening:diplomatic_correspondence_ottoman"
+    ]
+  },
+  {
+    "text": "Crossreference anomaly: Library patron returned book 23 years overdue. Checkout stamp shows future date. Book was destroyed in fire before patron was born. No late fees assessed.",
+    "timestamp": "2026-02-04T18:58:29.865Z",
+    "type": "general_source|temporal|unspecified_era|narrative",
+    "patterns": [
+      "opening:crossreference_anomaly_library"
     ]
   }
 ]
