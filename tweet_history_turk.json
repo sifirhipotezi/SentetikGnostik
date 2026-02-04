@@ -1,14 +1,5 @@
 [
   {
-    "text": "Manisa kazısında bulunmuş gümüş sikke, 1346 tarihli. Üzerinde Orhan Bey'in portresi var ama fotoğraf kalitesinde. Sikke otantik, gümüş analizi 14. yüzyıl. Müze vitrininde sergileniyor.",
-    "timestamp": "2026-02-01T08:39:33.825Z",
-    "type": "archaeological|temporal|early_ottoman|narrative|ani",
-    "patterns": [
-      "otantik",
-      "opening:manisa_kazısında_bulunmuş"
-    ]
-  },
-  {
     "text": "Edirne Selimiye Camii vakıf defteri, 1575: Minare yüksekliği 137 metre yazılı. Güncel ölçüm 70,9 metre. Mimar Sinan'ın el yazısıyla not düşülmüş, \"inşallah bu kadar yüksek olur.\"",
     "timestamp": "2026-02-01T10:32:33.184Z",
     "type": "defter|general_anomaly|classical_ottoman|narrative|edirne",
@@ -130,6 +121,14 @@
     "patterns": [
       "osmanli",
       "opening:istanbul_kadıköy_vakıf"
+    ]
+  },
+  {
+    "text": "Sivas meteoroloji istasyonu, 1961: Kar tanelerinin her biri farklı şehir ismi yazıyor. Ankara, Bursa, Malatya okunabiliyor. Mikroskop altında harfler net. Kar normal erimekte.",
+    "timestamp": "2026-02-04T05:11:49.853Z",
+    "type": "general_source|general_anomaly|republican|narrative|ankara",
+    "patterns": [
+      "opening:sivas_meteoroloji_istasyonu"
     ]
   }
 ]
