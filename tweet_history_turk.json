@@ -1,13 +1,5 @@
 [
   {
-    "text": "Kayseri arşivi, 1902: Şehirde hiç görülmemiş kar fırtınası raporu. Aynı gün İstanbul'da tropik sıcaklık ölçülmüş. Telgraf hatları çalışıyor, hava durumu bilgileri tutarlı.",
-    "timestamp": "2026-02-01T14:32:01.084Z",
-    "type": "meteorological|administrative|unspecified_era|narrative|kayseri",
-    "patterns": [
-      "opening:kayseri_arşivi_1902"
-    ]
-  },
-  {
     "text": "Galata Kulesi inşaat defteri, 1348: Yapı \"radyo dalgalarına dayanıklı\" olarak tasarlanmış. Cenevizli mimarın el yazısı doğrulanmış. Radyo kelimesi Latince sözlüklerde yok.",
     "timestamp": "2026-02-01T18:42:31.965Z",
     "type": "defter|administrative|early_ottoman|narrative|beyoglu",
@@ -128,6 +120,14 @@
     "type": "archaeological|general_anomaly|republican|narrative|bergama",
     "patterns": [
       "opening:bergama_antik_tiyatro"
+    ]
+  },
+  {
+    "text": "İzmir liman kayıtları, 1806: Gemiden indirilen 200 çuval buğday kendi kendine hareket ediyor. Çuvallar sıraya geçmiş, gümrük vergisini ödüyor. Para gerçek, buğday kaliteli.",
+    "timestamp": "2026-02-04T10:46:13.807Z",
+    "type": "defter|temporal|late_ottoman|narrative|unspecified_location",
+    "patterns": [
+      "opening:izmir_liman_kayıtları"
     ]
   }
 ]

@@ -1,13 +1,5 @@
 [
   {
-    "text": "Census record, Berlin 1933: Population counted twice in same district yielded different totals each time. Second count included 847 residents who cast no shadows. Enumerators filed reports in duplicate, signed by same hand in different ink.",
-    "timestamp": "2026-02-01T14:31:56.996Z",
-    "type": "municipal|temporal|modern|narrative",
-    "patterns": [
-      "opening:census_record_berlin"
-    ]
-  },
-  {
     "text": "Anatomical study, Vienna 1784: Physician dissected cadaver containing second heart that beat in reverse temporal sequence. Pulse preceded death by six minutes. Body donated by man who attended his own funeral the following Tuesday.",
     "timestamp": "2026-02-01T18:42:28.080Z",
     "type": "biological|general_anomaly|earlymodern|narrative",
@@ -122,6 +114,14 @@
     "type": "geological|temporal|modern|narrative",
     "patterns": [
       "opening:seismographic_readings_chile"
+    ]
+  },
+  {
+    "text": "Archaeological survey, Bronze Age settlement: Storage jar from 1800 BCE contained grain still viable for planting. Seeds sprouted into wheat variety not cultivated until 1960s. Harvest yield exceeded modern agricultural standards by 300.",
+    "timestamp": "2026-02-04T10:46:09.782Z",
+    "type": "meteorological|general_anomaly|prehistoric|narrative",
+    "patterns": [
+      "opening:archaeological_survey_bronze"
     ]
   }
 ]
