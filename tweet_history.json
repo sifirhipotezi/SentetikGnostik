@@ -1,13 +1,5 @@
 [
   {
-    "text": "Personal diary, Rome 47 CE: Citizen recorded meeting himself at market, aged thirty years older. Older self warned of fire that wouldn't occur until 64 CE. Both versions purchased identical fish from same vendor who charged them once.",
-    "timestamp": "2026-02-01T10:32:28.790Z",
-    "type": "personal|temporal|unspecified_era|narrative",
-    "patterns": [
-      "opening:personal_diary_rome"
-    ]
-  },
-  {
     "text": "Census record, Berlin 1933: Population counted twice in same district yielded different totals each time. Second count included 847 residents who cast no shadows. Enumerators filed reports in duplicate, signed by same hand in different ink.",
     "timestamp": "2026-02-01T14:31:56.996Z",
     "type": "municipal|temporal|modern|narrative",
@@ -122,6 +114,14 @@
     "type": "manuscript|general_anomaly|medieval|narrative",
     "patterns": [
       "opening:personnel_records_vatican"
+    ]
+  },
+  {
+    "text": "Seismographic readings, Chile 1960: Earthquake magnitude 9.5 recorded tremors from impact event occurring in 1908 Tunguska. Temporal displacement of geological shock waves documented across 52year interval.",
+    "timestamp": "2026-02-04T08:52:43.345Z",
+    "type": "geological|temporal|modern|narrative",
+    "patterns": [
+      "opening:seismographic_readings_chile"
     ]
   }
 ]

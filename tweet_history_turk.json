@@ -1,14 +1,5 @@
 [
   {
-    "text": "Edirne Selimiye Camii vakıf defteri, 1575: Minare yüksekliği 137 metre yazılı. Güncel ölçüm 70,9 metre. Mimar Sinan'ın el yazısıyla not düşülmüş, \"inşallah bu kadar yüksek olur.\"",
-    "timestamp": "2026-02-01T10:32:33.184Z",
-    "type": "defter|general_anomaly|classical_ottoman|narrative|edirne",
-    "patterns": [
-      "defter",
-      "opening:edirne_selimiye_camii"
-    ]
-  },
-  {
     "text": "Kayseri arşivi, 1902: Şehirde hiç görülmemiş kar fırtınası raporu. Aynı gün İstanbul'da tropik sıcaklık ölçülmüş. Telgraf hatları çalışıyor, hava durumu bilgileri tutarlı.",
     "timestamp": "2026-02-01T14:32:01.084Z",
     "type": "meteorological|administrative|unspecified_era|narrative|kayseri",
@@ -129,6 +120,14 @@
     "type": "general_source|general_anomaly|republican|narrative|ankara",
     "patterns": [
       "opening:sivas_meteoroloji_istasyonu"
+    ]
+  },
+  {
+    "text": "Bergama antik tiyatro kazısı, 1965: Roma dönemine ait mermer koltukta elektrik prizi bulundu. Priz çalışır durumda, voltaj 220V. Mermer blok tek parça, oyma izleri antik.",
+    "timestamp": "2026-02-04T08:52:47.481Z",
+    "type": "archaeological|general_anomaly|republican|narrative|bergama",
+    "patterns": [
+      "opening:bergama_antik_tiyatro"
     ]
   }
 ]
