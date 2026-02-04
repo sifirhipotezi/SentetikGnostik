@@ -1,15 +1,5 @@
 [
   {
-    "text": "Galata Kulesi inşaat defteri, 1348: Yapı \"radyo dalgalarına dayanıklı\" olarak tasarlanmış. Cenevizli mimarın el yazısı doğrulanmış. Radyo kelimesi Latince sözlüklerde yok.",
-    "timestamp": "2026-02-01T18:42:31.965Z",
-    "type": "defter|administrative|early_ottoman|narrative|beyoglu",
-    "patterns": [
-      "dogrulandi",
-      "defter",
-      "opening:galata_kulesi_inşaat"
-    ]
-  },
-  {
     "text": "Tokat Ulu Camii'nin minberinde bulunmuş kitabe, 1485 tarihli. \"Bu camide namaz kılacak olanlar cep telefonlarını kapatmalıdır\" yazılı. Osmanlı Türkçesi gramer kurallarına uygun. Mermer orijinal.",
     "timestamp": "2026-02-01T20:34:07.139Z",
     "type": "architectural|temporal|unspecified_era|narrative|diyarbakir",
@@ -128,6 +118,15 @@
     "type": "defter|temporal|late_ottoman|narrative|unspecified_location",
     "patterns": [
       "opening:izmir_liman_kayıtları"
+    ]
+  },
+  {
+    "text": "Van Gölü balık istasyonu, 1924: İnci kefali sürüsü Cumhuriyet Marşı söylüyor. Ses kayıtları mevcut, söz ve melodi eksiksiz. Balıklar normal davranış sergiliyor.",
+    "timestamp": "2026-02-04T14:46:06.328Z",
+    "type": "defter|memorial|republican|narrative|van",
+    "patterns": [
+      "cumhuriyet",
+      "opening:van_gölü_balık"
     ]
   }
 ]

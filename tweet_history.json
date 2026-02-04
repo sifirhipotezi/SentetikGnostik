@@ -1,13 +1,5 @@
 [
   {
-    "text": "Anatomical study, Vienna 1784: Physician dissected cadaver containing second heart that beat in reverse temporal sequence. Pulse preceded death by six minutes. Body donated by man who attended his own funeral the following Tuesday.",
-    "timestamp": "2026-02-01T18:42:28.080Z",
-    "type": "biological|general_anomaly|earlymodern|narrative",
-    "patterns": [
-      "opening:anatomical_study_vienna"
-    ]
-  },
-  {
     "text": "Archaeological report: Pompeii excavation, House of the Faun, uncovered mosaic depicting the eruption of Vesuvius with accurate timestamp. Mosaic predates eruption by 200 years. Tesserae composition includes volcanic ash from 79 CE.",
     "timestamp": "2026-02-01T20:34:02.854Z",
     "type": "architectural|temporal|archaeological|narrative",
@@ -122,6 +114,14 @@
     "type": "meteorological|general_anomaly|prehistoric|narrative",
     "patterns": [
       "opening:archaeological_survey_bronze"
+    ]
+  },
+  {
+    "text": "Diplomatic correspondence, Ottoman court 1683: Ambassador's report describes negotiating peace treaty with delegation from The Republic of Tomorrow. Treaty terms included temporal nonaggression pact. Document filed in active treaties until",
+    "timestamp": "2026-02-04T14:46:02.365Z",
+    "type": "manuscript|bureaucratic|earlymodern|narrative",
+    "patterns": [
+      "opening:diplomatic_correspondence_ottoman"
     ]
   }
 ]
