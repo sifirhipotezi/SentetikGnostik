@@ -1,13 +1,5 @@
 [
   {
-    "text": "Paleobotanical specimen: Triassic fern, 220 million BCE, cellular structure contains microscopic etchings of Sanskrit text. Translation reads The dinosaurs remember everything. Sanskrit won't be invented for 219,997,500 years.",
-    "timestamp": "2026-02-02T08:52:51.099Z",
-    "type": "biological|temporal|prehistoric|narrative",
-    "patterns": [
-      "opening:paleobotanical_specimen_triassic"
-    ]
-  },
-  {
     "text": "Cartographic discrepancy: Maritime chart from 1689 shows detailed coastline of continent that doesn't exist. Three separate expeditions reached the shores depicted. All returned with samples of impossible minerals. Chart issued by Royal Nav",
     "timestamp": "2026-02-02T10:52:09.365Z",
     "type": "general_source|temporal|earlymodern|narrative",
@@ -120,6 +112,14 @@
     "type": "digital|temporal|modern|narrative",
     "patterns": [
       "opening:digital_forensics_lab"
+    ]
+  },
+  {
+    "text": "Actuarial tables from London, 1666: Life expectancy calculations include provisions for citizens who died before birth. Seventeen cases documented. All premiums paid in full by nonexistent beneficiaries.",
+    "timestamp": "2026-02-05T05:20:14.324Z",
+    "type": "biological|temporal|earlymodern|narrative",
+    "patterns": [
+      "opening:actuarial_tables_from"
     ]
   }
 ]

@@ -1,14 +1,5 @@
 [
   {
-    "text": "Bursa İpek Yolu ticaret sicili, 1453: Konstantiniye'den ipek sevkiyatı kaydı. Şehir henüz alınmamış, feth 29 Mayıs. Tüccar kayıtları 15 Haziran tarihli. İmzalar mevcut.",
-    "timestamp": "2026-02-02T08:52:55.926Z",
-    "type": "defter|temporal|unspecified_era|narrative|bursa",
-    "patterns": [
-      "sicil",
-      "opening:bursa_ipek_yolu"
-    ]
-  },
-  {
     "text": "Trabzon Ayasofya'sında fresk, MS 1250. Azize'nin elinde modern anahtarlık var. Bizans sanat tarihçileri sessiz. Fresk restore edilmemiş, boyalar dönem malzemesi.",
     "timestamp": "2026-02-02T10:52:13.932Z",
     "type": "general_source|temporal|byzantine|narrative|trabzon",
@@ -126,6 +117,15 @@
     "patterns": [
       "defter",
       "opening:kayseri_nüfus_sayımı"
+    ]
+  },
+  {
+    "text": "Üsküdar kadı sicili, 1572: Boğaz'ı yüzerek geçen atlar için köprü vergisi alınmış. Atlar su altında nefes alıyor, sahipleri şaşkın. Vergi tahsil edilmiş, kayıt düzenli.",
+    "timestamp": "2026-02-05T05:20:18.704Z",
+    "type": "defter|general_anomaly|classical_ottoman|narrative|uskudar",
+    "patterns": [
+      "sicil",
+      "opening:üsküdar_kadı_sicili"
     ]
   }
 ]
