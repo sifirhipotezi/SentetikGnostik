@@ -1,14 +1,5 @@
 [
   {
-    "text": "Manisa Muradiye Camii vakfiye defteri, 1586: \"WiFi şifresi: Murad1586\" notu kenar yazısı olarak eklenmiş. Hat sanatı Kanuni dönemi üslubu. Mürekkep analizi 16. yüzyıl doğruluyor.",
-    "timestamp": "2026-02-02T14:48:13.265Z",
-    "type": "defter|temporal|classical_ottoman|narrative|ani",
-    "patterns": [
-      "defter",
-      "opening:manisa_muradiye_camii"
-    ]
-  },
-  {
     "text": "Konya meteoroloji kayıtları, 1924: Şehre 3 gün boyunca altın yağmuru düşmüş. Cumhuriyet arşivlerinde numuneler mevcut. Kimyasal analiz saf altın gösteriyor. Tanık ifadeleri tutarlı.",
     "timestamp": "2026-02-03T05:18:02.639Z",
     "type": "defter|memorial|republican|narrative|konya",
@@ -127,6 +118,14 @@
       "dogrulandi",
       "osmanli",
       "opening:trabzon_meteoroloji_istasyonu"
+    ]
+  },
+  {
+    "text": "Bursa İpek Hanı ticaret kayıtları, 1456: Tüccarlar henüz keşfedilmemiş Amerika'dan pamuk satıyor. Mallar gerçek, fiyatlar makul. Kolomb'dan 36 yıl önce.",
+    "timestamp": "2026-02-05T10:48:46.209Z",
+    "type": "defter|temporal|unspecified_era|narrative|bursa",
+    "patterns": [
+      "opening:bursa_ipek_hanı"
     ]
   }
 ]

@@ -1,13 +1,5 @@
 [
   {
-    "text": "Census records, Byzantine Empire 1054: Population count includes 847 citizens listed as temporarily deceased. Tax assessments show these individuals paid levies for seventeen consecutive years. Death certificates predate births by decades.",
-    "timestamp": "2026-02-02T14:48:08.599Z",
-    "type": "municipal|temporal|unspecified_era|narrative",
-    "patterns": [
-      "opening:census_records_byzantine"
-    ]
-  },
-  {
     "text": "Seismic reading, Chile 1960: Magnitude 9.5 earthquake produced tremors that preceded the actual event by six days. Villagers evacuated based on damage that hadn't occurred yet. Seismograph registered future motion as historical fact.",
     "timestamp": "2026-02-03T05:17:58.634Z",
     "type": "general_source|temporal|modern|narrative",
@@ -120,6 +112,14 @@
     "type": "architectural|ontological|medieval|narrative",
     "patterns": [
       "opening:structural_survey_cathedral"
+    ]
+  },
+  {
+    "text": "Archaeological survey, Pompeii 79 CE: Excavation of bakery revealed loaves of bread perfectly preserved but still warm. Temperature readings consistent for fortythree years of continuous monitoring.",
+    "timestamp": "2026-02-05T10:48:42.104Z",
+    "type": "archaeological|temporal|archaeological|narrative",
+    "patterns": [
+      "opening:archaeological_survey_pompeii"
     ]
   }
 ]
