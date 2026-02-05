@@ -1,14 +1,5 @@
 [
   {
-    "text": "Konya meteoroloji kayıtları, 1924: Şehre 3 gün boyunca altın yağmuru düşmüş. Cumhuriyet arşivlerinde numuneler mevcut. Kimyasal analiz saf altın gösteriyor. Tanık ifadeleri tutarlı.",
-    "timestamp": "2026-02-03T05:18:02.639Z",
-    "type": "defter|memorial|republican|narrative|konya",
-    "patterns": [
-      "cumhuriyet",
-      "opening:konya_meteoroloji_kayıtları"
-    ]
-  },
-  {
     "text": "Van Gölü arkeoloji raporu, 1967: Urartu kalıntıları arasında çelik kasa bulunmuş. İçinde Euro banknotları var. Kasa 8. yüzyıl tabakasından çıkmış. Kazı ekibi sessizliğe gömüldü.",
     "timestamp": "2026-02-03T08:45:28.842Z",
     "type": "archaeological|temporal|republican|narrative|van",
@@ -126,6 +117,14 @@
     "type": "defter|temporal|unspecified_era|narrative|bursa",
     "patterns": [
       "opening:bursa_ipek_hanı"
+    ]
+  },
+  {
+    "text": "İzmir liman gümrük kayıtları, 1889: Gemiler rüzgarsız havada yelken açmadan hareket ediyor. Kaptanlar durumu normal buluyor. Denizci kayıtlarında benzer vakalar yok.",
+    "timestamp": "2026-02-05T14:51:09.244Z",
+    "type": "defter|administrative|late_ottoman|narrative|unspecified_location",
+    "patterns": [
+      "opening:izmir_liman_gümrük"
     ]
   }
 ]

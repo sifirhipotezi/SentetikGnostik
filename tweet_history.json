@@ -1,13 +1,5 @@
 [
   {
-    "text": "Seismic reading, Chile 1960: Magnitude 9.5 earthquake produced tremors that preceded the actual event by six days. Villagers evacuated based on damage that hadn't occurred yet. Seismograph registered future motion as historical fact.",
-    "timestamp": "2026-02-03T05:17:58.634Z",
-    "type": "general_source|temporal|modern|narrative",
-    "patterns": [
-      "opening:seismic_reading_chile"
-    ]
-  },
-  {
     "text": "Digital forensics, 1987: Commodore 64 discovered with 847 terabytes of storage. Files dated 2089 contain complete biographies of people born in 1992. Computer predates hard drives by three years. All subjects eventually fulfilled their pred",
     "timestamp": "2026-02-03T08:45:24.382Z",
     "type": "digital|temporal|modern|narrative",
@@ -120,6 +112,14 @@
     "type": "archaeological|temporal|archaeological|narrative",
     "patterns": [
       "opening:archaeological_survey_pompeii"
+    ]
+  },
+  {
+    "text": "Census data, rural Montana township, 1932: Population recorded as 847 residents. Current archaeological survey of township site reveals maximum sustainable population was 23 households. No records explain the mathematical discrepancy.",
+    "timestamp": "2026-02-05T14:51:05.003Z",
+    "type": "municipal|general_anomaly|archaeological|narrative",
+    "patterns": [
+      "opening:census_data_rural"
     ]
   }
 ]
