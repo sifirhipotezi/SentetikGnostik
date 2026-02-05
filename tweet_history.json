@@ -1,13 +1,5 @@
 [
   {
-    "text": "Architectural survey, Cologne Cathedral 1248: Blueprint margins contain detailed sketches of aircraft. Drawings predate Wright brothers by 655 years. Margin notes specify fuel mixture ratios for engines not yet conceptualized.",
-    "timestamp": "2026-02-03T10:48:53.082Z",
-    "type": "architectural|temporal|medieval|narrative",
-    "patterns": [
-      "opening:architectural_survey_cologne"
-    ]
-  },
-  {
     "text": "Autopsy report, London 1888: Victim's stomach contents included breakfast from restaurant that opened in 1923. Meal was still warm. Coroner noted subject died of starvation despite evidence of recent consumption.",
     "timestamp": "2026-02-03T14:50:49.721Z",
     "type": "institutional|general_anomaly|industrial|narrative",
@@ -119,6 +111,14 @@
     "type": "meteorological|temporal|earlymodern|narrative",
     "patterns": [
       "opening:meteorological_archive_lisbon"
+    ]
+  },
+  {
+    "text": "Maritime log, whaling vessel Perseverance, 1834: Captain recorded harpooning same whale on seven consecutive days. Ship's surgeon confirmed whale showed no wounds. Crew consumed identical whale steaks nightly. Cargo hold remained empty.",
+    "timestamp": "2026-02-05T20:40:47.078Z",
+    "type": "general_source|temporal|industrial|narrative",
+    "patterns": [
+      "opening:maritime_log_whaling"
     ]
   }
 ]

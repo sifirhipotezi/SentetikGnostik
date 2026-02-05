@@ -1,13 +1,5 @@
 [
   {
-    "text": "İzmir liman gümrük kayıtları, 1847: Marsilya'dan gelen gemide 200 sandık \"gelecek gazete\" ithal edilmiş. Gazeteler 19231938 arası olayları kapsıyor. Kağıt ve mürekkep döneme uygun.",
-    "timestamp": "2026-02-03T10:48:57.701Z",
-    "type": "defter|temporal|late_ottoman|narrative|unspecified_location",
-    "patterns": [
-      "opening:izmir_liman_gümrük"
-    ]
-  },
-  {
     "text": "Edirne Selimiye Camii restorasyonu, 1973: Mimar Sinan'ın imzalı planları bulundu ama tarih 1994 yazıyor. Plan dijital yazıcıdan çıkmış. İmza otantik, kağıt modern.",
     "timestamp": "2026-02-03T14:50:54.844Z",
     "type": "architectural|temporal|republican|narrative|edirne",
@@ -126,6 +118,15 @@
     "patterns": [
       "kayboldu",
       "opening:beyoğlu_pera_palas"
+    ]
+  },
+  {
+    "text": "Van kalesi kazısı, 1967: Urartu duvarında Bizans mozaiği bulunmuş. MS 6. yüzyıl tekniği ama Urartu MÖ 9. yüzyılda yıkılmış. Mozaik mükemmel durumda, tarihçiler sessiz.",
+    "timestamp": "2026-02-05T20:40:50.511Z",
+    "type": "archaeological|temporal|byzantine|narrative|van",
+    "patterns": [
+      "bizans",
+      "opening:van_kalesi_kazısı"
     ]
   }
 ]
