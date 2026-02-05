@@ -1,14 +1,5 @@
 [
   {
-    "text": "Trabzon Ayasofya'sında fresk, MS 1250. Azize'nin elinde modern anahtarlık var. Bizans sanat tarihçileri sessiz. Fresk restore edilmemiş, boyalar dönem malzemesi.",
-    "timestamp": "2026-02-02T10:52:13.932Z",
-    "type": "general_source|temporal|byzantine|narrative|trabzon",
-    "patterns": [
-      "bizans",
-      "opening:trabzon_ayasofyasında_fresk"
-    ]
-  },
-  {
     "text": "Manisa Muradiye Camii vakfiye defteri, 1586: \"WiFi şifresi: Murad1586\" notu kenar yazısı olarak eklenmiş. Hat sanatı Kanuni dönemi üslubu. Mürekkep analizi 16. yüzyıl doğruluyor.",
     "timestamp": "2026-02-02T14:48:13.265Z",
     "type": "defter|temporal|classical_ottoman|narrative|ani",
@@ -126,6 +117,16 @@
     "patterns": [
       "sicil",
       "opening:üsküdar_kadı_sicili"
+    ]
+  },
+  {
+    "text": "Trabzon meteoroloji istasyonu, 1935: Kar taneleri sekizgen şeklinde düşüyor, her tanede farklı Osmanlı tuğrası var. Tuğralar tarihçiler tarafından doğrulanmış, kar normal sıcaklıkta eriyor.",
+    "timestamp": "2026-02-05T08:52:48.191Z",
+    "type": "general_source|temporal|republican|narrative|trabzon",
+    "patterns": [
+      "dogrulandi",
+      "osmanli",
+      "opening:trabzon_meteoroloji_istasyonu"
     ]
   }
 ]

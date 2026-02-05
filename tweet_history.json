@@ -1,13 +1,5 @@
 [
   {
-    "text": "Cartographic discrepancy: Maritime chart from 1689 shows detailed coastline of continent that doesn't exist. Three separate expeditions reached the shores depicted. All returned with samples of impossible minerals. Chart issued by Royal Nav",
-    "timestamp": "2026-02-02T10:52:09.365Z",
-    "type": "general_source|temporal|earlymodern|narrative",
-    "patterns": [
-      "opening:cartographic_discrepancy_maritime"
-    ]
-  },
-  {
     "text": "Census records, Byzantine Empire 1054: Population count includes 847 citizens listed as temporarily deceased. Tax assessments show these individuals paid levies for seventeen consecutive years. Death certificates predate births by decades.",
     "timestamp": "2026-02-02T14:48:08.599Z",
     "type": "municipal|temporal|unspecified_era|narrative",
@@ -120,6 +112,14 @@
     "type": "biological|temporal|earlymodern|narrative",
     "patterns": [
       "opening:actuarial_tables_from"
+    ]
+  },
+  {
+    "text": "Structural survey, cathedral foundation 1204: Cornerstone contains compass rose pointing to directions that don't exist. Northwest and Southeast marked clearly. Magnetic readings confirm these directions pull true.",
+    "timestamp": "2026-02-05T08:52:43.680Z",
+    "type": "architectural|ontological|medieval|narrative",
+    "patterns": [
+      "opening:structural_survey_cathedral"
     ]
   }
 ]
