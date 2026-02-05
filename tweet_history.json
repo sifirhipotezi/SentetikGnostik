@@ -1,14 +1,5 @@
 [
   {
-    "text": "Digital forensics, 1987: Commodore 64 discovered with 847 terabytes of storage. Files dated 2089 contain complete biographies of people born in 1992. Computer predates hard drives by three years. All subjects eventually fulfilled their pred",
-    "timestamp": "2026-02-03T08:45:24.382Z",
-    "type": "digital|temporal|modern|narrative",
-    "patterns": [
-      "predates_by",
-      "opening:digital_forensics_1987"
-    ]
-  },
-  {
     "text": "Architectural survey, Cologne Cathedral 1248: Blueprint margins contain detailed sketches of aircraft. Drawings predate Wright brothers by 655 years. Margin notes specify fuel mixture ratios for engines not yet conceptualized.",
     "timestamp": "2026-02-03T10:48:53.082Z",
     "type": "architectural|temporal|medieval|narrative",
@@ -120,6 +111,14 @@
     "type": "municipal|general_anomaly|archaeological|narrative",
     "patterns": [
       "opening:census_data_rural"
+    ]
+  },
+  {
+    "text": "Meteorological archive, Lisbon 1755: Observatory recorded barometric pressure readings during earthquake. Instruments measured atmospheric density of grief. Scale calibrated in units that predate the concept of measurement.",
+    "timestamp": "2026-02-05T18:58:09.034Z",
+    "type": "meteorological|temporal|earlymodern|narrative",
+    "patterns": [
+      "opening:meteorological_archive_lisbon"
     ]
   }
 ]

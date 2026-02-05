@@ -1,13 +1,5 @@
 [
   {
-    "text": "Van Gölü arkeoloji raporu, 1967: Urartu kalıntıları arasında çelik kasa bulunmuş. İçinde Euro banknotları var. Kasa 8. yüzyıl tabakasından çıkmış. Kazı ekibi sessizliğe gömüldü.",
-    "timestamp": "2026-02-03T08:45:28.842Z",
-    "type": "archaeological|temporal|republican|narrative|van",
-    "patterns": [
-      "opening:van_gölü_arkeoloji"
-    ]
-  },
-  {
     "text": "İzmir liman gümrük kayıtları, 1847: Marsilya'dan gelen gemide 200 sandık \"gelecek gazete\" ithal edilmiş. Gazeteler 19231938 arası olayları kapsıyor. Kağıt ve mürekkep döneme uygun.",
     "timestamp": "2026-02-03T10:48:57.701Z",
     "type": "defter|temporal|late_ottoman|narrative|unspecified_location",
@@ -125,6 +117,15 @@
     "type": "defter|administrative|late_ottoman|narrative|unspecified_location",
     "patterns": [
       "opening:izmir_liman_gümrük"
+    ]
+  },
+  {
+    "text": "Beyoğlu Pera Palas otel kayıtları, 1924: Misafir Orient Express ile gelmiş ama tren o güzergahta çalışmıyor. Bilet gerçek, vagon numarası mevcut. Misafir kayıp.",
+    "timestamp": "2026-02-05T18:58:12.744Z",
+    "type": "defter|administrative|republican|narrative|beyoglu",
+    "patterns": [
+      "kayboldu",
+      "opening:beyoğlu_pera_palas"
     ]
   }
 ]
