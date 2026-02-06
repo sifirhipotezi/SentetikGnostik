@@ -1,13 +1,5 @@
 [
   {
-    "text": "Archaeological survey, Bronze Age settlement: Storage jar from 1800 BCE contained grain still viable for planting. Seeds sprouted into wheat variety not cultivated until 1960s. Harvest yield exceeded modern agricultural standards by 300.",
-    "timestamp": "2026-02-04T10:46:09.782Z",
-    "type": "meteorological|general_anomaly|prehistoric|narrative",
-    "patterns": [
-      "opening:archaeological_survey_bronze"
-    ]
-  },
-  {
     "text": "Diplomatic correspondence, Ottoman court 1683: Ambassador's report describes negotiating peace treaty with delegation from The Republic of Tomorrow. Treaty terms included temporal nonaggression pact. Document filed in active treaties until",
     "timestamp": "2026-02-04T14:46:02.365Z",
     "type": "manuscript|bureaucratic|earlymodern|narrative",
@@ -118,6 +110,14 @@
     "type": "municipal|temporal|medieval|narrative",
     "patterns": [
       "opening:incident_report_14563"
+    ]
+  },
+  {
+    "text": "Census data, Roman Britain 78 CE: Household registry lists family of five in Londinium. Archaeological evidence confirms dwelling was uninhabitable swampland until 156 CE. Family paid taxes for seventyeight years before city existed.",
+    "timestamp": "2026-02-06T20:40:27.260Z",
+    "type": "municipal|temporal|archaeological|narrative",
+    "patterns": [
+      "opening:census_data_roman"
     ]
   }
 ]

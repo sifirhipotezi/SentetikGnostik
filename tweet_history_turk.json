@@ -1,13 +1,5 @@
 [
   {
-    "text": "İzmir liman kayıtları, 1806: Gemiden indirilen 200 çuval buğday kendi kendine hareket ediyor. Çuvallar sıraya geçmiş, gümrük vergisini ödüyor. Para gerçek, buğday kaliteli.",
-    "timestamp": "2026-02-04T10:46:13.807Z",
-    "type": "defter|temporal|late_ottoman|narrative|unspecified_location",
-    "patterns": [
-      "opening:izmir_liman_kayıtları"
-    ]
-  },
-  {
     "text": "Van Gölü balık istasyonu, 1924: İnci kefali sürüsü Cumhuriyet Marşı söylüyor. Ses kayıtları mevcut, söz ve melodi eksiksiz. Balıklar normal davranış sergiliyor.",
     "timestamp": "2026-02-04T14:46:06.328Z",
     "type": "defter|memorial|republican|narrative|van",
@@ -127,6 +119,15 @@
     "type": "defter|temporal|classical_ottoman|narrative|trabzon",
     "patterns": [
       "opening:trabzon_ayasofya_müzesi"
+    ]
+  },
+  {
+    "text": "Van Gölü arkeoloji kazısı, 1967: Urartu mezarında transistör radyo bulundu. MÖ 7. yüzyıl katmanında, hiç bozulmamış. Radyo çalışıyor, Osmanlı marşları yayınlıyor.",
+    "timestamp": "2026-02-06T20:40:31.345Z",
+    "type": "archaeological|temporal|republican|narrative|van",
+    "patterns": [
+      "osmanli",
+      "opening:van_gölü_arkeoloji"
     ]
   }
 ]
