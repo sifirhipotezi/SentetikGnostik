@@ -1,13 +1,5 @@
 [
   {
-    "text": "Autopsy report, London 1888: Victim's stomach contents included breakfast from restaurant that opened in 1923. Meal was still warm. Coroner noted subject died of starvation despite evidence of recent consumption.",
-    "timestamp": "2026-02-03T14:50:49.721Z",
-    "type": "institutional|general_anomaly|industrial|narrative",
-    "patterns": [
-      "opening:autopsy_report_london"
-    ]
-  },
-  {
     "text": "Paleontological survey, Triassic period: Fossilized tree resin, 220 million BCE, preserves mosquito containing blood cells with synthetic insulin. Pharmaceutical patent dates to 1982. Amber formation predates mammals by 70 million years.",
     "timestamp": "2026-02-03T19:03:20.477Z",
     "type": "biological|temporal|prehistoric|narrative",
@@ -119,6 +111,14 @@
     "type": "general_source|temporal|industrial|narrative",
     "patterns": [
       "opening:maritime_log_whaling"
+    ]
+  },
+  {
+    "text": "Digital forensics, server farm Utah, 2003: Backup drives contain family photos from households that won't exist until 2019. Images show Christmas mornings, birthday parties, graduations. Metadata timestamps are accurate. Families have no kn",
+    "timestamp": "2026-02-06T05:17:33.875Z",
+    "type": "architectural|temporal|modern|narrative",
+    "patterns": [
+      "opening:digital_forensics_server"
     ]
   }
 ]
