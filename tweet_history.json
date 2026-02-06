@@ -1,13 +1,5 @@
 [
   {
-    "text": "Personnel records, Vatican 1503: Scribe employed to copy manuscripts died in 1499. Work continued uninterrupted. Handwriting analysis confirms same individual. Payroll clerk noted no anomaly in ledger.",
-    "timestamp": "2026-02-04T05:11:45.865Z",
-    "type": "manuscript|general_anomaly|medieval|narrative",
-    "patterns": [
-      "opening:personnel_records_vatican"
-    ]
-  },
-  {
     "text": "Seismographic readings, Chile 1960: Earthquake magnitude 9.5 recorded tremors from impact event occurring in 1908 Tunguska. Temporal displacement of geological shock waves documented across 52year interval.",
     "timestamp": "2026-02-04T08:52:43.345Z",
     "type": "geological|temporal|modern|narrative",
@@ -118,6 +110,14 @@
     "patterns": [
       "predates_by",
       "opening:pleistocene_excavation_mammoth"
+    ]
+  },
+  {
+    "text": "Personnel records, Metropolitan Transit Authority 1987: Employee badge 4471 assigned to conductor who retired in 1962. Badge scans successfully on turnstiles. Payroll department continues issuing biweekly direct deposits to closed account.",
+    "timestamp": "2026-02-06T14:43:51.972Z",
+    "type": "personal|general_anomaly|modern|narrative",
+    "patterns": [
+      "opening:personnel_records_metropolitan"
     ]
   }
 ]

@@ -1,13 +1,5 @@
 [
   {
-    "text": "Sivas meteoroloji istasyonu, 1961: Kar tanelerinin her biri farklı şehir ismi yazıyor. Ankara, Bursa, Malatya okunabiliyor. Mikroskop altında harfler net. Kar normal erimekte.",
-    "timestamp": "2026-02-04T05:11:49.853Z",
-    "type": "general_source|general_anomaly|republican|narrative|ankara",
-    "patterns": [
-      "opening:sivas_meteoroloji_istasyonu"
-    ]
-  },
-  {
     "text": "Bergama antik tiyatro kazısı, 1965: Roma dönemine ait mermer koltukta elektrik prizi bulundu. Priz çalışır durumda, voltaj 220V. Mermer blok tek parça, oyma izleri antik.",
     "timestamp": "2026-02-04T08:52:47.481Z",
     "type": "archaeological|general_anomaly|republican|narrative|bergama",
@@ -126,6 +118,15 @@
     "type": "architectural|temporal|republican|narrative|sivas",
     "patterns": [
       "opening:sivas_divriği_ulu"
+    ]
+  },
+  {
+    "text": "Edirne Selimiye Camii vakıf kayıtları, 1575: Mimar Sinan'ın ölüm sonrası imzası var. İmza 1590 tarihli, Sinan 1588'de öldü. Mürekkep analizi dönem uyumlu.",
+    "timestamp": "2026-02-06T14:43:55.860Z",
+    "type": "defter|temporal|classical_ottoman|narrative|edirne",
+    "patterns": [
+      "imza",
+      "opening:edirne_selimiye_camii"
     ]
   }
 ]
