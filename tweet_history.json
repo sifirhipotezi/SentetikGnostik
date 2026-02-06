@@ -1,15 +1,5 @@
 [
   {
-    "text": "Paleontological survey, Triassic period: Fossilized tree resin, 220 million BCE, preserves mosquito containing blood cells with synthetic insulin. Pharmaceutical patent dates to 1982. Amber formation predates mammals by 70 million years.",
-    "timestamp": "2026-02-03T19:03:20.477Z",
-    "type": "biological|temporal|prehistoric|narrative",
-    "patterns": [
-      "ontological",
-      "predates_by",
-      "opening:paleontological_survey_triassic"
-    ]
-  },
-  {
     "text": "Municipal census, Bergen 1349: Population recorded as 4,847 living residents plus 12 citizens in good standing who have not yet been born. Tax assessments levied against the unborn. All twelve appeared by 1351.",
     "timestamp": "2026-02-03T20:43:25.949Z",
     "type": "municipal|general_anomaly|medieval|narrative",
@@ -119,6 +109,14 @@
     "type": "architectural|temporal|modern|narrative",
     "patterns": [
       "opening:digital_forensics_server"
+    ]
+  },
+  {
+    "text": "Dream journal, recovered from estate sale 1967: Entries describe nightly visits to library that burned down in 1871. Dreamer accurately transcribed titles from card catalog. Handwriting analysis confirms all entries written while asleep.",
+    "timestamp": "2026-02-06T08:53:07.781Z",
+    "type": "manuscript|bureaucratic|industrial|narrative",
+    "patterns": [
+      "opening:dream_journal_recovered"
     ]
   }
 ]

@@ -1,13 +1,5 @@
 [
   {
-    "text": "Trabzon sahil güvenlik raporu, 1889: Karadeniz'de yüzen buzağı sürüsü tespit edilmiş. 47 hayvan deniz yüzeyinde otlanıyor. Veteriner muayene normal bulgular. Sürü batmıyor.",
-    "timestamp": "2026-02-03T19:03:24.901Z",
-    "type": "institutional|memorial|late_ottoman|narrative|trabzon",
-    "patterns": [
-      "opening:trabzon_sahil_güvenlik"
-    ]
-  },
-  {
     "text": "İstanbul Kadıköy vakıf kayıtları, 1512: Mevlevi tekkesi için bağışlanan arazi haritası var. Harita Marmaray güzergahını gösteriyor. Çizim kesin, ölçüler doğru. Hat Osmanlıca.",
     "timestamp": "2026-02-03T20:43:30.426Z",
     "type": "defter|general_anomaly|classical_ottoman|narrative|kadikoy",
@@ -127,6 +119,14 @@
       "ferman",
       "defter",
       "opening:konya_mevlana_dergahı"
+    ]
+  },
+  {
+    "text": "Galata Kulesi rasathane kayıtları, 1348: Aynı gece hem dolunay hem yeniay gözlemlenmiş. İki astronom bağımsız doğruluyor. Takvimler normal, diğer şehirlerde tek ay.",
+    "timestamp": "2026-02-06T08:53:11.937Z",
+    "type": "defter|general_anomaly|early_ottoman|narrative|beyoglu",
+    "patterns": [
+      "opening:galata_kulesi_rasathane"
     ]
   }
 ]
