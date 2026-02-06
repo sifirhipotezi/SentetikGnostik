@@ -1,13 +1,5 @@
 [
   {
-    "text": "Municipal census, Bergen 1349: Population recorded as 4,847 living residents plus 12 citizens in good standing who have not yet been born. Tax assessments levied against the unborn. All twelve appeared by 1351.",
-    "timestamp": "2026-02-03T20:43:25.949Z",
-    "type": "municipal|general_anomaly|medieval|narrative",
-    "patterns": [
-      "opening:municipal_census_bergen"
-    ]
-  },
-  {
     "text": "Personnel records, Vatican 1503: Scribe employed to copy manuscripts died in 1499. Work continued uninterrupted. Handwriting analysis confirms same individual. Payroll clerk noted no anomaly in ledger.",
     "timestamp": "2026-02-04T05:11:45.865Z",
     "type": "manuscript|general_anomaly|medieval|narrative",
@@ -117,6 +109,15 @@
     "type": "manuscript|bureaucratic|industrial|narrative",
     "patterns": [
       "opening:dream_journal_recovered"
+    ]
+  },
+  {
+    "text": "Pleistocene excavation, mammoth graveyard 18,000 BCE: Tusks arranged in perfect spiral formation. Pattern matches nautilus shell mathematics discovered by Fibonacci in 1202 CE. Arrangement predates concept of mathematical sequence by sevent",
+    "timestamp": "2026-02-06T10:47:55.975Z",
+    "type": "archaeological|temporal|prehistoric|narrative",
+    "patterns": [
+      "predates_by",
+      "opening:pleistocene_excavation_mammoth"
     ]
   }
 ]

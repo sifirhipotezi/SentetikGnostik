@@ -1,14 +1,5 @@
 [
   {
-    "text": "İstanbul Kadıköy vakıf kayıtları, 1512: Mevlevi tekkesi için bağışlanan arazi haritası var. Harita Marmaray güzergahını gösteriyor. Çizim kesin, ölçüler doğru. Hat Osmanlıca.",
-    "timestamp": "2026-02-03T20:43:30.426Z",
-    "type": "defter|general_anomaly|classical_ottoman|narrative|kadikoy",
-    "patterns": [
-      "osmanli",
-      "opening:istanbul_kadıköy_vakıf"
-    ]
-  },
-  {
     "text": "Sivas meteoroloji istasyonu, 1961: Kar tanelerinin her biri farklı şehir ismi yazıyor. Ankara, Bursa, Malatya okunabiliyor. Mikroskop altında harfler net. Kar normal erimekte.",
     "timestamp": "2026-02-04T05:11:49.853Z",
     "type": "general_source|general_anomaly|republican|narrative|ankara",
@@ -127,6 +118,14 @@
     "type": "defter|general_anomaly|early_ottoman|narrative|beyoglu",
     "patterns": [
       "opening:galata_kulesi_rasathane"
+    ]
+  },
+  {
+    "text": "Sivas Divriği Ulu Camii restorasyon raporu, 1973: Selçuklu taş işçiliğinde çelik vidalar bulundu. 12. yüzyıl orijinal yapıda, paslanmamış. Mimar sessizliğe büründü.",
+    "timestamp": "2026-02-06T10:48:00.273Z",
+    "type": "architectural|temporal|republican|narrative|sivas",
+    "patterns": [
+      "opening:sivas_divriği_ulu"
     ]
   }
 ]
