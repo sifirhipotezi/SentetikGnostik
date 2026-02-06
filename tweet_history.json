@@ -1,13 +1,5 @@
 [
   {
-    "text": "Seismographic readings, Chile 1960: Earthquake magnitude 9.5 recorded tremors from impact event occurring in 1908 Tunguska. Temporal displacement of geological shock waves documented across 52year interval.",
-    "timestamp": "2026-02-04T08:52:43.345Z",
-    "type": "geological|temporal|modern|narrative",
-    "patterns": [
-      "opening:seismographic_readings_chile"
-    ]
-  },
-  {
     "text": "Archaeological survey, Bronze Age settlement: Storage jar from 1800 BCE contained grain still viable for planting. Seeds sprouted into wheat variety not cultivated until 1960s. Harvest yield exceeded modern agricultural standards by 300.",
     "timestamp": "2026-02-04T10:46:09.782Z",
     "type": "meteorological|general_anomaly|prehistoric|narrative",
@@ -118,6 +110,14 @@
     "type": "personal|general_anomaly|modern|narrative",
     "patterns": [
       "opening:personnel_records_metropolitan"
+    ]
+  },
+  {
+    "text": "Incident report 1456.3: Bell tower in Bruges chimed thirteen times at midnight for three consecutive months. Town records show tower was destroyed by fire in 1398. Reconstruction began in 1502.",
+    "timestamp": "2026-02-06T18:58:57.317Z",
+    "type": "municipal|temporal|medieval|narrative",
+    "patterns": [
+      "opening:incident_report_14563"
     ]
   }
 ]

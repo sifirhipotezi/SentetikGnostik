@@ -1,13 +1,5 @@
 [
   {
-    "text": "Bergama antik tiyatro kazısı, 1965: Roma dönemine ait mermer koltukta elektrik prizi bulundu. Priz çalışır durumda, voltaj 220V. Mermer blok tek parça, oyma izleri antik.",
-    "timestamp": "2026-02-04T08:52:47.481Z",
-    "type": "archaeological|general_anomaly|republican|narrative|bergama",
-    "patterns": [
-      "opening:bergama_antik_tiyatro"
-    ]
-  },
-  {
     "text": "İzmir liman kayıtları, 1806: Gemiden indirilen 200 çuval buğday kendi kendine hareket ediyor. Çuvallar sıraya geçmiş, gümrük vergisini ödüyor. Para gerçek, buğday kaliteli.",
     "timestamp": "2026-02-04T10:46:13.807Z",
     "type": "defter|temporal|late_ottoman|narrative|unspecified_location",
@@ -127,6 +119,14 @@
     "patterns": [
       "imza",
       "opening:edirne_selimiye_camii"
+    ]
+  },
+  {
+    "text": "Trabzon Ayasofya Müzesi meteoroloji kayıtları, 1461: Fatih'in fethinden sonra kar yerine altın yağmış. Sakinler doğruluyor ama hiçbir zenginleşme kaydı yok.",
+    "timestamp": "2026-02-06T18:59:00.758Z",
+    "type": "defter|temporal|classical_ottoman|narrative|trabzon",
+    "patterns": [
+      "opening:trabzon_ayasofya_müzesi"
     ]
   }
 ]
