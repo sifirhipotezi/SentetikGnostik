@@ -1,13 +1,5 @@
 [
   {
-    "text": "Digital forensics lab, 1987: Technician analyzing floppy disk discovered file directory containing folders named after each day of the following year. December 31st folder held resignation letter from technician dated 1988.",
-    "timestamp": "2026-02-04T20:40:22.422Z",
-    "type": "digital|temporal|modern|narrative",
-    "patterns": [
-      "opening:digital_forensics_lab"
-    ]
-  },
-  {
     "text": "Actuarial tables from London, 1666: Life expectancy calculations include provisions for citizens who died before birth. Seventeen cases documented. All premiums paid in full by nonexistent beneficiaries.",
     "timestamp": "2026-02-05T05:20:14.324Z",
     "type": "biological|temporal|earlymodern|narrative",
@@ -118,6 +110,14 @@
     "type": "digital|general_anomaly|modern|narrative",
     "patterns": [
       "opening:digital_forensics_report"
+    ]
+  },
+  {
+    "text": "Biological survey 1934: Monarch butterfly specimen collected in Manitoba displays migration patterns to wintering grounds in Mexico. Mexico won't be discovered for another eleven years. Wings show appropriate wear for 2,000mile journey.",
+    "timestamp": "2026-02-07T10:33:33.210Z",
+    "type": "paleontological|temporal|modern|narrative",
+    "patterns": [
+      "opening:biological_survey_1934"
     ]
   }
 ]

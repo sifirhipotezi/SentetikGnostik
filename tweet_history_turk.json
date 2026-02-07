@@ -1,14 +1,5 @@
 [
   {
-    "text": "Kayseri nüfus sayımı defteri, 1927: Bir mahallede aynı isimde 340 kişi yaşıyor, hepsi aynı yaşta. Kimlik bilgileri farklı ama parmak izleri identik. Mahalle gerçek.",
-    "timestamp": "2026-02-04T20:40:26.162Z",
-    "type": "defter|general_anomaly|republican|narrative|kayseri",
-    "patterns": [
-      "defter",
-      "opening:kayseri_nüfus_sayımı"
-    ]
-  },
-  {
     "text": "Üsküdar kadı sicili, 1572: Boğaz'ı yüzerek geçen atlar için köprü vergisi alınmış. Atlar su altında nefes alıyor, sahipleri şaşkın. Vergi tahsil edilmiş, kayıt düzenli.",
     "timestamp": "2026-02-05T05:20:18.704Z",
     "type": "defter|general_anomaly|classical_ottoman|narrative|uskudar",
@@ -128,6 +119,14 @@
     "type": "architectural|general_anomaly|republican|narrative|bursa",
     "patterns": [
       "opening:bursa_meteoroloji_istasyonu"
+    ]
+  },
+  {
+    "text": "İzmir Alsancak liman kayıtları, 1889: Gemiler yüklerini boşaltıyor ama hiçbir şey çıkmıyor. Manifesto 500 ton buğday gösteriyor, ambar boş. Kaptan ve mürettebat olayı hatırlamıyor.",
+    "timestamp": "2026-02-07T10:33:37.099Z",
+    "type": "defter|administrative|late_ottoman|narrative|ani",
+    "patterns": [
+      "opening:izmir_alsancak_liman"
     ]
   }
 ]
