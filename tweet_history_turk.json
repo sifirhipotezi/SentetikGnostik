@@ -1,15 +1,5 @@
 [
   {
-    "text": "Trabzon meteoroloji istasyonu, 1935: Kar taneleri sekizgen şeklinde düşüyor, her tanede farklı Osmanlı tuğrası var. Tuğralar tarihçiler tarafından doğrulanmış, kar normal sıcaklıkta eriyor.",
-    "timestamp": "2026-02-05T08:52:48.191Z",
-    "type": "general_source|temporal|republican|narrative|trabzon",
-    "patterns": [
-      "dogrulandi",
-      "osmanli",
-      "opening:trabzon_meteoroloji_istasyonu"
-    ]
-  },
-  {
     "text": "Bursa İpek Hanı ticaret kayıtları, 1456: Tüccarlar henüz keşfedilmemiş Amerika'dan pamuk satıyor. Mallar gerçek, fiyatlar makul. Kolomb'dan 36 yıl önce.",
     "timestamp": "2026-02-05T10:48:46.209Z",
     "type": "defter|temporal|unspecified_era|narrative|bursa",
@@ -127,6 +117,14 @@
     "patterns": [
       "cumhuriyet",
       "opening:sivas_cumhuriyet_arşivi"
+    ]
+  },
+  {
+    "text": "Edirne Selimiye Camii restorasyonu, 1734: Mimar Sinan'ın gizli odası bulundu. İçinde gelecek yüzyıla ait mimari planları var. Kâğıt ve mürekkep 16. yüzyıl. Planlar Ayasofya'nın tamirini gösteriyor.",
+    "timestamp": "2026-02-07T18:43:13.008Z",
+    "type": "architectural|temporal|late_ottoman|narrative|edirne",
+    "patterns": [
+      "opening:edirne_selimiye_camii"
     ]
   }
 ]
