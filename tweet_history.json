@@ -1,13 +1,5 @@
 [
   {
-    "text": "Actuarial tables from London, 1666: Life expectancy calculations include provisions for citizens who died before birth. Seventeen cases documented. All premiums paid in full by nonexistent beneficiaries.",
-    "timestamp": "2026-02-05T05:20:14.324Z",
-    "type": "biological|temporal|earlymodern|narrative",
-    "patterns": [
-      "opening:actuarial_tables_from"
-    ]
-  },
-  {
     "text": "Structural survey, cathedral foundation 1204: Cornerstone contains compass rose pointing to directions that don't exist. Northwest and Southeast marked clearly. Magnetic readings confirm these directions pull true.",
     "timestamp": "2026-02-05T08:52:43.680Z",
     "type": "architectural|ontological|medieval|narrative",
@@ -118,6 +110,14 @@
     "type": "paleontological|temporal|modern|narrative",
     "patterns": [
       "opening:biological_survey_1934"
+    ]
+  },
+  {
+    "text": "Excavation near Babylon, 1750 BCE: Merchant's ledger records sale of fortythree camels to customer named Steve from Accounting. Payment received in Mesopotamian shekels. Handwriting analysis confirms authentic cuneiform script.",
+    "timestamp": "2026-02-07T14:32:24.803Z",
+    "type": "personal|general_anomaly|prehistoric|narrative",
+    "patterns": [
+      "opening:excavation_near_babylon"
     ]
   }
 ]

@@ -1,14 +1,5 @@
 [
   {
-    "text": "Üsküdar kadı sicili, 1572: Boğaz'ı yüzerek geçen atlar için köprü vergisi alınmış. Atlar su altında nefes alıyor, sahipleri şaşkın. Vergi tahsil edilmiş, kayıt düzenli.",
-    "timestamp": "2026-02-05T05:20:18.704Z",
-    "type": "defter|general_anomaly|classical_ottoman|narrative|uskudar",
-    "patterns": [
-      "sicil",
-      "opening:üsküdar_kadı_sicili"
-    ]
-  },
-  {
     "text": "Trabzon meteoroloji istasyonu, 1935: Kar taneleri sekizgen şeklinde düşüyor, her tanede farklı Osmanlı tuğrası var. Tuğralar tarihçiler tarafından doğrulanmış, kar normal sıcaklıkta eriyor.",
     "timestamp": "2026-02-05T08:52:48.191Z",
     "type": "general_source|temporal|republican|narrative|trabzon",
@@ -127,6 +118,15 @@
     "type": "defter|administrative|late_ottoman|narrative|ani",
     "patterns": [
       "opening:izmir_alsancak_liman"
+    ]
+  },
+  {
+    "text": "Sivas Cumhuriyet Arşivi nüfus sayımı, 1927: Aynı kişi üç farklı mahallede kayıtlı. Üçü de aynı gün doğmuş, aynı baba adı. Fotoğraflar identik. Parmak izleri farklı.",
+    "timestamp": "2026-02-07T14:32:29.030Z",
+    "type": "defter|general_anomaly|republican|narrative|sivas",
+    "patterns": [
+      "cumhuriyet",
+      "opening:sivas_cumhuriyet_arşivi"
     ]
   }
 ]
