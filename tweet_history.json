@@ -1,13 +1,5 @@
 [
   {
-    "text": "Crossreference anomaly: Library patron returned book 23 years overdue. Checkout stamp shows future date. Book was destroyed in fire before patron was born. No late fees assessed.",
-    "timestamp": "2026-02-04T18:58:29.865Z",
-    "type": "general_source|temporal|unspecified_era|narrative",
-    "patterns": [
-      "opening:crossreference_anomaly_library"
-    ]
-  },
-  {
     "text": "Digital forensics lab, 1987: Technician analyzing floppy disk discovered file directory containing folders named after each day of the following year. December 31st folder held resignation letter from technician dated 1988.",
     "timestamp": "2026-02-04T20:40:22.422Z",
     "type": "digital|temporal|modern|narrative",
@@ -118,6 +110,14 @@
     "type": "meteorological|general_anomaly|ancient|narrative",
     "patterns": [
       "opening:meteorological_station_log"
+    ]
+  },
+  {
+    "text": "Digital forensics report 2003.8: Hard drive recovered from 1962 IBM mainframe contains 847GB of data. Storage capacity of entire system: 2.5MB. Files are compressed using algorithms that won't be invented until 2019.",
+    "timestamp": "2026-02-07T08:38:08.194Z",
+    "type": "digital|general_anomaly|modern|narrative",
+    "patterns": [
+      "opening:digital_forensics_report"
     ]
   }
 ]

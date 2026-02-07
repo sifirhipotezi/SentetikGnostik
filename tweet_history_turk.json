@@ -1,13 +1,5 @@
 [
   {
-    "text": "Edirne Selimiye Camii restorasyonu, 1847: Minare içinde buhar makinesi bulundu. Makine çalışır halde, İngiliz yapımı. Mimar Sinan'ın planlarında makine yeri işaretli.",
-    "timestamp": "2026-02-04T18:58:34.352Z",
-    "type": "architectural|spatial|late_ottoman|narrative|edirne",
-    "patterns": [
-      "opening:edirne_selimiye_camii"
-    ]
-  },
-  {
     "text": "Kayseri nüfus sayımı defteri, 1927: Bir mahallede aynı isimde 340 kişi yaşıyor, hepsi aynı yaşta. Kimlik bilgileri farklı ama parmak izleri identik. Mahalle gerçek.",
     "timestamp": "2026-02-04T20:40:26.162Z",
     "type": "defter|general_anomaly|republican|narrative|kayseri",
@@ -128,6 +120,14 @@
     "patterns": [
       "bizans",
       "opening:beyazıt_devlet_kütüphanesi"
+    ]
+  },
+  {
+    "text": "Bursa meteoroloji istasyonu raporu, 1924: Ekim ayında 3 gün boyunca çiçek yaprağı yağmış. Hangi çiçek türü olduğu belirtilmemiş. Şahitler var ama yapraklar kaybolmuş.",
+    "timestamp": "2026-02-07T08:38:11.917Z",
+    "type": "architectural|general_anomaly|republican|narrative|bursa",
+    "patterns": [
+      "opening:bursa_meteoroloji_istasyonu"
     ]
   }
 ]
