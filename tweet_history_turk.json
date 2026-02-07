@@ -1,14 +1,5 @@
 [
   {
-    "text": "Van Gölü balık istasyonu, 1924: İnci kefali sürüsü Cumhuriyet Marşı söylüyor. Ses kayıtları mevcut, söz ve melodi eksiksiz. Balıklar normal davranış sergiliyor.",
-    "timestamp": "2026-02-04T14:46:06.328Z",
-    "type": "defter|memorial|republican|narrative|van",
-    "patterns": [
-      "cumhuriyet",
-      "opening:van_gölü_balık"
-    ]
-  },
-  {
     "text": "Edirne Selimiye Camii restorasyonu, 1847: Minare içinde buhar makinesi bulundu. Makine çalışır halde, İngiliz yapımı. Mimar Sinan'ın planlarında makine yeri işaretli.",
     "timestamp": "2026-02-04T18:58:34.352Z",
     "type": "architectural|spatial|late_ottoman|narrative|edirne",
@@ -128,6 +119,15 @@
     "patterns": [
       "osmanli",
       "opening:van_gölü_arkeoloji"
+    ]
+  },
+  {
+    "text": "Beyazıt Devlet Kütüphanesi manuscript 1456B: Bizans kronikçisi Konstantinopolis'un fethini anlatıyor ama metin 1448 tarihli. Fetih henüz gerçekleşmemiş. Pergament dönem uyumlu, mürekkep analizi tutarlı.",
+    "timestamp": "2026-02-07T05:08:36.440Z",
+    "type": "architectural|temporal|byzantine|narrative|istanbul",
+    "patterns": [
+      "bizans",
+      "opening:beyazıt_devlet_kütüphanesi"
     ]
   }
 ]

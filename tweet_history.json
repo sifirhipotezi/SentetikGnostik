@@ -1,13 +1,5 @@
 [
   {
-    "text": "Diplomatic correspondence, Ottoman court 1683: Ambassador's report describes negotiating peace treaty with delegation from The Republic of Tomorrow. Treaty terms included temporal nonaggression pact. Document filed in active treaties until",
-    "timestamp": "2026-02-04T14:46:02.365Z",
-    "type": "manuscript|bureaucratic|earlymodern|narrative",
-    "patterns": [
-      "opening:diplomatic_correspondence_ottoman"
-    ]
-  },
-  {
     "text": "Crossreference anomaly: Library patron returned book 23 years overdue. Checkout stamp shows future date. Book was destroyed in fire before patron was born. No late fees assessed.",
     "timestamp": "2026-02-04T18:58:29.865Z",
     "type": "general_source|temporal|unspecified_era|narrative",
@@ -118,6 +110,14 @@
     "type": "municipal|temporal|archaeological|narrative",
     "patterns": [
       "opening:census_data_roman"
+    ]
+  },
+  {
+    "text": "Meteorological station log, Reykjavik 1889: Barometric pressure readings recorded in cuneiform. Equipment operator reported no knowledge of ancient scripts. Pressure measurements prove accurate when translated. Weather patterns matched Baby",
+    "timestamp": "2026-02-07T05:08:32.003Z",
+    "type": "meteorological|general_anomaly|ancient|narrative",
+    "patterns": [
+      "opening:meteorological_station_log"
     ]
   }
 ]
