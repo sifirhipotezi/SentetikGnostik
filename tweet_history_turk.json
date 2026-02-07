@@ -1,13 +1,5 @@
 [
   {
-    "text": "Bursa İpek Hanı ticaret kayıtları, 1456: Tüccarlar henüz keşfedilmemiş Amerika'dan pamuk satıyor. Mallar gerçek, fiyatlar makul. Kolomb'dan 36 yıl önce.",
-    "timestamp": "2026-02-05T10:48:46.209Z",
-    "type": "defter|temporal|unspecified_era|narrative|bursa",
-    "patterns": [
-      "opening:bursa_ipek_hanı"
-    ]
-  },
-  {
     "text": "İzmir liman gümrük kayıtları, 1889: Gemiler rüzgarsız havada yelken açmadan hareket ediyor. Kaptanlar durumu normal buluyor. Denizci kayıtlarında benzer vakalar yok.",
     "timestamp": "2026-02-05T14:51:09.244Z",
     "type": "defter|administrative|late_ottoman|narrative|unspecified_location",
@@ -125,6 +117,15 @@
     "type": "architectural|temporal|late_ottoman|narrative|edirne",
     "patterns": [
       "opening:edirne_selimiye_camii"
+    ]
+  },
+  {
+    "text": "Kayseri Ulu Cami hutbe metni, 1247: İmam cuma namazında Osmanlı padişahından bahsediyor ama Osmanlı henüz kurulmamış. Hutbe kayıtları tam, camii kayıtları normal.",
+    "timestamp": "2026-02-07T20:35:03.914Z",
+    "type": "defter|general_anomaly|early_ottoman|narrative|kayseri",
+    "patterns": [
+      "osmanli",
+      "opening:kayseri_ulu_cami"
     ]
   }
 ]

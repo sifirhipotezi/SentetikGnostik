@@ -1,13 +1,5 @@
 [
   {
-    "text": "Archaeological survey, Pompeii 79 CE: Excavation of bakery revealed loaves of bread perfectly preserved but still warm. Temperature readings consistent for fortythree years of continuous monitoring.",
-    "timestamp": "2026-02-05T10:48:42.104Z",
-    "type": "archaeological|temporal|archaeological|narrative",
-    "patterns": [
-      "opening:archaeological_survey_pompeii"
-    ]
-  },
-  {
     "text": "Census data, rural Montana township, 1932: Population recorded as 847 residents. Current archaeological survey of township site reveals maximum sustainable population was 23 households. No records explain the mathematical discrepancy.",
     "timestamp": "2026-02-05T14:51:05.003Z",
     "type": "municipal|general_anomaly|archaeological|narrative",
@@ -118,6 +110,14 @@
     "type": "general_source|temporal|medieval|narrative",
     "patterns": [
       "opening:cartographic_anomaly_naval"
+    ]
+  },
+  {
+    "text": "Census data, Toledo 1572: Population includes 2,847 humans, 312 livestock, and one dragon taxable income: 40 ducats annually from hoard management. Dragon filed complaint about property assessments in 1574. Case still pending.",
+    "timestamp": "2026-02-07T20:34:59.970Z",
+    "type": "municipal|bureaucratic|earlymodern|narrative",
+    "patterns": [
+      "opening:census_data_toledo"
     ]
   }
 ]
