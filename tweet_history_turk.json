@@ -1,13 +1,5 @@
 [
   {
-    "text": "Galata Kulesi rasathane kayıtları, 1348: Aynı gece hem dolunay hem yeniay gözlemlenmiş. İki astronom bağımsız doğruluyor. Takvimler normal, diğer şehirlerde tek ay.",
-    "timestamp": "2026-02-06T08:53:11.937Z",
-    "type": "defter|general_anomaly|early_ottoman|narrative|beyoglu",
-    "patterns": [
-      "opening:galata_kulesi_rasathane"
-    ]
-  },
-  {
     "text": "Sivas Divriği Ulu Camii restorasyon raporu, 1973: Selçuklu taş işçiliğinde çelik vidalar bulundu. 12. yüzyıl orijinal yapıda, paslanmamış. Mimar sessizliğe büründü.",
     "timestamp": "2026-02-06T10:48:00.273Z",
     "type": "architectural|temporal|republican|narrative|sivas",
@@ -127,6 +119,15 @@
       "bizans",
       "osmanli",
       "opening:bizans_imparatoru_vi"
+    ]
+  },
+  {
+    "text": "Gaziantep arkeoloji müzesi envanter defteri, 1962: Roma dönemine ait amphorada kahve çekirdekleri bulunmuş. Kahve Anadolu'ya 16. yüzyılda geldi. Çekirdekler hala taze kokuyor.",
+    "timestamp": "2026-02-08T18:45:27.018Z",
+    "type": "defter|temporal|republican|narrative|gaziantep",
+    "patterns": [
+      "defter",
+      "opening:gaziantep_arkeoloji_müzesi"
     ]
   }
 ]

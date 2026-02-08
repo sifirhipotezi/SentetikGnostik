@@ -1,13 +1,5 @@
 [
   {
-    "text": "Dream journal, recovered from estate sale 1967: Entries describe nightly visits to library that burned down in 1871. Dreamer accurately transcribed titles from card catalog. Handwriting analysis confirms all entries written while asleep.",
-    "timestamp": "2026-02-06T08:53:07.781Z",
-    "type": "manuscript|bureaucratic|industrial|narrative",
-    "patterns": [
-      "opening:dream_journal_recovered"
-    ]
-  },
-  {
     "text": "Pleistocene excavation, mammoth graveyard 18,000 BCE: Tusks arranged in perfect spiral formation. Pattern matches nautilus shell mathematics discovered by Fibonacci in 1202 CE. Arrangement predates concept of mathematical sequence by sevent",
     "timestamp": "2026-02-06T10:47:55.975Z",
     "type": "archaeological|temporal|prehistoric|narrative",
@@ -119,6 +111,14 @@
     "type": "archaeological|temporal|archaeological|narrative",
     "patterns": [
       "opening:archaeological_survey_pompeii"
+    ]
+  },
+  {
+    "text": "Digital surveillance footage, London Metro 2003: Platform cameras record same commuter boarding 7:42 AM train for fourteen consecutive days. Transport records show train service discontinued in 1997. Station demolished 1999.",
+    "timestamp": "2026-02-08T18:45:23.405Z",
+    "type": "meteorological|general_anomaly|modern|narrative",
+    "patterns": [
+      "opening:digital_surveillance_footage"
     ]
   }
 ]
