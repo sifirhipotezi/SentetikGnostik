@@ -1,13 +1,5 @@
 [
   {
-    "text": "İzmir liman gümrük kayıtları, 1889: Gemiler rüzgarsız havada yelken açmadan hareket ediyor. Kaptanlar durumu normal buluyor. Denizci kayıtlarında benzer vakalar yok.",
-    "timestamp": "2026-02-05T14:51:09.244Z",
-    "type": "defter|administrative|late_ottoman|narrative|unspecified_location",
-    "patterns": [
-      "opening:izmir_liman_gümrük"
-    ]
-  },
-  {
     "text": "Beyoğlu Pera Palas otel kayıtları, 1924: Misafir Orient Express ile gelmiş ama tren o güzergahta çalışmıyor. Bilet gerçek, vagon numarası mevcut. Misafir kayıp.",
     "timestamp": "2026-02-05T18:58:12.744Z",
     "type": "defter|administrative|republican|narrative|beyoglu",
@@ -126,6 +118,14 @@
     "patterns": [
       "osmanli",
       "opening:kayseri_ulu_cami"
+    ]
+  },
+  {
+    "text": "Van Gölü batimetri haritası, 1956: Göl dibinde mükemmel korunmuş Selçuklu köprüsü. Su seviyesi hiçbir zaman bu kadar düşmemiş. Köprü taşları kireçtaşı, bölgede bulunmayan malzeme.",
+    "timestamp": "2026-02-08T05:25:57.104Z",
+    "type": "general_source|temporal|republican|narrative|van",
+    "patterns": [
+      "opening:van_gölü_batimetri"
     ]
   }
 ]

@@ -1,13 +1,5 @@
 [
   {
-    "text": "Census data, rural Montana township, 1932: Population recorded as 847 residents. Current archaeological survey of township site reveals maximum sustainable population was 23 households. No records explain the mathematical discrepancy.",
-    "timestamp": "2026-02-05T14:51:05.003Z",
-    "type": "municipal|general_anomaly|archaeological|narrative",
-    "patterns": [
-      "opening:census_data_rural"
-    ]
-  },
-  {
     "text": "Meteorological archive, Lisbon 1755: Observatory recorded barometric pressure readings during earthquake. Instruments measured atmospheric density of grief. Scale calibrated in units that predate the concept of measurement.",
     "timestamp": "2026-02-05T18:58:09.034Z",
     "type": "meteorological|temporal|earlymodern|narrative",
@@ -118,6 +110,15 @@
     "type": "municipal|bureaucratic|earlymodern|narrative",
     "patterns": [
       "opening:census_data_toledo"
+    ]
+  },
+  {
+    "text": "Entry 4401B: Patient admitted to Bellevue, 1923, complaining of persistent memory of own funeral. Hospital records confirm patient died during routine surgery. Patient discharged self three days later, arguing with death certificate.",
+    "timestamp": "2026-02-08T05:25:53.000Z",
+    "type": "biological|bureaucratic|modern|catalog_entry",
+    "patterns": [
+      "entry_number",
+      "opening:entry_4401b_patient"
     ]
   }
 ]
