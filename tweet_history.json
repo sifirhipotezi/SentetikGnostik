@@ -1,13 +1,5 @@
 [
   {
-    "text": "Digital forensics, server farm Utah, 2003: Backup drives contain family photos from households that won't exist until 2019. Images show Christmas mornings, birthday parties, graduations. Metadata timestamps are accurate. Families have no kn",
-    "timestamp": "2026-02-06T05:17:33.875Z",
-    "type": "architectural|temporal|modern|narrative",
-    "patterns": [
-      "opening:digital_forensics_server"
-    ]
-  },
-  {
     "text": "Dream journal, recovered from estate sale 1967: Entries describe nightly visits to library that burned down in 1871. Dreamer accurately transcribed titles from card catalog. Handwriting analysis confirms all entries written while asleep.",
     "timestamp": "2026-02-06T08:53:07.781Z",
     "type": "manuscript|bureaucratic|industrial|narrative",
@@ -119,6 +111,14 @@
     "type": "meteorological|temporal|industrial|narrative",
     "patterns": [
       "opening:weather_station_log"
+    ]
+  },
+  {
+    "text": "Archaeological survey, Pompeii 79 CE: Bakery oven contained perfectly preserved pizza with toppings unknown to Roman cuisine. Pineapple cultivation begins 1200 years later. Cheese variety still unidentified by food historians.",
+    "timestamp": "2026-02-08T14:34:34.132Z",
+    "type": "archaeological|temporal|archaeological|narrative",
+    "patterns": [
+      "opening:archaeological_survey_pompeii"
     ]
   }
 ]
