@@ -1,14 +1,5 @@
 [
   {
-    "text": "Pleistocene excavation, mammoth graveyard 18,000 BCE: Tusks arranged in perfect spiral formation. Pattern matches nautilus shell mathematics discovered by Fibonacci in 1202 CE. Arrangement predates concept of mathematical sequence by sevent",
-    "timestamp": "2026-02-06T10:47:55.975Z",
-    "type": "archaeological|temporal|prehistoric|narrative",
-    "patterns": [
-      "predates_by",
-      "opening:pleistocene_excavation_mammoth"
-    ]
-  },
-  {
     "text": "Personnel records, Metropolitan Transit Authority 1987: Employee badge 4471 assigned to conductor who retired in 1962. Badge scans successfully on turnstiles. Payroll department continues issuing biweekly direct deposits to closed account.",
     "timestamp": "2026-02-06T14:43:51.972Z",
     "type": "personal|general_anomaly|modern|narrative",
@@ -119,6 +110,14 @@
     "type": "meteorological|general_anomaly|modern|narrative",
     "patterns": [
       "opening:digital_surveillance_footage"
+    ]
+  },
+  {
+    "text": "Biological survey, Amazon Basin 1892: Botanist catalogs flowering vine that blooms backwards into seed, then sapling, then nothing. Local guides refuse to approach plant, claim it steals years from tomorrow.",
+    "timestamp": "2026-02-08T20:35:32.291Z",
+    "type": "general_source|temporal|industrial|narrative",
+    "patterns": [
+      "opening:biological_survey_amazon"
     ]
   }
 ]

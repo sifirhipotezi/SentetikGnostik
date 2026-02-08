@@ -1,13 +1,5 @@
 [
   {
-    "text": "Sivas Divriği Ulu Camii restorasyon raporu, 1973: Selçuklu taş işçiliğinde çelik vidalar bulundu. 12. yüzyıl orijinal yapıda, paslanmamış. Mimar sessizliğe büründü.",
-    "timestamp": "2026-02-06T10:48:00.273Z",
-    "type": "architectural|temporal|republican|narrative|sivas",
-    "patterns": [
-      "opening:sivas_divriği_ulu"
-    ]
-  },
-  {
     "text": "Edirne Selimiye Camii vakıf kayıtları, 1575: Mimar Sinan'ın ölüm sonrası imzası var. İmza 1590 tarihli, Sinan 1588'de öldü. Mürekkep analizi dönem uyumlu.",
     "timestamp": "2026-02-06T14:43:55.860Z",
     "type": "defter|temporal|classical_ottoman|narrative|edirne",
@@ -128,6 +120,15 @@
     "patterns": [
       "defter",
       "opening:gaziantep_arkeoloji_müzesi"
+    ]
+  },
+  {
+    "text": "Trabzon Ayasofya restorasyonu, 1960: Freskolar arasında gizli Osmanlı hat sanatı bulundu. Kaligrafi 13. yüzyıl tarihli ama Osmanlı alfabesi 15. yüzyılda gelişti. Müze kayıtlardan silindi.",
+    "timestamp": "2026-02-08T20:35:36.345Z",
+    "type": "defter|temporal|republican|narrative|trabzon",
+    "patterns": [
+      "osmanli",
+      "opening:trabzon_ayasofya_restorasyonu"
     ]
   }
 ]
