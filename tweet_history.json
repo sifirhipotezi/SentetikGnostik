@@ -1,13 +1,5 @@
 [
   {
-    "text": "Meteorological archive, Lisbon 1755: Observatory recorded barometric pressure readings during earthquake. Instruments measured atmospheric density of grief. Scale calibrated in units that predate the concept of measurement.",
-    "timestamp": "2026-02-05T18:58:09.034Z",
-    "type": "meteorological|temporal|earlymodern|narrative",
-    "patterns": [
-      "opening:meteorological_archive_lisbon"
-    ]
-  },
-  {
     "text": "Maritime log, whaling vessel Perseverance, 1834: Captain recorded harpooning same whale on seven consecutive days. Ship's surgeon confirmed whale showed no wounds. Crew consumed identical whale steaks nightly. Cargo hold remained empty.",
     "timestamp": "2026-02-05T20:40:47.078Z",
     "type": "general_source|temporal|industrial|narrative",
@@ -119,6 +111,14 @@
     "patterns": [
       "entry_number",
       "opening:entry_4401b_patient"
+    ]
+  },
+  {
+    "text": "Architectural survey, cathedral of Amiens 1247: Stone gargoyles found repositioned after each storm. Masons report carving same figures repeatedly. Gargoyles return to original positions by dawn. Church records classify as routine maintenan",
+    "timestamp": "2026-02-08T08:39:44.266Z",
+    "type": "architectural|temporal|medieval|narrative",
+    "patterns": [
+      "opening:architectural_survey_cathedral"
     ]
   }
 ]

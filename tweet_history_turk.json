@@ -1,14 +1,5 @@
 [
   {
-    "text": "Beyoğlu Pera Palas otel kayıtları, 1924: Misafir Orient Express ile gelmiş ama tren o güzergahta çalışmıyor. Bilet gerçek, vagon numarası mevcut. Misafir kayıp.",
-    "timestamp": "2026-02-05T18:58:12.744Z",
-    "type": "defter|administrative|republican|narrative|beyoglu",
-    "patterns": [
-      "kayboldu",
-      "opening:beyoğlu_pera_palas"
-    ]
-  },
-  {
     "text": "Van kalesi kazısı, 1967: Urartu duvarında Bizans mozaiği bulunmuş. MS 6. yüzyıl tekniği ama Urartu MÖ 9. yüzyılda yıkılmış. Mozaik mükemmel durumda, tarihçiler sessiz.",
     "timestamp": "2026-02-05T20:40:50.511Z",
     "type": "archaeological|temporal|byzantine|narrative|van",
@@ -126,6 +117,14 @@
     "type": "general_source|temporal|republican|narrative|van",
     "patterns": [
       "opening:van_gölü_batimetri"
+    ]
+  },
+  {
+    "text": "Manisa meteoroloji istasyonu günlüğü, 1904: Şehirde üç gün boyunca kar yerine kül yağdı. Hava sıcaklığı normal, rüzgar yok. En yakın yanardağ 800 kilometre uzakta. Kül analiz edilemedi.",
+    "timestamp": "2026-02-08T08:39:48.434Z",
+    "type": "meteorological|spatial|unspecified_era|narrative|ani",
+    "patterns": [
+      "opening:manisa_meteoroloji_istasyonu"
     ]
   }
 ]
