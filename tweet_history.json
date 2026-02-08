@@ -1,13 +1,5 @@
 [
   {
-    "text": "Maritime log, whaling vessel Perseverance, 1834: Captain recorded harpooning same whale on seven consecutive days. Ship's surgeon confirmed whale showed no wounds. Crew consumed identical whale steaks nightly. Cargo hold remained empty.",
-    "timestamp": "2026-02-05T20:40:47.078Z",
-    "type": "general_source|temporal|industrial|narrative",
-    "patterns": [
-      "opening:maritime_log_whaling"
-    ]
-  },
-  {
     "text": "Digital forensics, server farm Utah, 2003: Backup drives contain family photos from households that won't exist until 2019. Images show Christmas mornings, birthday parties, graduations. Metadata timestamps are accurate. Families have no kn",
     "timestamp": "2026-02-06T05:17:33.875Z",
     "type": "architectural|temporal|modern|narrative",
@@ -119,6 +111,14 @@
     "type": "architectural|temporal|medieval|narrative",
     "patterns": [
       "opening:architectural_survey_cathedral"
+    ]
+  },
+  {
+    "text": "Weather station log, Wyoming 1887: Temperature recorded as 40F during July heatwave. Thermometer functioned normally for all other readings. Cattle found frozen in pasture while grass remained green beneath them.",
+    "timestamp": "2026-02-08T10:33:52.286Z",
+    "type": "meteorological|temporal|industrial|narrative",
+    "patterns": [
+      "opening:weather_station_log"
     ]
   }
 ]

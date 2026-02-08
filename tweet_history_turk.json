@@ -1,14 +1,5 @@
 [
   {
-    "text": "Van kalesi kazısı, 1967: Urartu duvarında Bizans mozaiği bulunmuş. MS 6. yüzyıl tekniği ama Urartu MÖ 9. yüzyılda yıkılmış. Mozaik mükemmel durumda, tarihçiler sessiz.",
-    "timestamp": "2026-02-05T20:40:50.511Z",
-    "type": "archaeological|temporal|byzantine|narrative|van",
-    "patterns": [
-      "bizans",
-      "opening:van_kalesi_kazısı"
-    ]
-  },
-  {
     "text": "Konya Mevlana Dergahı ziyaretçi defteri, 1872: Sema ayininde dervişler havada asılı kalıyor. İmam durumu ferman ile onaylamış. Ferman arşivlerde bulunamıyor.",
     "timestamp": "2026-02-06T05:17:37.904Z",
     "type": "ferman|general_anomaly|late_ottoman|narrative|konya",
@@ -125,6 +116,15 @@
     "type": "meteorological|spatial|unspecified_era|narrative|ani",
     "patterns": [
       "opening:manisa_meteoroloji_istasyonu"
+    ]
+  },
+  {
+    "text": "Üsküdar kadı sicili, 1801: Aynı dava iki farklı sonuçla kapanmış. Her iki hüküm de kadının mührünü taşıyor. Davacı ve davalı aynı kişi. Mahkeme kayıtları çelişmiyor.",
+    "timestamp": "2026-02-08T10:33:56.464Z",
+    "type": "defter|general_anomaly|late_ottoman|narrative|uskudar",
+    "patterns": [
+      "sicil",
+      "opening:üsküdar_kadı_sicili"
     ]
   }
 ]
