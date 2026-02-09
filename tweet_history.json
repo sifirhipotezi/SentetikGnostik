@@ -1,13 +1,5 @@
 [
   {
-    "text": "Census data, Roman Britain 78 CE: Household registry lists family of five in Londinium. Archaeological evidence confirms dwelling was uninhabitable swampland until 156 CE. Family paid taxes for seventyeight years before city existed.",
-    "timestamp": "2026-02-06T20:40:27.260Z",
-    "type": "municipal|temporal|archaeological|narrative",
-    "patterns": [
-      "opening:census_data_roman"
-    ]
-  },
-  {
     "text": "Meteorological station log, Reykjavik 1889: Barometric pressure readings recorded in cuneiform. Equipment operator reported no knowledge of ancient scripts. Pressure measurements prove accurate when translated. Weather patterns matched Baby",
     "timestamp": "2026-02-07T05:08:32.003Z",
     "type": "meteorological|general_anomaly|ancient|narrative",
@@ -118,6 +110,14 @@
     "type": "manuscript|spatial|earlymodern|narrative",
     "patterns": [
       "opening:personal_diary_edinburgh"
+    ]
+  },
+  {
+    "text": "Geological survey, Pleistocene epoch: Mammoth remains, 40,000 BCE, found with titanium hip replacement. Surgical technique matches 1980s orthopedic standards. Bone healing indicates mammoth lived additional 12 years postsurgery.",
+    "timestamp": "2026-02-09T10:58:11.906Z",
+    "type": "biological|temporal|prehistoric|narrative",
+    "patterns": [
+      "opening:geological_survey_pleistocene"
     ]
   }
 ]

@@ -1,14 +1,5 @@
 [
   {
-    "text": "Van Gölü arkeoloji kazısı, 1967: Urartu mezarında transistör radyo bulundu. MÖ 7. yüzyıl katmanında, hiç bozulmamış. Radyo çalışıyor, Osmanlı marşları yayınlıyor.",
-    "timestamp": "2026-02-06T20:40:31.345Z",
-    "type": "archaeological|temporal|republican|narrative|van",
-    "patterns": [
-      "osmanli",
-      "opening:van_gölü_arkeoloji"
-    ]
-  },
-  {
     "text": "Beyazıt Devlet Kütüphanesi manuscript 1456B: Bizans kronikçisi Konstantinopolis'un fethini anlatıyor ama metin 1448 tarihli. Fetih henüz gerçekleşmemiş. Pergament dönem uyumlu, mürekkep analizi tutarlı.",
     "timestamp": "2026-02-07T05:08:36.440Z",
     "type": "architectural|temporal|byzantine|narrative|istanbul",
@@ -128,6 +119,14 @@
     "type": "defter|spatial|early_ottoman|narrative|konya",
     "patterns": [
       "opening:konya_mevlana_müzesi"
+    ]
+  },
+  {
+    "text": "İzmir limanı gümrük kayıtları, 1856: Venedik'ten gelen gemide buhar makinesi yerine rüzgar değirmeni kurulu. Gemi 3 günde gelmiş. Venedik o tarihlerde Avusturya toprağıydı. Kaptan Venedikli Marco Polo olarak kayıtlı.",
+    "timestamp": "2026-02-09T10:58:16.377Z",
+    "type": "defter|temporal|late_ottoman|narrative|unspecified_location",
+    "patterns": [
+      "opening:izmir_limanı_gümrük"
     ]
   }
 ]
