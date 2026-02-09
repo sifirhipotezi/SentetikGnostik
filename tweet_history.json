@@ -1,13 +1,5 @@
 [
   {
-    "text": "Incident report 1456.3: Bell tower in Bruges chimed thirteen times at midnight for three consecutive months. Town records show tower was destroyed by fire in 1398. Reconstruction began in 1502.",
-    "timestamp": "2026-02-06T18:58:57.317Z",
-    "type": "municipal|temporal|medieval|narrative",
-    "patterns": [
-      "opening:incident_report_14563"
-    ]
-  },
-  {
     "text": "Census data, Roman Britain 78 CE: Household registry lists family of five in Londinium. Archaeological evidence confirms dwelling was uninhabitable swampland until 156 CE. Family paid taxes for seventyeight years before city existed.",
     "timestamp": "2026-02-06T20:40:27.260Z",
     "type": "municipal|temporal|archaeological|narrative",
@@ -118,6 +110,14 @@
     "type": "municipal|general_anomaly|unspecified_era|narrative",
     "patterns": [
       "opening:census_records_byzantine"
+    ]
+  },
+  {
+    "text": "Personal diary, Edinburgh 1794: Woman records conversation with her reflection, who claims to be living in 1923. Mirror belonged to clockmaker who died during conversation. Both women describe identical room furnishings.",
+    "timestamp": "2026-02-09T09:01:41.901Z",
+    "type": "manuscript|spatial|earlymodern|narrative",
+    "patterns": [
+      "opening:personal_diary_edinburgh"
     ]
   }
 ]

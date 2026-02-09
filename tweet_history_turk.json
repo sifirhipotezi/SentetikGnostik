@@ -1,13 +1,5 @@
 [
   {
-    "text": "Trabzon Ayasofya Müzesi meteoroloji kayıtları, 1461: Fatih'in fethinden sonra kar yerine altın yağmış. Sakinler doğruluyor ama hiçbir zenginleşme kaydı yok.",
-    "timestamp": "2026-02-06T18:59:00.758Z",
-    "type": "defter|temporal|classical_ottoman|narrative|trabzon",
-    "patterns": [
-      "opening:trabzon_ayasofya_müzesi"
-    ]
-  },
-  {
     "text": "Van Gölü arkeoloji kazısı, 1967: Urartu mezarında transistör radyo bulundu. MÖ 7. yüzyıl katmanında, hiç bozulmamış. Radyo çalışıyor, Osmanlı marşları yayınlıyor.",
     "timestamp": "2026-02-06T20:40:31.345Z",
     "type": "archaeological|temporal|republican|narrative|van",
@@ -128,6 +120,14 @@
     "type": "defter|administrative|classical_ottoman|narrative|bursa",
     "patterns": [
       "opening:bursa_ipek_fabrikası"
+    ]
+  },
+  {
+    "text": "Konya Mevlana Müzesi meteoroloji kayıtları, 1273: Şubat ayında kar yerine gül yaprağı yağdığı not edilmiş. Yapraklar laboratuvarda incelendi, günümüz güllerinden farklı tür. Hava sıcaklığı 15C ölçülmüş.",
+    "timestamp": "2026-02-09T09:01:46.517Z",
+    "type": "defter|spatial|early_ottoman|narrative|konya",
+    "patterns": [
+      "opening:konya_mevlana_müzesi"
     ]
   }
 ]
