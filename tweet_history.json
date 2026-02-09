@@ -1,13 +1,5 @@
 [
   {
-    "text": "Meteorological station log, Reykjavik 1889: Barometric pressure readings recorded in cuneiform. Equipment operator reported no knowledge of ancient scripts. Pressure measurements prove accurate when translated. Weather patterns matched Baby",
-    "timestamp": "2026-02-07T05:08:32.003Z",
-    "type": "meteorological|general_anomaly|ancient|narrative",
-    "patterns": [
-      "opening:meteorological_station_log"
-    ]
-  },
-  {
     "text": "Digital forensics report 2003.8: Hard drive recovered from 1962 IBM mainframe contains 847GB of data. Storage capacity of entire system: 2.5MB. Files are compressed using algorithms that won't be invented until 2019.",
     "timestamp": "2026-02-07T08:38:08.194Z",
     "type": "digital|general_anomaly|modern|narrative",
@@ -118,6 +110,14 @@
     "type": "biological|temporal|prehistoric|narrative",
     "patterns": [
       "opening:geological_survey_pleistocene"
+    ]
+  },
+  {
+    "text": "Architectural survey, Prague 1689: Cathedral spire measures 347 feet from ground, 291 feet from sky. Difference attributed to celestial subsidence in building records. Architect's notes mention foundation anchored in three different centuri",
+    "timestamp": "2026-02-09T14:57:44.131Z",
+    "type": "architectural|general_anomaly|earlymodern|narrative",
+    "patterns": [
+      "opening:architectural_survey_prague"
     ]
   }
 ]
