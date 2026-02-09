@@ -1,13 +1,5 @@
 [
   {
-    "text": "Personnel records, Metropolitan Transit Authority 1987: Employee badge 4471 assigned to conductor who retired in 1962. Badge scans successfully on turnstiles. Payroll department continues issuing biweekly direct deposits to closed account.",
-    "timestamp": "2026-02-06T14:43:51.972Z",
-    "type": "personal|general_anomaly|modern|narrative",
-    "patterns": [
-      "opening:personnel_records_metropolitan"
-    ]
-  },
-  {
     "text": "Incident report 1456.3: Bell tower in Bruges chimed thirteen times at midnight for three consecutive months. Town records show tower was destroyed by fire in 1398. Reconstruction began in 1502.",
     "timestamp": "2026-02-06T18:58:57.317Z",
     "type": "municipal|temporal|medieval|narrative",
@@ -118,6 +110,14 @@
     "type": "general_source|temporal|industrial|narrative",
     "patterns": [
       "opening:biological_survey_amazon"
+    ]
+  },
+  {
+    "text": "Census records, Byzantine Empire 1143: Population of Thessalonica includes 847 citizens listed as temporarily elsewhere in when. Tax collectors report difficulty locating these individuals across correct centuries.",
+    "timestamp": "2026-02-09T05:40:35.226Z",
+    "type": "municipal|general_anomaly|unspecified_era|narrative",
+    "patterns": [
+      "opening:census_records_byzantine"
     ]
   }
 ]

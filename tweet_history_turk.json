@@ -1,14 +1,5 @@
 [
   {
-    "text": "Edirne Selimiye Camii vakıf kayıtları, 1575: Mimar Sinan'ın ölüm sonrası imzası var. İmza 1590 tarihli, Sinan 1588'de öldü. Mürekkep analizi dönem uyumlu.",
-    "timestamp": "2026-02-06T14:43:55.860Z",
-    "type": "defter|temporal|classical_ottoman|narrative|edirne",
-    "patterns": [
-      "imza",
-      "opening:edirne_selimiye_camii"
-    ]
-  },
-  {
     "text": "Trabzon Ayasofya Müzesi meteoroloji kayıtları, 1461: Fatih'in fethinden sonra kar yerine altın yağmış. Sakinler doğruluyor ama hiçbir zenginleşme kaydı yok.",
     "timestamp": "2026-02-06T18:59:00.758Z",
     "type": "defter|temporal|classical_ottoman|narrative|trabzon",
@@ -129,6 +120,14 @@
     "patterns": [
       "osmanli",
       "opening:trabzon_ayasofya_restorasyonu"
+    ]
+  },
+  {
+    "text": "Bursa ipek fabrikası işçi bordrosu, 1517: Ayda 30 gün çalışan işçiler kayıtlı. O ay sadece 28 gün vardı. Maaşlar fazladan 2 güne göre hesaplanmış. Muhasebe hatası yok.",
+    "timestamp": "2026-02-09T05:40:39.377Z",
+    "type": "defter|administrative|classical_ottoman|narrative|bursa",
+    "patterns": [
+      "opening:bursa_ipek_fabrikası"
     ]
   }
 ]
