@@ -1,13 +1,5 @@
 [
   {
-    "text": "Biological survey 1934: Monarch butterfly specimen collected in Manitoba displays migration patterns to wintering grounds in Mexico. Mexico won't be discovered for another eleven years. Wings show appropriate wear for 2,000mile journey.",
-    "timestamp": "2026-02-07T10:33:33.210Z",
-    "type": "paleontological|temporal|modern|narrative",
-    "patterns": [
-      "opening:biological_survey_1934"
-    ]
-  },
-  {
     "text": "Excavation near Babylon, 1750 BCE: Merchant's ledger records sale of fortythree camels to customer named Steve from Accounting. Payment received in Mesopotamian shekels. Handwriting analysis confirms authentic cuneiform script.",
     "timestamp": "2026-02-07T14:32:24.803Z",
     "type": "personal|general_anomaly|prehistoric|narrative",
@@ -118,6 +110,14 @@
     "type": "digital|anachronistic|archaeological|narrative",
     "patterns": [
       "opening:digital_artifact_2009"
+    ]
+  },
+  {
+    "text": "Herbarium specimen, Royal Gardens 1823: Pressed flower identified as common daisy, collected July 15th. Botanical analysis reveals species won't evolve for another 200 years. Collector's notes describe field that existed only on Wednesdays.",
+    "timestamp": "2026-02-09T20:48:06.776Z",
+    "type": "manuscript|temporal|industrial|narrative",
+    "patterns": [
+      "opening:herbarium_specimen_royal"
     ]
   }
 ]

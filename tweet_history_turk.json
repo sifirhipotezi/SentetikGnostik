@@ -1,13 +1,5 @@
 [
   {
-    "text": "İzmir Alsancak liman kayıtları, 1889: Gemiler yüklerini boşaltıyor ama hiçbir şey çıkmıyor. Manifesto 500 ton buğday gösteriyor, ambar boş. Kaptan ve mürettebat olayı hatırlamıyor.",
-    "timestamp": "2026-02-07T10:33:37.099Z",
-    "type": "defter|administrative|late_ottoman|narrative|ani",
-    "patterns": [
-      "opening:izmir_alsancak_liman"
-    ]
-  },
-  {
     "text": "Sivas Cumhuriyet Arşivi nüfus sayımı, 1927: Aynı kişi üç farklı mahallede kayıtlı. Üçü de aynı gün doğmuş, aynı baba adı. Fotoğraflar identik. Parmak izleri farklı.",
     "timestamp": "2026-02-07T14:32:29.030Z",
     "type": "defter|general_anomaly|republican|narrative|sivas",
@@ -126,6 +118,15 @@
     "type": "defter|temporal|early_ottoman|narrative|sivas",
     "patterns": [
       "opening:sivas_divriği_ulu"
+    ]
+  },
+  {
+    "text": "Galata Kulesi inşaat belgesi, 1348: Mimar Cenevizli ama planlar Bizans mimarisinde. Kule bugünkü yerinde değil, Haliç'in karşı kıyısında gösteriliyor. Temel kazısında Ceneviz paraları bulundu.",
+    "timestamp": "2026-02-09T20:48:11.438Z",
+    "type": "archaeological|spatial|byzantine|narrative|beyoglu",
+    "patterns": [
+      "bizans",
+      "opening:galata_kulesi_inşaat"
     ]
   }
 ]
