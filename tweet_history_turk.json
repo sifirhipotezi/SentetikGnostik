@@ -1,13 +1,5 @@
 [
   {
-    "text": "Bursa meteoroloji istasyonu raporu, 1924: Ekim ayında 3 gün boyunca çiçek yaprağı yağmış. Hangi çiçek türü olduğu belirtilmemiş. Şahitler var ama yapraklar kaybolmuş.",
-    "timestamp": "2026-02-07T08:38:11.917Z",
-    "type": "architectural|general_anomaly|republican|narrative|bursa",
-    "patterns": [
-      "opening:bursa_meteoroloji_istasyonu"
-    ]
-  },
-  {
     "text": "İzmir Alsancak liman kayıtları, 1889: Gemiler yüklerini boşaltıyor ama hiçbir şey çıkmıyor. Manifesto 500 ton buğday gösteriyor, ambar boş. Kaptan ve mürettebat olayı hatırlamıyor.",
     "timestamp": "2026-02-07T10:33:37.099Z",
     "type": "defter|administrative|late_ottoman|narrative|ani",
@@ -126,6 +118,14 @@
     "type": "archaeological|temporal|republican|narrative|van",
     "patterns": [
       "opening:van_kalesi_kazı"
+    ]
+  },
+  {
+    "text": "Sivas Divriği Ulu Camii bakım kayıtları, 1229: Taş ustası selçuklu motiflerini tamamlamış ama çinilerde barok desenler var. Barok sanatı 15. yüzyılda başladı. Çiniler orijinal harçta.",
+    "timestamp": "2026-02-09T19:23:37.842Z",
+    "type": "defter|temporal|early_ottoman|narrative|sivas",
+    "patterns": [
+      "opening:sivas_divriği_ulu"
     ]
   }
 ]

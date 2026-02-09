@@ -1,13 +1,5 @@
 [
   {
-    "text": "Digital forensics report 2003.8: Hard drive recovered from 1962 IBM mainframe contains 847GB of data. Storage capacity of entire system: 2.5MB. Files are compressed using algorithms that won't be invented until 2019.",
-    "timestamp": "2026-02-07T08:38:08.194Z",
-    "type": "digital|general_anomaly|modern|narrative",
-    "patterns": [
-      "opening:digital_forensics_report"
-    ]
-  },
-  {
     "text": "Biological survey 1934: Monarch butterfly specimen collected in Manitoba displays migration patterns to wintering grounds in Mexico. Mexico won't be discovered for another eleven years. Wings show appropriate wear for 2,000mile journey.",
     "timestamp": "2026-02-07T10:33:33.210Z",
     "type": "paleontological|temporal|modern|narrative",
@@ -118,6 +110,14 @@
     "type": "architectural|general_anomaly|earlymodern|narrative",
     "patterns": [
       "opening:architectural_survey_prague"
+    ]
+  },
+  {
+    "text": "Digital artifact 2009: Smartphone recovered from Pompeii ash layer, 79 CE. Device contains 14,000 photos of eruption from multiple angles impossible for single observer. Battery at 23, still functional.",
+    "timestamp": "2026-02-09T19:23:33.273Z",
+    "type": "digital|anachronistic|archaeological|narrative",
+    "patterns": [
+      "opening:digital_artifact_2009"
     ]
   }
 ]
