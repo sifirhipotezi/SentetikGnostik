@@ -1,13 +1,5 @@
 [
   {
-    "text": "Excavation near Babylon, 1750 BCE: Merchant's ledger records sale of fortythree camels to customer named Steve from Accounting. Payment received in Mesopotamian shekels. Handwriting analysis confirms authentic cuneiform script.",
-    "timestamp": "2026-02-07T14:32:24.803Z",
-    "type": "personal|general_anomaly|prehistoric|narrative",
-    "patterns": [
-      "opening:excavation_near_babylon"
-    ]
-  },
-  {
     "text": "Cartographic anomaly: Naval chart dated 1498 shows accurate coastline of Antarctica. Continent officially discovered 1820. Icefree landmass depicted matches bedrock topology beneath current ice sheet. Mapmaker's notes reference the white si",
     "timestamp": "2026-02-07T18:43:09.050Z",
     "type": "general_source|temporal|medieval|narrative",
@@ -118,6 +110,14 @@
     "type": "manuscript|temporal|industrial|narrative",
     "patterns": [
       "opening:herbarium_specimen_royal"
+    ]
+  },
+  {
+    "text": "Census data, Constantinople 1453: Population records list 847 residents who don't cast shadows. Tax assessments calculated at halfrate. Municipal lamplighter reports streets remain dark even at noon in affected districts.",
+    "timestamp": "2026-02-10T05:40:53.924Z",
+    "type": "municipal|general_anomaly|medieval|narrative",
+    "patterns": [
+      "opening:census_data_constantinople"
     ]
   }
 ]

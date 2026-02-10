@@ -1,14 +1,5 @@
 [
   {
-    "text": "Sivas Cumhuriyet Arşivi nüfus sayımı, 1927: Aynı kişi üç farklı mahallede kayıtlı. Üçü de aynı gün doğmuş, aynı baba adı. Fotoğraflar identik. Parmak izleri farklı.",
-    "timestamp": "2026-02-07T14:32:29.030Z",
-    "type": "defter|general_anomaly|republican|narrative|sivas",
-    "patterns": [
-      "cumhuriyet",
-      "opening:sivas_cumhuriyet_arşivi"
-    ]
-  },
-  {
     "text": "Edirne Selimiye Camii restorasyonu, 1734: Mimar Sinan'ın gizli odası bulundu. İçinde gelecek yüzyıla ait mimari planları var. Kâğıt ve mürekkep 16. yüzyıl. Planlar Ayasofya'nın tamirini gösteriyor.",
     "timestamp": "2026-02-07T18:43:13.008Z",
     "type": "architectural|temporal|late_ottoman|narrative|edirne",
@@ -127,6 +118,15 @@
     "patterns": [
       "bizans",
       "opening:galata_kulesi_inşaat"
+    ]
+  },
+  {
+    "text": "Edirne saray mutfağı defteri, 1402: Yemekhanede patates yemeği tarifi var. Patates Amerika'dan 16. yüzyılda geldi. Tarif detaylı, malzemeler saray ambarında kayıtlı.",
+    "timestamp": "2026-02-10T05:40:57.748Z",
+    "type": "defter|temporal|unspecified_era|narrative|edirne",
+    "patterns": [
+      "defter",
+      "opening:edirne_saray_mutfağı"
     ]
   }
 ]
