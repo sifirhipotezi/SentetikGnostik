@@ -208,13 +208,18 @@ export function parseCandidates(raw) {
 async function askClaude(brief) {
   const req = {
     model: CLAUDE_MODEL,
-    max_tokens: 1200,
+    max_tokens: 4000,
     system: SYSTEM,
     messages: [{ role: 'user', content: brief }],
   };
   if (TEMPERATURE) req.temperature = Number(TEMPERATURE);
   const msg = await anthropic.messages.create(req);
-  return msg.content.filter(b => b.type === 'text').map(b => b.text).join('');
+  const text = msg.content.filter(b => b.type === 'text').map(b => b.text).join('');
+  if (!text.includes('{')) {
+    console.warn(`[debug] stop_reason=${msg.stop_reason} blocks=${msg.content.map(b => b.type).join(',')} usage=${JSON.stringify(msg.usage)}
+[debug] raw: ${text.slice(0, 500)}`);
+  }
+  return text;
 }
 
 export async function generateTweet(history) {
