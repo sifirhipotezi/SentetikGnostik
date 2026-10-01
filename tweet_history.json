@@ -157,5 +157,24 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Ibn Sahl, M. On the Abolition of the First Letter and the Ox It Signified. Fustat, 1074.\nGuild of Cattle-Brokers. The Ox Is Still Owed. Fustat, 1075.\nIbn Sahl, M. A Ledger of Debts Formerly Entered Under Aleph, Now Filed Under House. Fustat, 1077.",
+    "timestamp": "2026-10-01T19:51:18.931Z",
+    "tweetId": "2105747404515672353",
+    "dryRun": false,
+    "coined": "Guild of Cattle-Brokers of Fustat",
+    "dice": {
+      "form": "bibliography",
+      "device": "quiet_loss",
+      "setting": null,
+      "motifs": [
+        "debts",
+        "oxen"
+      ],
+      "register": "official",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
