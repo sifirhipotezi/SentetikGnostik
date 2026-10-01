@@ -192,6 +192,8 @@ export function createBot({ name, promptFile, dice, historyFile, twitterKeys, la
 
   async function askClaude(brief) {
     const req = { model: CLAUDE_MODEL, max_tokens: MAX_TOKENS, system, messages: [{ role: 'user', content: brief }] };
+    // hidden thinking was eating the whole token budget and leaving no text; this is a short creative task, so switch it off
+    if (process.env.THINKING !== 'on') req.thinking = { type: 'between_tools' };
     if (TEMPERATURE) req.temperature = Number(TEMPERATURE);
     const msg = await anthropic.messages.create(req);
     const text = msg.content.filter(b => b.type === 'text').map(b => b.text).join('');
