@@ -30,7 +30,7 @@ jobs:
       - name: random sleep (0-90s)
         run: sleep $(( RANDOM % 90 ))
 
-      - name: run bot
+      - name: run bot (English)
         env:
           CLAUDE_API_KEY: ${{ secrets.CLAUDE_API_KEY }}
           TWITTER_API_KEY_CLAUDE: ${{ secrets.TWITTER_API_KEY_CLAUDE }}
@@ -38,12 +38,21 @@ jobs:
           TWITTER_ACCESS_TOKEN_CLAUDE: ${{ secrets.TWITTER_ACCESS_TOKEN_CLAUDE }}
           TWITTER_ACCESS_SECRET_CLAUDE: ${{ secrets.TWITTER_ACCESS_SECRET_CLAUDE }}
           DRY_RUN: "0"
-        run: |
-          
-          node bot_claude.js
-          
+        run: node bot_claude.js
+
+      - name: run bot (Turkish)
+        if: ${{ !cancelled() }}
+        env:
+          CLAUDE_API_KEY: ${{ secrets.CLAUDE_API_KEY }}
+          TWITTER_API_KEY_TURK: ${{ secrets.TWITTER_API_KEY_TURK }}
+          TWITTER_API_SECRET_TURK: ${{ secrets.TWITTER_API_SECRET_TURK }}
+          TWITTER_ACCESS_TOKEN_TURK: ${{ secrets.TWITTER_ACCESS_TOKEN_TURK }}
+          TWITTER_ACCESS_SECRET_TURK: ${{ secrets.TWITTER_ACCESS_SECRET_TURK }}
+          DRY_RUN: "0"
+        run: node bot_claude_turk.js
 
       - name: commit tweet history
+        if: ${{ !cancelled() }}
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
