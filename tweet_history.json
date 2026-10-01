@@ -138,5 +138,24 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "ERRATUM, Tobolsk, 1835: for \"the bridge will be finished by the Tsar's birthday\" read \"the Tsar's birthday will be finished by the bridge.",
+    "timestamp": "2026-10-01T19:09:03.459Z",
+    "tweetId": "2105736770029601088",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "notice",
+      "device": "scale",
+      "setting": "Imperial Russia, Tobolsk, 1830s",
+      "motifs": [
+        "bridges",
+        "birthdays"
+      ],
+      "register": "scholarly",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
