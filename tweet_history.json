@@ -119,5 +119,24 @@
     "patterns": [
       "opening:census_data_constantinople"
     ]
+  },
+  {
+    "text": "Minutes, Kemari Society of the Left Guards, 905. Moved: that the ball not touch the ground until the Minister of the Right returns from Dazaifu. Carried 11–0. The Minister had been dead two years. Minuted separately: that no one tell the ball.",
+    "timestamp": "2026-10-01T18:58:40.637Z",
+    "tweetId": "2105734157598945627",
+    "dryRun": false,
+    "coined": "Kemari Society of the Left Guards",
+    "dice": {
+      "form": "minutes",
+      "device": "plausible_fake",
+      "setting": "Heian Kyoto, 10th c.",
+      "motifs": [
+        "a ball game",
+        "tobacco"
+      ],
+      "register": "elegiac",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
