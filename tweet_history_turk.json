@@ -166,5 +166,24 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "ANGARYA-YI HAVÂ (1341-1358). Galata'da kuşların yükseklikten vergi vermesi emredilmiştir. Posta güvercinleri alçaktan uçmuş, hat o tarihten beri Haliç'in suyundan geçmektedir.",
+    "timestamp": "2026-10-01T20:05:18.482Z",
+    "tweetId": "2105750925830660508",
+    "dryRun": false,
+    "coined": "Angarya-yı Havâ",
+    "dice": {
+      "form": "ansiklopedi",
+      "device": "rule_change",
+      "setting": "Genoese Galata, 14th c.",
+      "motifs": [
+        "posta güvercini",
+        "kâtip"
+      ],
+      "register": "deadpan",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

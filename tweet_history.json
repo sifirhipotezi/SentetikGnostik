@@ -214,5 +214,24 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Great Zimbabwe, c. 1360:\nA loft of 62 pigeons is established to announce the new moon to the hill villages.\nThe pigeons are fed on the new moon only, to make them punctual.\nBy the next rains the moon has been rescheduled for whenever the pigeons are fed.",
+    "timestamp": "2026-10-01T20:05:12.182Z",
+    "tweetId": "2105750899415032019",
+    "dryRun": false,
+    "coined": "The loft at the Hill Enclosure",
+    "dice": {
+      "form": "chronology",
+      "device": "plausible_fake",
+      "setting": "Great Zimbabwe, 14th c.",
+      "motifs": [
+        "the calendar",
+        "pigeons"
+      ],
+      "register": "scholarly",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
