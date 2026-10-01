@@ -176,5 +176,24 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Konya, 1224. The post house contracts the storks of the Sivas road. They deliver every letter in April, to the roof where the addressee was born, whether or not anyone still lives under it.",
+    "timestamp": "2026-10-01T19:56:05.699Z",
+    "tweetId": "2105748607299445147",
+    "dryRun": false,
+    "coined": "Konya post house stork contract of 1224",
+    "dice": {
+      "form": "divergence",
+      "device": "negotiation",
+      "setting": "Seljuk Konya, 13th c.",
+      "motifs": [
+        "buttons",
+        "post offices"
+      ],
+      "register": "elegiac",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
