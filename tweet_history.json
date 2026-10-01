@@ -233,5 +233,24 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Hear it in every market of the Caliphate: the Counters of Dusk shall continue to levy one cowrie per household for the long evening of Zaria. The evening ended in 1783. The cowries have not been told.",
+    "timestamp": "2026-10-01T23:47:52.282Z",
+    "tweetId": "2105806935727444407",
+    "dryRun": false,
+    "coined": "The Counters of Dusk",
+    "dice": {
+      "form": "proclamation",
+      "device": "vestigial_office",
+      "setting": "Sokoto Caliphate, 1810s",
+      "motifs": [
+        "an unusually long dusk",
+        "tax collectors"
+      ],
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

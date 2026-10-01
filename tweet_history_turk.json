@@ -185,5 +185,24 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Mütercimin notu: Kapadokya stratigosunun 934 tarihli mektubundaki \"anthos\" kelimesine önceki neşir \"çiçek\" demiş, ben \"çeyiz\" dedim. Güvey tarafı bir tarla lalesi için üç köy gönderdi. Bir daha da düzeltmedim.",
+    "timestamp": "2026-10-01T23:47:58.395Z",
+    "tweetId": "2105806961350410450",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "mutercim",
+      "device": "recursion",
+      "setting": "Byzantine Cappadocia, 10th c.",
+      "motifs": [
+        "lale",
+        "çeyiz"
+      ],
+      "register": "küskün",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
