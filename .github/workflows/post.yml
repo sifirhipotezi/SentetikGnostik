@@ -32,20 +32,11 @@ jobs:
 
       - name: run bot
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          TWITTER_API_KEY_GPT: ${{ secrets.TWITTER_API_KEY_GPT }}
-          TWITTER_API_SECRET_GPT: ${{ secrets.TWITTER_API_SECRET_GPT }}
-          TWITTER_ACCESS_TOKEN_GPT: ${{ secrets.TWITTER_ACCESS_TOKEN_GPT }}
-          TWITTER_ACCESS_SECRET_GPT: ${{ secrets.TWITTER_ACCESS_SECRET_GPT }}
           CLAUDE_API_KEY: ${{ secrets.CLAUDE_API_KEY }}
           TWITTER_API_KEY_CLAUDE: ${{ secrets.TWITTER_API_KEY_CLAUDE }}
           TWITTER_API_SECRET_CLAUDE: ${{ secrets.TWITTER_API_SECRET_CLAUDE }}
           TWITTER_ACCESS_TOKEN_CLAUDE: ${{ secrets.TWITTER_ACCESS_TOKEN_CLAUDE }}
           TWITTER_ACCESS_SECRET_CLAUDE: ${{ secrets.TWITTER_ACCESS_SECRET_CLAUDE }}
-          TWITTER_API_KEY_TURK: ${{ secrets.TWITTER_API_KEY_TURK }}
-          TWITTER_API_SECRET_TURK: ${{ secrets.TWITTER_API_SECRET_TURK }}
-          TWITTER_ACCESS_TOKEN_TURK: ${{ secrets.TWITTER_ACCESS_TOKEN_TURK }}
-          TWITTER_ACCESS_SECRET_TURK: ${{ secrets.TWITTER_ACCESS_SECRET_TURK }}
           DRY_RUN: "0"
         run: |
           
