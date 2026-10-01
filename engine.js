@@ -14,7 +14,7 @@ import fs from 'fs';
 
 const {
   CLAUDE_API_KEY,
-  CLAUDE_MODEL = 'claude-opus-5-5',
+  CLAUDE_MODEL = 'claude-sonnet-5-5',
   TEMPERATURE, // optional; omitted from the request unless set
   DRY_RUN: DRY_RUN_ENV,
 } = process.env;
