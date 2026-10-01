@@ -21,7 +21,7 @@ import { FORMS, DEVICES, SETTINGS, MOTIFS, REGISTERS, LENGTHS } from './dice.js'
 // ---------- env ----------
 const {
   CLAUDE_API_KEY,
-  CLAUDE_MODEL = 'claude-opus-5-5',
+  CLAUDE_MODEL = 'claude-sonnet-5-5',
   TEMPERATURE, // optional; omitted from the request unless set
   TWITTER_API_KEY_CLAUDE,
   TWITTER_API_SECRET_CLAUDE,
