@@ -147,5 +147,24 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Bergama Nahiyesi Mali Yıl Tamimi, No. 11: Madde 3 — Devenin hesabî yılı, sahibinin mali yılından önce başlayamaz. Madde 4 — Kral Eumenes'in devesi M.Ö. 188'den beri mali yılını bitirmemiştir. Tahsildar beklemektedir.",
+    "timestamp": "2026-10-01T19:59:41.253Z",
+    "tweetId": "2105749511473938882",
+    "dryRun": false,
+    "coined": "Bergama Nahiyesi Mali Yıl Tamimi",
+    "dice": {
+      "form": "tahrir",
+      "device": "divergence",
+      "setting": "Hellenistic Pergamon",
+      "motifs": [
+        "deve",
+        "mali yıl"
+      ],
+      "register": "cumhuriyet",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

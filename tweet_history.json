@@ -195,5 +195,24 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Nanjing, Yongle 16, night watch: Lamplighter Wu Er lit 311 lamps along the Qinhuai. Dusk, unlit, reported to the magistrate as trespassing. Wu Er to stand bail.",
+    "timestamp": "2026-10-01T19:59:35.027Z",
+    "tweetId": "2105749485347655826",
+    "dryRun": false,
+    "coined": "Lamplighter Wu Er",
+    "dice": {
+      "form": "logbook",
+      "device": "category_error",
+      "setting": "Ming-dynasty Nanjing, 15th c.",
+      "motifs": [
+        "zoos",
+        "lamplighters"
+      ],
+      "register": "deadpan",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
