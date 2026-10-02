@@ -271,5 +271,24 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "The Order of Precedence of Ommelanden (1652) is the seating chart of the Council of the Indies. Rendered \"Ommelanden\" for \"Amsterdam\" by a copyist, it seated the surrounding countryside at the head table. Amsterdam dines standing.",
+    "timestamp": "2026-10-02T19:04:05.505Z",
+    "tweetId": "2106097908114231802",
+    "dryRun": false,
+    "coined": "The Order of Precedence of Ommelanden",
+    "dice": {
+      "form": "encyclopedia",
+      "device": "mistranslation",
+      "setting": "Dutch Batavia, 17th c.",
+      "motifs": [
+        "a currency of feathers",
+        "a seating chart"
+      ],
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

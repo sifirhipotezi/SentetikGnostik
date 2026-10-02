@@ -223,5 +223,24 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Karamanoğlu Alaeddin Bey devrinde Larende'de çınarın gölgesi vergiye bağlanmıştır. Ağacın kesildiği yıl hâlâ gölge tahsilatı sürmüştür. Gölge hangi mükellef adına kayıtlıdır?\nA) Çınar\nB) Zemin sahibi\nC) Muhtesip\nD) Ağacın kesildiği yıl\nE) Öğle vakti",
+    "timestamp": "2026-10-02T19:04:12.440Z",
+    "tweetId": "2106097937205924075",
+    "dryRun": false,
+    "coined": "Gölge Tahsildarlığı",
+    "dice": {
+      "form": "kpss",
+      "device": "category_error",
+      "setting": "Karamanid Larende, 14th c.",
+      "motifs": [
+        "çınar",
+        "vapur"
+      ],
+      "register": "hüzünlü",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
