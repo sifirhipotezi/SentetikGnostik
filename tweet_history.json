@@ -252,5 +252,24 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "ERRATA, p. 87: for \"the monastery library at Debre Damo was reached by a single rope\" read \"was reached by a single rope, which was lent to Aksum in 340 and never returned.\" The library is therefore intact, unvisited, and annotated entirely by the rope's borrowers.",
+    "timestamp": "2026-10-02T10:24:39.371Z",
+    "tweetId": "2105967187953680673",
+    "dryRun": false,
+    "coined": "The lending of the Debre Damo rope",
+    "dice": {
+      "form": "errata",
+      "device": "divergence",
+      "setting": "Axum, 4th c.",
+      "motifs": [
+        "street names",
+        "a monastery library"
+      ],
+      "register": "scholarly",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

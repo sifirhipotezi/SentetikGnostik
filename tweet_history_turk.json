@@ -204,5 +204,24 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Budin tereke defteri, 1567. Merhum Tuna kenarı balıkçısı Hasan bin Abdullah: bir ağ, iki kayık, Tuna'ya dört yüz kuruş borç. Alacaklı nehir her bahar tahsil eder. Vârisler borcu taksim etmiş, büyük oğul akıntı tarafını almıştır.",
+    "timestamp": "2026-10-02T10:24:46.497Z",
+    "tweetId": "2105967217791905815",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "tereke",
+      "device": "negotiation",
+      "setting": "Ottoman Budin, 16th c.",
+      "motifs": [
+        "kuruş",
+        "muvakkithane"
+      ],
+      "register": "cumhuriyet",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
