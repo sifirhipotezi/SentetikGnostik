@@ -242,5 +242,24 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "müflis (is.) — Köken: Kayseri'de Sultan Han'da 1236 tarihli bir ferman kâtibi \"müflîn\" yerine \"mefrûş\" yazmıştır. Handa borcunu ödeyemeyen yolcuya kilim serilir, kendisi misafir sayılırdı. Müflis bugün yatağı hazır olandır.",
+    "timestamp": "2026-10-02T23:38:21.728Z",
+    "tweetId": "2106166930511945906",
+    "dryRun": false,
+    "coined": "Sultan Han ferman kâtibi hatası",
+    "dice": {
+      "form": "lugat",
+      "device": "mistranslation",
+      "setting": "Seljuk Kayseri caravanserais, 13th c.",
+      "motifs": [
+        "iflas",
+        "telgraf"
+      ],
+      "register": "osmanli",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

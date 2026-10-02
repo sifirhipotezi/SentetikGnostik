@@ -290,5 +290,24 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Census of Yasodharapura, 1190, rev. Item: 14 households entered under the Eastern Baray to balance a column. Item: 14 households, now resident, assessed 3 measures of rice apiece. Item: the clerk, who will be asked where they came from.",
+    "timestamp": "2026-10-02T23:38:14.491Z",
+    "tweetId": "2106166900195508377",
+    "dryRun": false,
+    "coined": "Census of Yasodharapura",
+    "dice": {
+      "form": "ledger",
+      "device": "recursion",
+      "setting": "Angkor, 12th c.",
+      "motifs": [
+        "IOUs",
+        "a horse with a title"
+      ],
+      "register": "scholarly",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
