@@ -261,5 +261,24 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Kahire Ekmekçiler Loncası Zabıt Varakası, 954. Madde 1: Fırın önünde sıraya girenlere mühürlü bir kerpiç parça verilir. Madde 2: Kerpiç sahibi, kerpiçten önceki kerpiç sahibinden önce gelemez. Oybirliğiyle kabul. Salı günü yeniden.",
+    "timestamp": "2026-10-03T09:45:15.824Z",
+    "tweetId": "2106319662178816413",
+    "dryRun": false,
+    "coined": "Kerpiç Sırası Nizamı",
+    "dice": {
+      "form": "zabit",
+      "device": "anachronism",
+      "setting": "Ottoman Cairo, 16th c.",
+      "motifs": [
+        "kuyruk",
+        "Salı günü"
+      ],
+      "register": "cumhuriyet",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

@@ -309,5 +309,24 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Art. 9. Sweetness is a subject of the Crown. Ferrymen of the Han shall carry it free, but may not taste it, on pain of forty strokes, the strokes to be administered sweetly.",
+    "timestamp": "2026-10-03T09:45:08.922Z",
+    "tweetId": "2106319633284305156",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "treaty",
+      "device": "category_error",
+      "setting": "Joseon Korea, 17th c.",
+      "motifs": [
+        "ferrymen",
+        "sugar"
+      ],
+      "register": "official",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
