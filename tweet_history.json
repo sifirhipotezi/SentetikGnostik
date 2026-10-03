@@ -347,5 +347,24 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Skerrow, H. A Moustache Tax Upon the Wind, Assessed by the Inch. Whitby, 1802.\nSkerrow, H. The Wind Pays In Kind. Whitby, 1803.\nSkerrow, H. Whitby, Bareheaded. Whitby, 1804.",
+    "timestamp": "2026-10-03T20:48:48.507Z",
+    "tweetId": "2106486648783446170",
+    "dryRun": false,
+    "coined": "H. Skerrow",
+    "dice": {
+      "form": "bibliography",
+      "device": "negotiation",
+      "setting": null,
+      "motifs": [
+        "mustaches",
+        "weights and measures"
+      ],
+      "register": "petty",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

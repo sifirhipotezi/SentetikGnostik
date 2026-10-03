@@ -299,5 +299,24 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Matbah-ı Âmire, Kuru Meyve Cetveli, Cemaziyelahir 958:\n\nHicrî ayla yazılan kayısı narhı aşçıbaşıya ulaştı.\nRumî mali yılla hesap eden ambar bir yıl beklemeyi uygun buldu.\nBir yıl sonra kayısı yetişti, narh gitmişti.\nYükümlülük Ağustos'ta hâlâ açıktır.",
+    "timestamp": "2026-10-03T20:48:56.052Z",
+    "tweetId": "2106486680441999596",
+    "dryRun": false,
+    "coined": "Aşçıbaşı Cetveli",
+    "dice": {
+      "form": "kronoloji",
+      "device": "calendar",
+      "setting": "Topkapı Palace kitchens, 16th c.",
+      "motifs": [
+        "eldiven",
+        "kayısı"
+      ],
+      "register": "hüzünlü",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
