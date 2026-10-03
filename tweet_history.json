@@ -328,5 +328,24 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "HIST 214, Q2. The Ombla appears in Ragusan deeds as the Ombla, and in Bosnian deeds as the Rijeka. In 1438 a notary registered both, charged two fees, and was promoted. Discuss the incentive. (10 marks)",
+    "timestamp": "2026-10-03T14:37:43.807Z",
+    "tweetId": "2106393263955726729",
+    "dryRun": false,
+    "coined": "the Ombla double-registration of 1438",
+    "dice": {
+      "form": "exam",
+      "device": "plausible_fake",
+      "setting": "Republic of Ragusa, 15th c.",
+      "motifs": [
+        "a river with two names",
+        "notaries"
+      ],
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

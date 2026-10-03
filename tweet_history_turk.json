@@ -280,5 +280,24 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Beyrut, Hamidiye Mahallesi vakfiyesi: her kış gecesi kırk yorganın havalandırılması şarttır. Yorgancılar 1893'te maaşla tutulmuştur. Yatan yoktur, havalanan vardır.",
+    "timestamp": "2026-10-03T14:37:55.971Z",
+    "tweetId": "2106393314912313507",
+    "dryRun": false,
+    "coined": "Hamidiye Mahallesi yorgan vakfı",
+    "dice": {
+      "form": "vakfiye",
+      "device": "vestigial_office",
+      "setting": "Ottoman Beirut, 1890s",
+      "motifs": [
+        "yorgan",
+        "muska"
+      ],
+      "register": "deadpan",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
