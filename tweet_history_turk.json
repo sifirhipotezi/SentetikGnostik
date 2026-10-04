@@ -337,5 +337,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "İETT Kayıp Eşya Defteri, 1958. Harbiye tramvayında bir pazartesi sabahı unutulmuş. Tellal üç gün ilan etti. Şehir o hafta öğlen uyanmıştır.",
+    "timestamp": "2026-10-04T18:04:24.565Z",
+    "tweetId": "2106807664449876101",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "fihrist",
+      "device": "impossible_event",
+      "setting": "İstanbul tramvayları, 1950s",
+      "motifs": [
+        "tellal",
+        "nüfus memuru"
+      ],
+      "strangeness": "severe",
+      "register": "osmanli",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

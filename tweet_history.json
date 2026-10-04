@@ -385,5 +385,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Tithe rolls, Kalamaria, 1897. Scope: the village was absent nine days in fog. The fog paid its barley tithe. Four sacks short.",
+    "timestamp": "2026-10-04T18:04:01.982Z",
+    "tweetId": "2106807569696362576",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "catalog",
+      "device": "impossible_event",
+      "setting": "Ottoman Thessaloniki, 1890s",
+      "motifs": [
+        "fog",
+        "barley"
+      ],
+      "strangeness": "severe",
+      "register": "petty",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
