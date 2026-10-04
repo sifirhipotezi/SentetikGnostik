@@ -405,5 +405,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Dispatch, Zanzibar, 1896: Mr. Ferris has lost Wednesday at whist to a clove merchant, and the Agency upholds the debt. The town now passes from Tuesday to Thursday. The merchant spends his Wednesdays alone and is visibly older.",
+    "timestamp": "2026-10-04T22:54:46.111Z",
+    "tweetId": "2106880735546052698",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "letter",
+      "device": "category_error",
+      "setting": "Zanzibar, 1896",
+      "motifs": [
+        "house numbers",
+        "playing cards"
+      ],
+      "strangeness": "severe",
+      "register": "scholarly",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

@@ -357,5 +357,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "58. Üsküdar iskele defterine göre, 9 Kasım 1683 sabahı sisten batan kayık için 340 akçe tazminat 8 Kasım'da ödenmiştir. Kayıkçı tazminatı alınca 9'unda denize çıkmamıştır. Tazminat iade edilmemiştir.",
+    "timestamp": "2026-10-04T22:55:00.662Z",
+    "tweetId": "2106880796594188641",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "dipnot",
+      "device": "record_contradiction",
+      "setting": null,
+      "motifs": [
+        "sis",
+        "akçe"
+      ],
+      "strangeness": "wry",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
