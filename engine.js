@@ -14,7 +14,7 @@ import fs from 'fs';
 
 const {
   CLAUDE_API_KEY,
-  CLAUDE_MODEL = 'claude-sonnet-5-5',
+  CLAUDE_MODEL = 'claude-opus-5-5',
   TEMPERATURE, // optional; omitted from the request unless set
   DRY_RUN: DRY_RUN_ENV,
 } = process.env;
@@ -110,6 +110,7 @@ export function rollDice(D, history) {
   const usedMotifs = recentValues(history, 'motifs', AVOID.motif);
   const m1 = weightedPick(D.MOTIFS, usedMotifs);
   const motifs = [m1, weightedPick(D.MOTIFS, new Set([...usedMotifs, m1]))];
+  const strangeness = D.STRANGENESS ? weightedPick(D.STRANGENESS) : null;
   const register = weightedPick(D.REGISTERS, recentValues(history, 'register', AVOID.register));
   const length = weightedPick(D.LENGTHS, recentValues(history, 'length', AVOID.length));
 
@@ -119,12 +120,12 @@ export function rollDice(D, history) {
     const h = lore[Math.floor(Math.random() * lore.length)];
     callback = { name: h.coined, source: h.text };
   }
-  return { form, device, setting, motifs, register, length, callback };
+  return { form, device, setting, motifs, strangeness, register, length, callback };
 }
 
 const diceSummary = d => ({
   form: d.form.id, device: d.device.id, setting: d.setting, motifs: d.motifs,
-  register: d.register.id, length: d.length.id, callback: d.callback?.name || null,
+  strangeness: d.strangeness?.id ?? null, register: d.register.id, length: d.length.id, callback: d.callback?.name || null,
 });
 
 // ---------- brief ----------
@@ -134,13 +135,14 @@ export function buildBrief(d, history, language) {
     '',
     `FORM — ${d.form.text}`,
     `DEVICE — ${d.device.text}`,
+    ...(d.strangeness ? [`STRANGENESS — ${d.strangeness.text}`] : []),
     d.setting
-      ? `SETTING — ${d.setting}. A starting point: shift a few decades or miles if it makes the entry better.`
+      ? `SETTING — ${d.setting}. A starting point: shift a few decades or miles if it helps, but keep the place, its institutions and its vocabulary coherent. Only use real terms you are sure of.`
       : 'SETTING — none assigned; place and time are your call, or leave them out.',
     `MOTIFS — ${d.motifs.join(' / ')}. Build on at least one, ideally as the hinge of the joke. Using both is optional.`,
     `REGISTER — ${d.register.text}.`,
     `LENGTH — ${d.length.text}`,
-    'If two parts of the brief fight each other, FORM and DEVICE win; bend the rest.',
+    'If two parts of the brief fight each other, FORM and DEVICE win; bend the rest. The form is only a container: it must never bury the impossible thing.',
   ];
   if (language !== 'English') {
     lines.push(`LANGUAGE — write the entry in ${language}, natively. Think in ${language} from the first word; do not draft in English and translate.`);
@@ -157,7 +159,7 @@ export function buildBrief(d, history, language) {
   if (nums.length) lines.push('', `NUMBERS USED RECENTLY (don't reuse): ${nums.join(', ')}`);
   lines.push(
     '',
-    'Write 3 candidates that take genuinely different angles on this brief (different hinge, different punchline, not three phrasings of one idea). Then pick the one a well-read stranger would most want to screenshot.',
+    'Write 3 candidates that take genuinely different angles on this brief (different hinge, different punchline, not three phrasings of one idea). Each must pass the cold-read test: a stranger who knows nothing about this account, reading only the tweet, understands within one read what impossible thing happened. If the joke or the strangeness needs decoding, rewrite it plainly. Then pick the candidate that is both the most unsettling and the most immediately clear.',
     'Reply with JSON only, no prose, no code fences:',
     '{"candidates":[{"text":"...","coined":"proper name of a new event/office/institution you invented, or null"},{...},{...}],"pick":0}',
   );
@@ -192,8 +194,6 @@ export function createBot({ name, promptFile, dice, historyFile, twitterKeys, la
 
   async function askClaude(brief) {
     const req = { model: CLAUDE_MODEL, max_tokens: MAX_TOKENS, system, messages: [{ role: 'user', content: brief }] };
-    // hidden thinking was eating the whole token budget and leaving no text; this is a short creative task, so switch it off
-    if (process.env.THINKING !== 'on') req.thinking = { type: 'between_tools' };
     if (TEMPERATURE) req.temperature = Number(TEMPERATURE);
     const msg = await anthropic.messages.create(req);
     const text = msg.content.filter(b => b.type === 'text').map(b => b.text).join('');
