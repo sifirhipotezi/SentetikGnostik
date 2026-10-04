@@ -318,5 +318,24 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Ayasuluk karyesi, avarız defteri, 1572. Hâne: 22. Hâne başına 8 akçe. Zimmet: Hıdırellez'de bağ bekçisi Dede Kâşif'in asma kütüğüne \"kardeş\" yazılması üzerine, kütüğün payı ayrıca 8 akçe yazılmıştır. Kütük ödemiştir.",
+    "timestamp": "2026-10-04T10:28:38.044Z",
+    "tweetId": "2106692964688764938",
+    "dryRun": false,
+    "coined": "Dede Kâşif",
+    "dice": {
+      "form": "tahrir",
+      "device": "plausible_fake",
+      "setting": "Roman Ephesus",
+      "motifs": [
+        "asma",
+        "Hıdırellez"
+      ],
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

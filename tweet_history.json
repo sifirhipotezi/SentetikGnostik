@@ -366,5 +366,24 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Wigs, judicial: see Oysters, Whitstable\nOysters, Whitstable: guild of, 1704\nwig of Chief Justice Holt, left to guild, v. 6, p. 211\nguild admits wig to membership, 1706\nWig, sits on the Bench: see Holt, C.J., absent",
+    "timestamp": "2026-10-04T10:28:31.520Z",
+    "tweetId": "2106692937358749890",
+    "dryRun": false,
+    "coined": "Whitstable Oyster Guild",
+    "dice": {
+      "form": "index",
+      "device": "divergence",
+      "setting": null,
+      "motifs": [
+        "wigs",
+        "oysters"
+      ],
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
