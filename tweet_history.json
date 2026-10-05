@@ -445,5 +445,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "In 1063 Kaifeng prefecture registered a well in Willow Lane ward that was never dug. Thirty-eight households drew from it for eleven years. The surveyors sent to fill it recorded its depth as nine zhang and their party as four, formerly five.",
+    "timestamp": "2026-10-05T21:26:30.721Z",
+    "tweetId": "2107220913016221945",
+    "dryRun": false,
+    "coined": "Willow Lane ward",
+    "dice": {
+      "form": "divergence",
+      "device": "paper_only",
+      "setting": "Song-dynasty Kaifeng, 11th c.",
+      "motifs": [
+        "wells",
+        "dice"
+      ],
+      "strangeness": "severe",
+      "register": "scholarly",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

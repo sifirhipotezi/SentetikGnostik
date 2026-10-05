@@ -397,5 +397,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Hata-sevap, s. 219: \"Lodos üç gün sürdü\" yerine \"Lodos yalnız Rumî takvimde esti\" okunmalıdır. Miladî tarihli kayıklar batmamıştır.",
+    "timestamp": "2026-10-05T21:26:45.438Z",
+    "tweetId": "2107220974810866009",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "hata_sevap",
+      "device": "calendar",
+      "setting": null,
+      "motifs": [
+        "lodos",
+        "salep"
+      ],
+      "strangeness": "wry",
+      "register": "deadpan",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
