@@ -425,5 +425,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "58. The Hofbibliothek lent the Danube to Pressburg in 1741 for a fortnight. It was never returned. Vienna kept the canal and the slip.",
+    "timestamp": "2026-10-05T11:17:48.617Z",
+    "tweetId": "2107067728209043477",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "footnote",
+      "device": "scale",
+      "setting": "Habsburg Vienna, 18th c.",
+      "motifs": [
+        "herring",
+        "libraries"
+      ],
+      "strangeness": "wry",
+      "register": "elegiac",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

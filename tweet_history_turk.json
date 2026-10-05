@@ -377,5 +377,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Mütercimin notu: 1906 Priştine nüfus defterindeki \"bayram\" kelimesini şahıs adı sanıp \"Bayram\" diye çevirdik. O günden beri defterde Bayram adında bir mükellef var; vergisini ödüyor, kimse görmemiş. Priştine'ye o yıldan beri bayram gelmemiştir.",
+    "timestamp": "2026-10-05T11:18:11.347Z",
+    "tweetId": "2107067823449063494",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "mutercim",
+      "device": "paper_only",
+      "setting": "Ottoman Kosovo vilayeti, 1900s",
+      "motifs": [
+        "bayram",
+        "kilim"
+      ],
+      "strangeness": "severe",
+      "register": "osmanli",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
