@@ -437,5 +437,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Selanik valisine hüküm ki: 1890 yangınında Sabuncu Hanı kül olmuş, han defteri sağ kalmıştır. Defterdeki yolcular hâlâ yanık odalarda geceleyip sabah ücretini külün üstüne bırakmaktadır. Emr-i şerifim vusûlünde hanı yeniden yaptırmayasın, misafiri rencide ettirmeyesin.",
+    "timestamp": "2026-10-06T19:23:50.380Z",
+    "tweetId": "2107552429306761315",
+    "dryRun": false,
+    "coined": "Sabuncu Hanı",
+    "dice": {
+      "form": "ferman",
+      "device": "divergence",
+      "setting": "Ottoman Selanik, 19th c.",
+      "motifs": [
+        "han",
+        "ortaoyunu"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

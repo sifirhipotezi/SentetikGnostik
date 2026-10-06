@@ -485,5 +485,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "People's Court, Kirov District, Tbilisi, 1977. Claim: page 140 of the register was torn out, and Mtsvane Lane went with it. Ruling, citing the Konya post house stork contract of 1224: reprint the page. The lane is restored with 61 residents, four more than before.",
+    "timestamp": "2026-10-06T19:23:11.068Z",
+    "tweetId": "2107552264420233368",
+    "dryRun": false,
+    "coined": "Mtsvane Lane",
+    "dice": {
+      "form": "court",
+      "device": "recursion",
+      "setting": "Brezhnev-era Tbilisi",
+      "motifs": [
+        "observatories",
+        "a missing page"
+      ],
+      "strangeness": "clear",
+      "register": "official",
+      "length": "long",
+      "callback": "Konya post house stork contract of 1224"
+    }
   }
 ]
