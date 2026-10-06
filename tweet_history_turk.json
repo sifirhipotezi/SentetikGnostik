@@ -417,5 +417,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Kuzey dün kaldırılmıştır. Deniz yerinde duruyor, fakat ona doğru yürüyen kimse kıyıya varamıyor. Kırım'dan beklenen gemiler için mühürlü bir bekleme defteri açtık. — Ceneviz konsolosunun mektubu, Trabzon, 1369",
+    "timestamp": "2026-10-06T11:07:56.929Z",
+    "tweetId": "2107427634309189896",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "mektup",
+      "device": "quiet_loss",
+      "setting": "Empire of Trebizond, 14th c.",
+      "motifs": [
+        "mühür",
+        "nazar boncuğu"
+      ],
+      "strangeness": "severe",
+      "register": "akademik",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
