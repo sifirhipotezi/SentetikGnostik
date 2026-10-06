@@ -457,5 +457,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Soyadı Kanunu mucibince 'Arıkan' soyadını alan ailemiz, Magosa gümrüğünün 1652 defterinde dört kovan bal olarak kayıtlı çıkmıştır. Rüsumumuz 282 senedir ödenmemiş. Tahsildar dün gelip en küçüğümüzü okkayla tarttı. — Akşam, 11 Mart 1935",
+    "timestamp": "2026-10-06T23:41:05.130Z",
+    "tweetId": "2107617167319417203",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "gazete",
+      "device": "surname",
+      "setting": "Ottoman Cyprus, 17th c. (customs and trade only)",
+      "motifs": [
+        "arı",
+        "baklava"
+      ],
+      "strangeness": "severe",
+      "register": "küskün",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

@@ -505,5 +505,25 @@
       "length": "long",
       "callback": "Konya post house stork contract of 1224"
     }
+  },
+  {
+    "text": "Hear, people of Isfahan: the city walls were gone from Saturday to Thursday and have come back wet, with eels in the gatehouses. Tolls for the six days are owed all the same. Pay them at any gate.",
+    "timestamp": "2026-10-06T23:40:30.796Z",
+    "tweetId": "2107617023362502684",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "proclamation",
+      "device": "impossible_event",
+      "setting": "Safavid Isfahan, 17th c.",
+      "motifs": [
+        "eels",
+        "city walls"
+      ],
+      "strangeness": "clear",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
