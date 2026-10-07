@@ -545,5 +545,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "ERRATA: for \"a coastline doodled in the margin by the copyist Li Zhen\" read \"the coastline, which followed his doodle into Chang'an in 743.\" He was fined for each ward it drowned and still owes for the West Market.",
+    "timestamp": "2026-10-07T19:50:25.405Z",
+    "tweetId": "2107921507246813441",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "errata",
+      "device": "wrong_world",
+      "setting": "Tang-dynasty Chang'an, 8th c.",
+      "motifs": [
+        "marginal doodles",
+        "the coastline"
+      ],
+      "strangeness": "severe",
+      "register": "petty",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

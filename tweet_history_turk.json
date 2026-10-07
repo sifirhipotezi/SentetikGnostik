@@ -497,5 +497,25 @@
       "length": "short",
       "callback": "Angarya-yı Havâ"
     }
+  },
+  {
+    "text": "Hüve'l-Bâkî. Moda, Leylak Sokağı 9 numarada otuz yıl oturmuş merhume Saffet Hanım'ın ruhuna fâtiha. Sene 1962. Sokakta 9 numara yoktur; 7'den sonra 11 gelir. Her sabah 8.10 vapuruyla Karaköy'e geçmiştir. Mektupları hâlâ iki kapı arasındaki duvara teslim edilmektedir.",
+    "timestamp": "2026-10-07T19:51:01.276Z",
+    "tweetId": "2107921657675534494",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "kitabe",
+      "device": "paper_only",
+      "setting": "Kadıköy–Karaköy vapurları, 1960s",
+      "motifs": [
+        "kapı numaraları",
+        "antlaşma imzası"
+      ],
+      "strangeness": "severe",
+      "register": "akademik",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
