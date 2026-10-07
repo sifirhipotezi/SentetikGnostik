@@ -477,5 +477,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Ankara vakfiyesinin eksik varağındaki şart hâlâ işliyor: imarette her sabah kimsenin pişirmediği pilav. Buharı Angarya-yı Havâ'ya tâbidir.",
+    "timestamp": "2026-10-07T10:57:47.338Z",
+    "tweetId": "2107787465444770258",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "vakfiye",
+      "device": "record_contradiction",
+      "setting": "Ankara, 1924",
+      "motifs": [
+        "eksik bir varak",
+        "pilav"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "short",
+      "callback": "Angarya-yı Havâ"
+    }
   }
 ]

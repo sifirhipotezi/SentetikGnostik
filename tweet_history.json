@@ -525,5 +525,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Q: Why is Bursa a day ahead of Istanbul?\nA: The Habsburg envoy's gift clock ran fast, and the town set itself by it. We still do.",
+    "timestamp": "2026-10-07T10:57:15.233Z",
+    "tweetId": "2107787330732061164",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "transcript",
+      "device": "divergence",
+      "setting": "Ottoman Bursa, 16th c.",
+      "motifs": [
+        "gifts between rulers",
+        "menageries"
+      ],
+      "strangeness": "wry",
+      "register": "scholarly",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
