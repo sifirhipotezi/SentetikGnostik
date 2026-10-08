@@ -605,5 +605,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Plan of the Gravensteen, Ghent, 1459. Scope: shows a fifth cell the castle lacked. It has one now, holding the draughtsman.",
+    "timestamp": "2026-10-08T19:44:28.691Z",
+    "tweetId": "2108282398966157594",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "catalog",
+      "device": "recursion",
+      "setting": "Burgundian Netherlands, 15th c.",
+      "motifs": [
+        "bells",
+        "prisons"
+      ],
+      "strangeness": "clear",
+      "register": "deadpan",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

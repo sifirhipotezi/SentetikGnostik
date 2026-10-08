@@ -557,5 +557,25 @@
       "length": "short",
       "callback": "Bergama Nahiyesi Mali Yıl Tamimi"
     }
+  },
+  {
+    "text": "1752: Varoş bekçisi her gece haneleri sayardı: 87.\n1768: Bekçilik lüzumsuz görülüp kaldırıldı.\n1769: Sayımda 94 hane çıktı. Yedisinin kapısı yok.\n1770: Yedisi de avarızını eksiksiz ödüyor; bekçinin maaşından fazla.",
+    "timestamp": "2026-10-08T19:44:59.352Z",
+    "tweetId": "2108282527500656693",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "kronoloji",
+      "device": "vestigial_office",
+      "setting": "Ottoman Belgrade, 18th c.",
+      "motifs": [
+        "bekçi",
+        "teşrifat"
+      ],
+      "strangeness": "clear",
+      "register": "küskün",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
