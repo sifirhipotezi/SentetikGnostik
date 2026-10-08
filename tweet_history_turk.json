@@ -537,5 +537,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Altıncı Daire-i Belediye zabtı, 1909: Pera'da kavaklar yere doğru büyüyor. Tünel'e varmadan budanmaları 8 reyle kabul; yaşları Bergama tamimine göre.",
+    "timestamp": "2026-10-08T11:14:27.026Z",
+    "tweetId": "2108154046141833437",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "zabit",
+      "device": "wrong_world",
+      "setting": "Meşrutiyet Pera, 1909",
+      "motifs": [
+        "pirinç",
+        "kavak"
+      ],
+      "strangeness": "wry",
+      "register": "akademik",
+      "length": "short",
+      "callback": "Bergama Nahiyesi Mali Yıl Tamimi"
+    }
   }
 ]

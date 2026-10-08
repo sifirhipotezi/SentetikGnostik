@@ -585,5 +585,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "In 1118 the Althing sentenced the echo under the Almannagjá cliff to lesser outlawry for repeating the lawspeaker with additions. It served its three years abroad and came back with a Norwegian accent.",
+    "timestamp": "2026-10-08T11:14:05.928Z",
+    "tweetId": "2108153957667242136",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "divergence",
+      "device": "category_error",
+      "setting": "Medieval Iceland, the Althing",
+      "motifs": [
+        "echoes",
+        "hats"
+      ],
+      "strangeness": "wry",
+      "register": "scholarly",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
