@@ -517,5 +517,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Defter ne yazarsa o olur. 1788'de Eğin kâtibi 'yağmur yağdı' satırını pekmezli parmakla yazmış; o gün Eğin'e koyu, tatlı bir yağmur yağmıştır. Sokakların temizlik masrafı defterhaneye kesilmiştir.",
+    "timestamp": "2026-10-08T00:06:12.469Z",
+    "tweetId": "2107985877410386267",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "vecize",
+      "device": "recursion",
+      "setting": null,
+      "motifs": [
+        "ebru kâğıdı",
+        "pekmez"
+      ],
+      "strangeness": "severe",
+      "register": "küskün",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

@@ -565,5 +565,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Lot 318. Backgammon board, Lima, 1761. The pieces move at night against the empty chair the Viceroy's Keeper of the Tables was paid to beat until 1790. The chair has won 309 games since, each win a house in Lima found empty by morning. Est. 900–1,200 pesos.",
+    "timestamp": "2026-10-08T00:05:47.230Z",
+    "tweetId": "2107985771600752989",
+    "dryRun": false,
+    "coined": "Keeper of the Tables",
+    "dice": {
+      "form": "auction",
+      "device": "vestigial_office",
+      "setting": "Colonial Lima, 18th c.",
+      "motifs": [
+        "vinegar",
+        "backgammon"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
