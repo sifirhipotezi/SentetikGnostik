@@ -665,5 +665,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "shoe-fare (n.), a ticket bought for footwear. From the Hejaz Railway, Sept. 1908: the first train reached Medina carrying 412 pairs of shoes and no passengers. Each pair held a ticket stamped at Damascus. The company refused refunds, so the shoes walked back.",
+    "timestamp": "2026-10-09T19:22:15.006Z",
+    "tweetId": "2108639192678814205",
+    "dryRun": false,
+    "coined": "shoe-fare",
+    "dice": {
+      "form": "etymology",
+      "device": "impossible_event",
+      "setting": "Ottoman Hejaz railway, 1908",
+      "motifs": [
+        "shoes",
+        "cormorants"
+      ],
+      "strangeness": "wry",
+      "register": "deadpan",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

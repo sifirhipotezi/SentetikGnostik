@@ -617,5 +617,25 @@
       "length": "short",
       "callback": "Gölge Tahsildarlığı"
     }
+  },
+  {
+    "text": "Kardeşim, fabrikanın kazan buharı bu kış Çarşı Hamamı'na verildi. Hamama 71 kilo giren 22 kilo çıkıyor, kıvrık ve demlik kokulu. Müdürlük tamim etti: çıkanlar kuru çay fiyatından tartılacak. — Rize, 1953",
+    "timestamp": "2026-10-09T19:22:55.555Z",
+    "tweetId": "2108639362942414882",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "mektup",
+      "device": "divergence",
+      "setting": "Rize çay fabrikaları, 1950s",
+      "motifs": [
+        "hamam",
+        "kuru fasulye"
+      ],
+      "strangeness": "severe",
+      "register": "cumhuriyet",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
