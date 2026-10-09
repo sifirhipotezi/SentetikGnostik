@@ -597,5 +597,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Haydarpaşa, 1934. Hamal Rıza: \"Nevruz Konya treninden biletsiz indi, peronda kar eridi.\" Bahar, Gölge Tahsildarlığına sevk olundu.",
+    "timestamp": "2026-10-09T11:13:18.004Z",
+    "tweetId": "2108516144634118323",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "ifade",
+      "device": "category_error",
+      "setting": "Haydarpaşa Garı, 1930s",
+      "motifs": [
+        "Nevruz",
+        "lokum"
+      ],
+      "strangeness": "severe",
+      "register": "akademik",
+      "length": "short",
+      "callback": "Gölge Tahsildarlığı"
+    }
   }
 ]

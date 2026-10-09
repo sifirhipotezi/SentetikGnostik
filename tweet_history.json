@@ -645,5 +645,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "By order of the Amir: the sea enters the Registan twice daily. Take a numbered token for the boats. The drowned keep their place.",
+    "timestamp": "2026-10-09T11:12:49.863Z",
+    "tweetId": "2108516026593812967",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "proclamation",
+      "device": "anachronism",
+      "setting": "Timurid Samarkand, 15th c.",
+      "motifs": [
+        "tides",
+        "fireworks"
+      ],
+      "strangeness": "severe",
+      "register": "scholarly",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
