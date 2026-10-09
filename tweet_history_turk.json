@@ -577,5 +577,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Uçhisar sicili, 1871. Davacı Halil Ağa oğlu Osman: babası şerbetçi Kirkor'a 'her sabah kapıma bir güğüm' diye abone olmuş. Babası on iki yıldır ölü; güğümler her sabah boş ve yıkanmış bulunuyor. Abonelik ancak şahsen gelip iptal ile biter; talep reddolundu.",
+    "timestamp": "2026-10-09T00:13:54.579Z",
+    "tweetId": "2108350203569033395",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "kadi_sicili",
+      "device": "anachronism",
+      "setting": "Kapadokya villages, 19th c.",
+      "motifs": [
+        "şerbet",
+        "havai fişek"
+      ],
+      "strangeness": "severe",
+      "register": "osmanli",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

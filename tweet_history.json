@@ -625,5 +625,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Field notebook, Soil Conservation Service, Cimarron Co., Okla., 16 April 1935. The county lighthouse stands on the plat, the tax roll and the federal payroll. There is no lighthouse. Its keeper logs eleven souls guided home through Sunday's dust. Eleven are missing.",
+    "timestamp": "2026-10-09T00:13:10.618Z",
+    "tweetId": "2108350019183190358",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "logbook",
+      "device": "paper_only",
+      "setting": "Dust Bowl Oklahoma, 1930s",
+      "motifs": [
+        "lighthouses",
+        "pepper"
+      ],
+      "strangeness": "severe",
+      "register": "official",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
