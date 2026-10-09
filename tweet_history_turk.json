@@ -637,5 +637,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Aydınoğlu defteri, sene 1341. Kızılca köyü, 29 hane. Bu köye sabah gelmez. Safran sabah toplanır; öşrü yine de 3 dirhem yazılmıştır.",
+    "timestamp": "2026-10-09T23:55:11.774Z",
+    "tweetId": "2108707882133045673",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "tahrir",
+      "device": "wrong_world",
+      "setting": "Beylik-era Aydın and Birgi, 14th c.",
+      "motifs": [
+        "afyon",
+        "safran"
+      ],
+      "strangeness": "clear",
+      "register": "deadpan",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

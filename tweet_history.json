@@ -685,5 +685,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "A receipt may precede its cargo. Ragusa's customs taxed 311 jars of olives in 1571 from a grove first planted in 1604. It is still in arrears.",
+    "timestamp": "2026-10-09T23:54:52.772Z",
+    "tweetId": "2108707802319581514",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "maxim",
+      "device": "record_contradiction",
+      "setting": null,
+      "motifs": [
+        "customs duties",
+        "olives"
+      ],
+      "strangeness": "clear",
+      "register": "scholarly",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
