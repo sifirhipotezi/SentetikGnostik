@@ -705,5 +705,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Night Census of Erzurum (1731–1786): clerks counted the city's graves each night to confirm the dead were still in them. Cut as wasteful in 1786. The next census found 2,119 more residents than births, all in arrears.",
+    "timestamp": "2026-10-10T10:31:01.591Z",
+    "tweetId": "2108867893974991094",
+    "dryRun": false,
+    "coined": "Night Census of Erzurum",
+    "dice": {
+      "form": "encyclopedia",
+      "device": "vestigial_office",
+      "setting": "Ottoman Erzurum, 18th c.",
+      "motifs": [
+        "abacuses",
+        "census-takers"
+      ],
+      "strangeness": "severe",
+      "register": "petty",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

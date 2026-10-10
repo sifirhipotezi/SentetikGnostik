@@ -657,5 +657,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Kaşgar'da 1061 baharında aynı sabah iki kez yaşandı. Mütercim notu: kaynaktaki 'kün' hem gün hem güneş demektir. Önceki çevirmen 'güneş' okumuş; onun baskısında Kaşgar'a iki güneş doğar, sarnıçlar bir haftada kurur.",
+    "timestamp": "2026-10-10T10:31:35.926Z",
+    "tweetId": "2108868038003179764",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "mutercim",
+      "device": "impossible_event",
+      "setting": "Karakhanid Kaşgar, 11th c.",
+      "motifs": [
+        "tavus kuşu",
+        "sarnıç"
+      ],
+      "strangeness": "clear",
+      "register": "akademik",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
