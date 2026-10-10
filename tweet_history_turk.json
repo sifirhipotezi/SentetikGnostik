@@ -677,5 +677,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Hata-sevap, s. 41: 'Narh: bir okka et 7 akçe' yerine 'bir okka et 7 akçe, KDV dahil' okunmalıdır. Kasaplar farkı hâlâ istiyor.",
+    "timestamp": "2026-10-10T18:20:22.414Z",
+    "tweetId": "2108986009123967325",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "hata_sevap",
+      "device": "anachronism",
+      "setting": "İbrahim Müteferrika's printing press, 1730s",
+      "motifs": [
+        "narh",
+        "divit"
+      ],
+      "strangeness": "clear",
+      "register": "deadpan",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

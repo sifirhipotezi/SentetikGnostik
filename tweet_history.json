@@ -725,5 +725,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Cusco, 1529. A vellum deed signing the city over to Spain was found in the Coricancha. Ruled forged and burned. It came back in 1533.",
+    "timestamp": "2026-10-10T18:19:55.067Z",
+    "tweetId": "2108985894283964555",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "court",
+      "device": "divergence",
+      "setting": "Inca Cusco, early 16th c.",
+      "motifs": [
+        "whistling",
+        "vellum"
+      ],
+      "strangeness": "clear",
+      "register": "deadpan",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
