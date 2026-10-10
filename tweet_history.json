@@ -745,5 +745,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Burial register, Nanhai county, 1772. Liang Wenhui, clockmaker, died at midnight. On his street the hours run backward, so by noon he was back at his bench. He has been buried four times, 3 1/2 taels each.",
+    "timestamp": "2026-10-10T23:22:16.470Z",
+    "tweetId": "2109061984834478105",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "obituary",
+      "device": "wrong_world",
+      "setting": "Qing Canton, 18th c.",
+      "motifs": [
+        "maps",
+        "clocks"
+      ],
+      "strangeness": "clear",
+      "register": "official",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

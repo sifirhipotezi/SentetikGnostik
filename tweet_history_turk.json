@@ -697,5 +697,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Ayıcı Bayram ile ayısı, Hicri yılın güneş yılına yetişemediği o on bir günde yaşardı. Süleymaniye imaretinden her yıl o günlerde iki kişilik çorba alıp borcunu hiçbir aya yazdırmadılar. Kâtip Mehmed'in notu: Ayı ikinci kepçeyi de istemiştir.",
+    "timestamp": "2026-10-10T23:22:48.496Z",
+    "tweetId": "2109062119165415501",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "alternatif",
+      "device": "calendar",
+      "setting": "Süleymaniye külliyesi, 1550s",
+      "motifs": [
+        "terlik",
+        "ayı oynatıcısı"
+      ],
+      "strangeness": "clear",
+      "register": "küskün",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
