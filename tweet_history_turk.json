@@ -737,5 +737,25 @@
       "length": "medium",
       "callback": "Bergama Nahiyesi Mali Yıl Tamimi"
     }
+  },
+  {
+    "text": "Kayıp yapraktan: Edirne kayıkçısı Meriç'e yılda 13 akçe öder; ödemeyen karşıya varmaz. Meriç, Bergama Nahiyesi Mali Yıl Tamimi'ni tanımaz.",
+    "timestamp": "2026-10-11T18:43:52.949Z",
+    "tweetId": "2109354313172898080",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "seyahatname",
+      "device": "negotiation",
+      "setting": "Ottoman Edirne, 15th c.",
+      "motifs": [
+        "fes",
+        "kayıkçı"
+      ],
+      "strangeness": "wry",
+      "register": "hüzünlü",
+      "length": "short",
+      "callback": "Bergama Nahiyesi Mali Yıl Tamimi"
+    }
   }
 ]

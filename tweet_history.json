@@ -785,5 +785,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Q: Who pays tithe on the high pasture?\nA: The silence atop Psiloritis. Nobody's climbed up there. Its tribute comes down each August under wax.\nQ: Whose seal?\nA: My father's. We buried him with the ring.",
+    "timestamp": "2026-10-11T18:43:26.221Z",
+    "tweetId": "2109354200832582022",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "transcript",
+      "device": "category_error",
+      "setting": "Venetian Crete, 16th c.",
+      "motifs": [
+        "a mountain nobody climbed",
+        "seals and wax"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
