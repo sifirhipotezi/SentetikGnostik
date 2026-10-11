@@ -805,5 +805,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "p. 77: for \"no one used Ravenna's bricked gate\" read \"1,306 came in.\" None left. The bricks are intact. Cf. the loft at the Hill Enclosure.",
+    "timestamp": "2026-10-11T23:32:31.997Z",
+    "tweetId": "2109426954529095890",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "errata",
+      "device": "impossible_event",
+      "setting": "Byzantine Ravenna, 6th c.",
+      "motifs": [
+        "the 13th month",
+        "a gate nobody uses"
+      ],
+      "strangeness": "severe",
+      "register": "scholarly",
+      "length": "short",
+      "callback": "The loft at the Hill Enclosure"
+    }
   }
 ]

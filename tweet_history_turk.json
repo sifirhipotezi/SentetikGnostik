@@ -757,5 +757,25 @@
       "length": "short",
       "callback": "Bergama Nahiyesi Mali Yıl Tamimi"
     }
+  },
+  {
+    "text": "ARYENİS DÜĞÜNÜ SAYICILIĞI (m.ö. 585-?). Sardes'te düğün davetlilerini sayan memuriyet. Lidya'dan sonra da sürmüştür; düğün bitmemiştir. Son sayımda davetli 3.119'dur; her sayımda biri fazla çıkar.",
+    "timestamp": "2026-10-11T23:33:00.023Z",
+    "tweetId": "2109427071915069901",
+    "dryRun": false,
+    "coined": "Aryenis Düğünü Sayıcılığı",
+    "dice": {
+      "form": "ansiklopedi",
+      "device": "vestigial_office",
+      "setting": "Lydian Sardis, 6th c. BCE",
+      "motifs": [
+        "düğün",
+        "falcı"
+      ],
+      "strangeness": "severe",
+      "register": "osmanli",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
