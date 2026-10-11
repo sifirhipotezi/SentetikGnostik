@@ -717,5 +717,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "HASANOĞLAN KÖY ENSTİTÜSÜ'NÜN UÇURTMASI 12 MAYIS 1944'TE BU TEPEDE KAYBOLDU. DEMİRBAŞ DEFTERİ KAYBI 3 MAYIS'TA, UÇURTMA YAPILMADAN İŞLEMİŞ. İPİ, BERGAMA NAHİYESİ MALİ YIL TAMİMİ UYARINCA 1943'TEN DÜŞÜLDÜ.",
+    "timestamp": "2026-10-11T10:43:36.190Z",
+    "tweetId": "2109233446874673590",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "tabela",
+      "device": "record_contradiction",
+      "setting": "Köy Enstitüleri, 1940s",
+      "motifs": [
+        "kahve",
+        "uçurtma"
+      ],
+      "strangeness": "clear",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": "Bergama Nahiyesi Mali Yıl Tamimi"
+    }
   }
 ]

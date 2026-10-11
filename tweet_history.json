@@ -765,5 +765,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "IN 1926 A CLERK TYPED 'NOON' FOR 'NONE' IN THE DECEMBER SUN TABLE. THE SUN STILL RISES HERE AT NOON IN THE POLAR NIGHT, FOR ONE MINUTE.",
+    "timestamp": "2026-10-11T10:43:00.217Z",
+    "tweetId": "2109233296034959783",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "marker",
+      "device": "mistranslation",
+      "setting": "Svalbard coal towns, 1920s",
+      "motifs": [
+        "noon",
+        "saffron"
+      ],
+      "strangeness": "severe",
+      "register": "elegiac",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
