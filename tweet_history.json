@@ -845,5 +845,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Tr. note: the 1923 Berlin trade treaty is signed by one Ludwig Kemper, born 1958. The original verb is \"will sign\"; I gave \"signed.\" The tense held, so he did. He has written asking for his pen back.",
+    "timestamp": "2026-10-12T22:02:14.517Z",
+    "tweetId": "2109766619773960629",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "translator",
+      "device": "record_contradiction",
+      "setting": "Weimar Berlin, 1920s",
+      "motifs": [
+        "a treaty signing",
+        "sundials"
+      ],
+      "strangeness": "clear",
+      "register": "petty",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

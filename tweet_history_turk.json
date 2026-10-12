@@ -797,5 +797,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Kefe kadısı, 1489. Meddah Kasım: \"Zelzele hikâyemi yarıda kesti, sonunu da alıp gitti.\" Zelzeleye sonu iade etmesi emrolunmuştur.",
+    "timestamp": "2026-10-12T22:02:30.814Z",
+    "tweetId": "2109766688162148611",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "ifade",
+      "device": "category_error",
+      "setting": "Genoese Kaffa (Crimea), 15th c.",
+      "motifs": [
+        "zelzele",
+        "meddah"
+      ],
+      "strangeness": "wry",
+      "register": "deadpan",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
