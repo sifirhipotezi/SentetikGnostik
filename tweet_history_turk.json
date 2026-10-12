@@ -777,5 +777,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Hicaz Hattı, 1908. Davacı: Tebük yakınındaki bir köyün muhtarı. Davalı: Hat Müdürlüğü. İddia: Kâtip köyü haritaya istasyonun on bir mil kuzeyine yazmış, köy bir gecede oraya taşınmış. Kuyuları yerinde kalmış. Hüküm: Harita esastır. Madde 2: Kuyular köye nakledilsin.",
+    "timestamp": "2026-10-12T11:47:58.188Z",
+    "tweetId": "2109612033045885250",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "kadi_sicili",
+      "device": "mistranslation",
+      "setting": "Hejaz Railway, 1908",
+      "motifs": [
+        "rehineler",
+        "muhtar"
+      ],
+      "strangeness": "severe",
+      "register": "cumhuriyet",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

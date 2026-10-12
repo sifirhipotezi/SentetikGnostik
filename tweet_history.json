@@ -825,5 +825,25 @@
       "length": "short",
       "callback": "The loft at the Hill Enclosure"
     }
+  },
+  {
+    "text": "PUBLIC NOTICE. Will the silk works at Ushuaia, which has shipped 1,140 lb of raw silk to Liverpool yearly since 1885, kindly state where it is. No mulberry grows on the island and no one has found the works. Liverpool reports the silk is excellent and arrives cold.",
+    "timestamp": "2026-10-12T11:47:25.334Z",
+    "tweetId": "2109611895070048370",
+    "dryRun": false,
+    "coined": "the silk works at Ushuaia",
+    "dice": {
+      "form": "notice",
+      "device": "paper_only",
+      "setting": "Tierra del Fuego, 1880s",
+      "motifs": [
+        "ambassadors",
+        "silkworms"
+      ],
+      "strangeness": "wry",
+      "register": "deadpan",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
