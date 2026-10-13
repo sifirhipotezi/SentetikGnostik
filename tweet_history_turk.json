@@ -817,5 +817,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Hüve'l-Bâkî. Bu kabirde Kavaflar çarşısından Mustafa Efendi yatar; aynı gün Kars'ta da defnolunmuştur. İki cenaze namazı kılınmış, iki tereke yazılmıştır. Alacaklıları iki kabri de haczettirmiştir. Sene 1183.",
+    "timestamp": "2026-10-13T11:34:26.977Z",
+    "tweetId": "2109971018551009459",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "kitabe",
+      "device": "impossible_event",
+      "setting": "Ottoman Erzurum, 18th c.",
+      "motifs": [
+        "tren tarifesi",
+        "borç senedi"
+      ],
+      "strangeness": "clear",
+      "register": "akademik",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

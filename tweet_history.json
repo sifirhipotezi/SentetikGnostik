@@ -865,5 +865,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Polar MS 1053/7. Mess book, Cape Evans, winter 1911. Scope: an officer's tally of every joke told at dinner and the laughter it earned. On 9 June he entered the laughter first. Fourteen men laughed at nothing for 34 minutes, until he ruled a line beneath it.",
+    "timestamp": "2026-10-13T11:34:07.357Z",
+    "tweetId": "2109970936187548089",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "catalog",
+      "device": "recursion",
+      "setting": "Edwardian Antarctica expeditions",
+      "motifs": [
+        "laughter",
+        "relics"
+      ],
+      "strangeness": "clear",
+      "register": "scholarly",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
