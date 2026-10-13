@@ -885,5 +885,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "hail-post, n. From Semipalatinsk, 1934, where hail fell upward all summer. The post office took letters to go up with it. None came back.",
+    "timestamp": "2026-10-13T20:08:36.110Z",
+    "tweetId": "2110100409196888312",
+    "dryRun": false,
+    "coined": "hail-post",
+    "dice": {
+      "form": "etymology",
+      "device": "wrong_world",
+      "setting": "Soviet Kazakhstan, 1930s",
+      "motifs": [
+        "tea",
+        "hailstorms"
+      ],
+      "strangeness": "severe",
+      "register": "elegiac",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

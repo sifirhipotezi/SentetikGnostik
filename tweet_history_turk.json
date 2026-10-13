@@ -837,5 +837,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Diyarbekir Ulu Camii vakfı, minaredeki fareler için 1726'dan beri bir kediye günde iki akçe ödemektedir. Kediyi gören olmamıştır. Fareler gitmiş, mütevelli hizmeti inkâr edemediğinden akçeyi kesememiştir. Kedi, Angarya-yı Havâ'dan da muaf tutulmuştur.",
+    "timestamp": "2026-10-13T20:09:13.227Z",
+    "tweetId": "2110100564826574885",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "alternatif",
+      "device": "paper_only",
+      "setting": "Ottoman Diyarbekir, 18th c.",
+      "motifs": [
+        "kedi",
+        "minare"
+      ],
+      "strangeness": "clear",
+      "register": "küskün",
+      "length": "long",
+      "callback": "Angarya-yı Havâ"
+    }
   }
 ]
