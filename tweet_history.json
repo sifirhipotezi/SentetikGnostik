@@ -945,5 +945,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Lot 219. Pepper casket, Ayutthaya, c. 1681, ex-Phra Khlang stores. Est. 900–1,200 ticals. Opening it causes a sneeze, a reflex withdrawn from mankind in 1702. Our cataloguer has sneezed and cannot describe it.",
+    "timestamp": "2026-10-14T21:25:27.024Z",
+    "tweetId": "2110482136629497959",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "auction",
+      "device": "quiet_loss",
+      "setting": "Ayutthaya, 17th c.",
+      "motifs": [
+        "ink",
+        "sneezing"
+      ],
+      "strangeness": "severe",
+      "register": "official",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

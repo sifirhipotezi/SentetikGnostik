@@ -897,5 +897,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Malazgirt'te 1072 tarihli bir vakfiyenin şartı: Vakfın tevliyeti her yıl Ağustos ayına aittir. Hesaplar eylülde kendiliğinden kapanır. 1936'da tapu kâtibi araziyi Ağustos adına tescil etmiş, imza için on bir ay beklemiştir.",
+    "timestamp": "2026-10-14T21:25:55.811Z",
+    "tweetId": "2110482257370808519",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "vakfiye",
+      "device": "category_error",
+      "setting": "Malazgirt, 1071",
+      "motifs": [
+        "tapu kâtibi",
+        "martı"
+      ],
+      "strangeness": "wry",
+      "register": "cumhuriyet",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
