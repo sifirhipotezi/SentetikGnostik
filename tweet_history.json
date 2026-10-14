@@ -905,5 +905,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Kerasous, Absence of (1367). For seven days the Pontic town of Kerasous did not exist. Petitioners queued at its gate throughout and were heard. The judgments issued that week stand, and are enforced in Kerasous.",
+    "timestamp": "2026-10-14T09:23:28.044Z",
+    "tweetId": "2110300443649753592",
+    "dryRun": false,
+    "coined": "Absence of Kerasous",
+    "dice": {
+      "form": "encyclopedia",
+      "device": "impossible_event",
+      "setting": "Empire of Trebizond, 14th c.",
+      "motifs": [
+        "queues",
+        "a minor heresy"
+      ],
+      "strangeness": "severe",
+      "register": "official",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

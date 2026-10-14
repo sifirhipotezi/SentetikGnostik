@@ -857,5 +857,25 @@
       "length": "long",
       "callback": "Angarya-yı Havâ"
     }
+  },
+  {
+    "text": "Kül Tegin yuğ kayıtları, 731. Yas gecesi karargâha yarım günlük yolda bulunan deniz kıyısına dair. Sabaha dek lüfer tutulmuş, balıklar balbal sayısınca çıkmıştır. Kıyı ertesi gün yoktu, tuzu otlakta kalmıştır.",
+    "timestamp": "2026-10-14T09:23:57.151Z",
+    "tweetId": "2110300565703897108",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "fihrist",
+      "device": "wrong_world",
+      "setting": "Orhun valley, Göktürk Khaganate, 8th c.",
+      "motifs": [
+        "lüfer",
+        "kavuk"
+      ],
+      "strangeness": "severe",
+      "register": "hüzünlü",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
