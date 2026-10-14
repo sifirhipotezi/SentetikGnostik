@@ -925,5 +925,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "IN 1343 THE APOSTOLIC CAMERA TAXED SPRING AT ONE FLORIN A GARDEN. THIS STREET REFUSED, AND ITS SPRING WAS SEIZED AND LOCKED IN THE PALACE CELLARS. TULIPS BLOOM DOWN THERE EACH APRIL. UP HERE IT HAS BEEN MARCH SINCE.",
+    "timestamp": "2026-10-14T14:58:36.091Z",
+    "tweetId": "2110384782890635640",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "marker",
+      "device": "category_error",
+      "setting": "Avignon papacy, 14th c.",
+      "motifs": [
+        "spectacles",
+        "tulips"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
