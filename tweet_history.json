@@ -1005,5 +1005,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Kilwa Kisiwani, 1527.\n2 Shawwal: unattended puppets perform in the market, their strings rising into a clear sky.\n3 Shawwal: they pay the gate toll in Sofala gold, correctly weighed.\n6 Shawwal: the qadi orders the strings cut. No puppet falls. Eleven townsmen do.",
+    "timestamp": "2026-10-15T21:08:27.446Z",
+    "tweetId": "2110840248024367326",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "chronology",
+      "device": "impossible_event",
+      "setting": "Kilwa Sultanate, 16th c.",
+      "motifs": [
+        "puppets",
+        "yawning"
+      ],
+      "strangeness": "severe",
+      "register": "official",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

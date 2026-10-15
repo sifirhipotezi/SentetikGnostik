@@ -957,5 +957,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "88. Hacivat'ın oynatıcısı Nuri Efendi'ye 1817'den beri maaş ödenmektedir. Perdenin arkasında kimse yoktur; Hacivat yine konuşur.",
+    "timestamp": "2026-10-15T21:08:44.845Z",
+    "tweetId": "2110840321076498850",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "dipnot",
+      "device": "paper_only",
+      "setting": null,
+      "motifs": [
+        "karagöz",
+        "cirit"
+      ],
+      "strangeness": "wry",
+      "register": "osmanli",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
