@@ -985,5 +985,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "CORRECTION. The Edo pawnbroker Ōmiya Seibei, whose death we printed on the 9th, never lived. There was no house, no birth, no face. His loans are being called in all the same, and every borrower remembers the money.",
+    "timestamp": "2026-10-15T14:47:08.548Z",
+    "tweetId": "2110744287017336832",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "notice",
+      "device": "paper_only",
+      "setting": "Edo Japan, early 18th c.",
+      "motifs": [
+        "debts",
+        "post offices"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

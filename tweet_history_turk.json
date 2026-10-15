@@ -937,5 +937,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Tell Kerme karyesi, Haleb'e tâbi: 58 hane. Simitçi Yusuf Hicri seneye göre ölmüş, Rumi seneye göre henüz ölmemiştir. İki sene arasındaki on bir gün fırını yanar, simitleri tükenir; alan görülmemiştir. Temettü vergisi o on bir güne göre alınmıştır.",
+    "timestamp": "2026-10-15T14:47:42.735Z",
+    "tweetId": "2110744430361956556",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "tahrir",
+      "device": "calendar",
+      "setting": "Ottoman Halep, 1880s",
+      "motifs": [
+        "rüya tabiri",
+        "simit"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
