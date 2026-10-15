@@ -917,5 +917,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Tiflis kadısı, 1144. Davacı: Kervansaraycı Ohannes. Davalı: Erzurumlu Hasan. İddia: Davalı geçen kış kervansarayda on bir gece kalmış, kirasını vermemiş. Kervansaray bu bahar yapılmıştır. Temel kazılırken davalının kardaki ayak izleri çıkmıştır. Hüküm: Kira ödensin.",
+    "timestamp": "2026-10-15T09:01:56.946Z",
+    "tweetId": "2110657416157143338",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "kadi_sicili",
+      "device": "impossible_event",
+      "setting": "Ottoman Tiflis trade, 18th c.",
+      "motifs": [
+        "kar",
+        "kervansaray"
+      ],
+      "strangeness": "severe",
+      "register": "osmanli",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
