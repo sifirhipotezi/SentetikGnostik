@@ -997,5 +997,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Labarna'dan tamim: Sessizlik bayram güreşinde dört pehlivanı yendi. Emrim vusûlünde ona rakip çıkarılmasın. Yenilenler hâlâ konuşamaz.",
+    "timestamp": "2026-10-16T14:41:37.784Z",
+    "tweetId": "2111105287591444875",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "ferman",
+      "device": "category_error",
+      "setting": "Hattuşa, 13th c. BCE",
+      "motifs": [
+        "yazma bir nüsha",
+        "güreş"
+      ],
+      "strangeness": "clear",
+      "register": "cumhuriyet",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

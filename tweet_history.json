@@ -1045,5 +1045,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Yokohama, 1873: From the Bluff, Fuji is visible only to those who speak English. Our cook pays an interpreter to describe it.",
+    "timestamp": "2026-10-16T14:41:07.233Z",
+    "tweetId": "2111105159384236184",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "letter",
+      "device": "wrong_world",
+      "setting": "Meiji Japan, 1870s",
+      "motifs": [
+        "chilli peppers",
+        "translators"
+      ],
+      "strangeness": "wry",
+      "register": "deadpan",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
