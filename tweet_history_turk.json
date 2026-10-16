@@ -1017,5 +1017,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "MEDİNE ERKEN AKŞAMI (1322/1904). Akşam ezanının on üç dakika erken okunduğu, güneşin de ezana uyup erken battığı hadise. Güneş eski vaktine dönmemiş; muvakkithane saatleri artık müezzine göre ayarlanır.",
+    "timestamp": "2026-10-16T20:44:42.879Z",
+    "tweetId": "2111196660822945887",
+    "dryRun": false,
+    "coined": "Medine Erken Akşamı",
+    "dice": {
+      "form": "ansiklopedi",
+      "device": "impossible_event",
+      "setting": "Ottoman Hejaz, Medina, 1900s",
+      "motifs": [
+        "aşure",
+        "ezan vakti"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

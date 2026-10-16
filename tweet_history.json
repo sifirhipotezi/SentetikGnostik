@@ -1065,5 +1065,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "THE KLONDIKE RUSH BEGAN ON THIS CREEK WITH A BIRTHDAY WISH. A COOK'S GIRL OF SEVEN ASKED FOR GOLD IN THE WATER, AND THERE WAS. SHE IS BILLED ROYALTY ON EVERY OUNCE. SHE IS STILL SEVEN.",
+    "timestamp": "2026-10-16T20:44:09.460Z",
+    "tweetId": "2111196520670191974",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "marker",
+      "device": "petty_cause",
+      "setting": "Klondike, 1898",
+      "motifs": [
+        "zoos",
+        "birthdays"
+      ],
+      "strangeness": "severe",
+      "register": "petty",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
