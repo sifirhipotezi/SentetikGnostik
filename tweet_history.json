@@ -1025,5 +1025,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Sloop Anna Kristina, off Nólsoy, 4 May 1761. Paid the sea its toll, 3 rigsdaler. The change came up in the nets, one skilling short again. The sea prices a man at a skilling. Crew: 9 of 10.",
+    "timestamp": "2026-10-16T08:53:20.300Z",
+    "tweetId": "2111017637182628094",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "logbook",
+      "device": "negotiation",
+      "setting": "Faroe Islands, any century",
+      "motifs": [
+        "coins",
+        "a holiday nobody remembers"
+      ],
+      "strangeness": "severe",
+      "register": "petty",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

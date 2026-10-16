@@ -977,5 +977,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Seyahatname'nin kayıp varağından: 'İzmir'de sayım gördük. Kâtibin hokkası 31.207 nefere yetti, kalanı yazılamadı. Ertesi sabah onlar yoktu. Kâtip hokkayı yeniden doldurdu, sayıma devam etmedi.'",
+    "timestamp": "2026-10-16T08:53:51.138Z",
+    "tweetId": "2111017766530764896",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "seyahatname",
+      "device": "surname",
+      "setting": "Ottoman İzmir, Kordon, 1890s",
+      "motifs": [
+        "çay",
+        "hokka"
+      ],
+      "strangeness": "severe",
+      "register": "akademik",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
