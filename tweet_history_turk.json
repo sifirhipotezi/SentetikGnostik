@@ -1037,5 +1037,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Viyana önünde ölen yeniçerilerin bıyıkları sur muhafızlarının yüzünde çıkmış. Muhafızlar uykuda Türkçe sayı sayar. — Lehli bir subay, 1683",
+    "timestamp": "2026-10-17T08:25:21.703Z",
+    "tweetId": "2111372984598585848",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "mektup",
+      "device": "divergence",
+      "setting": "Second siege of Vienna, 1683",
+      "motifs": [
+        "karanfil",
+        "bıyık"
+      ],
+      "strangeness": "severe",
+      "register": "akademik",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

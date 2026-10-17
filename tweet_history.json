@@ -1085,5 +1085,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "leap-hewer, n. A miner who exists only on 29 February. From the Iglau wage rolls, where the hewer Ondřej Malý is paid one day's wage every fourth year from 1404 onward. The mine master attests him diligent, sober, and, by 1496, twenty-four days older.",
+    "timestamp": "2026-10-17T08:24:49.839Z",
+    "tweetId": "2111372850892505194",
+    "dryRun": false,
+    "coined": "leap-hewer",
+    "dice": {
+      "form": "etymology",
+      "device": "record_contradiction",
+      "setting": "Moravian mining towns, 15th c.",
+      "motifs": [
+        "almanacs",
+        "leap years"
+      ],
+      "strangeness": "severe",
+      "register": "official",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
