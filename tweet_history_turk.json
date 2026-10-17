@@ -1057,5 +1057,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "ÇATALHÖYÜK. M.Ö. 7000 YILLARINDA BURADA SAĞ VE SOL ORTADAN KALKMIŞTIR. ŞEHİRDE O GÜNDEN BERİ SOKAK YOKTUR, EVLERE ÇATIDAN İNİLİR. BULUNTU SANDIKLARI DA ÜSTTEN AÇILIR. YÖN RÜSUMU, BERGAMA NAHİYESİ MALİ YIL TAMİMİ'NE GÖRE ERTELENMİŞTİR.",
+    "timestamp": "2026-10-17T13:33:33.778Z",
+    "tweetId": "2111450545818857939",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "tabela",
+      "device": "quiet_loss",
+      "setting": "Çatalhöyük, c. 7000 BCE",
+      "motifs": [
+        "muvakkithane",
+        "sandık"
+      ],
+      "strangeness": "clear",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": "Bergama Nahiyesi Mali Yıl Tamimi"
+    }
   }
 ]

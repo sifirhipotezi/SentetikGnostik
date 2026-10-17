@@ -1105,5 +1105,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Eanna, Uruk. Barley, 30. Toll on the Euphrates, which left its bed in the drought to cross our fields one night: 2 sheep. The river paid.",
+    "timestamp": "2026-10-17T13:32:55.278Z",
+    "tweetId": "2111450384375906431",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "ledger",
+      "device": "impossible_event",
+      "setting": "Uruk, c. 2900 BCE",
+      "motifs": [
+        "drought",
+        "borders"
+      ],
+      "strangeness": "clear",
+      "register": "deadpan",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
