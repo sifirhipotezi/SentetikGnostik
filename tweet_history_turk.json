@@ -1097,5 +1097,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Hüve'l-Bâkî. Basralı ipek tüccarı Hacı Mahmud Ağa Hicri hesapla yetmiş üç, Frenk hesabıyla yetmiş bir yıl yaşadı. Fazla iki yılı yalnız o yaşadı; o yıllarda Halep'e otuz dokuz deve ipek yolladı. Develer vardı, onu gören olmadı. Navlunu varisleri ödüyor. Ruhuna fâtiha.",
+    "timestamp": "2026-10-17T20:22:01.372Z",
+    "tweetId": "2111553338072244290",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "kitabe",
+      "device": "calendar",
+      "setting": "Ottoman Basra, 17th c.",
+      "motifs": [
+        "deve",
+        "ipek"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

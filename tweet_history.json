@@ -1145,5 +1145,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Lot 288. Falconer's glove, Palermo, c. 1238, from the mews of Frederick II. The imperial registers feed a gyrfalcon named Blanca two pigeons a day for nine years. No one ever saw her. The glove is scored with fresh talon marks each morning. Est. £3,200–4,100.",
+    "timestamp": "2026-10-17T20:21:25.140Z",
+    "tweetId": "2111553186079113288",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "auction",
+      "device": "paper_only",
+      "setting": "Sicily under Frederick II, 13th c.",
+      "motifs": [
+        "gloves",
+        "a ball game"
+      ],
+      "strangeness": "clear",
+      "register": "scholarly",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
