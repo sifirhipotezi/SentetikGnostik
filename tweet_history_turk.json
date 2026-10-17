@@ -1077,5 +1077,25 @@
       "length": "medium",
       "callback": "Bergama Nahiyesi Mali Yıl Tamimi"
     }
+  },
+  {
+    "text": "Kudüs vakfiyesi, 1903: Her sabah Halîlürrahman'a bir güvercin uçurulsun. Alıcı 1911'de ölmüştür. Cevaplar hâlâ gelir, okunmaz.",
+    "timestamp": "2026-10-17T16:56:33.330Z",
+    "tweetId": "2111501630327620067",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "vakfiye",
+      "device": "vestigial_office",
+      "setting": "Ottoman Kudüs, 1900s",
+      "motifs": [
+        "gramofon",
+        "posta güvercini"
+      ],
+      "strangeness": "severe",
+      "register": "akademik",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

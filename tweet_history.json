@@ -1125,5 +1125,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "LOST, Zante, 1810: the hum of Dionisio Kalos's hives. The bees work on in silence. The hum is now in the harbour clerk, who buzzes when he speaks and has billed Kalos for its board.",
+    "timestamp": "2026-10-17T16:56:12.824Z",
+    "tweetId": "2111501544570933569",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "notice",
+      "device": "category_error",
+      "setting": "Napoleonic Ionian Islands",
+      "motifs": [
+        "bees",
+        "buttons"
+      ],
+      "strangeness": "severe",
+      "register": "petty",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
