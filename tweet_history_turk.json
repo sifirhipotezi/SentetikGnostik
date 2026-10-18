@@ -1117,5 +1117,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Tuşpa avarız defteri: 31 hane, sofralarda 32 yer. Kâtip boş yeri yazdı; akşamdan beri orada biri oturur. Tuzu Aşçıbaşı Cetveli'nden ödenir.",
+    "timestamp": "2026-10-18T08:43:41.770Z",
+    "tweetId": "2111739986458636723",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "tahrir",
+      "device": "recursion",
+      "setting": "Urartu, Tuşpa (Van), 8th c. BCE",
+      "motifs": [
+        "oturma düzeni",
+        "tuz"
+      ],
+      "strangeness": "severe",
+      "register": "osmanli",
+      "length": "short",
+      "callback": "Aşçıbaşı Cetveli"
+    }
   }
 ]

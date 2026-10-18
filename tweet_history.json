@@ -1165,5 +1165,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Edict of the Corregidor of Potosí, 1658, Art. 4: The Chimney Counter, who logged one plume for each mitayo dead below, is retired, the smelters being cold. The chimneys still smoke, three plumes a week. The parish digs graves to the count.",
+    "timestamp": "2026-10-18T08:43:19.143Z",
+    "tweetId": "2111739891470180385",
+    "dryRun": false,
+    "coined": "Chimney Counter",
+    "dice": {
+      "form": "treaty",
+      "device": "vestigial_office",
+      "setting": "Potosí silver mines, 17th c.",
+      "motifs": [
+        "chimneys",
+        "ferrymen"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
