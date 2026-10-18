@@ -1137,5 +1137,25 @@
       "length": "short",
       "callback": "Aşçıbaşı Cetveli"
     }
+  },
+  {
+    "text": "Gordion kabartmaları envanteri, 1929. Kapsam: Defter yeni harflere aktarılırken \"sakal\" sütunu atlanmış, kabartmadaki kralların sakalları taştan da silinmiştir. Dökülen kıl 3 okka 112 dirhem tartılıp depoya alınmıştır.",
+    "timestamp": "2026-10-18T13:51:47.124Z",
+    "tweetId": "2111817519396761841",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "fihrist",
+      "device": "script_reform",
+      "setting": "Phrygian Gordion, 8th c. BCE",
+      "motifs": [
+        "sakal",
+        "tuğra"
+      ],
+      "strangeness": "severe",
+      "register": "cumhuriyet",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

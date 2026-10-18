@@ -1185,5 +1185,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Hattusa, to my brother at Ugarit: Since spring, everything here falls upward except feathers. We pay in feathers now. Mother's silver went to the sky.",
+    "timestamp": "2026-10-18T13:51:12.909Z",
+    "tweetId": "2111817375846682998",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "letter",
+      "device": "wrong_world",
+      "setting": "Hattusa, 13th c. BCE",
+      "motifs": [
+        "a currency of feathers",
+        "a horse with a title"
+      ],
+      "strangeness": "clear",
+      "register": "elegiac",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
