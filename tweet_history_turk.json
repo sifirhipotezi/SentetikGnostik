@@ -1177,5 +1177,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Hata-Sevap Cetveli, s. 214: 'Konya'yı yedi gün sis bastı' yerine 'Konya yedi gün sis oldu' okunmalıdır. O haftanın haracı yine alınmıştır, sisten.",
+    "timestamp": "2026-10-18T20:21:57.170Z",
+    "tweetId": "2111915708406018557",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "hata_sevap",
+      "device": "impossible_event",
+      "setting": "Seljuk Konya, 13th c.",
+      "motifs": [
+        "bir harf",
+        "sis"
+      ],
+      "strangeness": "severe",
+      "register": "küskün",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
