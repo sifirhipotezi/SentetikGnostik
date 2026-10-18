@@ -1157,5 +1157,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "KAYIKÇI HIZIR DAVASI (759/1358). Gelibolu'da Boğaz akıntısına kapılıp boğulan kayıkçı Hızır'ın, ölümünden dokuz gün sonra Bursa kadısı huzurunda kendi cenazesine dair verdiği şahitlik. Kadı ifadeyi muteber saymış, kefen bedeli olan 27 akçeyi Hızır'a ödetmiştir.",
+    "timestamp": "2026-10-18T17:11:57.513Z",
+    "tweetId": "2111867894782894589",
+    "dryRun": false,
+    "coined": "Kayıkçı Hızır Davası",
+    "dice": {
+      "form": "ansiklopedi",
+      "device": "record_contradiction",
+      "setting": "Early Ottoman Bursa, 14th c.",
+      "motifs": [
+        "tütün",
+        "Boğaz akıntısı"
+      ],
+      "strangeness": "clear",
+      "register": "akademik",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
