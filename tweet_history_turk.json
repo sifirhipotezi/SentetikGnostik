@@ -1237,5 +1237,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Tacura'da öşrü yirmi dokuz yıldır ödenen 86 dönümlük nergis tarlası yoktur, yerinde kum vardır. Leylekler her bahar o kuma inip çiçek toplar gibi eğilir. Öşür alınmaya devam olunacaktır. — Takvîm-i Vekāyi, 1874",
+    "timestamp": "2026-10-19T22:10:21.921Z",
+    "tweetId": "2112305379119931800",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "gazete",
+      "device": "paper_only",
+      "setting": "Ottoman Trablusgarp (Tripoli), 19th c.",
+      "motifs": [
+        "nergis",
+        "leylek"
+      ],
+      "strangeness": "clear",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
