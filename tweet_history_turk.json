@@ -1197,5 +1197,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Kafile Maan'dan sonra çölde bir köprüden geçti. Altında su yoktu; geçen yılın kafilesi geçiyordu, aynı develerle, aynı ölülerle. Emîrü'l-hac onlardan köprü parası aldı. — Bir Venedik tüccarının mektubu, Şam, 1634",
+    "timestamp": "2026-10-19T09:45:29.563Z",
+    "tweetId": "2112117925843009678",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "mektup",
+      "device": "plausible_fake",
+      "setting": "Ottoman Damascus, Hajj caravan, 17th c.",
+      "motifs": [
+        "köprü",
+        "tefeci"
+      ],
+      "strangeness": "severe",
+      "register": "osmanli",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

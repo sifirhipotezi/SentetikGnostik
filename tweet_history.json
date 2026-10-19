@@ -1245,5 +1245,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Be it known: the parish of St Ivel without Bishopsgate pays hearth tax on 304 hearths each Lady Day. No such parish stands. As the Kemari Society of the Left Guards advises, no one is to tell the parish.",
+    "timestamp": "2026-10-19T09:45:08.564Z",
+    "tweetId": "2112117837737447500",
+    "dryRun": false,
+    "coined": "St Ivel without Bishopsgate",
+    "dice": {
+      "form": "proclamation",
+      "device": "paper_only",
+      "setting": "Restoration London, 1660s",
+      "motifs": [
+        "tax collectors",
+        "saints"
+      ],
+      "strangeness": "wry",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": "Kemari Society of the Left Guards"
+    }
   }
 ]
