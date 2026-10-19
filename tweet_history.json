@@ -1265,5 +1265,25 @@
       "length": "medium",
       "callback": "Kemari Society of the Left Guards"
     }
+  },
+  {
+    "text": "Log of the patrol vessel Óðinn, 4 Nov 1964. The cod have ratified the fisheries limit and will not cross it; British trawlers at the line haul empty nets. The fish dispute a comma in Article 2 and are withholding the spring spawn until the Althing apologises.",
+    "timestamp": "2026-10-19T16:52:23.537Z",
+    "tweetId": "2112225358670094815",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "logbook",
+      "device": "negotiation",
+      "setting": "Cold War Iceland, 1960s",
+      "motifs": [
+        "apologies",
+        "commas"
+      ],
+      "strangeness": "severe",
+      "register": "official",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

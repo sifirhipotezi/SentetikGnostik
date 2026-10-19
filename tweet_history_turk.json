@@ -1217,5 +1217,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "AUGUSTEION MEYDANI. 548 YILINDA BURADA TELLAL SESİ SÖNMEZ OLMUŞTUR. O YIL BAĞIRILAN HER İLAN MEYDANDA HÂLÂ DUYULMAKTADIR. İLANLAR ARASINDA JUSTİNİANUS'UN EKMEK FİYATI DA BULUNDUĞUNDAN MEYDANDAKİ BÜFE EKMEĞİ 548 FİYATINA SATMAKLA YÜKÜMLÜDÜR.",
+    "timestamp": "2026-10-19T16:52:55.761Z",
+    "tweetId": "2112225493806358982",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "tabela",
+      "device": "wrong_world",
+      "setting": "Byzantine Constantinople, 6th c.",
+      "motifs": [
+        "tellal",
+        "telgraf"
+      ],
+      "strangeness": "severe",
+      "register": "akademik",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
