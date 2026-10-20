@@ -1257,5 +1257,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Konsolosluk zabtı, 1966. Şahit Nuri: \"Buraya Kolonya derdik. Kılavuz Köln yazdı, tramvaylar kokmaz oldu.\" Koku zapta geçmemiştir.",
+    "timestamp": "2026-10-20T09:19:33.107Z",
+    "tweetId": "2112473785551257959",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "ifade",
+      "device": "script_reform",
+      "setting": "Turkish guest workers in Köln, 1960s",
+      "motifs": [
+        "tramvay",
+        "vapur"
+      ],
+      "strangeness": "wry",
+      "register": "hüzünlü",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

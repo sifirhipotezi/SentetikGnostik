@@ -1305,5 +1305,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "LÜBECK POUND, THE (1379). A council scribe entered the city's standard weight an ounce light. By morning the iron pound agreed with him, as did every cask, coin and sleeping child. The page is kept under guard.",
+    "timestamp": "2026-10-20T09:18:57.888Z",
+    "tweetId": "2112473637626540150",
+    "dryRun": false,
+    "coined": "Lübeck Pound",
+    "dice": {
+      "form": "encyclopedia",
+      "device": "recursion",
+      "setting": "Hanseatic Lübeck, 14th c.",
+      "motifs": [
+        "weights and measures",
+        "playing cards"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
