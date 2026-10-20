@@ -1277,5 +1277,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Seyahatname'nin kayıp bir varağından: Larende'de sayım günü bir yorgan altında yatan dokuz kardeşi kâtip tek nefer yazmış. Sabah tek kişi olarak kalkmışlar. Hâlâ dokuz kişilik yer, bir kişilik vergi verir. Ayakkabısı dokuz çifttir.",
+    "timestamp": "2026-10-20T14:51:05.881Z",
+    "tweetId": "2112557221720854970",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "seyahatname",
+      "device": "surname",
+      "setting": "Karamanid Larende, 14th c.",
+      "motifs": [
+        "çınar",
+        "yorgan"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
