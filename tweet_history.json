@@ -1345,5 +1345,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "112. Stellenbosch had the same Sunday twice in May 1847: two services, the same hymns, the same burial. The widow cooked lentils for the mourners both times. The second time, she says, she set a place for him.",
+    "timestamp": "2026-10-20T21:25:24.644Z",
+    "tweetId": "2112656453823815790",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "footnote",
+      "device": "impossible_event",
+      "setting": "Cape Colony, 1800s",
+      "motifs": [
+        "lentils",
+        "kites"
+      ],
+      "strangeness": "clear",
+      "register": "elegiac",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

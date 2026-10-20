@@ -1297,5 +1297,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Saraybosna vakit cetveli, 1563. Kapsam: Kâtip \"ikindi\" satırını bitirmeden vefat etmiştir. Şehirde ikindi o günden beri sürmektedir.",
+    "timestamp": "2026-10-20T21:25:38.840Z",
+    "tweetId": "2112656513341038732",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "fihrist",
+      "device": "recursion",
+      "setting": "Ottoman Bosnia, Saraybosna, 16th c.",
+      "motifs": [
+        "yeniçeri kazanı",
+        "uzun bir ikindi"
+      ],
+      "strangeness": "severe",
+      "register": "cumhuriyet",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
