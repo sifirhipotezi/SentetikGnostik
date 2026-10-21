@@ -1357,5 +1357,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "HAMSİ KÜRSÜSÜ (1914-1933). Darülfünun'da tek bir hamsinin incelenmesine ayrılmış kürsü. Hamsi 1914'te Sarayburnu'nda tutulmuş ve ölmemiştir. Hakkında otuz bir tez yazılmıştır. 1933'te kürsü kaldırılmış, hamsi emekliye sevk edilmiştir.",
+    "timestamp": "2026-10-21T21:27:44.137Z",
+    "tweetId": "2113019426807361736",
+    "dryRun": false,
+    "coined": "Hamsi Kürsüsü",
+    "dice": {
+      "form": "ansiklopedi",
+      "device": "scale",
+      "setting": "Darülfünun, İstanbul, 1910s",
+      "motifs": [
+        "fındık",
+        "hamsi"
+      ],
+      "strangeness": "wry",
+      "register": "deadpan",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

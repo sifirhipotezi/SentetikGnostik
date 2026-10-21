@@ -1405,5 +1405,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "A register need not wait for its subject. In 1729 Bath's surveyor entered a fourth public bath between the Cross and the King's; by Lady Day it stood, steaming, its attendant on wages. Like the silk works at Ushuaia, it is not asked where its water comes from.",
+    "timestamp": "2026-10-21T21:27:12.214Z",
+    "tweetId": "2113019292824527351",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "maxim",
+      "device": "recursion",
+      "setting": null,
+      "motifs": [
+        "bathhouses",
+        "the letter Q"
+      ],
+      "strangeness": "wry",
+      "register": "official",
+      "length": "long",
+      "callback": "the silk works at Ushuaia"
+    }
   }
 ]
