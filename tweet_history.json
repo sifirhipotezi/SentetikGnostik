@@ -1385,5 +1385,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "ON THIS SITE, 9 MARCH 1957, A BUNDESTAG STENOGRAPHER TOOK DOWN A DEBATE HELD THE NEXT DAY. IT RHYMED. THE DEPUTIES WERE MADE TO MATCH IT. TWO MISSED THE METRE. THE RECORD HAS NOT FORGIVEN THEM.",
+    "timestamp": "2026-10-21T14:58:57.527Z",
+    "tweetId": "2112921587573981533",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "marker",
+      "device": "record_contradiction",
+      "setting": "Post-war Bonn, 1950s",
+      "motifs": [
+        "marginal doodles",
+        "a particular rhyme"
+      ],
+      "strangeness": "clear",
+      "register": "petty",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

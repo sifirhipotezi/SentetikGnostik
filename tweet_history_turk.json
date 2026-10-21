@@ -1337,5 +1337,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "MÖ 9600 — Göbeklitepe'de bir dikilitaşa tilki, yılan ve bir varak kazındı.\n1536 — Ruha tahririnin 61. varakı eksik çıktı.\n1995 — Taştaki varak okundu; eksik olan odur.\nO yılın öşrü taşa göre yeniden tahsil olunmuştur.",
+    "timestamp": "2026-10-21T14:59:29.029Z",
+    "tweetId": "2112921720025985486",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "kronoloji",
+      "device": "divergence",
+      "setting": "Göbeklitepe, c. 9500 BCE",
+      "motifs": [
+        "saat kulesi",
+        "eksik bir varak"
+      ],
+      "strangeness": "severe",
+      "register": "osmanli",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
