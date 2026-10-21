@@ -1317,5 +1317,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Mütercim notu, Leh elçisinin raporu (1673): Kamaniçe'den 'beşinci yöne' giden yolu 'batı' diye çevirdim. O yön o gün dünyadan kalktı. Yolun ucundaki han kirasını vakfa hâlâ yatırıyor. Şehirde o yöne dönen kimse bir daha geri dönmemiştir.",
+    "timestamp": "2026-10-21T09:14:47.754Z",
+    "tweetId": "2112834976479936715",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "mutercim",
+      "device": "quiet_loss",
+      "setting": "Kamaniçe (Podolia), 1670s",
+      "motifs": [
+        "han",
+        "kilim"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

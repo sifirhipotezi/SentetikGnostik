@@ -1365,5 +1365,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "ERRATA, p. 219: for \"the eclipse of 1905 passed over Vienna\" read \"passed over Vienna and stayed.\" The Magistrat bills each household for noon.",
+    "timestamp": "2026-10-21T09:14:18.906Z",
+    "tweetId": "2112834855482585408",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "errata",
+      "device": "wrong_world",
+      "setting": "Belle Époque Vienna, 1900s",
+      "motifs": [
+        "opium poppies",
+        "eclipses"
+      ],
+      "strangeness": "severe",
+      "register": "official",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
