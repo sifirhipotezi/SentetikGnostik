@@ -1377,5 +1377,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Budin, 1579. Davacı baklavacı Hasan, davalı gök. Köprüde tepsi kaymış, baklava yukarı düşmüş. Hüküm: Gök her cuma bir dilim iade eder.",
+    "timestamp": "2026-10-22T09:17:42.656Z",
+    "tweetId": "2113198097933173186",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "kadi_sicili",
+      "device": "wrong_world",
+      "setting": "Ottoman Budin, 16th c.",
+      "motifs": [
+        "bir mütercim",
+        "baklava"
+      ],
+      "strangeness": "severe",
+      "register": "cumhuriyet",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

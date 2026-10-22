@@ -1425,5 +1425,25 @@
       "length": "long",
       "callback": "the silk works at Ushuaia"
     }
+  },
+  {
+    "text": "Be it known: the fog crosses the unfinished Foreshore bridge, gap and all. The City Council shall weigh it nightly for toll. It has paid.",
+    "timestamp": "2026-10-22T09:17:16.076Z",
+    "tweetId": "2113197986490581110",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "proclamation",
+      "device": "category_error",
+      "setting": "Apartheid-era Cape Town bureaucracy, 1970s",
+      "motifs": [
+        "scales",
+        "bridges"
+      ],
+      "strangeness": "severe",
+      "register": "scholarly",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
