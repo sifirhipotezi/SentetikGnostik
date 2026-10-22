@@ -1417,5 +1417,25 @@
       "length": "medium",
       "callback": "Aşçıbaşı Cetveli"
     }
+  },
+  {
+    "text": "Hüve'l-Bâkî. Bergama'da Kral Attalos'un kütüphanesinde otuz üç sene hâfız-ı kütüb olan merhum Raşid Efendi'nin ruhuna fâtiha. Sene 1211. O kütüphane, Efendi doğmadan on sekiz asır önce dağılmıştı. Maaşı hâlâ her ay mezarına bir kile pirinç olarak bırakılır.",
+    "timestamp": "2026-10-22T21:22:24.975Z",
+    "tweetId": "2113380475922251872",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "kitabe",
+      "device": "impossible_event",
+      "setting": "Hellenistic Pergamon",
+      "motifs": [
+        "manda",
+        "pirinç"
+      ],
+      "strangeness": "severe",
+      "register": "akademik",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

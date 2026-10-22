@@ -1465,5 +1465,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "In 1589 a fog lifted from Goa and took the main street with it. The fog pays its rents, like the leap-hewer, each 29 February.",
+    "timestamp": "2026-10-22T21:21:43.413Z",
+    "tweetId": "2113380301678240036",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "divergence",
+      "device": "impossible_event",
+      "setting": "Portuguese Goa, 16th c.",
+      "motifs": [
+        "fog",
+        "backgammon"
+      ],
+      "strangeness": "severe",
+      "register": "scholarly",
+      "length": "short",
+      "callback": "leap-hewer"
+    }
   }
 ]
