@@ -1397,5 +1397,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Ahlat'taki vakfiyenin yedinci şartı: Mezarlıkta yatan her ölüye yılda bir tabak pilav. Aşçıbaşı Cetveli'ne göre tabak sayısı her yıl artıyor; 1887'den beri defin yapılmamıştır. Pirinç tahsisi artırılmıştır.",
+    "timestamp": "2026-10-22T14:59:04.628Z",
+    "tweetId": "2113284005470581115",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "vakfiye",
+      "device": "vestigial_office",
+      "setting": "Ahlat, Seljuk graveyard, 13th c.",
+      "motifs": [
+        "pilav",
+        "güneş tutulması"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": "Aşçıbaşı Cetveli"
+    }
   }
 ]

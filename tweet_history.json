@@ -1445,5 +1445,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Deposition, Mbanza Kongo, 1538: \"I lent Nkanga 311 nzimbu shells, due on the fifth day of the market week. Since the rains the week has had four.\" Clerk: interest to accrue on the missing day.",
+    "timestamp": "2026-10-22T14:58:34.230Z",
+    "tweetId": "2113283877867335773",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "deposition",
+      "device": "quiet_loss",
+      "setting": "Kingdom of Kongo, 16th c.",
+      "motifs": [
+        "IOUs",
+        "diplomatic precedence"
+      ],
+      "strangeness": "clear",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
