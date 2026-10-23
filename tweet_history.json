@@ -1525,5 +1525,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Letter, Konya, 1236: The sultan's chronicler wrote that dusk lasted forty days. It is the ninth. He has died; the entry stands.",
+    "timestamp": "2026-10-23T21:11:39.163Z",
+    "tweetId": "2113740155030851864",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "letter",
+      "device": "recursion",
+      "setting": "Seljuk Konya, 13th c.",
+      "motifs": [
+        "a sermon that ran long",
+        "an unusually long dusk"
+      ],
+      "strangeness": "severe",
+      "register": "official",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

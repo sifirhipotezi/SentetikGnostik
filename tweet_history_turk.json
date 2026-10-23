@@ -1477,5 +1477,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Rodos'tan bir Venedik tüccarının mektubu, 1558: Hendeğe ekilen lâleler her bahar, kuşatmada düşen askerlerin sayısınca açar; kadı saydırıp defterle karşılaştırır. Bu yıl bir lâle fazla açtı. Kadı onu kimin ölümü diye yazacağını bilmiyor; ahali evden çıkmıyor.",
+    "timestamp": "2026-10-23T21:12:12.209Z",
+    "tweetId": "2113740292775977452",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "mektup",
+      "device": "divergence",
+      "setting": "Ottoman Rhodes (Rodos), 16th c.",
+      "motifs": [
+        "kaftan",
+        "lale"
+      ],
+      "strangeness": "clear",
+      "register": "akademik",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
