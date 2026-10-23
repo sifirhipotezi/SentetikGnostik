@@ -1457,5 +1457,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Kayıp varaktan: Trabzon'da bir servinin gölgesi tekfura haraç verirmiş. Servi kesildi; gölge hâlâ haracını öder, bu hakire selam vermez.",
+    "timestamp": "2026-10-23T14:46:51.835Z",
+    "tweetId": "2113643319695642851",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "seyahatname",
+      "device": "category_error",
+      "setting": "Empire of Trebizond, 14th c.",
+      "motifs": [
+        "asma",
+        "servi"
+      ],
+      "strangeness": "severe",
+      "register": "küskün",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

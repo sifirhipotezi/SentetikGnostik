@@ -1505,5 +1505,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Caravan journal, road to Caesarea, 4 May 1031. Below Korama, since Lent, everything falls upward. We tethered the mules to rock. The kastron's prisoners fell out of their pit in March and now stand on a cloud. The strategos still bills them for bread, sent up by sling.",
+    "timestamp": "2026-10-23T14:46:31.042Z",
+    "tweetId": "2113643232584188298",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "logbook",
+      "device": "wrong_world",
+      "setting": "Cappadocia, Byzantine era",
+      "motifs": [
+        "menageries",
+        "prisons"
+      ],
+      "strangeness": "clear",
+      "register": "petty",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
