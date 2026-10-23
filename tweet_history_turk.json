@@ -1437,5 +1437,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Prizren duvarcılar loncası zabtı, 1907. Madde 2: Çarşı camiinin çatlayan kubbesi onarılsın. Oylama: altı kabul, bir ret. Ret oyu, kubbeyi 1781'de kapatan merhum Usta Yakub'undur. Onarım ertelenmiştir.",
+    "timestamp": "2026-10-23T09:12:49.776Z",
+    "tweetId": "2113559257300000920",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "zabit",
+      "device": "record_contradiction",
+      "setting": "Ottoman Kosovo vilayeti, 1900s",
+      "motifs": [
+        "kubbe",
+        "kuyruklu yıldız"
+      ],
+      "strangeness": "wry",
+      "register": "cumhuriyet",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

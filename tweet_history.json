@@ -1485,5 +1485,25 @@
       "length": "short",
       "callback": "leap-hewer"
     }
+  },
+  {
+    "text": "88. Cato's fig, shown to the Senate in 150 BC as 'picked three days ago at Carthage', never spoiled. It is still three days old. Each spring a Punic ship is sighted off Ostia, three days out, and never arrives.",
+    "timestamp": "2026-10-23T09:12:28.766Z",
+    "tweetId": "2113559169198629274",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "footnote",
+      "device": "divergence",
+      "setting": null,
+      "motifs": [
+        "figs",
+        "observatories"
+      ],
+      "strangeness": "severe",
+      "register": "elegiac",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
