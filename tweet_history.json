@@ -1545,5 +1545,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Translator's note, Ezana's tribute list, c. 340: I render the Ge'ez word as 'island', not 'ship'. The island of Bara therefore paid tribute at Adulis each spring and at Zeila each autumn for sixty-one years. No one has landed on it. It was assessed in both ports.",
+    "timestamp": "2026-10-24T08:47:06.590Z",
+    "tweetId": "2113915172494459199",
+    "dryRun": false,
+    "coined": "Bara",
+    "dice": {
+      "form": "translator",
+      "device": "paper_only",
+      "setting": "Axum, 4th c.",
+      "motifs": [
+        "an island that moved",
+        "tobacco"
+      ],
+      "strangeness": "wry",
+      "register": "scholarly",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

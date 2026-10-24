@@ -1497,5 +1497,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Pera Podestalığı Takvim Dosyası, 1366. Kapsam: Pera'da her gün, Haliç'in karşı yakasından bir gün önce başlar. Elçi Lanfranco şehirden dönerken kendini yola çıkarken bulmuştur. Maaş yalnız birine tahsis olunmuştur.",
+    "timestamp": "2026-10-24T08:47:33.589Z",
+    "tweetId": "2113915285853864026",
+    "dryRun": false,
+    "coined": "Pera Podestalığı Takvim Dosyası",
+    "dice": {
+      "form": "fihrist",
+      "device": "wrong_world",
+      "setting": "Genoese Galata, 14th c.",
+      "motifs": [
+        "elçiler",
+        "bayram"
+      ],
+      "strangeness": "severe",
+      "register": "cumhuriyet",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
