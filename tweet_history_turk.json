@@ -1537,5 +1537,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "POYRAZ (?-1848). İstanbul'a kuzeyden esen rüzgâr; 1848 baharında kaldırılmıştır. O sabah havadaki 293 uçurtma hâlâ inmemiştir. İhtisab Nezareti her ipten yılda dokuz akçe almaktadır.",
+    "timestamp": "2026-10-24T17:17:22.719Z",
+    "tweetId": "2114043585993781493",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "ansiklopedi",
+      "device": "quiet_loss",
+      "setting": "Tanzimat İstanbul, 1840s",
+      "motifs": [
+        "şerbet",
+        "uçurtma"
+      ],
+      "strangeness": "wry",
+      "register": "küskün",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

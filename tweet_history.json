@@ -1585,5 +1585,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Lot 76. Bronze gong, Nineveh, c. 650 BC, struck to let earthquakes in. The quakes waited politely for it. It has been silent since 612 BC. Knocking not included. Ex silk works at Ushuaia. Est. £900–1,400.",
+    "timestamp": "2026-10-24T17:17:03.102Z",
+    "tweetId": "2114043503663783960",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "auction",
+      "device": "vestigial_office",
+      "setting": "Nineveh, 7th c. BCE",
+      "motifs": [
+        "erasers",
+        "an earthquake that was very polite"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": "the silk works at Ushuaia"
+    }
   }
 ]
