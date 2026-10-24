@@ -1557,5 +1557,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Sinop nâibine hüküm: Boyabat'ta Rumi takvime göre doğmuş, Hicri takvime göre henüz doğmamış Mehmed bin Ali otuz bir yaşına girmiştir. Emr-i şerifim vusûlünde:\n1. Avârız akçesi Rumi hesaptan alınsın.\n2. Doğumu Hicri hesapla vuku bulduğunda, ebeye ücreti ayrıca verilsin.",
+    "timestamp": "2026-10-24T20:29:18.217Z",
+    "tweetId": "2114091885442519060",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "ferman",
+      "device": "calendar",
+      "setting": "Ottoman Sinop, 18th c.",
+      "motifs": [
+        "nüfus memuru",
+        "Kasım günleri"
+      ],
+      "strangeness": "wry",
+      "register": "cumhuriyet",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

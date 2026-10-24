@@ -1605,5 +1605,25 @@
       "length": "medium",
       "callback": "the silk works at Ushuaia"
     }
+  },
+  {
+    "text": "Mautamt, Vienna, 1772.\nHoney from Pressburg, 40 casks: 6 fl. 12 kr.\nTow horses: none required. Since Easter the Danube has run west, uphill, carrying the barges to us on its own.\nTowing fee charged as before. It is paid to the haulers' widows.",
+    "timestamp": "2026-10-24T20:28:50.069Z",
+    "tweetId": "2114091767351931111",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "ledger",
+      "device": "wrong_world",
+      "setting": "Habsburg Vienna, 18th c.",
+      "motifs": [
+        "honey",
+        "a monastery library"
+      ],
+      "strangeness": "severe",
+      "register": "elegiac",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
