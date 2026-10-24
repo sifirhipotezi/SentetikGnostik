@@ -1565,5 +1565,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Mohenjo-daro court: the gift to Dilmun's king bears the seal of its carver, buried last spring. He is fined 3 beads. His widow paid.",
+    "timestamp": "2026-10-24T13:55:05.416Z",
+    "tweetId": "2113992678249525272",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "court",
+      "device": "record_contradiction",
+      "setting": "Mohenjo-daro, c. 2300 BCE",
+      "motifs": [
+        "notaries",
+        "gifts between rulers"
+      ],
+      "strangeness": "clear",
+      "register": "elegiac",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

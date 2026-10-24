@@ -1517,5 +1517,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Musul, 1761. Davacı ahali, davalı kadı. Kadıyı on üç yıldır gören yok, mührü her gün basılır. Hüküm, aynı mühürle: ret.",
+    "timestamp": "2026-10-24T13:55:28.252Z",
+    "tweetId": "2113992774269767996",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "kadi_sicili",
+      "device": "paper_only",
+      "setting": "Ottoman Mosul, 18th c.",
+      "motifs": [
+        "mühür",
+        "lodos"
+      ],
+      "strangeness": "wry",
+      "register": "akademik",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
