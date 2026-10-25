@@ -1577,5 +1577,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "S. 88: \"Hezarfen Galata'dan uçup Üsküdar'a indi\" yerine \"Hezarfen Galata'dan Üsküdar'a doğru uçtu\" okunmalıdır. İnişi kaydolunmamıştır. Galata'daki odasının kirası, dönerse diye, hâlâ ödenmektedir.",
+    "timestamp": "2026-10-25T09:02:34.737Z",
+    "tweetId": "2114281453441913052",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "hata_sevap",
+      "device": "divergence",
+      "setting": null,
+      "motifs": [
+        "kira",
+        "salep"
+      ],
+      "strangeness": "wry",
+      "register": "hüzünlü",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

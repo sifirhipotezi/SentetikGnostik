@@ -1625,5 +1625,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Padrón de Callao, 1761. Scope: a copyist wrote 'cormoranes' for 'moradores', and 2,906 birds were enrolled as residents. Contains their tithe receipts, paid in fish, and 114 petitions, each signed.",
+    "timestamp": "2026-10-25T09:02:06.961Z",
+    "tweetId": "2114281336932540581",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "catalog",
+      "device": "mistranslation",
+      "setting": "Colonial Lima, 18th c.",
+      "motifs": [
+        "cormorants",
+        "house numbers"
+      ],
+      "strangeness": "severe",
+      "register": "official",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
