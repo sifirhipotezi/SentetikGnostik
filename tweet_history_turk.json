@@ -1617,5 +1617,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "1934'te Kastamonu'da haritacı Sabri Bey, soyadı olarak kendi uydurup çizdiği bir köyün adını, Yalınçam'ı aldı. Ertesi yıl Yalınçam'ın nüfus kütüğü açıldı, altmış bir hane bu soyadla kaydolundu. Sabri Bey o kütükte ölü yazılıdır; hâlâ harita çizer.",
+    "timestamp": "2026-10-25T20:37:35.273Z",
+    "tweetId": "2114456358137311426",
+    "dryRun": false,
+    "coined": "Yalınçam",
+    "dice": {
+      "form": "alternatif",
+      "device": "plausible_fake",
+      "setting": "Soyadı Kanunu, nüfus idaresi, 1934–35",
+      "motifs": [
+        "hamam",
+        "bir haritacı"
+      ],
+      "strangeness": "severe",
+      "register": "osmanli",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

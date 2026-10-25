@@ -1665,5 +1665,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "IN 836 THE CALIPH MOVED HIS COURT FROM THIS CITY TO SAMARRA. TUESDAY DID NOT GO WITH HIM. UNTIL 892, EVERY TUESDAY IN THE CALIPHATE OCCURRED HERE ALONE, AND SAMARRA'S DIWAN PAID BAGHDAD RENT FOR EACH ONE.",
+    "timestamp": "2026-10-25T20:37:05.692Z",
+    "tweetId": "2114456233973256407",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "marker",
+      "device": "divergence",
+      "setting": "Abbasid Baghdad, 9th c.",
+      "motifs": [
+        "Tuesdays",
+        "train timetables"
+      ],
+      "strangeness": "clear",
+      "register": "official",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
