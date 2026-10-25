@@ -1597,5 +1597,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Aydede Film'in kapısındaki muska, şirket kurulmadan yazılmış. İçinde 38 film adı var: 37'si çekildi, 38'incisi bu ilan. — Akşam, 1965",
+    "timestamp": "2026-10-25T14:12:18.054Z",
+    "tweetId": "2114359397409296834",
+    "dryRun": false,
+    "coined": "Aydede Film",
+    "dice": {
+      "form": "gazete",
+      "device": "record_contradiction",
+      "setting": "Yeşilçam, 1960s",
+      "motifs": [
+        "muska",
+        "boza"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

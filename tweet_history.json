@@ -1645,5 +1645,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Deposition, Chang'an: \"A copyist wrote 'silence' for 'salt'. Now the salt office weighs our quiet.\" Clerk: the mute pay double.",
+    "timestamp": "2026-10-25T14:11:47.002Z",
+    "tweetId": "2114359267255812481",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "deposition",
+      "device": "category_error",
+      "setting": "Han-dynasty Chang'an",
+      "motifs": [
+        "a misprint",
+        "saffron"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
