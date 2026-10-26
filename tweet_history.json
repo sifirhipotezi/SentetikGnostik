@@ -1685,5 +1685,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Mirza Qasim Beg (1622–1659), moneylender of Agra, seen by no one. Interest on his loans is still paid. He still signs the receipts.",
+    "timestamp": "2026-10-26T09:56:15.161Z",
+    "tweetId": "2114657348752916558",
+    "dryRun": false,
+    "coined": "Mirza Qasim Beg",
+    "dice": {
+      "form": "encyclopedia",
+      "device": "paper_only",
+      "setting": "Mughal Agra, 17th c.",
+      "motifs": [
+        "libraries",
+        "interest"
+      ],
+      "strangeness": "severe",
+      "register": "scholarly",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

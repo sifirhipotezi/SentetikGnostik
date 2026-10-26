@@ -1637,5 +1637,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Kayıp sayfa: Haydarpaşa çayırında bir münadi her sabah 'Bağdat treni gecikmeli' diye bağırır. Tren nedir bilen yok; bekleyene lokum satılır.",
+    "timestamp": "2026-10-26T09:56:37.448Z",
+    "tweetId": "2114657442181042415",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "seyahatname",
+      "device": "anachronism",
+      "setting": "Haydarpaşa Garı, 1930s",
+      "motifs": [
+        "kalemtıraş",
+        "lokum"
+      ],
+      "strangeness": "clear",
+      "register": "deadpan",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
