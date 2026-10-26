@@ -1677,5 +1677,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "14 Nisan 1924: Şehremaneti, Bent Deresi'ne 312 kuruş işgal resmi kesti.\n2 Mayıs: Dere veznenin eşiğine kadar çıktı, çekilince 3 okka safran bıraktı.\n9 Mayıs: Safrana 286 kuruş biçildi, eksik için ihtar yazıldı.\n16 Mayıs: Dere, tam 26 kuruşluk bir duvar yıktı.",
+    "timestamp": "2026-10-26T22:28:58.676Z",
+    "tweetId": "2114846778109415478",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "kronoloji",
+      "device": "negotiation",
+      "setting": "Ankara, 1924",
+      "motifs": [
+        "safran",
+        "akçe"
+      ],
+      "strangeness": "clear",
+      "register": "küskün",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

@@ -1725,5 +1725,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Coffee pot with tides, Erzurum, 1751. The city has no sea. Ex kadı court, which fined it twice for flooding. Lot 219. Est. £3,100–4,500.",
+    "timestamp": "2026-10-26T22:28:18.860Z",
+    "tweetId": "2114846611255841202",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "auction",
+      "device": "impossible_event",
+      "setting": "Ottoman Erzurum, 18th c.",
+      "motifs": [
+        "coffee",
+        "tides"
+      ],
+      "strangeness": "wry",
+      "register": "petty",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
