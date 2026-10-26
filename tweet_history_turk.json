@@ -1657,5 +1657,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Burada Tanrı'nın kulu boyacı Konstantinos uyur. Yaratılıştan 6481. Kırmızı onunla birlikte kaldırılmıştır. Mezarındaki gül her yaz açar; çiçeğin yerinde göz bir şey bulamaz, diken batar.",
+    "timestamp": "2026-10-26T16:41:11.975Z",
+    "tweetId": "2114759256876442034",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "kitabe",
+      "device": "quiet_loss",
+      "setting": "Byzantine Cappadocia, 10th c.",
+      "motifs": [
+        "faiz",
+        "gül"
+      ],
+      "strangeness": "severe",
+      "register": "akademik",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

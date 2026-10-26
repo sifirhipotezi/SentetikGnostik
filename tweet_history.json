@@ -1705,5 +1705,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "ERRATA, p. 140: for \"Mount Harl, which nobody climbed\" read \"Mount Harl, which nobody climbed, and which was removed in 1798.\" The village below still lies in its shadow from four each afternoon.",
+    "timestamp": "2026-10-26T16:40:48.190Z",
+    "tweetId": "2114759157102338163",
+    "dryRun": false,
+    "coined": "Mount Harl",
+    "dice": {
+      "form": "errata",
+      "device": "quiet_loss",
+      "setting": null,
+      "motifs": [
+        "a mountain nobody climbed",
+        "vinegar"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
