@@ -1745,5 +1745,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Death notice, Samarkand, 1434. Hajji Nuruddin, sole herring merchant of a city two months from any sea, has died. Mourners: 380, including the deceased, who attended and sold herring at the gate. The qadi has ruled his licence valid until stock is exhausted.",
+    "timestamp": "2026-10-27T09:42:01.321Z",
+    "tweetId": "2115016155236598083",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "obituary",
+      "device": "record_contradiction",
+      "setting": "Timurid Samarkand, 15th c.",
+      "motifs": [
+        "herring",
+        "geese"
+      ],
+      "strangeness": "wry",
+      "register": "official",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

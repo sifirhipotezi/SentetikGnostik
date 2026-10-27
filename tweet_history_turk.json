@@ -1697,5 +1697,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Sultanhanı menzil defteri, Şevval 634: Kervandaki falcı ertesi günü önceden okuduğu için Perşembe'ye 9 dirhem bac kesildi. Perşembe ödemedi; borcunu verene dek handa alıkonuldu. O hafta yolcular Çarşamba yatıp Cuma kalkmıştır.",
+    "timestamp": "2026-10-27T09:42:24.220Z",
+    "tweetId": "2115016251349028979",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "seyir",
+      "device": "category_error",
+      "setting": "Seljuk Kayseri caravanserais, 13th c.",
+      "motifs": [
+        "falcı",
+        "arı"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
