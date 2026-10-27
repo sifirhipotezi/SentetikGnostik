@@ -1785,5 +1785,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "LET IT BE KNOWN in Longyearbyen, 1925: Norway's claim to these islands rests on census-taker O. Brekke counting 1,183 souls in a town of 611. The other 572 live down the company well. They are lawful citizens. No bucket shall be lowered after dark.",
+    "timestamp": "2026-10-27T21:59:36.250Z",
+    "tweetId": "2115201773904241006",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "proclamation",
+      "device": "petty_cause",
+      "setting": "Svalbard coal towns, 1920s",
+      "motifs": [
+        "wells",
+        "census-takers"
+      ],
+      "strangeness": "severe",
+      "register": "scholarly",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

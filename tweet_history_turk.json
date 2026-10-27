@@ -1737,5 +1737,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "128. 1712 Şubatında Galata'daki poyraz, çuvala konup bir hamalın sırtında Eyüp'e taşınmıştır. Hamala 27 akçe ödenmiş; o hafta Galata'da yaprak kıpırdamamış, Eyüp'te üç çatı uçmuştur.",
+    "timestamp": "2026-10-27T21:59:59.311Z",
+    "tweetId": "2115201870641676357",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "dipnot",
+      "device": "impossible_event",
+      "setting": null,
+      "motifs": [
+        "hamal",
+        "poyraz"
+      ],
+      "strangeness": "clear",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
