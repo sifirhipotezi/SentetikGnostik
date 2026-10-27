@@ -1765,5 +1765,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Clapperton to Barrow, Sokoto, 1824: The rockets I fired for Sultan Bello have not come down. Each night they hang over the city, still burning. His scholars have named all six. They will outlast me.",
+    "timestamp": "2026-10-27T15:49:10.713Z",
+    "tweetId": "2115108553283317862",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "letter",
+      "device": "divergence",
+      "setting": "Sokoto Caliphate, 1810s",
+      "motifs": [
+        "fireworks",
+        "hats"
+      ],
+      "strangeness": "clear",
+      "register": "elegiac",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
