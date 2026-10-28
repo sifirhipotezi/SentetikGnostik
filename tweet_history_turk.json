@@ -1777,5 +1777,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Seyahatname'nin kayıp sayfasından: Magosa'yla imzalanan antlaşmada sahil bir günlük yol içeride yazılmış, deniz de oraya çekilmiştir. Gümrükhane bağların arasına taşınmış, kalyonlar zeytinliğe yanaşır. Bu hakir, kumda kalan kadırgaya iskele resmi ödedim; hâlâ içimdedir.",
+    "timestamp": "2026-10-28T19:24:43.871Z",
+    "tweetId": "2115525186728726744",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "seyahatname",
+      "device": "wrong_world",
+      "setting": "Ottoman Cyprus, 17th c. (customs and trade only)",
+      "motifs": [
+        "antlaşma imzası",
+        "martı"
+      ],
+      "strangeness": "clear",
+      "register": "küskün",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

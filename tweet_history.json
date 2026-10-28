@@ -1825,5 +1825,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "63. The letter between L and M was withdrawn in 1563. Every word spelled with it lifted off the page, and so did the people whose names used it. The printer still billed us for the ink.",
+    "timestamp": "2026-10-28T19:24:05.785Z",
+    "tweetId": "2115525027009646618",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "footnote",
+      "device": "quiet_loss",
+      "setting": null,
+      "motifs": [
+        "ink",
+        "town criers"
+      ],
+      "strangeness": "severe",
+      "register": "petty",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
