@@ -1805,5 +1805,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Ruiz, P. Hail That Falls Only Indoors: Tolosa, 1673–1690.\n—. A Second Ceiling Was Fitted. It Hailed Between Them (1679).",
+    "timestamp": "2026-10-28T10:27:33.919Z",
+    "tweetId": "2115390004553744814",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "bibliography",
+      "device": "wrong_world",
+      "setting": null,
+      "motifs": [
+        "abacuses",
+        "hailstorms"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

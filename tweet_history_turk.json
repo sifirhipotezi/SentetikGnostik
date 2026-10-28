@@ -1757,5 +1757,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Tokat'ta zelzele bekçiliği lağvolunmuştur. Bekçinin geceleri yeri elleriyle tuttuğu sonradan anlaşılmıştır. — Takvîm-i Vekāyi, 1871",
+    "timestamp": "2026-10-28T10:27:54.930Z",
+    "tweetId": "2115390092739002376",
+    "dryRun": false,
+    "coined": "Zelzele bekçiliği",
+    "dice": {
+      "form": "gazete",
+      "device": "vestigial_office",
+      "setting": "Ottoman Tokat and Erbaa, 19th c.",
+      "motifs": [
+        "zelzele",
+        "düğün"
+      ],
+      "strangeness": "clear",
+      "register": "akademik",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
