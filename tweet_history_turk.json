@@ -1797,5 +1797,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Edirne kadısı huzurunda, 1458. Şahit Hızır bin Yusuf: \"Kedim mırlarken 'ñ' der, sağır kef ile yazınız.\" Öyle yazılmıştır. Harf 1928'de alfabeden çıkarılınca kedi de sayfadan çıkmış, yerinde bir tutam tüy kalmıştır.",
+    "timestamp": "2026-10-28T23:58:05.616Z",
+    "tweetId": "2115593980431769664",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "ifade",
+      "device": "script_reform",
+      "setting": "Ottoman Edirne, 15th c.",
+      "motifs": [
+        "kedi",
+        "bir imla hatası"
+      ],
+      "strangeness": "clear",
+      "register": "akademik",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

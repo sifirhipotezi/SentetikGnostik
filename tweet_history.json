@@ -1845,5 +1845,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "CORRECTION, Ünen, 1977: Ulaanbaatar has no lighthouse. Its keeper, B. Dorj, has been notified. He has asked us to tell the ships.",
+    "timestamp": "2026-10-28T23:57:20.426Z",
+    "tweetId": "2115593791126081538",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "notice",
+      "device": "impossible_event",
+      "setting": "Socialist Ulaanbaatar, 1970s",
+      "motifs": [
+        "lighthouses",
+        "umbrellas"
+      ],
+      "strangeness": "severe",
+      "register": "elegiac",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
