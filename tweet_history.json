@@ -1905,5 +1905,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Gümrük register, Selanik quay, 1895. Hair grows a span an hour past the barrier.\nLine 9: mustaches grown during inspection, 3 okka, taxed as raw wool, 14 kuruş.\nLine 10: the same, from infants in arms.",
+    "timestamp": "2026-10-29T23:51:27.991Z",
+    "tweetId": "2115954700717621537",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "ledger",
+      "device": "wrong_world",
+      "setting": "Ottoman Thessaloniki, 1890s",
+      "motifs": [
+        "mustaches",
+        "customs duties"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

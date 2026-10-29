@@ -1857,5 +1857,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Lot 219. Bâbıâli kâtibi Nuri Efendi'nin gümüş cep saati, 1861. Abdülmecid'in vefatı bu saatle öğle vakti kaydedilmiş; saat bir dakika geri imiş. Saat o dakikadan ileri gitmez, teşhir salonunda gölgeler de kısalmayı bırakmıştır. Tahmini: 38.500–51.000 TL.",
+    "timestamp": "2026-10-29T23:52:05.663Z",
+    "tweetId": "2115954858758980039",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "muzayede",
+      "device": "divergence",
+      "setting": "Bâbıâli bureaucracy, 1860s",
+      "motifs": [
+        "öğle vakti",
+        "incir"
+      ],
+      "strangeness": "severe",
+      "register": "akademik",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
