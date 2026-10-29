@@ -1817,5 +1817,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Hüve'l-Bâkî. Saray cirit ustası merhum Ferhad Ağa'nın ruhuna fâtiha. Sene 963. Kamerî hesapla vefat etmiş, şemsî hesapla on bir gün daha yaşamıştır. O on bir günde attığı cirit hâlâ yere düşmemiştir. Süleymaniye vakfı, düşeceği yere bekçi tayin etmiştir.",
+    "timestamp": "2026-10-29T10:47:59.730Z",
+    "tweetId": "2115757533822660761",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "kitabe",
+      "device": "calendar",
+      "setting": "Süleymaniye külliyesi, 1550s",
+      "motifs": [
+        "cirit",
+        "padişah hediyeleri"
+      ],
+      "strangeness": "severe",
+      "register": "osmanli",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

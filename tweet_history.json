@@ -1865,5 +1865,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Edict of King Hyeonjong, Art. 2: Whereas a clerk logged thirty-four dawn bells before they rang, and the bell struck thirty-four, and Hanseong's wall grew a ninth gate, that gate shall be manned. Nothing has come in.",
+    "timestamp": "2026-10-29T10:47:27.079Z",
+    "tweetId": "2115757396744442054",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "treaty",
+      "device": "recursion",
+      "setting": "Joseon Korea, 17th c.",
+      "motifs": [
+        "bells",
+        "hourglasses"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
