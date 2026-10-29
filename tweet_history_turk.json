@@ -1837,5 +1837,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "KANDİYE DENİZ HANI (1668). Vakfiyede 'kıyıda' yerine 'denizde' yazıldığından denizin üstüne kurulmuştur. Develer kapısına yürüyerek varır.",
+    "timestamp": "2026-10-29T19:29:07.149Z",
+    "tweetId": "2115888678891348229",
+    "dryRun": false,
+    "coined": "Kandiye Deniz Hanı",
+    "dice": {
+      "form": "ansiklopedi",
+      "device": "mistranslation",
+      "setting": "Girit (Crete) siege of Kandiye, 1660s",
+      "motifs": [
+        "kervansaray",
+        "ayı oynatıcısı"
+      ],
+      "strangeness": "clear",
+      "register": "cumhuriyet",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

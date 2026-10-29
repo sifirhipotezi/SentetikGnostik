@@ -1885,5 +1885,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Lot 133. Rutland, 1788: receipt signed by the Frost for a peppercorn rent on the orchards. The ink frosts the glass. Est. £1,250–1,900.",
+    "timestamp": "2026-10-29T19:28:43.875Z",
+    "tweetId": "2115888581319315793",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "auction",
+      "device": "negotiation",
+      "setting": "Republic of Vermont, 1780s",
+      "motifs": [
+        "pepper",
+        "tulips"
+      ],
+      "strangeness": "severe",
+      "register": "official",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
