@@ -1965,5 +1965,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "MS 1108. Nimrod coastal survey, 1908. The coast appeared as it was drawn. The pen slipped at Sheet 9. So did the coast, and two men on it.",
+    "timestamp": "2026-10-30T23:32:31.236Z",
+    "tweetId": "2116312320808833270",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "catalog",
+      "device": "recursion",
+      "setting": "Edwardian Antarctica expeditions",
+      "motifs": [
+        "olives",
+        "the coastline"
+      ],
+      "strangeness": "severe",
+      "register": "official",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

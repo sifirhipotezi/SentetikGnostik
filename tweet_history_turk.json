@@ -1917,5 +1917,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Ürgüp'ten kulunuz Hacı Mehmed arz eder: Borcumu Hicri takvimle ödedim, Rumi takvimle ödemedim. Aradaki on bir günde bir ben daha yaşıyor; fesimi giyip veresiye simit alıyor. Ferman efendimizindir.",
+    "timestamp": "2026-10-30T23:33:01.984Z",
+    "tweetId": "2116312449666191755",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "arzuhal",
+      "device": "calendar",
+      "setting": "Kapadokya villages, 19th c.",
+      "motifs": [
+        "fes",
+        "simit"
+      ],
+      "strangeness": "severe",
+      "register": "osmanli",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
