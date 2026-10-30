@@ -1925,5 +1925,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "1398: Thursday enlists in the Novgorod militia.\n1399: Thursday falls in battle.\n1400: Weeks skip it. Its goat draws the pension.",
+    "timestamp": "2026-10-30T10:45:49.998Z",
+    "tweetId": "2116119377577758808",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "chronology",
+      "device": "category_error",
+      "setting": "Novgorod, 12th–15th c.",
+      "motifs": [
+        "oysters",
+        "a single goat"
+      ],
+      "strangeness": "severe",
+      "register": "official",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

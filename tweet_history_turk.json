@@ -1877,5 +1877,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Müteferrika'nın terekesi, 1745: Bir baskı tezgâhı, 2.813 akçe. Bir kedi, 9 akçe; kuyruk o yıl dünyadan kalktığından eksik sayılmamıştır.",
+    "timestamp": "2026-10-30T10:46:10.477Z",
+    "tweetId": "2116119463472808297",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "tereke",
+      "device": "quiet_loss",
+      "setting": "İbrahim Müteferrika's printing press, 1730s",
+      "motifs": [
+        "iskele",
+        "kuyruk"
+      ],
+      "strangeness": "wry",
+      "register": "deadpan",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
