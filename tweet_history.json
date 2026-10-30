@@ -1945,5 +1945,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Translator's note: the Ravenna tax roll of 591 lists a thirteenth month, and the city lived through it, with rain and four funerals. The scribe's word means \"month\" or \"blot.\" I chose \"month.\" Since my edition, Ravenna has observed it every year.",
+    "timestamp": "2026-10-30T19:04:13.877Z",
+    "tweetId": "2116244803541450835",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "translator",
+      "device": "impossible_event",
+      "setting": "Byzantine Ravenna, 6th c.",
+      "motifs": [
+        "the calendar",
+        "the 13th month"
+      ],
+      "strangeness": "severe",
+      "register": "scholarly",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

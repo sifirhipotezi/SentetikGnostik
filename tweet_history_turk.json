@@ -1897,5 +1897,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Sard'da Paktolos kıyısındaki güreşleri yedi yıl boyunca Manes adında biri kazanmış; defterde adı var, kendisi hiç doğmamış. Rakiplerin sırtı her seferinde yere gelmiş, kumda tek kişinin ayak izi kalmıştır. Hazine ödül altınlarını hâlâ Manes'in borcu diye yazar.",
+    "timestamp": "2026-10-30T19:04:42.438Z",
+    "tweetId": "2116244923297182032",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "alternatif",
+      "device": "record_contradiction",
+      "setting": "Lydian Sardis, 6th c. BCE",
+      "motifs": [
+        "meddah",
+        "güreş"
+      ],
+      "strangeness": "severe",
+      "register": "küskün",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
