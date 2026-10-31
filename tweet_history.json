@@ -2005,5 +2005,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "The archive outlasts what it describes. North was withdrawn in 1612 while the Lund pigeons were aloft. None has landed since.",
+    "timestamp": "2026-10-31T18:22:22.637Z",
+    "tweetId": "2116596658557366618",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "maxim",
+      "device": "quiet_loss",
+      "setting": null,
+      "motifs": [
+        "a gate nobody uses",
+        "pigeons"
+      ],
+      "strangeness": "severe",
+      "register": "official",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

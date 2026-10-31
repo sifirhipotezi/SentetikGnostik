@@ -1957,5 +1957,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Vakfiye şartı, 1919: Aşureden artan kâr Şişli tramvay vatmanlarına verilsin. Şapka imladan düşünce kâr da kar olmuş. 1954'te Ağustos'a düşen Muharrem'de bile Şişli deposuna kar yağdı; kürek parasını vakıf ödemez.",
+    "timestamp": "2026-10-31T18:23:07.117Z",
+    "tweetId": "2116596844679553501",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "vakfiye",
+      "device": "script_reform",
+      "setting": "İstanbul tramvayları, 1950s",
+      "motifs": [
+        "aşure",
+        "bac"
+      ],
+      "strangeness": "clear",
+      "register": "küskün",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
