@@ -1985,5 +1985,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "LESSER RHÔNE (1338–1351). A second river east of Avignon, drawn by the papal cartographer Guilhem Fabre and licensed for two bridges and a ferry. It never held water. The ferry tolls were collected. Eleven people drowned in it.",
+    "timestamp": "2026-10-31T10:15:57.714Z",
+    "tweetId": "2116474248013168805",
+    "dryRun": false,
+    "coined": "Lesser Rhône",
+    "dice": {
+      "form": "encyclopedia",
+      "device": "paper_only",
+      "setting": "Avignon papacy, 14th c.",
+      "motifs": [
+        "cartographers",
+        "telegrams"
+      ],
+      "strangeness": "severe",
+      "register": "scholarly",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

@@ -1937,5 +1937,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Mısır kadısı huzurunda, 1583. Şahit Yusuf bin Mahmud: \"Kayısıcı Hasan kese kâğıdıyla bir pusula verdi: 'Hizmetimizi beş üzerinden puanlayınız.' Üç yazdım. Bıyığını burup bir daha gelmememi söyledi.\" Pusulalar saydırılmış; Hasan'ın puanı Bâbüzzüveyle'de en düşüğüdür.",
+    "timestamp": "2026-10-31T10:16:24.710Z",
+    "tweetId": "2116474361221714300",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "ifade",
+      "device": "anachronism",
+      "setting": "Ottoman Cairo, 16th c.",
+      "motifs": [
+        "kayısı",
+        "bıyık"
+      ],
+      "strangeness": "wry",
+      "register": "deadpan",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
