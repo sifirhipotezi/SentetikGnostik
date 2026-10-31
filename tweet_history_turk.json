@@ -1977,5 +1977,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "EFES'İN YOKLUĞU (MS 157). Asya eyaletinin merkezi Efes'in yedi gün boyunca yerinde bulunmadığı olay. Limana gelen kaptanlar kıyıda yalnızca karla örtülü boş bir ova bulmuştur. Şehir sekizinci gün geri dönmüş; prokonsül yedi günün liman vergisini yine de tahsil etmiştir.",
+    "timestamp": "2026-10-31T23:12:55.737Z",
+    "tweetId": "2116669778181923245",
+    "dryRun": false,
+    "coined": "Efes'in Yokluğu",
+    "dice": {
+      "form": "ansiklopedi",
+      "device": "impossible_event",
+      "setting": "Roman Ephesus",
+      "motifs": [
+        "kar",
+        "kahve"
+      ],
+      "strangeness": "clear",
+      "register": "deadpan",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
