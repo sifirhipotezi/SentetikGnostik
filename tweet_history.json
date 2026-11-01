@@ -2085,5 +2085,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "bee-freight, n.: cargo that exists only on the waybill. From 312 hives the Hejaz Railway signed for at every station, Damascus to Medina, 1911. None were loaded. The van arrived empty and humming. The guard was stung 41 times.",
+    "timestamp": "2026-11-01T23:26:14.859Z",
+    "tweetId": "2117035517770338421",
+    "dryRun": false,
+    "coined": "bee-freight",
+    "dice": {
+      "form": "etymology",
+      "device": "paper_only",
+      "setting": "Ottoman Hejaz railway, 1908",
+      "motifs": [
+        "spectacles",
+        "bees"
+      ],
+      "strangeness": "severe",
+      "register": "scholarly",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

@@ -2037,5 +2037,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Diyarbekir avarız tahriri, Hançepek mahallesi, 1740. Kapsam: Sayım Hıdırellez gecesi yapılmış; kâtip, Sultan Han ferman kâtibi hatasını bildiği hâlde gül dibine gömülen 26 dilek evini de hane yazmıştır. Evler sabah yerindeydi. İçinden çıkanlar avarızı ödemiştir.",
+    "timestamp": "2026-11-01T23:26:55.312Z",
+    "tweetId": "2117035687476174867",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "fihrist",
+      "device": "surname",
+      "setting": "Ottoman Diyarbekir, 18th c.",
+      "motifs": [
+        "Hıdırellez",
+        "deve"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "long",
+      "callback": "Sultan Han ferman kâtibi hatası"
+    }
   }
 ]
