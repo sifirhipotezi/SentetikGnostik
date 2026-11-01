@@ -1997,5 +1997,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Trabzon, 1896. Davacı: merhum Şaban Ağa'nın kavuğu. Davalı: Kasım. Kavuk, sahibini Kasım'ın götürdüğünü iddia etmiş. Kasım ikrar etmiştir.",
+    "timestamp": "2026-11-01T11:09:01.280Z",
+    "tweetId": "2116849988776943656",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "kadi_sicili",
+      "device": "category_error",
+      "setting": "Ottoman Trabzon, 1890s",
+      "motifs": [
+        "çeşme",
+        "kavuk"
+      ],
+      "strangeness": "severe",
+      "register": "hüzünlü",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
