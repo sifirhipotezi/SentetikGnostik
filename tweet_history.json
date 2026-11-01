@@ -2065,5 +2065,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "A copyist in Bursa entered noon twice in the day-book for 1549, and the city has kept two noons daily ever since. The müezzins call both. Silk weighed at the Koza Han during the second one comes out a quarter lighter, and the weigher is still docked for it.",
+    "timestamp": "2026-11-01T18:49:30.607Z",
+    "tweetId": "2116965874468790463",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "divergence",
+      "device": "mistranslation",
+      "setting": "Ottoman Bursa, 16th c.",
+      "motifs": [
+        "noon",
+        "borders"
+      ],
+      "strangeness": "clear",
+      "register": "petty",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

@@ -2017,5 +2017,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Kayıp: Saka Hüseyin bin Ali'nin kırbası, Bâbülfaraç civarında. İçinde 9 Nisan ikindisinin Kuveyk suyu vardır; nehir o saatten beri akmamaktadır. Bulanın kırbayı ağzını açmadan vilâyete teslim etmesi rica olunur. — Fırat, Halep, 1886",
+    "timestamp": "2026-11-01T18:49:57.223Z",
+    "tweetId": "2116965986129641931",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "gazete",
+      "device": "divergence",
+      "setting": "Ottoman Halep, 1880s",
+      "motifs": [
+        "saka",
+        "zeytin"
+      ],
+      "strangeness": "severe",
+      "register": "akademik",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
