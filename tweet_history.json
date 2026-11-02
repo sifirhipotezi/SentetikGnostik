@@ -2125,5 +2125,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "1329: Hamisi, a Kilwa clerk, dies at Sofala and is buried there.\n1331: Hamisi signs as witness to the gold treaty at Great Zimbabwe.\n1332: He invoices Kilwa for the witness fee.\n1334: Kilwa pays. He wants interest.",
+    "timestamp": "2026-11-02T22:39:36.740Z",
+    "tweetId": "2117386169444946231",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "chronology",
+      "device": "record_contradiction",
+      "setting": "Great Zimbabwe, 14th c.",
+      "motifs": [
+        "a treaty signing",
+        "zoos"
+      ],
+      "strangeness": "clear",
+      "register": "petty",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

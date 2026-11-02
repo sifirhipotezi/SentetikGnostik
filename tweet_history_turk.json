@@ -2077,5 +2077,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "MÖ 1251 — Hattuşa tamimi: Muhafızlara birer sol eldiven.\nMÖ 1250 — Kâtip \"el\" yazdı; tablet fırınlandı.\nMÖ 1249 — Muhafızlar ikinci bir sol elle uyandı.\nMÖ 1248 — Kerpiç Sırası Nizamı'na atfen tamim değil, eldivenler değişti.",
+    "timestamp": "2026-11-02T22:40:12.252Z",
+    "tweetId": "2117386318405587140",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "kronoloji",
+      "device": "mistranslation",
+      "setting": "Hattuşa, 13th c. BCE",
+      "motifs": [
+        "eldiven",
+        "satranç"
+      ],
+      "strangeness": "severe",
+      "register": "cumhuriyet",
+      "length": "medium",
+      "callback": "Kerpiç Sırası Nizamı"
+    }
   }
 ]
