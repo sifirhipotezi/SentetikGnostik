@@ -2057,5 +2057,25 @@
       "length": "long",
       "callback": "Sultan Han ferman kâtibi hatası"
     }
+  },
+  {
+    "text": "Hüve'l-Bâkî. Pera'da şemsiyeci Hüsnü Efendi Rumî takvimle öldü, Frenk takvimiyle on üç gün daha yaşadı; iflası o günlerdedir. Fâtiha.",
+    "timestamp": "2026-11-02T12:09:13.556Z",
+    "tweetId": "2117227527546564763",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "kitabe",
+      "device": "calendar",
+      "setting": "Meşrutiyet Pera, 1909",
+      "motifs": [
+        "şemsiye",
+        "iflas"
+      ],
+      "strangeness": "clear",
+      "register": "hüzünlü",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
