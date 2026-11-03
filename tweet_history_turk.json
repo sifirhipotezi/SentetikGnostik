@@ -2097,5 +2097,25 @@
       "length": "medium",
       "callback": "Kerpiç Sırası Nizamı"
     }
+  },
+  {
+    "text": "1895 kışında Kordon'daki posta kutusundan, Pasaport İskelesi'nde boğulan otuz bir kişinin el yazısıyla mektuplar çıkmıştır. Pulların hepsi boğuldukları günün ertesine damgalıdır. Postane, eksik pullu olanlar için cezayı alıcılardan tahsil etmiştir.",
+    "timestamp": "2026-11-03T11:46:08.189Z",
+    "tweetId": "2117584104694690179",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "alternatif",
+      "device": "impossible_event",
+      "setting": "Ottoman İzmir, Kordon, 1890s",
+      "motifs": [
+        "karanfil",
+        "posta pulu"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

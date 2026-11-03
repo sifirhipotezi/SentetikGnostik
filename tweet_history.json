@@ -2145,5 +2145,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Dispatch of the Abbasid envoy, Chang'an, 798: For nine days of the leap month, the capital was not there. My retinue camped in grass where the Vermilion Bird Avenue should run. On its return, the Court of State Ceremonial billed us for nine nights within the walls.",
+    "timestamp": "2026-11-03T11:45:33.096Z",
+    "tweetId": "2117583957503979937",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "letter",
+      "device": "impossible_event",
+      "setting": "Tang-dynasty Chang'an, 8th c.",
+      "motifs": [
+        "leap years",
+        "commas"
+      ],
+      "strangeness": "severe",
+      "register": "official",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
