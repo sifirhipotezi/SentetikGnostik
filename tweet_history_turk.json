@@ -2117,5 +2117,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Bursa Millet Mektebi, 1929. Muallim: \"Merhum Hafız Rıza her akşam en arka sırada harf yazdı.\" Şehadetnamesi dul karısına verilmiştir.",
+    "timestamp": "2026-11-03T20:28:17.184Z",
+    "tweetId": "2117715508157903333",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "ifade",
+      "device": "scale",
+      "setting": "Harf İnkılabı classrooms, 1929",
+      "motifs": [
+        "nergis",
+        "kayıp bir yüzük"
+      ],
+      "strangeness": "wry",
+      "register": "hüzünlü",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

@@ -2165,5 +2165,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Daily Alta California, 1850: Silas Moody, 39, killed when his shaft at Rich Bar caved in. His last shout still comes up it each morning at six. The assessor taxes the echo. His widow pays it.",
+    "timestamp": "2026-11-03T20:27:50.755Z",
+    "tweetId": "2117715397231190267",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "obituary",
+      "device": "divergence",
+      "setting": "Gold Rush San Francisco, 1850",
+      "motifs": [
+        "tax collectors",
+        "echoes"
+      ],
+      "strangeness": "wry",
+      "register": "elegiac",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
