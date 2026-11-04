@@ -2137,5 +2137,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Kardeşim, müezzin Râşid Efendi'yi Perşembe ikindisinde defnettik. Cuma sabah ezanını yine o okudu, vaktinde. Ölümünü bildiren tezkerenin altında imamın mührü ile Râşid Efendi'nin kendi imzası var. Vazifesini aksatmadığı için maaşı kesilmemiştir. — Safranbolu, 1858",
+    "timestamp": "2026-11-04T11:58:38.766Z",
+    "tweetId": "2117949640796467349",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "mektup",
+      "device": "record_contradiction",
+      "setting": "Safranbolu, 19th c.",
+      "motifs": [
+        "sokak adları",
+        "ezan vakti"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

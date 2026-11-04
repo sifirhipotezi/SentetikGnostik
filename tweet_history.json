@@ -2185,5 +2185,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "64. Tenochtitlan lost its sixth direction in 1509. The Purépecha ambassador had already left by it. Tzintzuntzan still keeps his chair.",
+    "timestamp": "2026-11-04T11:58:07.326Z",
+    "tweetId": "2117949508910825762",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "footnote",
+      "device": "quiet_loss",
+      "setting": "Tenochtitlan, early 16th c.",
+      "motifs": [
+        "ambassadors",
+        "sneezing"
+      ],
+      "strangeness": "clear",
+      "register": "deadpan",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
