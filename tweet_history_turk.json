@@ -2157,5 +2157,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Kefe'de Ceneviz'den beri her gece denize dökülen afyon kesilmiştir. Deniz uyanmış, gözlerini açmıştır. — İkdam, 1899",
+    "timestamp": "2026-11-04T20:43:40.557Z",
+    "tweetId": "2118081768884469915",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "gazete",
+      "device": "vestigial_office",
+      "setting": "Genoese Kaffa (Crimea), 15th c.",
+      "motifs": [
+        "afyon",
+        "gözlük"
+      ],
+      "strangeness": "severe",
+      "register": "osmanli",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

@@ -2205,5 +2205,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Tobolsk court, 1838. Treasury v. surveyor Lebedev, for redrawing the northern border each spring. Defence: if not redrawn, the north comes closer. It now stands 9 versts from the cathedral. Lebedev reinstated.",
+    "timestamp": "2026-11-04T20:43:12.845Z",
+    "tweetId": "2118081652429582759",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "court",
+      "device": "vestigial_office",
+      "setting": "Imperial Russia, Tobolsk, 1830s",
+      "motifs": [
+        "translators",
+        "maps"
+      ],
+      "strangeness": "severe",
+      "register": "official",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
