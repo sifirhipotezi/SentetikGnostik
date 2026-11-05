@@ -2177,5 +2177,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Davacı Rum Yanaki, davalı merhum Abdülkerim'in terekesi. Abdülkerim, Rum takviminin Frenk takviminden geri kaldığı on bir günde doğmuş, evlenmiş, Yanaki'den 214 akçe alıp ölmüştür. Bahçesaray o günler sisteydi. Hüküm: borç sabittir. Dul karısı sisten çıkıp ödemiştir.",
+    "timestamp": "2026-11-05T12:00:06.060Z",
+    "tweetId": "2118312394501845446",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "kadi_sicili",
+      "device": "calendar",
+      "setting": "Crimean Khanate, Bahçesaray, 18th c.",
+      "motifs": [
+        "tapu kâtibi",
+        "sis"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

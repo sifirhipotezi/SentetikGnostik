@@ -2225,5 +2225,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Q5. A Manchester rate-book of 1844 entered 'Lord Ashby's horse' as 'Lord Ashby, horse.' Explain why his widow stables him.",
+    "timestamp": "2026-11-05T11:59:33.217Z",
+    "tweetId": "2118312257155215748",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "exam",
+      "device": "mistranslation",
+      "setting": "Victorian Manchester, 1840s",
+      "motifs": [
+        "a horse with a title",
+        "a minor heresy"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
