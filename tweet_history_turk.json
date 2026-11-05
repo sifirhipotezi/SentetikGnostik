@@ -2197,5 +2197,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Belgrad varoş tahriri, 1741. Kapsam: Kuşatmada yıkılan evlerin leylek yuvaları, damlar olmadan eski yüksekliklerinde havada durmaktadır. Kâtip 83 yuvayı hane yazmıştır. Leylekler her bahar dönmüş, evler dönmemiştir.",
+    "timestamp": "2026-11-05T20:59:14.524Z",
+    "tweetId": "2118448074058088789",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "fihrist",
+      "device": "divergence",
+      "setting": "Ottoman Belgrade, 18th c.",
+      "motifs": [
+        "muhtar",
+        "leylek"
+      ],
+      "strangeness": "severe",
+      "register": "hüzünlü",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
