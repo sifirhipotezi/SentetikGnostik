@@ -2217,5 +2217,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Muvakkitler meclisi zaptı, 1727. Gündem: İstanbul'da Salı'dan beri gölge yoktur; çınarlar, minareler ve ahali gölge vermemektedir. İkindi vakti gölge boyuyla tayin olunduğundan şehre girmemiştir. Karar: çınar altındaki serinlik ölçülsün, vakit ona göre okunsun.",
+    "timestamp": "2026-11-06T11:57:14.672Z",
+    "tweetId": "2118674063799554491",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "zabit",
+      "device": "quiet_loss",
+      "setting": "Lale Devri İstanbul, 1720s",
+      "motifs": [
+        "çınar",
+        "tavla"
+      ],
+      "strangeness": "severe",
+      "register": "akademik",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

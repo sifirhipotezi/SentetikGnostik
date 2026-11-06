@@ -2265,5 +2265,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "BY ORDER, TBILISI 1977: Mount Mtatsminda now retreats from climbers. Flowers for the dead go at the foot. The dead will be informed.",
+    "timestamp": "2026-11-06T11:56:38.438Z",
+    "tweetId": "2118673911911231819",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "proclamation",
+      "device": "wrong_world",
+      "setting": "Brezhnev-era Tbilisi",
+      "motifs": [
+        "a pilgrimage",
+        "IOUs"
+      ],
+      "strangeness": "severe",
+      "register": "elegiac",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
