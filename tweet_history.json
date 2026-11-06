@@ -2285,5 +2285,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "English factor, Isfahan, 1641: The river has paid toll at the bridge each dawn since spring, in copper left on the piers. The darugha doubled the rate. Last night it moved outside the city walls. The bridge now crosses dust.",
+    "timestamp": "2026-11-06T20:19:38.760Z",
+    "tweetId": "2118800497150935217",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "letter",
+      "device": "negotiation",
+      "setting": "Safavid Isfahan, 17th c.",
+      "motifs": [
+        "tolls",
+        "city walls"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

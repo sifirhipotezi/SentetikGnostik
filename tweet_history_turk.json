@@ -2237,5 +2237,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Bu hakir Sivas'ı yazdığım varakı Tokat'ta yitirdim. Döndüm; o varakta saydığım üç mahalle şehirde yoktur. Moğol devrinden kalma haraç defterinde üçü de durur, haraçları her yıl eksiksiz gelir. — Seyahatname, eksik cüz",
+    "timestamp": "2026-11-06T20:20:07.539Z",
+    "tweetId": "2118800618085380291",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "seyahatname",
+      "device": "impossible_event",
+      "setting": "Mongol-era Sivas, 1240s",
+      "motifs": [
+        "telgraf",
+        "eksik bir varak"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
