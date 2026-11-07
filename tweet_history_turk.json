@@ -2277,5 +2277,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "38. Hayalî Sâbit Efendi, maliyenin takvimden düşürdüğü sıvış yılında doğmuş ve aynı sene ölmüştür. O yıl Şehzadebaşı'nda her gece Karagöz oynatmış, seyirci gülmüştür. Rumi defterlerde yalnız perdenin gölgesi kayıtlıdır.",
+    "timestamp": "2026-11-07T18:34:08.731Z",
+    "tweetId": "2119136334967120254",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "dipnot",
+      "device": "calendar",
+      "setting": null,
+      "motifs": [
+        "kuru fasulye",
+        "karagöz"
+      ],
+      "strangeness": "clear",
+      "register": "akademik",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
