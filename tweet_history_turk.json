@@ -2297,5 +2297,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Tuşpa, Sarduri devri, kil tablet. Şahit Aza: \"Köprü yarın yıkıldı. Oğlum üstündeydi.\" Kâtip tableti mühürlemiş, köprüyü açık bırakmıştır.",
+    "timestamp": "2026-11-07T23:32:13.270Z",
+    "tweetId": "2119211348399915107",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "ifade",
+      "device": "record_contradiction",
+      "setting": "Urartu, Tuşpa (Van), 8th c. BCE",
+      "motifs": [
+        "köprü",
+        "narh"
+      ],
+      "strangeness": "clear",
+      "register": "hüzünlü",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
