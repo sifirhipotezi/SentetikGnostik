@@ -2257,5 +2257,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "KONYA SAHİLİ (1237-1239). II. Gıyâseddin Keyhusrev devrinde şehrin bir günlük batısında beliren deniz kıyısı. Kıyıya her Cuma bir vapur yanaşmış, divan kâtipleri kaptandan liman resmi almıştır. Resim, henüz basılmamış Osmanlı akçesiyle ödenmiştir.",
+    "timestamp": "2026-11-07T10:57:15.814Z",
+    "tweetId": "2119021357019320356",
+    "dryRun": false,
+    "coined": "Konya Sahili",
+    "dice": {
+      "form": "ansiklopedi",
+      "device": "wrong_world",
+      "setting": "Seljuk Konya, 13th c.",
+      "motifs": [
+        "kâtip",
+        "vapur"
+      ],
+      "strangeness": "severe",
+      "register": "osmanli",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
