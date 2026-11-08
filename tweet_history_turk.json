@@ -2357,5 +2357,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Şehir Hatları kayıp eşya dosyası, 1964. Kapsam: Karaköy iskelesinde bulunan, öbür ucu Kadıköy'de olan bir kilim. Deniz üstünde ıslanmadan durur. Sahibi çıkmamış; işletme kilime turnike koymuştur.",
+    "timestamp": "2026-11-08T23:31:00.297Z",
+    "tweetId": "2119573430156898598",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "fihrist",
+      "device": "scale",
+      "setting": "Kadıköy–Karaköy vapurları, 1960s",
+      "motifs": [
+        "kilim",
+        "elçiler"
+      ],
+      "strangeness": "clear",
+      "register": "osmanli",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

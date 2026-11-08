@@ -2405,5 +2405,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Laughter, at funerals, 212\nLaughter, at funerals, by the deceased, 213–15\nLaughter, at funerals, by the deceased, fined for, 216\nMoerkerk, Jan, cheesemonger, d. 1702, 212; fined 1702, 216; fine paid in person, 1704, 217",
+    "timestamp": "2026-11-08T23:30:38.187Z",
+    "tweetId": "2119573337391374507",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "index",
+      "device": "record_contradiction",
+      "setting": null,
+      "motifs": [
+        "laughter",
+        "canals"
+      ],
+      "strangeness": "wry",
+      "register": "deadpan",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
