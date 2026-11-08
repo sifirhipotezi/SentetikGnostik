@@ -2365,5 +2365,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Council of the 104, Carthage, 219 BCE. Motion: to enlist the harbour rhyme that finishes itself whenever its first line is spoken. Carried; posted to the sea wall. The 287 Roman oarsmen who heard it are still saying the second line. Their ships drifted home.",
+    "timestamp": "2026-11-08T11:09:44.510Z",
+    "tweetId": "2119386885080379701",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "minutes",
+      "device": "category_error",
+      "setting": "Carthage, 3rd c. BCE",
+      "motifs": [
+        "yawning",
+        "a particular rhyme"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

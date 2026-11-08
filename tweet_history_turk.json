@@ -2317,5 +2317,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Hüve'l-Bâkî. Harre'den on bir yıl yer kiralayıp kirasını hiç aksatmayan merhum Abdurrahman Efendi. Sene 1326. Son taksidi geciktirdiği sabah Harre evini, bahçesini ve onu geri almıştır. Bu taşın altında pabuçları yatar.",
+    "timestamp": "2026-11-08T11:10:08.363Z",
+    "tweetId": "2119386985072599093",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "kitabe",
+      "device": "negotiation",
+      "setting": "Ottoman Hejaz, Medina, 1900s",
+      "motifs": [
+        "pabuç",
+        "bir mütercim"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
