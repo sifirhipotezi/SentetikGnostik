@@ -2337,5 +2337,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Kamaniçe sicili, 1681. Davacı Mustafa bin Yusuf, davalı tahrir emini. İddia: hanesi defterde boş yazılmış, oysa Mustafa huzurdadır. Hüküm: defter esastır. O günden beri Mustafa'yı kimse görmez. Karısı her akşam iki tabak pilav koyar; ikisi de boşalır.",
+    "timestamp": "2026-11-08T18:43:46.026Z",
+    "tweetId": "2119501144258908657",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "kadi_sicili",
+      "device": "surname",
+      "setting": "Kamaniçe (Podolia), 1670s",
+      "motifs": [
+        "tavus kuşu",
+        "pilav"
+      ],
+      "strangeness": "severe",
+      "register": "hüzünlü",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

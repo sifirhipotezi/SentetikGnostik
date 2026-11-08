@@ -2385,5 +2385,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "St. Mary's, Lübeck, 1366: Gerd Vos, brewer, buried in March. Came up in August as four sacks of barley. The guild kept him against his debts.",
+    "timestamp": "2026-11-08T18:43:08.364Z",
+    "tweetId": "2119500986309869859",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "obituary",
+      "device": "wrong_world",
+      "setting": "Hanseatic Lübeck, 14th c.",
+      "motifs": [
+        "barley",
+        "typewriters"
+      ],
+      "strangeness": "wry",
+      "register": "petty",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
