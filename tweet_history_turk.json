@@ -2377,5 +2377,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Kozlu, 1954. Ocakta kalan Recep Yalınçam'ın terekesi: bir sakal, 9 dirhem. Merhum sakalsızdı. Sakal büyük oğula verilmiştir, uzamaktadır.",
+    "timestamp": "2026-11-09T12:41:10.341Z",
+    "tweetId": "2119772282239287350",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "tereke",
+      "device": "paper_only",
+      "setting": "Zonguldak coal mines, 1950s",
+      "motifs": [
+        "rüya tabiri",
+        "sakal"
+      ],
+      "strangeness": "clear",
+      "register": "akademik",
+      "length": "short",
+      "callback": "Yalınçam"
+    }
   }
 ]
