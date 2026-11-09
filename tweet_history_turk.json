@@ -2397,5 +2397,25 @@
       "length": "short",
       "callback": "Yalınçam"
     }
+  },
+  {
+    "text": "Tebük istasyonu seyir defteri, Ağustos 1908: O gün ikindi dört saat on bir dakika sürmüştür. Tren tarifeye uymuş, güneş uymamıştır. İstasyon müdürü Hakkı Efendi, tarifenin bir suretini güneşe tebliğ etmiştir.",
+    "timestamp": "2026-11-09T23:20:45.234Z",
+    "tweetId": "2119933238151930326",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "seyir",
+      "device": "impossible_event",
+      "setting": "Hejaz Railway, 1908",
+      "motifs": [
+        "uzun bir ikindi",
+        "bayram"
+      ],
+      "strangeness": "wry",
+      "register": "osmanli",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

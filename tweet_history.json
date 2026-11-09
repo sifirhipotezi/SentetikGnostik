@@ -2445,5 +2445,25 @@
       "length": "short",
       "callback": "bee-freight"
     }
+  },
+  {
+    "text": "EIGHTHMAN, n. One who declines release. From the Bastille, 14 July 1789: seven freed; an eighth refused, from a cell no plan shows. It was razed by 1790. His meals still go in. Cf. Counters of Dusk.",
+    "timestamp": "2026-11-09T23:20:26.738Z",
+    "tweetId": "2119933160452505894",
+    "dryRun": false,
+    "coined": "Eighthman",
+    "dice": {
+      "form": "etymology",
+      "device": "divergence",
+      "setting": null,
+      "motifs": [
+        "hostages",
+        "prisons"
+      ],
+      "strangeness": "severe",
+      "register": "official",
+      "length": "medium",
+      "callback": "The Counters of Dusk"
+    }
   }
 ]
