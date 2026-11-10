@@ -2485,5 +2485,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "ERRATA, p. 94: for \"the moon was eclipsed over Trebizond in 1361\" read \"the moon was eclipsed over Trebizond in 1361 and not returned.\" The Grand Komnenos has since dated all feasts by the sun alone.",
+    "timestamp": "2026-11-10T20:45:25.614Z",
+    "tweetId": "2120256536677343451",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "errata",
+      "device": "quiet_loss",
+      "setting": "Empire of Trebizond, 14th c.",
+      "motifs": [
+        "eclipses",
+        "post offices"
+      ],
+      "strangeness": "wry",
+      "register": "official",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

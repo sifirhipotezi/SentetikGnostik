@@ -2437,5 +2437,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Larende, 1388. Şahit Ayşe: \"Babamdan kalan sessizliği tarttık, dokuz okka çıktı.\" Kadı terekeye yazmış, üç kardeşe taksim olunmuştur.",
+    "timestamp": "2026-11-10T20:45:51.239Z",
+    "tweetId": "2120256644282200066",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "ifade",
+      "device": "category_error",
+      "setting": "Karamanid Larende, 14th c.",
+      "motifs": [
+        "nüfus memuru",
+        "kaftan"
+      ],
+      "strangeness": "clear",
+      "register": "hüzünlü",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
