@@ -2417,5 +2417,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Seyahatname'nin kayıp bir varağından: 'Sapanca gölünde Arifiye'de bir kayıkçı gördük. Sabah 312 köy çocuğunu karşıya geçirir, akşam 312 muallim getirir. Karşı kıyı yoktur, bu hakir baktım. Anaları iskelede bekler, gelenlere selam verip yine bekler.'",
+    "timestamp": "2026-11-10T12:20:21.175Z",
+    "tweetId": "2120129430647443911",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "seyahatname",
+      "device": "divergence",
+      "setting": "Köy Enstitüleri, 1940s",
+      "motifs": [
+        "kayıkçı",
+        "saat kulesi"
+      ],
+      "strangeness": "severe",
+      "register": "cumhuriyet",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

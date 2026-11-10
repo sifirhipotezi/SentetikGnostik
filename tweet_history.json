@@ -2465,5 +2465,25 @@
       "length": "medium",
       "callback": "The Counters of Dusk"
     }
+  },
+  {
+    "text": "Drover, Deptford, 1663: 'The ledger says I gave nine oxen to the King of Morocco. Now my stall's empty.' Ordered: his thanks be forwarded.",
+    "timestamp": "2026-11-10T12:19:50.923Z",
+    "tweetId": "2120129303891390925",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "deposition",
+      "device": "recursion",
+      "setting": "Restoration London, 1660s",
+      "motifs": [
+        "gifts between rulers",
+        "oxen"
+      ],
+      "strangeness": "clear",
+      "register": "petty",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
