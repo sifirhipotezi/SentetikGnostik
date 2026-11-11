@@ -2525,5 +2525,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Eel-fishers' guild, Lentini, 1244. Motion: to admit Ruggero Bracco, drowned in the lake in 1231, who has paid dues every year since. Carried unopposed. He takes his seat each meeting. The minutes note his catch is always the largest.",
+    "timestamp": "2026-11-11T21:09:22.071Z",
+    "tweetId": "2120624949538820267",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "minutes",
+      "device": "record_contradiction",
+      "setting": "Sicily under Frederick II, 13th c.",
+      "motifs": [
+        "observatories",
+        "eels"
+      ],
+      "strangeness": "clear",
+      "register": "scholarly",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

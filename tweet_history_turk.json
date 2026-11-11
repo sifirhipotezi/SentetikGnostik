@@ -2477,5 +2477,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "MALAZGİRT ARA HARBİ (1791). Hicrî yılın güneş yılına yetişemediği on bir günde yapılmış muharebe. Hiçbir takvime girmediğinden 63 şehidin ölüm tarihi yazılamamış; ortanın kazanı onlar için hâlâ kaynatılır.",
+    "timestamp": "2026-11-11T21:09:58.184Z",
+    "tweetId": "2120625101007630445",
+    "dryRun": false,
+    "coined": "Malazgirt Ara Harbi",
+    "dice": {
+      "form": "ansiklopedi",
+      "device": "calendar",
+      "setting": "Malazgirt, 1071",
+      "motifs": [
+        "yeniçeri kazanı",
+        "Boğaz akıntısı"
+      ],
+      "strangeness": "severe",
+      "register": "akademik",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
