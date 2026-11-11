@@ -2505,5 +2505,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "NOTICE, Karaganda, 1935: Lenin Street is ceded to the steppe wind, per agreement. Residents must vacate by the 9th. The wind moved in early.",
+    "timestamp": "2026-11-11T11:45:14.497Z",
+    "tweetId": "2120482982599225836",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "notice",
+      "device": "negotiation",
+      "setting": "Soviet Kazakhstan, 1930s",
+      "motifs": [
+        "street names",
+        "lentils"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

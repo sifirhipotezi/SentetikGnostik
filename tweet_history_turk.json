@@ -2457,5 +2457,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Priştine'den kız kardeşime mektup, 1906: Defterdarlığın yeni tamimi, geçen kış gömdüğümüz müdür Nuri Bey'in imzasıyla gelmiş, dünkü tarihle. Kocam itiraz etmiş. Cevap yine Nuri Bey imzalı: 'Madde 3: Vefat, mali yıl kapanmadan hükme bağlanamaz.'",
+    "timestamp": "2026-11-11T11:45:41.971Z",
+    "tweetId": "2120483097648984341",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "mektup",
+      "device": "record_contradiction",
+      "setting": "Ottoman Kosovo vilayeti, 1900s",
+      "motifs": [
+        "lüfer",
+        "mali yıl"
+      ],
+      "strangeness": "wry",
+      "register": "cumhuriyet",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
