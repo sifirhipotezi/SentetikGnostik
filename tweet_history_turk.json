@@ -2517,5 +2517,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "1967'de Köln'deki Türk işçileri Ren'le anlaşmıştır: ayda üç mark karşılığında nehir Mülheim yurtlarını basmayacaktı. Haritacı Kemal Bey yeni yatağı kurşunkalemle çizmiş, Ren ertesi sabah o çizgiye çekilmiştir.",
+    "timestamp": "2026-11-12T21:23:25.892Z",
+    "tweetId": "2120990876583288844",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "alternatif",
+      "device": "negotiation",
+      "setting": "Turkish guest workers in Köln, 1960s",
+      "motifs": [
+        "bir haritacı",
+        "kalemtıraş"
+      ],
+      "strangeness": "severe",
+      "register": "akademik",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
