@@ -2497,5 +2497,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Gordion, kale sarnıcı kira kayıtları. MÖ 8. yüzyıl, on bir yıl. Kapsam: kiracıların testi başına kira ödeyip su çektiği bir sarnıç. Sarnıç hiç kazılmamıştır, yeri düz topraktır. 1951 kazısında aynı toprağa bir kova indirilmiş, kova dolu çıkmıştır.",
+    "timestamp": "2026-11-12T12:24:15.337Z",
+    "tweetId": "2120855188516786264",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "fihrist",
+      "device": "impossible_event",
+      "setting": "Phrygian Gordion, 8th c. BCE",
+      "motifs": [
+        "kira",
+        "sarnıç"
+      ],
+      "strangeness": "severe",
+      "register": "osmanli",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

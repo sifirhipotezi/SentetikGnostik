@@ -2545,5 +2545,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "HÚSAVÍK MENAGERIE (1958–1971). Municipal animal house built to hold what came up from the bay at night and could not be named. It closed in 1971, when nothing more came up. Its 31 cages remain locked, and feed is still delivered weekly. All of it is eaten.",
+    "timestamp": "2026-11-12T12:23:46.207Z",
+    "tweetId": "2120855066378662307",
+    "dryRun": false,
+    "coined": "Húsavík Menagerie",
+    "dice": {
+      "form": "encyclopedia",
+      "device": "vestigial_office",
+      "setting": "Cold War Iceland, 1960s",
+      "motifs": [
+        "menageries",
+        "interest"
+      ],
+      "strangeness": "clear",
+      "register": "deadpan",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
