@@ -2537,5 +2537,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Sayım memuru Cevdet Bey'in notu, Bergama, 20 Ekim 1935: Asklepion'daki yatakhanede 58 kişi uyurken sayıldı. Uyandırılamadılar, adları taşa Yunanca kazılı. Başlarına birer bardak şerbet bırakılmıştır. Hane reisi olarak tapınağın sahibi yazılmıştır.",
+    "timestamp": "2026-11-13T11:59:48.235Z",
+    "tweetId": "2121211422977745149",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "seyir",
+      "device": "surname",
+      "setting": "Hellenistic Pergamon",
+      "motifs": [
+        "tuğra",
+        "şerbet"
+      ],
+      "strangeness": "wry",
+      "register": "deadpan",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
