@@ -2605,5 +2605,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Expedition diary, south tower of St. Stephen's, Vienna, 1909. Ascent: 343 steps. Descent: 344. Of our party of six, five reached the street. The verger lists the sixth as still descending and bills him for candles.",
+    "timestamp": "2026-11-13T20:49:45.947Z",
+    "tweetId": "2121344792193888692",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "logbook",
+      "device": "wrong_world",
+      "setting": "Belle Époque Vienna, 1900s",
+      "motifs": [
+        "staircases",
+        "whistling"
+      ],
+      "strangeness": "severe",
+      "register": "scholarly",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

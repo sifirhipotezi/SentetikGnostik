@@ -2557,5 +2557,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Mütercim notu: Çatalhöyük duvar resmindeki işaret 'dam' değil 'kubbe' diye okunmuştur. O günden beri höyükteki bütün evler kubbelidir. Aydede Film'in 1962'de çektiği düz damlar artık yalnız o filmde durur.",
+    "timestamp": "2026-11-13T20:50:12.750Z",
+    "tweetId": "2121344904630534327",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "mutercim",
+      "device": "scale",
+      "setting": "Çatalhöyük, c. 7000 BCE",
+      "motifs": [
+        "mehter",
+        "kubbe"
+      ],
+      "strangeness": "wry",
+      "register": "hüzünlü",
+      "length": "medium",
+      "callback": "Aydede Film"
+    }
   }
 ]
