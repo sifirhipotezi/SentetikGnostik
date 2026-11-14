@@ -2597,5 +2597,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Rize kadı sicili, 1879. Davacı gümrük emini, davalı Karadeniz. İddia: Deniz üç aydır her Cuma Ayder yaylasına çıkıyor, iskeledeki gemiler de onunla. Hüküm: Cuma rüsumu yaylada alınsın.",
+    "timestamp": "2026-11-14T19:00:17.455Z",
+    "tweetId": "2121679629874602215",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "kadi_sicili",
+      "device": "wrong_world",
+      "setting": "Rize çay fabrikaları, 1950s",
+      "motifs": [
+        "ortaoyunu",
+        "gümrük"
+      ],
+      "strangeness": "severe",
+      "register": "osmanli",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

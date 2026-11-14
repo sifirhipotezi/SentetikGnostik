@@ -2645,5 +2645,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Sundini, Faroes\n1812: Toll of 3 skilling received for the bridge.\n1973: Bridge built.\n1974: Payer, d. 1830, crosses. Receipt issued.",
+    "timestamp": "2026-11-14T18:59:56.229Z",
+    "tweetId": "2121679540875649112",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "chronology",
+      "device": "record_contradiction",
+      "setting": "Faroe Islands, any century",
+      "motifs": [
+        "bridges",
+        "coins"
+      ],
+      "strangeness": "severe",
+      "register": "official",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
