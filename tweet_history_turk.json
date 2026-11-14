@@ -2577,5 +2577,25 @@
       "length": "medium",
       "callback": "Aydede Film"
     }
+  },
+  {
+    "text": "Budin, 1582. Şahit Ferhad: \"Güvercini Frenklerin takvimden sildiği on günde saldım.\" Kuş henüz dönmemiştir. Yemi her gün deftere yazılır.",
+    "timestamp": "2026-11-14T11:19:44.393Z",
+    "tweetId": "2121563728416059842",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "ifade",
+      "device": "calendar",
+      "setting": "Ottoman Budin, 16th c.",
+      "motifs": [
+        "posta güvercini",
+        "lokum"
+      ],
+      "strangeness": "clear",
+      "register": "deadpan",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

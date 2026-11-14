@@ -2625,5 +2625,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Deposition of Rui Botelho, census-taker, Salcete, 1571: \"For eight days the village of Loutolim was not there, only bees over red earth. On the ninth it stood again, and every house held a jar of honey.\" Ordered: tithe on the honey, none on the eight days.",
+    "timestamp": "2026-11-14T11:19:22.036Z",
+    "tweetId": "2121563634513936817",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "deposition",
+      "device": "impossible_event",
+      "setting": "Portuguese Goa, 16th c.",
+      "motifs": [
+        "census-takers",
+        "honey"
+      ],
+      "strangeness": "clear",
+      "register": "deadpan",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
