@@ -2665,5 +2665,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "NOTICE, Getaria, 1583. The watchman wrote 'sea silent' in his log by a slip of the pen. The sea has been silent since. Waves break on the mole without a sound. He is to write nothing further.",
+    "timestamp": "2026-11-14T23:45:01.721Z",
+    "tweetId": "2121751286466990086",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "notice",
+      "device": "recursion",
+      "setting": "Basque whaling ports, 16th c.",
+      "motifs": [
+        "tides",
+        "silence"
+      ],
+      "strangeness": "clear",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

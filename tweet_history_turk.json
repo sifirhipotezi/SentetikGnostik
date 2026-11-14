@@ -2617,5 +2617,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "BU KAVAKLAR, DARÜLFÜNUN İLE KARGALAR ARASINDAKİ 1917 MUKAVELESİ GEREĞİ KESİLMEMİŞTİR. KARGALAR 2. MADDEYE UYARAK DERS SAATİNDE ÖTMEZ.",
+    "timestamp": "2026-11-14T23:45:21.750Z",
+    "tweetId": "2121751370491375637",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "tabela",
+      "device": "negotiation",
+      "setting": "Darülfünun, İstanbul, 1910s",
+      "motifs": [
+        "kavak",
+        "han"
+      ],
+      "strangeness": "clear",
+      "register": "cumhuriyet",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
