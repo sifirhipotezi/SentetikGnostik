@@ -2725,5 +2725,25 @@
       "length": "medium",
       "callback": "The Counters of Dusk"
     }
+  },
+  {
+    "text": "GOVERNOR'S DINNER (1885). At Ushuaia eleven guests fell upward to the ceiling. Two remain there. The seating chart lists them as absent.",
+    "timestamp": "2026-11-15T23:52:08.912Z",
+    "tweetId": "2122115466181394615",
+    "dryRun": false,
+    "coined": "Governor's Dinner",
+    "dice": {
+      "form": "encyclopedia",
+      "device": "wrong_world",
+      "setting": "Tierra del Fuego, 1880s",
+      "motifs": [
+        "chilli peppers",
+        "a seating chart"
+      ],
+      "strangeness": "severe",
+      "register": "petty",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

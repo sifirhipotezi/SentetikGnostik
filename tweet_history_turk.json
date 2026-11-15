@@ -2677,5 +2677,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Musul valisine hüküm ki: Nadir Şah kuşatmasının erzak defteri, kuşatmadan on bir ay önce yazılmıştır. Emr-i şerifim vusûlünde ambara defterdeki 2.619 okka pekmezden fazlası konmasın; fazlası yenmeyecektir.",
+    "timestamp": "2026-11-15T23:52:38.545Z",
+    "tweetId": "2122115590383153303",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "ferman",
+      "device": "record_contradiction",
+      "setting": "Ottoman Mosul, 18th c.",
+      "motifs": [
+        "pekmez",
+        "bir harf"
+      ],
+      "strangeness": "clear",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
