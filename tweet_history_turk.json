@@ -2657,5 +2657,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Seyahatname'nin kayıp on birinci cildinden: Beylik 1390'da Yıldırım'a geçtiği hâlde Birgi arıları Aydınoğlu sınırını aşmaz. Sınırın yerini kimse bilmez, arılar bilir. Sınır bir hanenin ortasından geçer; o evin yarısında hâlâ Aydınoğlu sikkesi geçer.",
+    "timestamp": "2026-11-15T19:40:21.760Z",
+    "tweetId": "2122052102138761543",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "seyahatname",
+      "device": "divergence",
+      "setting": "Beylik-era Aydın and Birgi, 14th c.",
+      "motifs": [
+        "arı",
+        "muska"
+      ],
+      "strangeness": "severe",
+      "register": "osmanli",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

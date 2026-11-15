@@ -2705,5 +2705,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "BRATTAHLÍÐ THING, case roll 1052–1088. Scope: suit over a die cast at a wedding feast in 1052 that has not yet landed. 1,042 wagers, three judges, and a hall left unroofed so it may fall. Shelved beside the Counters of Dusk.",
+    "timestamp": "2026-11-15T19:39:43.952Z",
+    "tweetId": "2122051943443165488",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "catalog",
+      "device": "scale",
+      "setting": "Norse Greenland, 11th c.",
+      "motifs": [
+        "dice",
+        "saffron"
+      ],
+      "strangeness": "clear",
+      "register": "scholarly",
+      "length": "medium",
+      "callback": "The Counters of Dusk"
+    }
   }
 ]
