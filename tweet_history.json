@@ -2685,5 +2685,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Mohenjo-daro. Claim: the city is empty, so the Great Bath needs no keeper. Ruling: claim dismissed. The steps are wet each dawn.",
+    "timestamp": "2026-11-15T11:51:30.535Z",
+    "tweetId": "2121934111262585009",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "court",
+      "device": "vestigial_office",
+      "setting": "Mohenjo-daro, c. 2300 BCE",
+      "motifs": [
+        "abacuses",
+        "bathhouses"
+      ],
+      "strangeness": "wry",
+      "register": "elegiac",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

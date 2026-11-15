@@ -2637,5 +2637,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "KALE TUZCULUĞU (1709–1846). Erzurum iç kalesinin kuzey burcuna her akşam bir okka tuz bırakan memuriyet. Tuz her sabah alınmış, alan görülmemiştir. Lağvedildiği kış, alan kale kapısını çalmıştır.",
+    "timestamp": "2026-11-15T11:52:00.041Z",
+    "tweetId": "2121934234835120404",
+    "dryRun": false,
+    "coined": "Kale Tuzculuğu",
+    "dice": {
+      "form": "ansiklopedi",
+      "device": "vestigial_office",
+      "setting": "Ottoman Erzurum, 18th c.",
+      "motifs": [
+        "ipek",
+        "tuz"
+      ],
+      "strangeness": "clear",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
