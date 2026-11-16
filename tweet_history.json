@@ -2765,5 +2765,25 @@
       "length": "medium",
       "callback": "Kemari Society of the Left Guards"
     }
+  },
+  {
+    "text": "Córdoba, 961, to my brother: Friday happened twice this week. Both times my shoes were stolen at the mosque door. Same thief.",
+    "timestamp": "2026-11-16T23:15:59.054Z",
+    "tweetId": "2122468752910410232",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "letter",
+      "device": "impossible_event",
+      "setting": "Umayyad Córdoba, 10th c.",
+      "motifs": [
+        "coffee",
+        "shoes"
+      ],
+      "strangeness": "severe",
+      "register": "petty",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

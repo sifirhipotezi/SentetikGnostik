@@ -2717,5 +2717,25 @@
       "length": "short",
       "callback": "Gölge Tahsildarlığı"
     }
+  },
+  {
+    "text": "Beyoğlu Belediyesine. 1964 zabıtında 'sinema önünde kuyruk vardır' yerine 'sinema kuyrukludur' yazılmış. O geceden beri binanın kuyruğu Tarlabaşı'na kadar uzanır; işgaliye cezası bana kesilir. Tashihini arz ederim.",
+    "timestamp": "2026-11-16T23:16:34.723Z",
+    "tweetId": "2122468902391181677",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "arzuhal",
+      "device": "mistranslation",
+      "setting": "Yeşilçam, 1960s",
+      "motifs": [
+        "hokka",
+        "kuyruk"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
