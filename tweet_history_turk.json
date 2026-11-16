@@ -2697,5 +2697,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "73. 1738'de Sinop'ta poyraz üç gün güneyden esmiştir. Rüsumu lodos narhıyla alınmış, aradaki 9 akçe Gölge Tahsildarlığı'na devredilmiştir.",
+    "timestamp": "2026-11-16T12:32:42.798Z",
+    "tweetId": "2122306868555010219",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "dipnot",
+      "device": "impossible_event",
+      "setting": null,
+      "motifs": [
+        "poyraz",
+        "akçe"
+      ],
+      "strangeness": "wry",
+      "register": "osmanli",
+      "length": "short",
+      "callback": "Gölge Tahsildarlığı"
+    }
   }
 ]
