@@ -2805,5 +2805,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Lima, 1759. Tomás Ugarte, notary, died Monday holding a brass button stamped 41. The cemetery is now serving 38. He waits in the pew.",
+    "timestamp": "2026-11-17T22:07:23.959Z",
+    "tweetId": "2122813880845922686",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "obituary",
+      "device": "anachronism",
+      "setting": "Colonial Lima, 18th c.",
+      "motifs": [
+        "seals and wax",
+        "buttons"
+      ],
+      "strangeness": "wry",
+      "register": "deadpan",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

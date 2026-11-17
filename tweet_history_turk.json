@@ -2757,5 +2757,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Kayıp: Ardahan'da Tiflis kervanından bir fes düşmüştür. Altı haftadır yere varmadı; kervan altından eğilerek geçer. — Takvîm-i Vekāyi, 1848",
+    "timestamp": "2026-11-17T22:07:50.846Z",
+    "tweetId": "2122813993618215256",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "gazete",
+      "device": "wrong_world",
+      "setting": "Ottoman Tiflis trade, 18th c.",
+      "motifs": [
+        "fes",
+        "oturma düzeni"
+      ],
+      "strangeness": "severe",
+      "register": "osmanli",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
