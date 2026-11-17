@@ -2737,5 +2737,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Mütercimin notu: Karatay Han vakfiyesinin yazma nüshasındaki \"ayı oynatıcılarına yemek verilsin\" ibaresini \"ayılara yemek verilsin\" diye çevirdim. Tercümeden sonra vakfın eski hesapları da değişmiştir: Han kuruluşundan beri ayılara bal vermiş, ayılar gelip almıştır.",
+    "timestamp": "2026-11-17T12:56:35.994Z",
+    "tweetId": "2122675267625746841",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "mutercim",
+      "device": "negotiation",
+      "setting": "Seljuk Kayseri caravanserais, 13th c.",
+      "motifs": [
+        "yazma bir nüsha",
+        "ayı oynatıcısı"
+      ],
+      "strangeness": "severe",
+      "register": "akademik",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

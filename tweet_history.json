@@ -2785,5 +2785,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Be it known, Batavia, 1664: the burial register runs three days ahead of the town. Its margins are sketched by clerk Joost Spies, buried in March. Whoever finds his face there must settle his debts by Friday.",
+    "timestamp": "2026-11-17T12:56:00.403Z",
+    "tweetId": "2122675118333686156",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "proclamation",
+      "device": "record_contradiction",
+      "setting": "Dutch Batavia, 17th c.",
+      "motifs": [
+        "marginal doodles",
+        "vellum"
+      ],
+      "strangeness": "severe",
+      "register": "scholarly",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
