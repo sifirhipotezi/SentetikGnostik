@@ -2825,5 +2825,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "ON THIS BANK IN 1763 THE PEARL RIVER RAN COLD FOR NINE YEARS AND FILLED WITH HERRING. THE HOPPO ASSESSED THEM AS FOREIGN GOODS. EACH FISH PAID DUTY AT WHAMPOA BEFORE PROCEEDING UPSTREAM.",
+    "timestamp": "2026-11-18T12:47:53.148Z",
+    "tweetId": "2123035462423982377",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "marker",
+      "device": "wrong_world",
+      "setting": "Qing Canton, 18th c.",
+      "motifs": [
+        "puppets",
+        "herring"
+      ],
+      "strangeness": "wry",
+      "register": "official",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

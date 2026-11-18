@@ -2777,5 +2777,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Matbah-ı Âmire defteri, 1569: Hicrî yıl Nevruz'dan on bir gün önce bitmiş. Aradaki günler hiçbir takvime yazılmamıştır. O günlerde mutfakta kalan dört aşçı yeni yıla geçmemiştir; tayınları hâlâ yazılmaktadır.",
+    "timestamp": "2026-11-18T12:48:20.344Z",
+    "tweetId": "2123035576483942468",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "seyir",
+      "device": "calendar",
+      "setting": "Topkapı Palace kitchens, 16th c.",
+      "motifs": [
+        "kuyruklu yıldız",
+        "Nevruz"
+      ],
+      "strangeness": "severe",
+      "register": "akademik",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
