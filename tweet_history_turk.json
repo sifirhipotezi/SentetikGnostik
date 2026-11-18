@@ -2797,5 +2797,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "ANKARA İSKELESİ (1896–1929). Ankara'da, denize ve göle uzak Hamamönü bayırında yalnız defterlerde bulunan vapur iskelesi. Vilayet salnamelerinde iskele emini, 3.218 yolcu ve yıllık 1.140 kuruş halat masrafı kayıtlıdır. Yerinde su görülmemiştir; yolcular inmiştir.",
+    "timestamp": "2026-11-18T21:46:42.377Z",
+    "tweetId": "2123171061105643956",
+    "dryRun": false,
+    "coined": "Ankara İskelesi",
+    "dice": {
+      "form": "ansiklopedi",
+      "device": "paper_only",
+      "setting": "Ankara, 1924",
+      "motifs": [
+        "zelzele",
+        "iskele"
+      ],
+      "strangeness": "clear",
+      "register": "deadpan",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

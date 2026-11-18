@@ -2845,5 +2845,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "A well filled in is not gone. St Ivel without Bishopsgate filled its well in 1727. Buckets drawn since: 9,118. All full.",
+    "timestamp": "2026-11-18T21:46:14.855Z",
+    "tweetId": "2123170945741283691",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "maxim",
+      "device": "plausible_fake",
+      "setting": null,
+      "motifs": [
+        "sundials",
+        "wells"
+      ],
+      "strangeness": "wry",
+      "register": "deadpan",
+      "length": "short",
+      "callback": "St Ivel without Bishopsgate"
+    }
   }
 ]
