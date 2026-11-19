@@ -2817,5 +2817,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Tarduş şadına yarlığdır: Orhun kıyısındaki kışlak 712 kışında yedi gün yerinde bulunmamış, haracı yine de 409 koyun olarak alınmıştır. Emrim varınca koyunlar sahiplerine iade olunmasın; sahipleri o yedi günden dönmemiştir.",
+    "timestamp": "2026-11-19T12:40:48.888Z",
+    "tweetId": "2123396070877384823",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "ferman",
+      "device": "impossible_event",
+      "setting": "Orhun valley, Göktürk Khaganate, 8th c.",
+      "motifs": [
+        "cirit",
+        "daktilo"
+      ],
+      "strangeness": "severe",
+      "register": "cumhuriyet",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
