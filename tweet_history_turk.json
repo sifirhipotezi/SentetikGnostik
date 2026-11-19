@@ -2837,5 +2837,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Magosa gümrüğü terlik defteri, 1634. Adada sol ayak kalmadığından yalnız sağ tekler rüsuma tabidir. Ambardaki sol tekler yine aşınır.",
+    "timestamp": "2026-11-19T22:01:30.544Z",
+    "tweetId": "2123537174280782153",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "fihrist",
+      "device": "quiet_loss",
+      "setting": "Ottoman Cyprus, 17th c. (customs and trade only)",
+      "motifs": [
+        "terlik",
+        "bekçi"
+      ],
+      "strangeness": "severe",
+      "register": "osmanli",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

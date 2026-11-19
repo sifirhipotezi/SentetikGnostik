@@ -2885,5 +2885,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "CORRECTION, Hereford, 1301: the chronicle recorded the comet Tuesday; it rose Friday. The comet is in error. Cf. Whitstable Oyster Guild.",
+    "timestamp": "2026-11-19T22:01:14.110Z",
+    "tweetId": "2123537105158611426",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "notice",
+      "device": "record_contradiction",
+      "setting": "Medieval Welsh border marches",
+      "motifs": [
+        "telegrams",
+        "a comet"
+      ],
+      "strangeness": "clear",
+      "register": "scholarly",
+      "length": "short",
+      "callback": "Whitstable Oyster Guild"
+    }
   }
 ]
