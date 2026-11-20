@@ -2925,5 +2925,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "By order of the Rector, Ragusa, 1457: the letter Q is withdrawn from use. The quay has gone with it. Ships will moor at their own risk.",
+    "timestamp": "2026-11-20T21:44:42.162Z",
+    "tweetId": "2123895332774007135",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "proclamation",
+      "device": "scale",
+      "setting": "Republic of Ragusa, 15th c.",
+      "motifs": [
+        "the letter Q",
+        "tobacco"
+      ],
+      "strangeness": "severe",
+      "register": "scholarly",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

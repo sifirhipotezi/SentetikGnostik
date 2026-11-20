@@ -2877,5 +2877,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Kayseri sicili, 1651. Tercüman Rum senedinde 'bağ' yerine 'güneş' okudu; kadı rehnin teslimine hükmetti. Güneş o öğleden beri tutuludur.",
+    "timestamp": "2026-11-20T21:45:10.875Z",
+    "tweetId": "2123895453175652684",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "kadi_sicili",
+      "device": "mistranslation",
+      "setting": "Byzantine Cappadocia, 10th c.",
+      "motifs": [
+        "borç senedi",
+        "güneş tutulması"
+      ],
+      "strangeness": "severe",
+      "register": "osmanli",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
