@@ -2857,5 +2857,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Kudüs Mutasarrıflığına. Tefeci Haim Efendi'nin defterinde, 1903 Kasım'ında kendi cenazemde ondan 311 kuruş ödünç aldığım, mührümü de bastığım yazılıdır. Cenazem henüz kılınmamıştır; faizi işlemektedir. Arz olunur.",
+    "timestamp": "2026-11-20T12:39:42.713Z",
+    "tweetId": "2123758181197169096",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "arzuhal",
+      "device": "record_contradiction",
+      "setting": "Ottoman Kudüs, 1900s",
+      "motifs": [
+        "tefeci",
+        "sur"
+      ],
+      "strangeness": "clear",
+      "register": "akademik",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

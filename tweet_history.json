@@ -2905,5 +2905,25 @@
       "length": "short",
       "callback": "Whitstable Oyster Guild"
     }
+  },
+  {
+    "text": "Zarafshan Judgment (1431). Suit brought by the Zarafshan River before the qadi of Samarkand over three villages a cartographer drew on its side of the map. The river won, waited the forty days allowed, and took them.",
+    "timestamp": "2026-11-20T12:39:18.476Z",
+    "tweetId": "2123758079506329826",
+    "dryRun": false,
+    "coined": "Zarafshan Judgment",
+    "dice": {
+      "form": "encyclopedia",
+      "device": "negotiation",
+      "setting": "Timurid Samarkand, 15th c.",
+      "motifs": [
+        "cartographers",
+        "a misprint"
+      ],
+      "strangeness": "severe",
+      "register": "elegiac",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
