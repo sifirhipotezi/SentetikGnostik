@@ -2917,5 +2917,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "34. Müteferrika matbaasının 1732 hesabında baskı sesini Galata'ya taşıyan hamala 19 akçe yazılmıştır. Presler o günden beri sessiz basar.",
+    "timestamp": "2026-11-21T20:26:15.411Z",
+    "tweetId": "2124237978792792203",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "dipnot",
+      "device": "category_error",
+      "setting": "İbrahim Müteferrika's printing press, 1730s",
+      "motifs": [
+        "hamam",
+        "hamal"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

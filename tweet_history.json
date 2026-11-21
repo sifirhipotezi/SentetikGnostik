@@ -2965,5 +2965,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Q: Who are the Zhangs of Back Lake, Nanjing?\nARCHIVIST: A copying error, 1491 Yellow Register. They sell vinegar, pay grain tax and oppose correction.",
+    "timestamp": "2026-11-21T20:25:55.507Z",
+    "tweetId": "2124237895460360467",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "transcript",
+      "device": "recursion",
+      "setting": "Ming-dynasty Nanjing, 15th c.",
+      "motifs": [
+        "vinegar",
+        "chimneys"
+      ],
+      "strangeness": "wry",
+      "register": "official",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
