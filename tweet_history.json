@@ -2945,5 +2945,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Qadi's court, Baghdad, 862. Thirty-one scholars testified that the House of Wisdom burned on the night of 9 Rajab. It stands unharmed. The court fined the copyists for the books they can no longer remember.",
+    "timestamp": "2026-11-21T12:19:48.522Z",
+    "tweetId": "2124115560279482633",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "court",
+      "device": "impossible_event",
+      "setting": "Abbasid Baghdad, 9th c.",
+      "motifs": [
+        "the coastline",
+        "libraries"
+      ],
+      "strangeness": "clear",
+      "register": "elegiac",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

@@ -2897,5 +2897,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Tokat muvakkithanesi yalnız vakıf defterinde vardır; binası yapılmamış, muvakkiti görülmemiştir. Ezan yine onun vakitlerine göre okunur ve güneş bu vakitlere uyar. Muvakkitin maaşı eksik ödenmektedir.",
+    "timestamp": "2026-11-21T12:20:08.649Z",
+    "tweetId": "2124115644689838474",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "alternatif",
+      "device": "paper_only",
+      "setting": "Ottoman Tokat and Erbaa, 19th c.",
+      "motifs": [
+        "iflas",
+        "muvakkithane"
+      ],
+      "strangeness": "severe",
+      "register": "küskün",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
