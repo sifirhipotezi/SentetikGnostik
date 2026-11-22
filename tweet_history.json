@@ -2985,5 +2985,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Factory journal, Ayutthaya, 4 March 1641. Eleven new graves in the Dutch cemetery, all dated 1642. The Phra Khlang assessed next year as foreign cargo landed early, and we paid the duty. Two of the names are ours.",
+    "timestamp": "2026-11-22T12:23:34.427Z",
+    "tweetId": "2124478895659323636",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "logbook",
+      "device": "category_error",
+      "setting": "Ayutthaya, 17th c.",
+      "motifs": [
+        "figs",
+        "cemeteries"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

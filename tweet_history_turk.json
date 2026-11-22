@@ -2937,5 +2937,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Ocak 1935: Akyaka köyüne soyadı olarak satranç taşlarının adları verilir.\nMart 1935: Fil hanesi yalnız çapraz yürür.\nEkim 1935: Şah hanesi kıstırılır; köy, nüfus kütüğünde 'mat' şerhiyle kapatılmıştır.",
+    "timestamp": "2026-11-22T12:24:02.068Z",
+    "tweetId": "2124479011573150052",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "kronoloji",
+      "device": "recursion",
+      "setting": "Soyadı Kanunu, nüfus idaresi, 1934–35",
+      "motifs": [
+        "zeytin",
+        "satranç"
+      ],
+      "strangeness": "severe",
+      "register": "akademik",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
