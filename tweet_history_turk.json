@@ -2957,5 +2957,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Muha, 1622. Saka Yusuf: \"Denizi kırbama doldurdum, iskele kuruda kaldı.\" Kadı denizi geri döktürmüştür. Sakanın iki akçesi hâlâ ödenmemiştir.",
+    "timestamp": "2026-11-22T20:39:07.940Z",
+    "tweetId": "2124603606934364479",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "ifade",
+      "device": "scale",
+      "setting": "Ottoman Yemen, Mocha coffee port, 17th c.",
+      "motifs": [
+        "meddah",
+        "saka"
+      ],
+      "strangeness": "clear",
+      "register": "küskün",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
