@@ -3025,5 +3025,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Translator's note: in Aflaki's account of Rumi's funeral, Konya 1273, I rendered one word as \"fireworks.\" They have risen over his tomb every anniversary since my edition. Nobody lights them. Aflaki's manuscripts now describe the smoke.",
+    "timestamp": "2026-11-23T14:14:00.893Z",
+    "tweetId": "2124869076874842112",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "translator",
+      "device": "divergence",
+      "setting": "Seljuk Konya, 13th c.",
+      "motifs": [
+        "fireworks",
+        "commas"
+      ],
+      "strangeness": "clear",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

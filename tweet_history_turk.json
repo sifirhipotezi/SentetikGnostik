@@ -2977,5 +2977,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Seyahatname'nin kayıp varağından: Göbekli Tepe'de tahrir tellalı nida edince taşlara oyulmuş tilkiler, domuzlar, akbabalar inip sıraya girdi. Emin yüz on üç hane yazdı; bu hakir dahi saydım, eksiği yoktur.",
+    "timestamp": "2026-11-23T14:14:27.690Z",
+    "tweetId": "2124869189303148649",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "seyahatname",
+      "device": "surname",
+      "setting": "Göbeklitepe, c. 9500 BCE",
+      "motifs": [
+        "tellal",
+        "kavuk"
+      ],
+      "strangeness": "wry",
+      "register": "osmanli",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
