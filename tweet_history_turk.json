@@ -2997,5 +2997,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Hata-Sevap Cetveli, c. III, s. 214: 'Kalyon sis içinde kayboldu' yerine 'Kalyon sisten yapılmıştı' okunmalıdır. Tersane hesabında kereste yerine 86 okka sis yazılmış, tayfanın ulufesi altı yıl eksiksiz ödenmiştir. Kalyonu limanda gören olmamıştır.",
+    "timestamp": "2026-11-24T03:54:31.445Z",
+    "tweetId": "2125075564855955671",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "hata_sevap",
+      "device": "paper_only",
+      "setting": null,
+      "motifs": [
+        "çay",
+        "sis"
+      ],
+      "strangeness": "wry",
+      "register": "deadpan",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
