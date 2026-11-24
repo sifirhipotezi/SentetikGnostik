@@ -3065,5 +3065,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Jihlava town archive, Bergbuch II, f. 31, 1476. Scope note: survey of a windmill found at 90 fathoms, sails turning, flour fresh. The miller below gave his name as the miller above, who has since stopped answering to it.",
+    "timestamp": "2026-11-24T14:41:15.936Z",
+    "tweetId": "2125238322616213834",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "catalog",
+      "device": "plausible_fake",
+      "setting": "Moravian mining towns, 15th c.",
+      "motifs": [
+        "pepper",
+        "windmills"
+      ],
+      "strangeness": "severe",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

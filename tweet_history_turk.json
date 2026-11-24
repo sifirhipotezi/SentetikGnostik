@@ -3017,5 +3017,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Mardin, 1858: Ulu Cami minaresinin taşlarını her gece eldivenle sayan bekçinin kadrosu kaldırıldı. Ertesi sabah minare bir taş uzamıştı. Şimdi yetmiş dokuz taş fazladır; tepesinden Yalınçam görünür.",
+    "timestamp": "2026-11-24T14:41:38.271Z",
+    "tweetId": "2125238416220504394",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "seyir",
+      "device": "vestigial_office",
+      "setting": "Mardin, 19th c.",
+      "motifs": [
+        "eldiven",
+        "minare"
+      ],
+      "strangeness": "severe",
+      "register": "osmanli",
+      "length": "medium",
+      "callback": "Yalınçam"
+    }
   }
 ]
