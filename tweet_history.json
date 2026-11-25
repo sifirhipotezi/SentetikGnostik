@@ -3105,5 +3105,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "3 Jun 1898: Dawson is absent for six days. Steamers find bare riverbank.\n9 Jun: Dawson returns. Its debts are settled in feathers.\n10 Jun: Bank of Commerce assays them at $16 the ounce.\n12 Jun: No bird yet described grew them.",
+    "timestamp": "2026-11-25T14:01:16.068Z",
+    "tweetId": "2125590644739498223",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "chronology",
+      "device": "impossible_event",
+      "setting": "Klondike, 1898",
+      "motifs": [
+        "an earthquake that was very polite",
+        "a currency of feathers"
+      ],
+      "strangeness": "severe",
+      "register": "official",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

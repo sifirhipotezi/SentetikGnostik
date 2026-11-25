@@ -3057,5 +3057,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Karlofça müzakere zabtı, 1699: Antlaşmayı Rami Efendi'den sonra bir leylek imzalamıştır. Hangi devlet adına imzaladığı oylanmış, oylar eşit çıkmıştır. Sava kıyısındaki sazlıklar hiçbir devlete vergi vermez.",
+    "timestamp": "2026-11-25T14:01:43.099Z",
+    "tweetId": "2125590758086365407",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "zabit",
+      "device": "petty_cause",
+      "setting": "Second siege of Vienna, 1683",
+      "motifs": [
+        "leylek",
+        "antlaşma imzası"
+      ],
+      "strangeness": "clear",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
