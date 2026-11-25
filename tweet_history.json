@@ -3085,5 +3085,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "doublewater, n. From Sokoto, 1816: a map gave one river two names. By morning there were two. The village between them was not consulted.",
+    "timestamp": "2026-11-25T02:02:33.499Z",
+    "tweetId": "2125409775588397076",
+    "dryRun": false,
+    "coined": "doublewater",
+    "dice": {
+      "form": "etymology",
+      "device": "recursion",
+      "setting": "Sokoto Caliphate, 1810s",
+      "motifs": [
+        "the 13th month",
+        "a river with two names"
+      ],
+      "strangeness": "severe",
+      "register": "scholarly",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

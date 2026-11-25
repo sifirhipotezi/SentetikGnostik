@@ -3037,5 +3037,25 @@
       "length": "medium",
       "callback": "Yalınçam"
     }
+  },
+  {
+    "text": "Gar memuru Halis Bey'in terekesi, Haydarpaşa, 1937: bir sokak. Yeni harflerle yazılınca kayboluyor. Kirası eski harfle tahsil olunur.",
+    "timestamp": "2026-11-25T02:02:57.183Z",
+    "tweetId": "2125409874976604612",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "tereke",
+      "device": "script_reform",
+      "setting": "Haydarpaşa Garı, 1930s",
+      "motifs": [
+        "sokak adları",
+        "ebru kâğıdı"
+      ],
+      "strangeness": "clear",
+      "register": "küskün",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
