@@ -3145,5 +3145,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "Article 4. The Hejaz Railway shall pay the stationmaster at Bir Sulaym, between Tabuk and Mada'in Salih, 650 piastres a month. No train has ever found the station. His receipts arrive by kite, signed and on time.",
+    "timestamp": "2026-11-26T13:41:56.509Z",
+    "tweetId": "2125948168927945118",
+    "dryRun": false,
+    "coined": "Bir Sulaym station",
+    "dice": {
+      "form": "treaty",
+      "device": "paper_only",
+      "setting": "Ottoman Hejaz railway, 1908",
+      "motifs": [
+        "town criers",
+        "kites"
+      ],
+      "strangeness": "clear",
+      "register": "deadpan",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]

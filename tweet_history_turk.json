@@ -3097,5 +3097,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "SELANİK EŞKÂL HADİSESİ (1882). Nüfus memuru Rıza Efendi her erkeğin eşkâline 'kara bıyıklı' yazınca, mahallenin bütün erkekleri ertesi sabah bıyıkla uyanmıştır; altı yaşındakiler dahil. Bıyıklar tıraşla geçmez.",
+    "timestamp": "2026-11-26T13:42:19.715Z",
+    "tweetId": "2125948266378334444",
+    "dryRun": false,
+    "coined": "Selanik Eşkâl Hadisesi",
+    "dice": {
+      "form": "ansiklopedi",
+      "device": "recursion",
+      "setting": "Ottoman Selanik, 19th c.",
+      "motifs": [
+        "çeşme",
+        "bıyık"
+      ],
+      "strangeness": "clear",
+      "register": "osmanli",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
