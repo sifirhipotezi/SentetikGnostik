@@ -3077,5 +3077,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "rehine-i fasl (i.) İki takvim arasında alıkonulmuş kimse. Ahlat kadısı on bir rehinenin fidyesini Hicrî, salıverilmesini Milâdî yılla yazmış; rehineler aradaki on bir günde kalmıştır. Meydan Mezarlığı'nda taşları dikilidir; altlarına girecekleri gün henüz gelmemiştir.",
+    "timestamp": "2026-11-26T01:43:25.300Z",
+    "tweetId": "2125767347449327618",
+    "dryRun": false,
+    "coined": "rehine-i fasl",
+    "dice": {
+      "form": "lugat",
+      "device": "calendar",
+      "setting": "Ahlat, Seljuk graveyard, 13th c.",
+      "motifs": [
+        "rehineler",
+        "tramvay"
+      ],
+      "strangeness": "severe",
+      "register": "akademik",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
