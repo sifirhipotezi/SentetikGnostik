@@ -3117,5 +3117,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Sur onarımı, 557. Kapsam: Depremde surlar bir hafta uçurtma gibi iple havada tutulmuş. İpi tutan bekçiye 3 nomisma ödenmiştir.",
+    "timestamp": "2026-11-26T22:54:17.586Z",
+    "tweetId": "2126087172855845074",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "fihrist",
+      "device": "impossible_event",
+      "setting": "Byzantine Constantinople, 6th c.",
+      "motifs": [
+        "uçurtma",
+        "teşrifat"
+      ],
+      "strangeness": "wry",
+      "register": "deadpan",
+      "length": "short",
+      "callback": null
+    }
   }
 ]
