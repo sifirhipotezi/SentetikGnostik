@@ -3205,5 +3205,25 @@
       "length": "medium",
       "callback": "Chimney Counter"
     }
+  },
+  {
+    "text": "CORRECTION. On 14 May 1975 this newspaper described the pigeons of Woodstock as cormorants. They have since become cormorants and gone to the harbour. The fanciers who raised them ask that we print \"pigeons\" again, so the lofts can be refilled. (Cape Times)",
+    "timestamp": "2026-11-27T22:34:00.967Z",
+    "tweetId": "2126444457822502938",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "notice",
+      "device": "mistranslation",
+      "setting": "Apartheid-era Cape Town bureaucracy, 1970s",
+      "motifs": [
+        "cormorants",
+        "backgammon"
+      ],
+      "strangeness": "wry",
+      "register": "elegiac",
+      "length": "long",
+      "callback": null
+    }
   }
 ]

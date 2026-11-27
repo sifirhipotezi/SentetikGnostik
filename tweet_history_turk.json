@@ -3157,5 +3157,25 @@
       "length": "medium",
       "callback": null
     }
+  },
+  {
+    "text": "Lot 119. Pirinç kedi kabı, Orhan Gazi'ye hediye edilmiş, Bursa, 1341. Her sabah dibinde bir sıra numarası belirir; şehrin kedileri sırayla yer. Son numara 9.413'tür, Bursa'da bu kadar kedi hiç yaşamamıştır. Sıradakiler hâlâ gelmektedir. Tahmini: 310.000–380.000 TL",
+    "timestamp": "2026-11-27T22:34:30.691Z",
+    "tweetId": "2126444582485520429",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "muzayede",
+      "device": "anachronism",
+      "setting": "Early Ottoman Bursa, 14th c.",
+      "motifs": [
+        "kedi",
+        "padişah hediyeleri"
+      ],
+      "strangeness": "severe",
+      "register": "hüzünlü",
+      "length": "long",
+      "callback": null
+    }
   }
 ]
