@@ -3137,5 +3137,25 @@
       "length": "short",
       "callback": null
     }
+  },
+  {
+    "text": "İzmir, Kordon, 1891 sayımı: Pasaport civarı 61 hane. Altmış ikinci hane, hayalî Nazif Efendi'nin Karagöz tasviridir; reşit ve vergiye tâbi yazılmıştır. Nazif Efendi o tarihten beri gölge vermemektedir.",
+    "timestamp": "2026-11-27T13:38:21.213Z",
+    "tweetId": "2126309653932130752",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "tahrir",
+      "device": "surname",
+      "setting": "Ottoman İzmir, Kordon, 1890s",
+      "motifs": [
+        "karagöz",
+        "gül"
+      ],
+      "strangeness": "severe",
+      "register": "akademik",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
