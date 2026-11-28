@@ -3177,5 +3177,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Hata-Sevap Cetveli, s. 163: \"Fatih–Harbiye\" yerine \"Fatih–Halep\" okunmalıdır. 1954'te kalkan vagon dönmedi; vatmanın maaşı her ay bir deveyle gelir.",
+    "timestamp": "2026-11-28T12:49:08.227Z",
+    "tweetId": "2126659656030232847",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "hata_sevap",
+      "device": "mistranslation",
+      "setting": "İstanbul tramvayları, 1950s",
+      "motifs": [
+        "deve",
+        "kervansaray"
+      ],
+      "strangeness": "severe",
+      "register": "cumhuriyet",
+      "length": "short",
+      "callback": null
+    }
   }
 ]

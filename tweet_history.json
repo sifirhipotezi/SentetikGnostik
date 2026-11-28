@@ -3225,5 +3225,25 @@
       "length": "long",
       "callback": null
     }
+  },
+  {
+    "text": "Sōsuke of Urakami, 1709: \"We shout into the valley and the echo answers with the banned Christian prayers.\" Ruling: the echo shall tread the holy image at New Year, like every household.",
+    "timestamp": "2026-11-28T12:48:45.111Z",
+    "tweetId": "2126659559104094489",
+    "dryRun": false,
+    "coined": null,
+    "dice": {
+      "form": "deposition",
+      "device": "category_error",
+      "setting": "Edo Japan, early 18th c.",
+      "motifs": [
+        "typewriters",
+        "a minor heresy"
+      ],
+      "strangeness": "clear",
+      "register": "official",
+      "length": "medium",
+      "callback": null
+    }
   }
 ]
